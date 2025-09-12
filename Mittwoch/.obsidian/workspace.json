@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "43dae4598083050b",
+        "id": "20c8d6231d3c84fd",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c011920c0a38a4",
+            "id": "75d549e573b170d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Map.md",
-                "mode": "source",
-                "source": false
+                "file": "Map/Map.canvas",
+                "viewState": {
+                  "x": 98,
+                  "y": -40.10003662109375,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "Map"
-            }
-          },
-          {
-            "id": "3e2447925a6b268c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Port of Olum Cee.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Port of Olum Cee"
             }
           }
         ]
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map.md",
+                "file": "Map/Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map.md",
+                "file": "Map/Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map.md",
+                "file": "Map/Map.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,25 +172,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5c011920c0a38a4",
+  "active": "75d549e573b170d3",
   "lastOpenFiles": [
-    "Seeblick.md",
-    "Map.md",
-    "Hitam Lake.md",
-    "Port of Olum Cee.md",
-    "Alive PCs.md",
-    "Characters.md",
-    "Avany,.md",
-    "Joshua,.md",
-    "Aidan,.md",
-    "Kaos,.md",
-    "Ethan,.md",
-    "Breanna,.md",
+    "Map/Map.md",
+    "Map/Map.canvas",
+    "Characters/NPCs/NPCs.md",
+    "Characters/Characters.md",
     "Entry.md",
-    "tāpona Volcano.md",
-    "Nui Island.md",
-    "Lekitoui Mountains.md",
-    "Home.md",
-    "Pasted image 20250910135514.png"
+    "Untitled.base",
+    "2025-09-10.md",
+    "Map",
+    "Map/Pasted image 20250910135514.png",
+    "Characters/Alive PCs/Alive PCs.md",
+    "Characters/Dead PCs",
+    "Characters/NPCs",
+    "Characters/Alive PCs",
+    "[Characters.md",
+    "Characters.md",
+    "Characters/Alive PCs/Aidan,.md",
+    "Characters/Alive PCs/Kaos,.md",
+    "Characters",
+    "Map/Port of Olum Cee.md",
+    "Map/Seeblick.md",
+    "Map/Hitam Lake.md",
+    "Characters/Alive PCs/Avany,.md",
+    "Characters/Alive PCs/Joshua,.md",
+    "Characters/Alive PCs/Ethan,.md",
+    "Characters/Alive PCs/Breanna,.md",
+    "Map/tāpona Volcano.md",
+    "Map/Nui Island.md",
+    "Map/Lekitoui Mountains.md",
+    "Home.md"
   ]
 }

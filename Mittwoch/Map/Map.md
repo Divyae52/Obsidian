@@ -1,4 +1,4 @@
-![[Pasted image 20250910135514.png]]
+[[Map.canvas|Map]]
 [[Lekitoui Mountains]]
 [[Nui Island]]
 [[tāpona Volcano]]
