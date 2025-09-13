@@ -1,7 +1,0 @@
-[[Map.canvas|Map]]
-[[Lekitoui Mountains]]
-[[Nui Island]]
-[[tāpona Volcano]]
-[[Port of Olum Cee]]
-[[Hitam Lake]]
-[[Seeblick]]
