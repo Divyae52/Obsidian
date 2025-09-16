@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "0ff0a9c33479fc64",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c8d6231d3c84fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac808d644c01746d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Alive PCs/Aidan, Desith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aidan, Desith"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81ce40aa7926219c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2525878126c6b586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f8a9e65475030dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d54d1ebe914e9a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:/",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2829d29c22eb026e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5dc9bcd5a7913b56",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e7ff29505461618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60592c548e6ec730",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6b7224458d4ec69a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9bc167cc7d6d81b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4047c8a4b8060754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bccefd511261419d",
+            "type": "leaf",
+            "state": {
+              "type": "peerdraft-share-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "peerdraft-share-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "peerdraft:Show my Peerdraft Shares": false
+    }
+  },
+  "active": "ac808d644c01746d",
+  "lastOpenFiles": [
+    "Crossbow, Light.md",
+    "Characters/Alive PCs/Aidan, Desith.md",
+    "Items/Properties/Loading.md",
+    "Items/Properties/Ammunition.md",
+    "Items/Properties/Two-Handed.md",
+    "Items/Crossbow, Light.md",
+    "Items/Properties/Range.md",
+    "Map/Järvevaade.md",
+    "Items/Properties",
+    "Map/Map.canvas",
+    "Items",
+    "Entry.md",
+    "Map/Map.md",
+    "Dashboard.md",
+    "Map/Untitled.md",
+    "Characters/NPCs/NPCs.md",
+    "Characters/Characters.md",
+    "Untitled.base",
+    "2025-09-10.md",
+    "Map",
+    "Map/Pasted image 20250910135514.png",
+    "Characters/Alive PCs/Alive PCs.md",
+    "Characters/Dead PCs",
+    "Characters/NPCs",
+    "Characters/Alive PCs",
+    "[Characters.md",
+    "Characters.md",
+    "Characters/Alive PCs/Kaos,.md",
+    "Characters",
+    "Map/Port of Olum Cee.md",
+    "Map/Seeblick.md",
+    "Map/Hitam Lake.md",
+    "Characters/Alive PCs/Avany,.md",
+    "Characters/Alive PCs/Joshua,.md",
+    "Characters/Alive PCs/Ethan,.md",
+    "Characters/Alive PCs/Breanna,.md"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "7db1662c8f5111d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "088f3de5c3e9b211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cc9127da76bcd36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/SRD/Equipment/Weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons"
+            }
+          },
+          {
+            "id": "8f04c5b3121cd07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Items/Weapon/Weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44e27c22930742c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01b0170878f7bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51cfe8fe183a0a9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2679fae534bf704d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea26a1810f366f51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8876c4782682e109",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ab9fe6f3412a32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a7da8eceaa522f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wiki/Items/Weapon/Weapons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Weapons"
+            }
+          },
+          {
+            "id": "0c0580459f64f0ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wiki/Items/Weapon/Weapons.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Weapons"
+            }
+          },
+          {
+            "id": "64637fccd8d2441e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a433839987d5864",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wiki/Items/Weapon/Weapons.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Weapons"
+            }
+          },
+          {
+            "id": "a8f26ac76431ed37",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "peerdraft:Show my Peerdraft Shares": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "fantasy-content-generator:Fantasy Generators": false
+    }
+  },
+  "active": "8f04c5b3121cd07d",
+  "lastOpenFiles": [
+    "Wiki/SRD/Equipment/Weapons.md",
+    "Wiki/Items/Weapon/Weapons.md",
+    "Wiki/Items/Weapon/Properties/Versatile.md",
+    "Wiki/Items/Weapon/Weapon Proficency.md",
+    "Wiki/SRD/Classes/Barbarian.md",
+    "Wiki/SRD/Classes/Bard.md",
+    "Wiki/SRD/Characterizations/Alignment.md",
+    "Wiki/Equipment/Weapons.md",
+    "Wiki/SRD/Spells/Zone of Truth.md",
+    "Wiki/SRD/Spells/Word of Recall.md",
+    "Wiki/SRD/Spells/Wish.md",
+    "Wiki/SRD/Spells/Wind Wall.md",
+    "Wiki/SRD/Spells/Water Walk.md",
+    "Wiki/SRD/Spells/Wind Walk.md",
+    "Wiki/SRD/Spells/Weird.md",
+    "Wiki/SRD/Spells/Web.md",
+    "Wiki/SRD/Spells/Water Breathing.md",
+    "Wiki/SRD/Spells/Warding Bond.md",
+    "Wiki/SRD/Spells/Wall of Thorns.md",
+    "Wiki/SRD/Spells/Wall of Stone.md",
+    "Wiki/SRD/Spells/Wall of Ice.md",
+    "Wiki/SRD/Spells/Wall of Force.md",
+    "Wiki/SRD/Spells/Wall of Fire.md",
+    "Wiki/SRD/Spells/Vicious Mockery.md",
+    "Wiki/SRD/Spells/Vampiric Touch.md",
+    "Wiki/SRD/Spells/Unseen Servant.md",
+    "Wiki/SRD/Spells",
+    "Wiki/SRD/Races",
+    "Wiki/SRD/Monsters (Alt)",
+    "Wiki/SRD/Monsters",
+    "Wiki/SRD/Gameplay",
+    "Wiki/SRD/Gamemastering",
+    "Wiki/SRD/Equipment",
+    "Wiki/SRD/Classes",
+    "Wiki/SRD/Characterizations",
+    "Wiki/SRD/Treasure (Alt)",
+    "Mittwoch/Map/Pasted image 20250910135514.png",
+    "Mittwoch/Map/Map.canvas"
+  ]
+}
