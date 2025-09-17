@@ -1,6 +1,5 @@
 
-On boat unmanned, magically pushed off and boat leaves
-at [[Port of Olum Cee]]
+On boat unmanned, magically pushed off and boat leaves at [[Port of Olum Cee]]
 [[Ethan, Henka]] and [[Breanna,]] transform into generic human
 Short old [[Short Wispy Dwarf Lady]] w/ cane, [[Tall Buff Goliath]] w/ [[plate-armor|Plate Armor]] comes
 [[Short Wispy Dwarf Lady]] has wispy beard ([[dwarf|Dwarf]]) looks at all of us
