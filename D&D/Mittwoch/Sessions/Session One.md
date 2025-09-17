@@ -1,16 +1,16 @@
 
-On boat unmanned, magically pushed off and boat leaves at [[Port of Olum Cee]]
+We start on an unmanned boat, magically pushed off the boat once we reach the shore, and the boat leaves at [[Port of Olum Cee]]
 [[Ethan, Henka]] and [[Breanna,]] transform into generic human
 Short old [[Short Wispy Dwarf Lady]] w/ cane, [[Tall Buff Goliath]] w/ [[plate-armor|Plate Armor]] comes
 [[Short Wispy Dwarf Lady]] has wispy beard ([[dwarf|Dwarf]]) looks at all of us
-[[Short Wispy Dwarf Lady]] says "Welcome criminals, I don't know what you guys did but your here with us now. welcome to [[Port of Olum Cee]].
-"I don't care what you do but to stay you must prove yourselves to stay"
-[[Tall Buff Goliath]] throws heavy backpack in center of us
-"before you stay, you've gotta prove yourself and we only take in survivors and people who will help us"
-"Here is our welcome gift to you guys, dont come back till your useful. Any questions?"
+[[Short Wispy Dwarf Lady]] says "Welcome criminals, I don't know what you guys did but you're here with us now. Welcome to [[Port of Olum Cee]]."
+"I don't care what you do, but to stay with us, you must prove yourselves."
+[[Tall Buff Goliath]] throws a heavy backpack in center of us.
+[[Short Wispy Dwarf Lady]]: "Before you stay, you've gotta prove yourself, as we only take in survivors and people who will help us."
+"Here is our welcome gift to you guys, don't come back till your useful. Any questions?"
 [[Kaos, Treek]]: Any surrounding towns
-[[Short Wispy Dwarf Lady]]: gestures to bag "In there you'll find  map of the island . Its what we've been able to figure out, who knows if it's accurate"
-[[Joshua, Impentious]]: Currency?
+[[Short Wispy Dwarf Lady]]: *gestures to bag* "In there you'll find a map of the island. It's what we've been able to figure out, who knows if it's accurate or not."
+[[Joshua, Impentious]]: Currency? (I ask her about currency.)
 [[Short Wispy Dwarf Lady]]: Golds not useful, anything you can give to survive. We work with bartering.
 Bag:
 	3 [[bedroll|Bedroll]]s
