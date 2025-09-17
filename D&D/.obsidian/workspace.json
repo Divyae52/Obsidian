@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "088f3de5c3e9b211",
+        "id": "d9486d1d9866fcee",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc9127da76bcd36",
+            "id": "19a141c587eb766a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/SRD/Equipment/Weapons.md",
+                "file": "Mittwoch/Sessions/Session One.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapons"
-            }
-          },
-          {
-            "id": "8f04c5b3121cd07d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki/Items/Weapon/Weapons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weapons"
+              "title": "Session One"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Items/Weapon/Weapons.md",
+                "file": "Mittwoch/Sessions/Session One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Weapons"
+              "title": "Backlinks for Session One"
             }
           },
           {
@@ -175,13 +160,22 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "77a0ef367eb0a8a0",
+            "type": "leaf",
+            "state": {
+              "type": "peerdraft-share-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Your Peerdraft Shares"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,39 +186,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "peerdraft:Show my Peerdraft Shares": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "8f04c5b3121cd07d",
+  "active": "19a141c587eb766a",
   "lastOpenFiles": [
-    "Wiki/SRD/Equipment/Weapons.md",
-    "Wiki/Items/Weapon/Weapons.md",
-    "Wiki/Items/Weapon/Properties/Versatile.md",
-    "Wiki/Items/Weapon/Weapon Proficency.md",
-    "Wiki/SRD/Classes/Barbarian.md",
-    "Wiki/SRD/Classes/Bard.md",
-    "Wiki/SRD/Characterizations/Alignment.md",
-    "Wiki/Equipment/Weapons.md",
-    "Wiki/SRD/Spells/Zone of Truth.md",
-    "Wiki/SRD/Spells/Word of Recall.md",
-    "Wiki/SRD/Spells/Wish.md",
-    "Wiki/SRD/Spells/Wind Wall.md",
-    "Wiki/SRD/Spells/Water Walk.md",
-    "Wiki/SRD/Spells/Wind Walk.md",
-    "Wiki/SRD/Spells/Weird.md",
-    "Wiki/SRD/Spells/Web.md",
-    "Wiki/SRD/Spells/Water Breathing.md",
-    "Wiki/SRD/Spells/Warding Bond.md",
-    "Wiki/SRD/Spells/Wall of Thorns.md",
-    "Wiki/SRD/Spells/Wall of Stone.md",
-    "Wiki/SRD/Spells/Wall of Ice.md",
-    "Wiki/SRD/Spells/Wall of Force.md",
-    "Wiki/SRD/Spells/Wall of Fire.md",
-    "Wiki/SRD/Spells/Vicious Mockery.md",
-    "Wiki/SRD/Spells/Vampiric Touch.md",
-    "Wiki/SRD/Spells/Unseen Servant.md",
+    "Mittwoch/Characters/NPCs/Short Wispy Dwarf Lady.md",
+    "Mittwoch/Characters/NPCs/Tall Buff Goliath.md",
+    "Mittwoch/Sessions/Session One.md",
+    "Mittwoch/Sessions/Session One.canvas",
+    "Mittwoch/Map/Port of Olum Cee.png",
+    "Mittwoch/Map/Port of Olum Cee.md",
+    "Mittwoch/Map/tāpona Volcano.md",
+    "Pasted image 20250917150448.png",
+    "Mittwoch/Map/Map.canvas",
+    "Mittwoch/Map/Map.png",
+    "Mittwoch/Characters/Alive PCs/Pasted image 20250917144405.png",
+    "Mittwoch/Characters/Alive PCs/Pasted image 20250917144417.png",
+    "Mittwoch/Characters/Alive PCs/Avany, Acamenos or Aseral.md",
+    "Mittwoch/Characters/Alive PCs/Breanna,.md",
+    "Mittwoch/Sessions",
+    "Mittwoch/Characters/Alive PCs/Aidan, Desith.md",
+    "Mittwoch/Characters/Alive PCs/Kaos, Treek.md",
+    "Mittwoch/Characters/Alive PCs/Joshua, Impentious.md",
+    "Mittwoch/Characters/Alive PCs/Gwenith, ignatious.md",
+    "Mittwoch/Characters/Alive PCs/Ethan, Henka.md",
+    "Mittwoch/Characters/Alive PCs/Edward, cloaked.md",
+    "Mittwoch/Characters/Alive PCs/Madison, CLoaked.md",
+    "DND Markdown/templates/location/vix-location.md",
+    "DND Markdown/templates/location/_attachments/vix-location.png",
+    "Mittwoch/Entry.md",
+    "DND Markdown/tools/xentis-dnd-beyond-character-sheets-json-puller.md",
+    "DND Markdown/templates/character/filbots-dnd-character-sheet.md",
+    "DND Markdown/templates/character/slrvbs-infobox-multicolumn-5e-sheet-example-filled.md",
+    "DND Markdown/templates/adventure/_attachments/vix-adventure.png",
+    "DND Markdown/templates/adventure/vix-adventure.md",
+    "DND Markdown/templates/npc/vix-npc.md",
+    "DND Markdown/compendium/vehicles/vehicles.md",
+    "DND Markdown/compendium/vehicles/apparatus-of-kwalish.md",
+    "DND Markdown/compendium/tables/the-celtic-pantheon-celtic-deities.md",
+    "DND Markdown/compendium/tables/standard-languages.md",
+    "DND Markdown/compendium/tables/bonds.md",
     "Wiki/SRD/Spells",
     "Wiki/SRD/Races",
     "Wiki/SRD/Monsters (Alt)",
@@ -233,9 +235,6 @@
     "Wiki/SRD/Gamemastering",
     "Wiki/SRD/Equipment",
     "Wiki/SRD/Classes",
-    "Wiki/SRD/Characterizations",
-    "Wiki/SRD/Treasure (Alt)",
-    "Mittwoch/Map/Pasted image 20250910135514.png",
-    "Mittwoch/Map/Map.canvas"
+    "Wiki/SRD/Characterizations"
   ]
 }

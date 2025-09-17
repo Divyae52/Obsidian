@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"3a167d69b7790bbe","type":"file","file":"Map/Pasted image 20250910135514.png","x":-560,"y":-400,"width":1060,"height":795},
+		{"id":"3a167d69b7790bbe","type":"file","file":"Mittwoch/Map/Map.png","x":-560,"y":-400,"width":1060,"height":795},
 		{"id":"4e0690c3915a44fe","type":"text","text":"[[Lekitoui Mountains]]","x":-360,"y":-62,"width":200,"height":50},
 		{"id":"aa70b7ced7e851c6","type":"text","text":"[[Hitam Lake]]","x":-322,"y":-200,"width":125,"height":50},
 		{"id":"7d3eb918794da3f2","type":"text","text":"[[Nui Island]]","x":-480,"y":280,"width":120,"height":50},
@@ -9,7 +9,5 @@
 		{"id":"87f8394f142cb0c8","type":"text","text":"[[Järvevaade]]","x":-457,"y":-120,"width":125,"height":50},
 		{"id":"1d633048c89593e2","type":"text","text":"[[Seeblick]]","x":-153,"y":-289,"width":123,"height":50}
 	],
-	"edges":[
-		{"id":"53750591894a01f3","fromNode":"87f8394f142cb0c8","fromSide":"right","toNode":"3a167d69b7790bbe","toSide":"left"}
-	]
+	"edges":[]
 }
