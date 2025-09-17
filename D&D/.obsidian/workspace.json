@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
+                "file": "Mittwoch/Sessions/Session One.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aidan × Desith"
+              "title": "Session One"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
+                "file": "Mittwoch/Sessions/Session One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aidan × Desith"
+              "title": "Backlinks for Session One"
             }
           },
           {
@@ -191,6 +191,7 @@
   },
   "active": "19a141c587eb766a",
   "lastOpenFiles": [
+    "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
     "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
     "Mittwoch/Characters/Alive PCs/Images",
     "Mittwoch/Characters/Alive PCs/Images/Desith Dark Blue.png",
@@ -201,7 +202,6 @@
     "Mittwoch/Characters/Alive PCs/Ethan × Henka.md",
     "Mittwoch/Characters/Alive PCs/Edward ×.md",
     "Mittwoch/Characters/Alive PCs/Breanna ×.md",
-    "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
     "Mittwoch/Characters/Alive PCs/Avany × Acamenos aka Aseral.md",
     "Mittwoch/Sessions/Session One.md",
     "Mittwoch/Characters/NPCs/Short Wispy Dwarf Lady.md",
