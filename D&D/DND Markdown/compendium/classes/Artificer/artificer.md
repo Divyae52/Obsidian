@@ -14,8 +14,8 @@ aliases:
 > 
 > | Level | PB | Features |
 > |-------|----|----------|
-> | 1st | +2 | [Rage](#Rage%20(Level%201)), [Unarmored Defense](#Unarmored%20Defense%20(Level%201)) |
-> | 2nd | +2 | [Danger Sense](#Danger%20Sense%20(Level%202)), [Reckless Attack](#Reckless%20Attack%20(Level%202)) |
+> | 1st | +2 | [[#Magical Tinkering (Level 1)]] [[#Spellcasting (Level 1)]] |
+> | 2nd | +2 | [[#Infuse Item (Level 2)]]|
 > | 3rd | +2 | [Primal Path](#Primal%20Path%20(Level%203)) |
 > | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)), [Fast Movement](#Fast%20Movement%20(Level%205)) |
@@ -455,46 +455,46 @@ In the tables, an item’s entry tells you whether the item requires attunement.
 
 ##### Replicable Items (10th-Level Artificer)
 
-| Magic Item                                                                                                    | Attunement |
-| ------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Boots of striding and springing](https://www.dndbeyond.com/magic-items/4590-boots-of-striding-and-springing) | Yes        |
-| [Boots of the winterlands](https://www.dndbeyond.com/magic-items/4591-boots-of-the-winterlands)               | Yes        |
-| [Bracers of archery](https://www.dndbeyond.com/magic-items/4593-bracers-of-archery)                           | Yes        |
-| [Brooch of shielding](https://www.dndbeyond.com/magic-items/4596-brooch-of-shielding)                         | Yes        |
-| [Cloak of protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)                         | Yes        |
-| [Eyes of the eagle](https://www.dndbeyond.com/magic-items/4635-eyes-of-the-eagle)                             | Yes        |
-| [Gauntlets of ogre power](https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power)                 | Yes        |
-| [Gloves of missile snaring](https://www.dndbeyond.com/magic-items/4646-gloves-of-missile-snaring)             | Yes        |
-| [Gloves of swimming and climbing](https://www.dndbeyond.com/magic-items/4647-gloves-of-swimming-and-climbing) | Yes        |
-| [Hat of disguise](https://www.dndbeyond.com/magic-items/4651-hat-of-disguise)                                 | Yes        |
-| [Headband of intellect](https://www.dndbeyond.com/magic-items/4652-headband-of-intellect)                     | Yes        |
-| [Helm of telepathy](https://www.dndbeyond.com/magic-items/4655-helm-of-telepathy)                             | Yes        |
-| [Medallion of thoughts](https://www.dndbeyond.com/magic-items/4679-medallion-of-thoughts)                     | Yes        |
-| [Necklace of adaptation](https://www.dndbeyond.com/magic-items/4682-necklace-of-adaptation)                   | Yes        |
-| [Periapt of wound closure](https://www.dndbeyond.com/magic-items/4694-periapt-of-wound-closure)               | Yes        |
-| [Pipes of the sewers](https://www.dndbeyond.com/magic-items/4697-pipes-of-the-sewers)                         | Yes        |
-| [Quiver of Ehlonna](https://www.dndbeyond.com/magic-items/5367-quiver-of-ehlonna)                             | No         |
-| [Ring of jumping](https://www.dndbeyond.com/magic-items/4724-ring-of-jumping)                                 | Yes        |
-| [Ring of mind shielding](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding)                   | Yes        |
-| [Slippers of spider climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)         | Yes        |
-| [Winged boots](https://www.dndbeyond.com/magic-items/4804-winged-boots)                                       | Yes        |
+| Magic Item                                                                        | Attunement |
+| --------------------------------------------------------------------------------- | ---------- |
+| [[boots-of-striding-and-springing\|Boots of Striding and Springing]]              | Yes        |
+| [[boots-of-the-winterlands\|Boots of the Winterlands]]                            | Yes        |
+| [[bracers-of-archery\|Bracers of Archery]]                                        | Yes        |
+| [[brooch-of-shielding\|Brooch of Shielding]]                                      | Yes        |
+| [[cloak-of-protection\|Cloak of Protection]]                                      | Yes        |
+| [[eyes-of-the-eagle\|Eyes of the Eagle]]                                          | Yes        |
+| [[gauntlets-of-ogre-power\|Gauntlets of Ogre Power]]                              | Yes        |
+| [[gloves-of-missile-snaring\|Gloves of Missile Snaring]]                          | Yes        |
+| [[gloves-of-swimming-and-climbing\|Gloves of Swimming and Climbing]]              | Yes        |
+| [[hat-of-disguise\|Hat of Disguise]]                                              | Yes        |
+| [[headband-of-intellect\|Headband of Intellect]]                                  | Yes        |
+| [[helm-of-telepathy\|Helm of Telepathy]]                                          | Yes        |
+| [[medallion-of-thoughts\|Medallion of Thoughts]]                                  | Yes        |
+| [[necklace-of-adaptation\|Necklace of Adaptation]]                                | Yes        |
+| [[periapt-of-wound-closure\|Periapt of Wound Closure]]                            | Yes        |
+| [[pipes-of-the-sewers\|Pipes of the Sewers]]                                      | Yes        |
+| [Quiver of Ehlonna](https://www.dndbeyond.com/magic-items/5367-quiver-of-ehlonna) | No         |
+| [[ring-of-jumping\|Ring of Jumping]]                                              | Yes        |
+| [[ring-of-mind-shielding\|Ring of Mind Shielding]]                                | Yes        |
+| [[slippers-of-spider-climbing\|Slippers of Spider Climbing]]                      | Yes        |
+| [[winged-boots\|Winged Boots]]                                                    | Yes        |
 
 ##### Replicable Items (14th-Level Artificer)
 
-|Magic Item|Attunement|
-|---|---|
-|[Amulet of health](https://www.dndbeyond.com/magic-items/4568-amulet-of-health)|Yes|
-|[Belt of hill giant strength](https://www.dndbeyond.com/magic-items/4585-belt-of-hill-giant-strength)|Yes|
-|[Boots of levitation](https://www.dndbeyond.com/magic-items/4588-boots-of-levitation)|Yes|
-|[Boots of speed](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)|Yes|
-|[Bracers of defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense)|Yes|
-|[Cloak of the bat](https://www.dndbeyond.com/magic-items/4608-cloak-of-the-bat)|Yes|
-|[Dimensional shackles](https://www.dndbeyond.com/magic-items/4620-dimensional-shackles)|No|
-|[Gem of seeing](https://www.dndbeyond.com/magic-items/4643-gem-of-seeing)|Yes|
-|[Horn of blasting](https://www.dndbeyond.com/magic-items/4658-horn-of-blasting)|No|
-|[Ring of free action](https://www.dndbeyond.com/magic-items/4722-ring-of-free-action)|Yes|
-|[Ring of protection](https://www.dndbeyond.com/magic-items/4726-ring-of-protection)|Yes|
-|[Ring of the ram](https://www.dndbeyond.com/magic-items/4734-ring-of-the-ram)|Yes|
+| Magic Item                                                   | Attunement |
+| ------------------------------------------------------------ | ---------- |
+| [[amulet-of-health\|Amulet of Health]]                       | Yes        |
+| [[belt-of-hill-giant-strength\|Belt of Hill Giant Strength]] | Yes        |
+| [[boots-of-levitation\|Boots of Levitation]]                 | Yes        |
+| [[boots-of-speed\|Boots of Speed]]                           | Yes        |
+| [[bracers-of-defense\|Bracers of Defense]]                   | Yes        |
+| [[cloak-of-the-bat\|Cloak of the Bat]]                       | Yes        |
+| [[dimensional-shackles\|Dimensional Shackles]]               | No         |
+| [[gem-of-seeing\|Gem of Seeing]]                             | Yes        |
+| [[horn-of-blasting\|Horn of Blasting]]                       | No         |
+| [[ring-of-free-action\|Ring of Free Action]]                 | Yes        |
+| [[ring-of-protection\|Ring of Protection]]                   | Yes        |
+| [[ring-of-the-ram\|Ring of the Ram]]                         | Yes        |
 
 ##### Repulsion Shield
 
