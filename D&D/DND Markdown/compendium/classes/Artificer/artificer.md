@@ -5,67 +5,39 @@ tags:
   - class/artificer
   - compendium/src/5e/tce
 aliases:
-  - Barbarian
+  - Artificer
 ---
 # Artificer
-*Source: SRD / Basic Rules*  
-###### Feature and Class Progression
-> [!tldr]- Feature progression
+*Source: Tasha's Cauldon of Everything*  
+###### The Artificer Table
+> [!tldr]- The Artificer Table
 > 
-> | Level | PB | Features |
-> |-------|----|----------|
-> | 1st | +2 | [[#Magical Tinkering (Level 1)]] [[#Spellcasting (Level 1)]] |
-> | 2nd | +2 | [[#Infuse Item (Level 2)]]|
-> | 3rd | +2 | [Primal Path](#Primal%20Path%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
-> | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)), [Fast Movement](#Fast%20Movement%20(Level%205)) |
-> | 6th | +3 | [Path Feature](#Path%20Feature%20(Level%206)) |
-> | 7th | +3 | [Feral Instinct](#Feral%20Instinct%20(Level%207)) |
-> | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
-> | 9th | +4 | [Brutal Critical (1 die)](#Brutal%20Critical%20(1%20die)%20(Level%209)) |
-> | 10th | +4 | [Path feature](#Path%20feature%20(Level%2010)) |
-> | 11th | +4 | [Relentless Rage](#Relentless%20Rage%20(Level%2011)) |
-> | 12th | +4 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2012)) |
-> | 13th | +5 | [Brutal Critical (2 dice)](#Brutal%20Critical%20(2%20dice)%20(Level%2013)) |
-> | 14th | +5 | [Path feature](#Path%20feature%20(Level%2014)) |
-> | 15th | +5 | [Persistent Rage](#Persistent%20Rage%20(Level%2015)) |
-> | 16th | +5 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2016)) |
-> | 17th | +6 | [Brutal Critical (3 dice)](#Brutal%20Critical%20(3%20dice)%20(Level%2017)) |
-> | 18th | +6 | [Indomitable Might](#Indomitable%20Might%20(Level%2018)) |
-> | 19th | +6 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2019)) |
-> | 20th | +6 | [Primal Champion](#Primal%20Champion%20(Level%2020)) |
+> | Level | PB | Class Features | Infusions Known | Infused Items | Cantrips Known | SS1 | SS2 | SS3 | SS4 | SS5
+> |-------|----|----------|----|----|----|----|----|----|----|----|
+> | 1st | +2 | [[#Magical Tinkering (Level 1)]], [[#Spellcasting (Level 1)]] | - | - | 2 | 2 | - | - | - | -
+> | 2nd | +2 | [[#Infuse Item (Level 2)]] | 4 | 2 | 2 | 2 | - | - | - | - |
+> | 3rd | +2 | [[#The Right Tool for the Job (Level 3)]], [[#Artificer Specialist (Level 3)]] | 4 | 2 | 2 | 3 | - | - | - | - |
+> | 4th | +2 | [[#Ability Score Improvement]] | 4 | 2 | 2 | 3 | - | -  | - | - |
+> | 5th | +3 | [Artificer Specialist feature](#Artificer%20Specialist%20(Level%203)) | 4 | 2 | 2 | 4 | 2 | - | - | - |
+> | 6th | +3 | [[#Tool Expertise (Level 6)]] | 6 | 3 | 2 | 4 | 2 | - | - | - |
+> | 7th | +3 | [[#Flash of Genius (Level 7)]] | 6 | 3 | 2 | 4 | 3 | - | - | - |
+> | 8th | +3 | [[#Ability Score Improvement]] | 6 | 3 | 2 | 4 | 3 | - | - | - |
+> | 9th | +4 | [Artificer Specialist feature](#Artificer%20Specialist%20(Level%203)) | 6 | 3 | 2 | 4 | 3 | 2 | - | - |
+> | 10th | +4 | [[#Magic Item Adept (Level 10)]] | 8 | 4 | 3 | 4 | 3 | 2 | - | - |
+> | 11th | +4 | [[#Spell-Storing Item (Level 11)]] | 8 | 4 | 3 | 4 | 3 | 3 | - | - |
+> | 12th | +4 | [[#Ability Score Improvement]] | 8 | 4 | 3 | 4 | 3 | 3 | - | - |
+> | 13th | +5 | - | 8 | 4 | 3 | 4 | 3 | 3 | 1 | - |
+> | 14th | +5 | [[#Magic Item Savant (Level 14)]] | 10 | 5 | 4 | 4 | 3 | 3 | 1 | - |
+> | 15th | +5 | [Artificer Specialist feature](#Artificer%20Specialist%20(Level%203)) | 10 | 5 | 4 | 4 | 3 | 3 | 2 | - |
+> | 16th | +5 | [[#Ability Score Improvement]] | 10 | 5 | 4 | 4 | 3 | 3 | 2 | - |
+> | 17th | +6 | - | 10 | 5 | 4 | 4 | 3 | 3 | 3 | 1 |
+> | 18th | +6 | [[#Magic Item Master (Level 18)]] | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 1 |
+> | 19th | +6 | [[#Ability Score Improvement]] | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
+> | 20th | +6 | [[#Soul of Artifice (Level 20)]] | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
 > 
 > - PB: Proficiency Bonus
-^feature-progression
-
-> [!tldr]- Class progression
-> 
-> | Level | Rages | Rage Damage |
-> |-------|-------|-------------|
-> | 1st | 2 | +2 |
-> | 2nd | 2 | +2 |
-> | 3rd | 3 | +2 |
-> | 4th | 3 | +2 |
-> | 5th | 3 | +2 |
-> | 6th | 4 | +2 |
-> | 7th | 4 | +2 |
-> | 8th | 4 | +2 |
-> | 9th | 4 | +3 |
-> | 10th | 4 | +3 |
-> | 11th | 4 | +3 |
-> | 12th | 5 | +3 |
-> | 13th | 5 | +3 |
-> | 14th | 5 | +3 |
-> | 15th | 5 | +3 |
-> | 16th | 5 | +4 |
-> | 17th | 6 | +4 |
-> | 18th | 6 | +4 |
-> | 19th | 6 | +4 |
-> | 20th | Unlimited | +4 |
-> 
-> - 1st-9th: Spell slots per level
-^class-progression
-
+> - SS: Spell Slots of Level X
+^artificer-table
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Artificer level
@@ -77,7 +49,7 @@ aliases:
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Armor**: Light armor, medium armor, shields
-- **Weapons**: Simple weapons
+- **Weapons**: Simple weapons #item/weapon/simple
 - **Tools**: [[thieves-tools|Thieves' Tools]], [[tinkers-tools|Tinker's Tools]], one type of artisan's tools of your choice
 - **Saving Throws**: Constitution, Intelligence
 - **[[Skills]]**: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand*
@@ -118,7 +90,7 @@ In the Forgotten Realms, the island of Lantan is home to many artificers, and in
 	Artificers in the City of Sigil share discoveries from throughout the multiverse, and from there, the gnome artificer Vi runs a cosmos-spanning business that hires adventurers to fix problems that others deem unfixable. In Vi’s home world, Eberron, magic is harnessed as a form of science and deployed throughout society, largely as a result of the wondrous ingenuity of artificers.
 ### Creating an Artificer
 
-To create an artificer, consult the following subsections, which give you hit points, proficiencies, and starting equipment. Then look at the Artificer table to see which features you get at each level. The descriptions of those features appear in the “Artificer Features” section.
+To create an artificer, consult the following subsections, which give you hit points, proficiencies, and starting equipment. Then look at [[#The Artificer Table|the Artificer table]] to see which features you get at each level. The descriptions of those features appear in the “Artificer Features” section.
 
 #### Quick Build
 
@@ -149,13 +121,13 @@ After you gain the Infuse Item feature at 2nd level, you can also use any item b
 
 ##### Cantrips (0-Level Spells)
 
-At 1st level, you know two cantrips of your choice from the [[artificer-spell-list|artificer spell list]]. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
+At 1st level, you know two cantrips of your choice from the [[artificer-spell-list|artificer spell list]]. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of [[#The Artificer Table|the Artificer table]].
 
 When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
 
 ##### Preparing and Casting Spells
 
-The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+The [[#The Artificer Table|the Artificer table]] shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of artificer spells that are available for you to cast, choosing from the [[artificer-spell-list|artificer spell list]]. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
@@ -189,7 +161,7 @@ At 2nd level, you gain the ability to imbue mundane items with certain magical i
 
 ##### Infusions Known
 
-When you gain this feature, pick four artificer infusions to learn, choosing from the “[Artificer Infusions]” section at the end of the class’s description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the [Artificer Table](#Feature%20and%20Class%20Progression).
+When you gain this feature, pick four artificer infusions to learn, choosing from the “[Artificer Infusions]” section at the end of the class’s description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the [[#The Artificer Table|the Artificer table]].
 
 Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
 
@@ -199,7 +171,7 @@ Whenever you finish a long rest, you can touch a non-magical object and imbue it
 
 Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one.
 
-You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the [Artificer Table](#Feature%20and%20Class%20Progression). You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
+You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the [[#The Artificer Table|the Artificer table]]. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
 
 If an infusion ends on an item that contains other things, like a bag of holding, its contents harmlessly appear in and around its space.
 
@@ -207,12 +179,16 @@ If an infusion ends on an item that contains other things, like a bag of holding
 
 At 3rd level, you learn how to produce exactly the tool you need: with thieves’ tools or artisan’s tools, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
-### Ability Score Improvement (Level 4)
+### Artificer Specialist (Level 3)
+
+Artificers pursue many disciplines. Here are specialist options you can choose from at 3rd level. (See Subclasses in Artificer Folder)
+In addition, you get a Artificer Specialist Feature at 5th, 9th, and 15th levels.
+
+### Ability Score Improvement
 
 When you reach 4th, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
-
 ### Tool Expertise (Level 6)
 
 Starting at 6th level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
@@ -298,7 +274,7 @@ While wearing these boots, a creature can teleport up to 15 feet as a bonus acti
 
 _Item: A rod, staff, or wand (requires attunement)_
 
-While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores [half cover] when making a spell attack.
+While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half [[cover]] when making a spell attack.
 
 The bonus increases to +2 when you reach 10th level in this class.
 
@@ -339,65 +315,52 @@ In combat, the homunculus shares your initiative count, but it takes its turn im
 
 The homunculus regains 2d6 hit points if the [[mending|Mending]] spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
-```
-Homunculus Servant
+> Homunculus Servant
+> 
+> Tiny construct
+> 
+> **Armor Class** 13 (natural armor)
+> 
+> **Hit Points** 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)
+> 
+> **Speed** 20 ft., fly 30 ft.
+> 
+> STR 4 (−3)
+> 
+> DEX 15 (+2)
+> 
+> CON 12 (+1)
+> 
+> INT 10 (+0)
+> 
+> WIS 10 (+0)
+> 
+> CHA 7 (−2)
+> 
+> **Saving Throws** DEX +2 +PB
+> 
+> **Skills** [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +0 plus PB × 2, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2 plus PB
+> 
+> **Damage Immunities** poison
+> 
+> **Condition Immunities** [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
+> 
+> **Senses** [darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., passive Perception 10 + (PB × 2)
+> 
+> **Languages** understands the languages you speak
+> 
+> **Challenge** — **Proficiency Bonus (PB)** equals your bonus
+> 
+> _**Evasion.**_ If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can’t use this trait if it’s [incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition).
+> 
+> Actions
+> 
+> _**Force Strike.**_ _Ranged Weapon Attack:_ your spell attack modifier to hit, range 30 ft., one target you can see. _Hit:_ 1d4 + PB force damage.
+> 
+> Reactions
+>
+>_**Channel Magic.**_ The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
 
-Tiny construct
-
-**Armor Class** 13 (natural armor)
-
-**Hit Points** 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)
-
-**Speed** 20 ft., fly 30 ft.
-
-STR
-
-4 (−3)
-
-DEX
-
-15 (+2)
-
-CON
-
-12 (+1)
-
-INT
-
-10 (+0)
-
-WIS
-
-10 (+0)
-
-CHA
-
-7 (−2)
-
-**Saving Throws** Dex +2 plus PB
-
-**Skills** [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +0 plus PB × 2, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2 plus PB
-
-**Damage Immunities** poison
-
-**Condition Immunities** [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
-
-**Senses** [darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., passive Perception 10 + (PB × 2)
-
-**Languages** understands the languages you speak
-
-**Challenge** — **Proficiency Bonus (PB)** equals your bonus
-
-_**Evasion.**_ If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can’t use this trait if it’s [incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition).
-
-Actions
-
-_**Force Strike.**_ _Ranged Weapon Attack:_ your spell attack modifier to hit, range 30 ft., one target you can see. _Hit:_ 1d4 + PB force damage.
-
-Reactions
-
-_**Channel Magic.**_ The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
-```
 ##### Mind Sharpener
 
 _Item: A suit of armor or robes_

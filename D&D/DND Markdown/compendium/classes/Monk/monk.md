@@ -217,7 +217,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.  
 - You can roll a `d4` in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
-- When you use the [Attack](rules/actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](rules/actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
+- When you use the [Attack](actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
 
@@ -235,15 +235,15 @@ Some of your ki features require your target to make a saving throw to resist th
 
 ### Flurry of Blows (Level 2)
 
-Immediately after you take the [Attack](rules/actions.md#Attack) action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+Immediately after you take the [Attack](actions.md#Attack) action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
 
 ### Patient Defense (Level 2)
 
-You can spend 1 ki point to take the [Dodge](rules/actions.md#Dodge) action as a bonus action on your turn.
+You can spend 1 ki point to take the [Dodge](actions.md#Dodge) action as a bonus action on your turn.
 
 ### Step of the Wind (Level 2)
 
-You can spend 1 ki point to take the [Disengage](rules/actions.md#Disengage) or [Dash](rules/actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
+You can spend 1 ki point to take the [Disengage](actions.md#Disengage) or [Dash](actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ### Unarmored Movement (Level 2)
 
@@ -273,7 +273,7 @@ Beginning at 4th level, you can use your reaction when you fall to reduce any fa
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](actions.md#Attack) action on your turn.
 
 ### Stunning Strike (Level 5)
 

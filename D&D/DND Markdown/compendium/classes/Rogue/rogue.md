@@ -232,7 +232,7 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ### Cunning Action (Level 2)
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](rules/actions.md#Dash), [Disengage](rules/actions.md#Disengage), or [Hide](rules/actions.md#Hide) action.
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](actions.md#Dash), [Disengage](actions.md#Disengage), or [Hide](actions.md#Hide) action.
 
 ### Roguish Archetype (Level 3)
 

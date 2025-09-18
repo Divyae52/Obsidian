@@ -283,7 +283,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](actions.md#Attack) action on your turn.
 
 ### Favored Enemy and Natural Explorer improvements (Level 6)
 
@@ -329,7 +329,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Vanish (Level 14)
 
-Starting at 14th level, you can use the [Hide](rules/actions.md#Hide) action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+Starting at 14th level, you can use the [Hide](actions.md#Hide) action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
 ### Favored Enemy improvement (Level 14)
 

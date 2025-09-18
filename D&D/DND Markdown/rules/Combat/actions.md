@@ -15,7 +15,7 @@ _Source: SRD / Basic Rules_
 
 Activating some magic items requires a user to do something in particular, such as holding the item and uttering a command word, reading the item if it is a scroll, or drinking it if it is a potion. The description of each item category or individual item details how an item is activated. Certain items use one or more of the following rules related to their activation.
 
-If an item requires an action to activate, that action isn't a function of the [Use an Object](rules/actions.md#Use%20an%20Object) action, so a feature such as the rogue's [Fast Hands](rogue-thief.md#Fast%20Hands%20(Level%203)) can't be used to activate the item.
+If an item requires an action to activate, that action isn't a function of the [Use an Object](actions.md#Use%20an%20Object) action, so a feature such as the rogue's [Fast Hands](rogue-thief.md#Fast%20Hands%20(Level%203)) can't be used to activate the item.
 
 ### Command Word
 
@@ -48,7 +48,7 @@ With this action, you make one melee or ranged attack. See the ""Making an Attac
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
-See also: Disarm, [Grapple](rules/actions.md#Grapple), Mark, [Shove](rules/actions.md#Shove), Shove Aside, [Two-Weapon Fighting](rules/actions.md#Two-Weapon%20Fighting)
+See also: Disarm, [Grapple](actions.md#Grapple), Mark, [Shove](actions.md#Shove), Shove Aside, [Two-Weapon Fighting](actions.md#Two-Weapon%20Fighting)
 
 ## Cast a Spell
 _Source: SRD / Basic Rules_
@@ -101,14 +101,14 @@ _Source: SRD / Basic Rules_
 
 A [grappled](rules/conditions.md#grappled) creature can use its action to escape. To do so, it must succeed on a Strength ([Athletics](rules/skills.md#Athletics)) or Dexterity ([Acrobatics](rules/skills.md#Acrobatics)) check contested by your Strength ([Athletics](rules/skills.md#Athletics)) check.
 
-See also: [Grapple](rules/actions.md#Grapple)
+See also: [Grapple](actions.md#Grapple)
 
 ## Grapple
 _Source: SRD / Basic Rules_
 
 - **Duration**: 1 action
 
-When you want to grab a creature or wrestle with it, you can use the [Attack](rules/actions.md#Attack) action to make a special melee attack, a grapple. If you're able to make multiple attacks with the [Attack](rules/actions.md#Attack) action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
+When you want to grab a creature or wrestle with it, you can use the [Attack](actions.md#Attack) action to make a special melee attack, a grapple. If you're able to make multiple attacks with the [Attack](actions.md#Attack) action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
 
 Using at least one free hand, you try to seize the target by making a grapple check, a Strength ([Athletics](rules/skills.md#Athletics)) check contested by the target's Strength ([Athletics](rules/skills.md#Athletics)) or Dexterity ([Acrobatics](rules/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](rules/conditions.md#incapacitated). If you succeed, you subject the target to the [grappled](rules/conditions.md#grappled) condition (see the appendix). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
@@ -116,7 +116,7 @@ Using at least one free hand, you try to seize the target by making a grapple ch
 
 When you move, you can drag or carry the [grappled](rules/conditions.md#grappled) creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
-See also: [Escape a Grapple](rules/actions.md#Escape%20a%20Grapple)
+See also: [Escape a Grapple](actions.md#Escape%20a%20Grapple)
 
 ## Help
 _Source: SRD / Basic Rules_
@@ -143,7 +143,7 @@ In a fight, everyone is constantly watching for enemies to drop their guard. You
 
 You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
 
-You can avoid provoking an opportunity attack by taking the [Disengage](rules/actions.md#Disengage) action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
+You can avoid provoking an opportunity attack by taking the [Disengage](actions.md#Disengage) action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
 
 ## Other Activity
 _Source: SRD / Basic Rules_
@@ -214,22 +214,22 @@ _Source: SRD / Basic Rules_
 
 - **Duration**: 1 action
 
-Using the [Attack](rules/actions.md#Attack) action, you can make a special melee attack to shove a creature, either to knock it [prone](rules/conditions.md#prone) or push it away from you. If you're able to make multiple attacks with the [Attack](rules/actions.md#Attack) action, this attack replaces one of them.
+Using the [Attack](actions.md#Attack) action, you can make a special melee attack to shove a creature, either to knock it [prone](rules/conditions.md#prone) or push it away from you. If you're able to make multiple attacks with the [Attack](actions.md#Attack) action, this attack replaces one of them.
 
 The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([Athletics](rules/skills.md#Athletics)) check contested by the target's Strength ([Athletics](rules/skills.md#Athletics)) or Dexterity ([Acrobatics](rules/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](rules/conditions.md#incapacitated). If you succeed, you either knock the target [prone](rules/conditions.md#prone) or push it 5 feet away from you.
 
-See also: [Attack](rules/actions.md#Attack), Shove Aside
+See also: [Attack](actions.md#Attack), Shove Aside
 
 ## Two-Weapon Fighting
 _Source: SRD / Basic Rules_
 
 - **Duration**: 1 bonus
 
-When you take the [Attack](rules/actions.md#Attack) action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+When you take the [Attack](actions.md#Attack) action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
-See also: [Attack](rules/actions.md#Attack)
+See also: [Attack](actions.md#Attack)
 
 ## Use an Object
 _Source: SRD / Basic Rules_

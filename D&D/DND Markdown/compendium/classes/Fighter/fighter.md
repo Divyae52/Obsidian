@@ -211,7 +211,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](actions.md#Attack) action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
@@ -243,7 +243,7 @@ At 10th level, you gain a feature granted by your Martial Archetype.
 
 ### Extra Attack (2) (Level 11)
 
-At 11th level, you can attack three times whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
+At 11th level, you can attack three times whenever you take the [Attack](actions.md#Attack) action on your turn.
 
 ### Ability Score Improvement (Level 12)
 
@@ -291,7 +291,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (3) (Level 20)
 
-At 20th level, you can attack four times whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
+At 20th level, you can attack four times whenever you take the [Attack](actions.md#Attack) action on your turn.
 
 ## Optional Features
 

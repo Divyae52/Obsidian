@@ -2,35 +2,72 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/barbarian/berserker
-- compendium/src/5e/phb
-aliases: ["Path of the Berserker"]
+  - compendium/src/5e/tce
+  - class/artificer/artillerist
+aliases:
+  - Artillerist
 ---
-# Path of the Berserker
-*[Barbarian](barbarian.md): Primal Path*  
-*Source: SRD / Basic Rules*  
+# Artillerist
+*[Artificer: Artificer Specialist]([[artificer]])*  
+*Source: Tasha's Cauldron of Everything*  
 
+An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power is valued by armies in the wars on many different worlds. And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife. 
 
+The world-hopping gnome artificer Vi has been especially vocal about making things right: 
+> “It’s about time we fixed things instead of blowing them all to hell.”
 ## Class Features
 
-### Path of the Berserker (Level 3)
+### Tool Proficiency (Level 3)
 
-For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
+You gain proficiency with [[woodcarvers-tools|woodcarver's tools]]. If you already have this proficiency, you gain proficiency with one other type of artisan’s tools of your choice.
 
-### Frenzy (Level 3)
+### Artillerist Spells (Level 3)
 
-Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of [exhaustion](rules/conditions.md#exhaustion).
+You always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
+#### Artillerist Spells
 
-### Mindless Rage (Level 6)
+| Artificer Level | Spell                                                                           |
+| --------------- | ------------------------------------------------------------------------------- |
+| 3rd             | [[DND Markdown/compendium/spells/shield\|Shield]], [[thunderwave\|Thunderwave]] |
+| 5th             | [[scorching-ray\|Scorching Ray]], [[shatter\|Shatter]]                          |
+| 9th             | [[fireball\|Fireball]], [[wind-wall\|Wind Wall]]                                |
+| 13th            | [[ice-storm\|Ice Storm]] [[wall-of-fire\|Wall of Fire]]                         |
+| 17th            | [[cone-of-cold\|Cone of Cold]] [[wall-of-force\|Wall of Force]]                 |
+### Eldritch Cannon (Level 3)
 
-Beginning at 6th level, you can't be [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened) while raging. If you are [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened) when you enter your rage, the effect is suspended for the duration of the rage.
+You've learned how to create a magical cannon. Using woodcarver’s tools or smith’s tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.
 
-### Intimidating Presence (Level 10)
+Once you create a cannon, you can’t do so again until you finish a long rest or until you expend a spell slot to create one. You can have only one cannon at a time and can’t create one while your cannon is present.
 
-Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be [frightened](rules/conditions.md#frightened) of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the [frightened](rules/conditions.md#frightened) creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
+The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the [mending](https://www.dndbeyond.com/spells/2187-mending) spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.
 
-If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
+When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
 
-### Retaliation (Level 14)
+#### Eldritch Cannons
 
-Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
+|Cannon|Activation|
+|---|---|
+|Flamethrower|The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren’t being worn or carried.|
+|Force Ballista|Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.|
+|Protector|The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Intelligence modifier (minimum of +1).|
+### Arcane Firearm (Level 5)
+
+You know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use woodcarver’s tools to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
+
+You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a d8, and you gain a bonus to one of the spell’s damage rolls equal to the number rolled.
+
+### Explosive Cannon (Level 9)
+
+Every eldritch cannon you create is more destructive:
+
+- The cannon’s damage rolls all increase by 1d8.
+- As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one.
+
+### Fortified Position (Level 15)
+
+_15th-level Artillerist feature_
+
+You’re a master at forming well-defended emplacements using Eldritch Cannon:
+
+- You and your allies have half [[cover]] while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.
+- You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can’t create a third cannon while you have two.

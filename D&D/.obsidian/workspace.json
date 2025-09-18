@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "257d68948d6cfab1",
+        "id": "0900adb7963e063b",
         "type": "tabs",
         "children": [
           {
-            "id": "03fd7db1c0ec6cb0",
+            "id": "c8cbcdcf90aac93a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND Markdown/compendium/classes/Artificer/artificer.md",
+                "file": "Mittwoch/Characters/Alive PCs/Kaos × Shriek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artificer"
+              "title": "Kaos × Shriek"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND Markdown/compendium/classes/Artificer/artificer.md",
+                "file": "Mittwoch/Characters/Alive PCs/Kaos × Shriek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for artificer"
+              "title": "Backlinks for Kaos × Shriek"
             }
           },
           {
@@ -190,11 +190,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03fd7db1c0ec6cb0",
+  "active": "c8cbcdcf90aac93a",
   "lastOpenFiles": [
-    "DND Markdown/compendium/classes/Wizard/wizard.md",
-    "DND Markdown/compendium/classes/Artificer/artificer.md",
     "Mittwoch/Sessions/Session One.md",
+    "DND Markdown/rules/cover.md",
+    "DND Markdown/compendium/classes/Artificer/artificer-artillerist.md",
+    "DND Markdown/compendium/classes/Artificer/artificer.md",
+    "DND Markdown/rules/damage-types.md",
+    "DND Markdown/rules/senses.md",
+    "Untitled",
+    "DND Markdown/rules/Combat",
+    "[[artificer.md",
+    "Simple.md",
+    "[[.md",
+    "DND Markdown/compendium/classes/Wizard/wizard.md",
     "DND Markdown/compendium/classes/Bard/bard.md",
     "DND Markdown/compendium/spells/drawmijs-instant-summons.md",
     "DND Markdown/compendium/spells/conjure-fey.md",
@@ -209,15 +218,7 @@
     "DND Markdown/compendium/classes/Artificer/artificer-spell-list.md",
     "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
     "DND Markdown/rules/conditions.md",
-    "DND Markdown/rules/actions.md",
-    "DND Markdown/compendium/spells/antimagic-field.md",
-    "DND Markdown/compendium/items/1-wand-of-the-war-mage.md",
-    "DND Markdown/rules/diseases.md",
-    "DND Markdown/rules/damage-types.md",
-    "DND Markdown/rules/senses.md",
-    "DND Markdown/rules/skills.md",
-    "DND Markdown/compendium/classes/Artificer/artificer-artillerist.md",
-    "^Feature.md",
+    "DND Markdown/rules/Combat/actions.md",
     "DND Markdown/compendium/classes/Artificer",
     "DND Markdown/compendium/classes/Wizard",
     "DND Markdown/compendium/classes/Warlock",
@@ -226,8 +227,6 @@
     "DND Markdown/compendium/classes/Ranger",
     "DND Markdown/compendium/classes/Paladin",
     "DND Markdown/compendium/classes/Monk",
-    "DND Markdown/compendium/classes/Fighter",
-    "DND Markdown/compendium/classes/Druid",
     "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
     "Mittwoch/Characters/Alive PCs/Images/Desith Dark Blue.png",
     "Mittwoch/Sessions/Session One.canvas",

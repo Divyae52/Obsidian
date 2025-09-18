@@ -27,7 +27,7 @@ The target falls [unconscious](rules/conditions.md#unconscious). It wakes up if 
 
 ## Panicked
 
-The target is [frightened](rules/conditions.md#frightened) of you. On each of its turns, the [frightened](rules/conditions.md#frightened) creature must take the [Dash](rules/actions.md#Dash) action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
+The target is [frightened](rules/conditions.md#frightened) of you. On each of its turns, the [frightened](rules/conditions.md#frightened) creature must take the [Dash](actions.md#Dash) action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 ## Sickened
 
