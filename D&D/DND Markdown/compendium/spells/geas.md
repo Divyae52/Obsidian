@@ -28,6 +28,6 @@ You can end the spell early by using an action to dismiss it. A [remove curse](c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Paladin](paladin.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

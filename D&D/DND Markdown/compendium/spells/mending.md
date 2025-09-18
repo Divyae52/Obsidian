@@ -24,6 +24,6 @@ This spell repairs a single break or tear in an object you touch, such as broken
 
 This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

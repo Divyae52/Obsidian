@@ -26,6 +26,6 @@ The gust disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
-**Classes**: [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

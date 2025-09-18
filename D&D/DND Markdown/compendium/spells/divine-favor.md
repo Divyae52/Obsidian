@@ -18,6 +18,6 @@ aliases: ["Divine Favor"]
 
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra `1d4` radiant damage on a hit.
 
-**Classes**: [Paladin](compendium/classes/paladin.md)
+**Classes**: [Paladin](paladin.md)
 
 *Source: SRD / Basic Rules*

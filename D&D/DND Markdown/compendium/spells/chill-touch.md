@@ -24,6 +24,6 @@ If you hit an undead target, it also has disadvantage on attack rolls against yo
 
 This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
 
-**Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Sorcerer](sorcerer.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

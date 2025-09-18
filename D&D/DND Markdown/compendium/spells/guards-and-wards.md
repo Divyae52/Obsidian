@@ -51,6 +51,6 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ## Summary
 
-**Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

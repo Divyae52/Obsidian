@@ -49,6 +49,6 @@ The creature begins to bleed uncontrollably. The creature has disadvantage on Co
 
 ## Summary
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
+**Classes**: [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

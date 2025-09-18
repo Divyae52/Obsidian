@@ -21,6 +21,6 @@ aliases: ["Darkvision"]
 
 You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has [darkvision](rules/senses.md#darkvision) out to a range of 60 feet.
 
-**Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Ranger](ranger.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

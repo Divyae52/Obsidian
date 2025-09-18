@@ -27,6 +27,6 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
 
-**Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

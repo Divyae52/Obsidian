@@ -24,6 +24,6 @@ Attacks and spells can't cross through the entrance into or out of the extradime
 
 Anything inside the extradimensional space drops out when the spell ends.
 
-**Classes**: [Wizard](compendium/classes/wizard.md)
+**Classes**: [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

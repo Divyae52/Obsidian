@@ -23,6 +23,6 @@ Starting with the creature that has the lowest current hit points, each creature
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 
-**Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

@@ -22,6 +22,6 @@ A creature of your choice that you can see within range regains hit points equal
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

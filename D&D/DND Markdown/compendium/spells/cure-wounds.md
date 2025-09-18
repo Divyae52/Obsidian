@@ -24,6 +24,6 @@ A creature you touch regains a number of hit points equal to `1d8` + your spellc
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Paladin](paladin.md), [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

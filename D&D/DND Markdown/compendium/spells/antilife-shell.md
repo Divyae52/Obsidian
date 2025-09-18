@@ -22,6 +22,6 @@ The barrier prevents an affected creature from passing or reaching through. An a
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [Druid](compendium/classes/druid.md)
+**Classes**: [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

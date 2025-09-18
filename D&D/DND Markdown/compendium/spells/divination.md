@@ -23,6 +23,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25% chance chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [Cleric](compendium/classes/cleric.md)
+**Classes**: [Cleric](cleric.md)
 
 *Source: SRD / Basic Rules*

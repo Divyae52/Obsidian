@@ -25,6 +25,6 @@ When you cast the spell, you choose seeing or hearing. You can use the chosen se
 
 A creature that can see the sensor (such as a creature benefiting from [see invisibility](compendium/spells/see-invisibility.md) or [truesight](rules/senses.md#truesight)) sees a luminous, intangible orb about the size of your fist.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

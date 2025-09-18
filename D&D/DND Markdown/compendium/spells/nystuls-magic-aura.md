@@ -18,6 +18,6 @@ aliases: ["Nystul's Magic Aura"]
 
 
 
-**Classes**: [Wizard](compendium/classes/wizard.md)
+**Classes**: [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

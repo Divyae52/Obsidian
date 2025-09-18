@@ -22,6 +22,6 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

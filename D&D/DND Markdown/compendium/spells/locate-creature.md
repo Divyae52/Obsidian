@@ -27,6 +27,6 @@ The spell can locate a specific creature known to you, or the nearest creature o
 
 This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Paladin](paladin.md), [Ranger](ranger.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

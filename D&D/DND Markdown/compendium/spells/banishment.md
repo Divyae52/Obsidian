@@ -28,6 +28,6 @@ If the target is native to a different plane of existence than the one you're on
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Cleric](cleric.md), [Paladin](paladin.md), [Sorcerer](sorcerer.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

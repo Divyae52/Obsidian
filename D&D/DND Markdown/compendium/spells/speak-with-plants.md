@@ -28,6 +28,6 @@ If a plant creature is in the area, you can communicate with it as if you shared
 
 This spell can cause the plants created by the [entangle](compendium/spells/entangle.md) spell to release a [restrained](rules/conditions.md#restrained) creature.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

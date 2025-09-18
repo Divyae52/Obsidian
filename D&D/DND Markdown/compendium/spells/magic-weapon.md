@@ -21,6 +21,6 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
-**Classes**: [Paladin](compendium/classes/paladin.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Paladin](paladin.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

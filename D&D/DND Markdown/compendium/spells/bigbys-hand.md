@@ -18,6 +18,6 @@ aliases: ["Bigby's Hand"]
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
 
-**Classes**: [Wizard](compendium/classes/wizard.md)
+**Classes**: [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

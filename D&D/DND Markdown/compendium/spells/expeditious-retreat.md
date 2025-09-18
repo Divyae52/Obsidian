@@ -20,6 +20,6 @@ aliases: ["Expeditious Retreat"]
 
 This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the [Dash](rules/actions.md#Dash) action.
 
-**Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Sorcerer](sorcerer.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

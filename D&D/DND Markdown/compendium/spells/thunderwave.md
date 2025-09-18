@@ -25,6 +25,6 @@ In addition, unsecured objects that are completely within the area of effect are
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

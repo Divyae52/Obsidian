@@ -18,6 +18,6 @@ aliases: ["Leomund's Secret Chest"]
 
 
 
-**Classes**: [Wizard](compendium/classes/wizard.md)
+**Classes**: [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

@@ -21,6 +21,6 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Paladin](compendium/classes/paladin.md)
+**Classes**: [Bard](bard.md), [Paladin](paladin.md)
 
 *Source: SRD / Basic Rules*

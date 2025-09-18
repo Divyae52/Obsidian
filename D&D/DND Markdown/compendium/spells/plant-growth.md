@@ -26,6 +26,6 @@ You can exclude one or more areas of any size within the spell's area from being
 
 If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

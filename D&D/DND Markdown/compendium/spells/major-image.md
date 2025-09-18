@@ -27,6 +27,6 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your [concentration](rules/conditions.md#concentration).
 
-**Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Sorcerer](sorcerer.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

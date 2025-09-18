@@ -22,6 +22,6 @@ aliases: ["Lesser Restoration"]
 
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be [blinded](rules/conditions.md#blinded), [deafened](rules/conditions.md#deafened), [paralyzed](rules/conditions.md#paralyzed), or [poisoned](rules/conditions.md#poisoned).
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Paladin](paladin.md), [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

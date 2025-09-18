@@ -21,6 +21,6 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
+**Classes**: [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

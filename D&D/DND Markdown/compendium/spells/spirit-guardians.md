@@ -22,6 +22,6 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
-**Classes**: [Cleric](compendium/classes/cleric.md)
+**Classes**: [Cleric](cleric.md)
 
 *Source: SRD / Basic Rules*

@@ -27,6 +27,6 @@ A creature [restrained](rules/conditions.md#restrained) by the webs can use its 
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing `2d4` fire damage to any creature that starts its turn in the fire.
 
-**Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

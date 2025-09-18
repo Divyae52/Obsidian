@@ -20,6 +20,6 @@ An invisible wall of force springs into existence at a point you choose within r
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [dispel magic](compendium/spells/dispel-magic.md). A [disintegrate](compendium/spells/disintegrate.md) spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
-**Classes**: [Wizard](compendium/classes/wizard.md)
+**Classes**: [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

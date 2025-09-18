@@ -20,6 +20,6 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-**Classes**: [Cleric](compendium/classes/cleric.md)
+**Classes**: [Cleric](cleric.md)
 
 *Source: SRD / Basic Rules*

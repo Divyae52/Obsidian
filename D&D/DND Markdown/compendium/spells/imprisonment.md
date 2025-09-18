@@ -61,6 +61,6 @@ You can use a particular special component to create only one prison at a time. 
 
 ## Summary
 
-**Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

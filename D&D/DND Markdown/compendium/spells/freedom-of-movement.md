@@ -23,6 +23,6 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it [grappled](rules/conditions.md#grappled). Finally, being underwater imposes no penalties on the target's movement or attacks.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

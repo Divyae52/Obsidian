@@ -23,6 +23,6 @@ You extend your hand toward a creature you can see within range and project a pu
 
 This spell's damage increases by `1d12` when you reach 5th level (`2d12`), 11th level (`3d12`), and 17th level (`4d12`).
 
-**Classes**: [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Sorcerer](sorcerer.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

@@ -21,6 +21,6 @@ aliases: ["Speak with Animals"]
 
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

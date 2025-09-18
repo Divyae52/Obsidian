@@ -16,7 +16,7 @@ cssclasses: json5e-note
 - [Cultist](cultist.md)
 - [Deep Gnome (Svirfneblin)](deep-gnome-svirfneblin.md)
 - [Drow](drow.md)
-- [Druid](druid.md)
+- [Druid](DND%20Markdown/compendium/bestiary/humanoid/druid.md)
 - [Duergar](duergar.md)
 - [Gladiator](gladiator.md)
 - [Gnoll](gnoll.md)

@@ -24,6 +24,6 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
 
-**Classes**: [Druid](compendium/classes/druid.md)
+**Classes**: [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

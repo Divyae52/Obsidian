@@ -18,6 +18,6 @@ aliases: ["Spare the Dying"]
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
-**Classes**: [Cleric](compendium/classes/cleric.md)
+**Classes**: [Cleric](cleric.md)
 
 *Source: SRD / Basic Rules*

@@ -98,10 +98,8 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 
 ## Features
 
-* `Outlander` (PHB p136) - You memorize/know your locations geographically. You can also find food and water for 5 when traveling.
-* `Natural Language` (MCDM BH p27) - You can communicate with your Companion.
-* `Primal Exploits`: (MCDM BH p27) (lvl 2) - you get 3 of them.
-* `Superior Ferocity`: (MCDM BH p30) (lvl 2) - Whenever your companion uses a ferocity action that requires a creature to make an ability check or saving throw, the companion can use your Primal Exploit Save DC in place of the normal DC.
+* [[Disciple of Life]]
+* [[Channel Divinity]]
 
 ## Spell Casting
 
@@ -137,3 +135,6 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 * [[lesser-restoration|Lesser Restoration]] - **Cures a creature** of a disease, condition, or poison.
 * [[prayer-of-healing|Prayer of Healing]] (**U**) - After 10 minutes, **up to six creatures regain a significant amount of hit points**.
 * [[spiritual-weapon|Spiritual Weapon]] (**U**) - **Summons a floating weapon** that makes bonus action attacks for force damage.
+
+## Background
+

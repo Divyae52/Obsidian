@@ -22,6 +22,6 @@ You touch a corpse or other remains. For the duration, the target is protected f
 
 The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as [raise dead](compendium/spells/raise-dead.md).
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Cleric](cleric.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

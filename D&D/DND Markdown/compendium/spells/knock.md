@@ -26,6 +26,6 @@ If you choose a target that is held shut with [arcane lock](compendium/spells/ar
 
 When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

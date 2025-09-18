@@ -23,6 +23,6 @@ You speak a word of power that can overwhelm the mind of one creature you can se
 
 The [stunned](rules/conditions.md#stunned) target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Sorcerer](sorcerer.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

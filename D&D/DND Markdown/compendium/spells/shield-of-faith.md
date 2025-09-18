@@ -19,6 +19,6 @@ aliases: ["Shield of Faith"]
 
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md)
+**Classes**: [Cleric](cleric.md), [Paladin](paladin.md)
 
 *Source: SRD / Basic Rules*

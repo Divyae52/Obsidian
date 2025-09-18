@@ -46,6 +46,6 @@ The first time each turn that an object enters the vortex, the object takes `2d8
 
 ## Summary
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

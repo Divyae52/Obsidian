@@ -23,6 +23,6 @@ You touch a creature. If it is [poisoned](rules/conditions.md#poisoned), you neu
 
 For the duration, the target has advantage on saving throws against being [poisoned](rules/conditions.md#poisoned), and it has resistance to poison damage.
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md)
+**Classes**: [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Paladin](paladin.md), [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

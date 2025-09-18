@@ -53,6 +53,6 @@ The target is struck by two rays. Roll twice more, rerolling any 8.
 
 ## Summary
 
-**Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

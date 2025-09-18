@@ -24,6 +24,6 @@ This spell grants the ability to move across any liquid surface—such as water,
 
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md), [Sorcerer](compendium/classes/sorcerer.md)
+**Classes**: [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Ranger](ranger.md), [Sorcerer](sorcerer.md)
 
 *Source: SRD / Basic Rules*

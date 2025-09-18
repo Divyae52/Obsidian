@@ -62,6 +62,6 @@ Each target must make a Wisdom saving throw and becomes [stunned](rules/conditio
 
 ## Summary
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

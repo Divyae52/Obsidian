@@ -38,6 +38,6 @@ Gusts and freezing rain assail the area under the cloud. The area becomes diffic
 
 ## Summary
 
-**Classes**: [Druid](compendium/classes/druid.md)
+**Classes**: [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

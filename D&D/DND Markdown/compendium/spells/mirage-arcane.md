@@ -26,6 +26,6 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with [truesight](rules/senses.md#truesight) can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

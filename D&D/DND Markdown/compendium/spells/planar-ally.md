@@ -28,6 +28,6 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
 
-**Classes**: [Cleric](compendium/classes/cleric.md)
+**Classes**: [Cleric](cleric.md)
 
 *Source: SRD / Basic Rules*

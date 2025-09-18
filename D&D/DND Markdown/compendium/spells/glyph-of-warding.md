@@ -42,6 +42,6 @@ When you cast this spell using a spell slot of 4th level or higher, the damage o
 
 ## Summary
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

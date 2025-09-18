@@ -26,6 +26,6 @@ While your steed is within 1 mile of you, you can communicate with each other te
 
 You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
 
-**Classes**: [Paladin](compendium/classes/paladin.md)
+**Classes**: [Paladin](paladin.md)
 
 *Source: SRD / Basic Rules*

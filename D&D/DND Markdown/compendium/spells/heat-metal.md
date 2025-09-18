@@ -23,6 +23,6 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

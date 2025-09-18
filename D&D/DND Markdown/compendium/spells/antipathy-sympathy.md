@@ -37,6 +37,6 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ## Summary
 
-**Classes**: [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

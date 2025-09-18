@@ -26,6 +26,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **At Higher Levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four [ghouls](compendium/bestiary/undead/ghoul.md). When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five [ghouls](compendium/bestiary/undead/ghoul.md) or two [ghasts](compendium/bestiary/undead/ghast.md) or [wights](compendium/bestiary/undead/wight.md). When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six [ghouls](compendium/bestiary/undead/ghoul.md), three [ghasts](compendium/bestiary/undead/ghast.md) or [wights](compendium/bestiary/undead/wight.md), or two [mummies](compendium/bestiary/undead/mummy.md).
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Cleric](cleric.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

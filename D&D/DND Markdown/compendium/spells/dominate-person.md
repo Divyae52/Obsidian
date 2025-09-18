@@ -28,6 +28,6 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 **At Higher Levels.** When you cast this spell using a 6th-level spell slot, the duration is [concentration](rules/conditions.md#concentration), up to 10 minutes. When you use a 7th-level spell slot, the duration is [concentration](rules/conditions.md#concentration), up to 1 hour. When you use a spell slot of 8th level or higher, the duration is [concentration](rules/conditions.md#concentration), up to 8 hours.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

@@ -26,6 +26,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Paladin](paladin.md)
 
 *Source: SRD / Basic Rules*

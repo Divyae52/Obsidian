@@ -20,6 +20,6 @@ You choose a creature you can see within range and mystically mark it as your qu
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [concentration](rules/conditions.md#concentration) on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [concentration](rules/conditions.md#concentration) on the spell for up to 24 hours.
 
-**Classes**: [Ranger](compendium/classes/ranger.md)
+**Classes**: [Ranger](ranger.md)
 
 *Source: SRD / Basic Rules*

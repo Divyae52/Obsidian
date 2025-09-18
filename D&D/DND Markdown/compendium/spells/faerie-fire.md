@@ -21,6 +21,6 @@ Each object in a 20-foot cube within range is outlined in blue, green, or violet
 
 Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being [invisible](rules/conditions.md#invisible).
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

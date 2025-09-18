@@ -33,6 +33,6 @@ You grow claws, fangs, spines, horns, or a different natural weapon of your choi
 
 ## Summary
 
-**Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

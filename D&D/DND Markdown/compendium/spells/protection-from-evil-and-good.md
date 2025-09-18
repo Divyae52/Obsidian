@@ -23,6 +23,6 @@ Until the spell ends, one willing creature you touch is protected against certai
 
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), or possessed by them. If the target is already [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Cleric](cleric.md), [Paladin](paladin.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

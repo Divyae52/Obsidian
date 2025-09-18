@@ -21,6 +21,6 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 
 A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [frightened](rules/conditions.md#frightened), and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `2d10`, and it gains the same number of hit points. These benefits last for 24 hours.
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
+**Classes**: [Cleric](cleric.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md)
 
 *Source: SRD / Basic Rules*

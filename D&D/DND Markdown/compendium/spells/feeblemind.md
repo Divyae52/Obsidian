@@ -27,6 +27,6 @@ At the end of every 30 days, the creature can repeat its saving throw against th
 
 The spell can also be ended by [greater restoration](compendium/spells/greater-restoration.md), [heal](compendium/spells/heal.md), or [wish](compendium/spells/wish.md).
 
-**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

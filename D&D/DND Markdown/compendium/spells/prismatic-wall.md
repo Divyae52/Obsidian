@@ -56,6 +56,6 @@ On a failed save, the creature is [blinded](rules/conditions.md#blinded). It mus
 
 ## Summary
 
-**Classes**: [Wizard](compendium/classes/wizard.md)
+**Classes**: [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

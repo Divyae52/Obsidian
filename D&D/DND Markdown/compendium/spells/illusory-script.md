@@ -27,6 +27,6 @@ Should the spell be dispelled, the original script and the illusion both disappe
 
 A creature with [truesight](rules/senses.md#truesight) can read the hidden message.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

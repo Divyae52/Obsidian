@@ -29,6 +29,6 @@ A [remove curse](compendium/spells/remove-curse.md) spell ends this effect. At t
 
 **At Higher Levels.** If you cast this spell using a spell slot of 4th level or higher, the duration is [concentration](rules/conditions.md#concentration), up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require [concentration](rules/conditions.md#concentration).
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

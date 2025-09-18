@@ -29,6 +29,6 @@ A [remove curse](compendium/spells/remove-curse.md) or [greater restoration](com
 
 **At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
-**Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

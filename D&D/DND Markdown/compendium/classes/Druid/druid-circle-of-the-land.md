@@ -7,7 +7,7 @@ tags:
 aliases: ["Circle of the Land"]
 ---
 # Circle of the Land
-*[Druid](druid.md): Druid Circle*  
+*[Druid](DND%20Markdown/compendium/classes/Druid/druid.md): Druid Circle*  
 *Source: SRD / Basic Rules*  
 
 

@@ -20,6 +20,6 @@ aliases: ["Greater Invisibility"]
 
 You or a creature you touch becomes [invisible](rules/conditions.md#invisible) until the spell ends. Anything the target is wearing or carrying is [invisible](rules/conditions.md#invisible) as long as it is on the target's person.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

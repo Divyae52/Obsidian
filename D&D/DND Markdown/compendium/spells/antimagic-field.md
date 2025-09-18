@@ -53,6 +53,6 @@ Spells and magical effects such as [dispel magic](compendium/spells/dispel-magic
 
 ## Summary
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Cleric](cleric.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

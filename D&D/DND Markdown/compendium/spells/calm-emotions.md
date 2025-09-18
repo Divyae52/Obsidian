@@ -23,6 +23,6 @@ You can suppress any effect causing a target to be [charmed](rules/conditions.md
 
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md)
+**Classes**: [Bard](bard.md), [Cleric](cleric.md)
 
 *Source: SRD / Basic Rules*

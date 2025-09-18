@@ -19,6 +19,6 @@ aliases: ["Rary's Telepathic Bond"]
 
 
 
-**Classes**: [Wizard](compendium/classes/wizard.md)
+**Classes**: [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

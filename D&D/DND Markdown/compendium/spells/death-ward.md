@@ -23,6 +23,6 @@ The first time the target would drop to 0 hit points as a result of taking damag
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
-**Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md)
+**Classes**: [Cleric](cleric.md), [Paladin](paladin.md)
 
 *Source: SRD / Basic Rules*

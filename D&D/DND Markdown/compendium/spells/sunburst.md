@@ -24,6 +24,6 @@ A creature [blinded](rules/conditions.md#blinded) by this spell makes another Co
 
 This spell dispels any darkness in its area that was created by a spell.
 
-**Classes**: [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Druid](DND%20Markdown/compendium/classes/Druid/druid.md), [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

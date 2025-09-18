@@ -21,6 +21,6 @@ Choose one creature that you can see within range. The target begins a comic dan
 
 A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

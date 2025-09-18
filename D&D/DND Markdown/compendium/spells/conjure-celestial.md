@@ -24,6 +24,6 @@ The DM has [the celestial](compendium/bestiary/celestial/couatl.md)'s statistics
 
 **At Higher Levels.** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
 
-**Classes**: [Cleric](compendium/classes/cleric.md)
+**Classes**: [Cleric](cleric.md)
 
 *Source: SRD / Basic Rules*

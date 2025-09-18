@@ -22,6 +22,6 @@ You choose one object that you must touch throughout the casting of the spell. I
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
 
-**Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Bard](bard.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

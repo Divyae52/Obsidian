@@ -25,6 +25,6 @@ If the creature is physically broken while [petrified](rules/conditions.md#petri
 
 If you maintain your [concentration](rules/conditions.md#concentration) on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 
-**Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Warlock](warlock.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*

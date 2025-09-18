@@ -31,6 +31,6 @@ The target's size is halved in all dimensions, and its weight is reduced to one-
 
 ## Summary
 
-**Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
+**Classes**: [Sorcerer](sorcerer.md), [Wizard](wizard.md)
 
 *Source: SRD / Basic Rules*
