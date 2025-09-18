@@ -1,16 +1,15 @@
 https://www.dndbeyond.com/characters/152334031
 
-6'6"
-Dark blue scales, reflect some light, scales get lighter towards tail
 [[Desith Dark Blue.png]]
 [[Desith Light Blue.png]]
-
-{{ character name }}
 
 | Species    | Class         | Alignment    | Experience Points |
 | ---------- | ------------- | ------------ | ----------------- |
 | Dragonborn | Life Cleric 3 | Neutral Good | Milestone         |
+## Appearance
 
+6'6"
+Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith Dark Blue.png]], [[Desith Light Blue.png]])
 ## Characteristics
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
@@ -87,14 +86,15 @@ Dark blue scales, reflect some light, scales get lighter towards tail
 * [[travelers-clothes|Traveler's Clothes]]
 * [[plate-armor|Plate Armor]]
 * [[trident|Trident]]
+* [[alchemists-supplies|Alchemist's Supplies]] or [[herbalism-kit|Herbalism Kit]]
 
 ## Languages and Proficiencies
 
 * `Instruments`: None
 * `Languages`: Common, Draconic
 * `Weapon Proficiencies`: Simple Weapons
-* `Armor Proficencies`: Heavy Armor, Medium Armor, Light Armor, Shields
-* `Tool Proficiencies`: Alchemist's Supplies
+* `Armor Proficencies`: Heavy Armor, Medium Armor, Light Armor, [[DND Markdown/compendium/items/shield|Shield]]
+* `Tool Proficiencies`: [[alchemists-supplies|Alchemist's Supplies]], [[herbalism-kit|Herbalism Kit]]
 
 ## Features
 
@@ -105,16 +105,35 @@ Dark blue scales, reflect some light, scales get lighter towards tail
 
 ## Spell Casting
 
-| Cast Skill | Spell Save DC     | Spell Modifier |
-| ---------- | ----------------- | -------------- |
-| INT        | 8 + PB + WIS (12) | 0              |
+| Cast Skill | Spell Save DC | Spell Modifier | Spell Attack |
+| ---------- | ------------- | -------------- | ------------ |
+| WIS        | 14            | +4             | +6           |
 
 ### Cantrips
 
-* `Eldritch Blash` - Make things go boom.
+* [[guidance|Guidance]] - Touch a creature to grant them a **bonus d4 to one ability check** of their choice.
+* [[resistance|Resistance]] - Touch a creature to give them a **bonus d4 to one saving throw** of their choice.
+* [[spare-the-dying|Spare the Dying]] - **Stabilizes a creature** at 0 hit points without needing a Medicine check.
 
 ### First Level
 
-* [ ] Spell Slot
+* [ ] Spell Slot 1
+* [ ] Spell Slot 2
+* [ ] Spell Slot 3
+* [ ] Spell Slot 4
+* [[bless|Bless]] (**U**) - Up to **three creatures gain a bonus d4 to attack rolls and saving throws** for the duration.
+* [[cure-wounds|Cure Wounds]] (**U**) - Touch a creature to **restore hit points** based on your spellcasting ability.
+* [[purify-food-and-drink|Purify Food and Drink]] - **Cleanses food and drink** of poison and disease in a small area.
+* [[sanctuary|Sanctuary]] - **Protects a creature** from being attacked, forcing enemies to make a Wisdom save first.
+* [[shield-of-faith|Shield of Faith]] - A shimmering **shield grants +2 AC to a creature** for the duration.
 
-## XP and Level Log
+### Second Level
+
+* [ ] Spell Slot 1
+* [ ] Spell Slot 2
+* [[aid|Aid]] (**U**) - Bolsters up to three creatures, **increasing their hit point maximum and current HP** for 8 hours.
+* [[enhance-ability|Enhance Ability]] (**U**) - Grants a creature **advantage on ability checks** tied to one chosen ability score.
+* [[find-traps|Find Traps]] - **Reveals the presence of traps** within range but **not their exact location**.
+* [[lesser-restoration|Lesser Restoration]] - **Cures a creature** of a disease, condition, or poison.
+* [[prayer-of-healing|Prayer of Healing]] (**U**) - After 10 minutes, **up to six creatures regain a significant amount of hit points**.
+* [[spiritual-weapon|Spiritual Weapon]] (**U**) - **Summons a floating weapon** that makes bonus action attacks for force damage.
