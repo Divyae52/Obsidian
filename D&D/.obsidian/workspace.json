@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Sessions/Session One.md",
+                "file": "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session One"
+              "title": "Aidan × Desith"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/Sessions/Session One.md",
+                "file": "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session One"
+              "title": "Backlinks for Aidan × Desith"
             }
           },
           {
@@ -186,12 +186,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "peerdraft:Show my Peerdraft Shares": false
+      "peerdraft:Show my Peerdraft Shares": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "19a141c587eb766a",
   "lastOpenFiles": [
+    "DND Markdown/compendium/items/common-clothes.md",
     "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
+    "DND Markdown/compendium/items/travelers-clothes.md",
+    "DND Markdown/compendium/items/arrows-20.md",
+    "Staff of Flowers.md",
+    "DND Markdown/templates/character/filbots-dnd-character-sheet.md",
+    "DND Markdown/templates/character/slrvbs-infobox-multicolumn-5e-sheet-example-filled.md",
+    "DND Markdown/templates/character/vix-character.md",
+    "Folk Hero.md",
+    "Mittwoch/Sessions/Session One.md",
     "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
     "Mittwoch/Characters/Alive PCs/Images",
     "Mittwoch/Characters/Alive PCs/Images/Desith Dark Blue.png",
@@ -203,7 +213,6 @@
     "Mittwoch/Characters/Alive PCs/Edward ×.md",
     "Mittwoch/Characters/Alive PCs/Breanna ×.md",
     "Mittwoch/Characters/Alive PCs/Avany × Acamenos aka Aseral.md",
-    "Mittwoch/Sessions/Session One.md",
     "Mittwoch/Characters/NPCs/Short Wispy Dwarf Lady.md",
     "Mittwoch/Characters/NPCs/Tall Buff Goliath.md",
     "Mittwoch/Sessions/Session One.canvas",
@@ -218,15 +227,8 @@
     "DND Markdown/templates/location/_attachments/vix-location.png",
     "Mittwoch/Entry.md",
     "DND Markdown/tools/xentis-dnd-beyond-character-sheets-json-puller.md",
-    "DND Markdown/templates/character/filbots-dnd-character-sheet.md",
-    "DND Markdown/templates/character/slrvbs-infobox-multicolumn-5e-sheet-example-filled.md",
     "DND Markdown/templates/adventure/_attachments/vix-adventure.png",
     "DND Markdown/templates/adventure/vix-adventure.md",
-    "DND Markdown/templates/npc/vix-npc.md",
-    "DND Markdown/compendium/vehicles/vehicles.md",
-    "DND Markdown/compendium/vehicles/apparatus-of-kwalish.md",
-    "DND Markdown/compendium/tables/the-celtic-pantheon-celtic-deities.md",
-    "DND Markdown/compendium/tables/standard-languages.md",
     "Wiki/SRD/Spells",
     "Wiki/SRD/Races",
     "Wiki/SRD/Monsters (Alt)",

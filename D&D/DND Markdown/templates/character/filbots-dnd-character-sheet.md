@@ -8,6 +8,7 @@ tags:
 | Species | Class        | Alignment | Experience Points |
 | ------- | ------------ | --------- | ----------------- |
 | Human   | Beastheart 2 | Neutral   | 0                 |
+|         |              |           |                   |
 
 ## Characteristics
 
