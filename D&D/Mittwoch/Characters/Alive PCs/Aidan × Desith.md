@@ -3,9 +3,9 @@ https://www.dndbeyond.com/characters/152334031
 [[Desith Dark Blue.png]]
 [[Desith Light Blue.png]]
 
-| Species    | Class         | Alignment    | Experience Points |
-| ---------- | ------------- | ------------ | ----------------- |
-| Dragonborn | Life Cleric 3 | Neutral Good | Milestone         |
+| Species    | Class                                                  | Alignment    | Experience Points |
+| ---------- | ------------------------------------------------------ | ------------ | ----------------- |
+| Dragonborn | [[cleric\|Cleric]] [[cleric-life-domain\|Life Domain]] | Neutral Good | Milestone (3)     |
 ## Appearance
 
 6'6"
@@ -138,3 +138,17 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 
 ## Background
 
+not yet
+
+
+
+D&D Beyond Puller:
+```dataviewjs
+	const character_id = "152334031"
+
+const headers = {}
+const url = "https://character-service.dndbeyond.com/character/v5/character/" + character_id
+const character_sheet_json = await requestUrl({url: url, headers})
+const data = character_sheet_json.json.data
+dv.paragraph(data)
+```

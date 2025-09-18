@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9486d1d9866fcee",
+        "id": "257d68948d6cfab1",
         "type": "tabs",
         "children": [
           {
-            "id": "19a141c587eb766a",
+            "id": "03fd7db1c0ec6cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND Markdown/compendium/classes/classes.md",
+                "file": "DND Markdown/compendium/classes/Artificer/artificer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "classes"
+              "title": "artificer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND Markdown/compendium/classes/classes.md",
+                "file": "DND Markdown/compendium/classes/Artificer/artificer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for classes"
+              "title": "Backlinks for artificer"
             }
           },
           {
@@ -190,12 +190,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19a141c587eb766a",
+  "active": "03fd7db1c0ec6cb0",
   "lastOpenFiles": [
-    "DND Markdown/README.md",
-    "DND Markdown/compendium/classes/classes.md",
+    "DND Markdown/compendium/spells/drawmijs-instant-summons.md",
+    "DND Markdown/compendium/classes/Artificer/artificer.md",
+    "DND Markdown/compendium/spells/conjure-fey.md",
+    "DND Markdown/compendium/spells/conjure-elemental.md",
+    "DND Markdown/compendium/spells/conjure-celestial.md",
+    "DND Markdown/compendium/spells/conjure-animals.md",
+    "DND Markdown/compendium/spells/conjure-minor-elementals.md",
+    "DND Markdown/compendium/spells/conjure-woodland-beings.md",
+    "DND Markdown/compendium/spells/animate-dead.md",
+    "DND Markdown/templates/npc/vix-npc.md",
+    "DND Markdown/tools/xentis-dnd-beyond-character-sheets-json-puller.md",
+    "DND Markdown/compendium/classes/Artificer/artificer-spell-list.md",
+    "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
+    "DND Markdown/rules/conditions.md",
+    "DND Markdown/rules/actions.md",
+    "DND Markdown/compendium/spells/antimagic-field.md",
+    "DND Markdown/compendium/items/1-wand-of-the-war-mage.md",
+    "DND Markdown/rules/diseases.md",
+    "DND Markdown/rules/damage-types.md",
+    "DND Markdown/rules/senses.md",
+    "DND Markdown/rules/skills.md",
+    "DND Markdown/compendium/classes/Artificer/artificer-artillerist.md",
+    "^Feature.md",
+    "DND Markdown/compendium/items/tinkers-tools.md",
+    "DND Markdown/compendium/classes/Barbarian/barbarian.md",
     "DND Markdown/compendium/classes/Barbarian/barbarian-path-of-the-berserker.md",
-    "DND Markdown/compendium/classes/Cleric/cleric-life-domain.md",
+    "DND Markdown/compendium/classes/Artificer",
     "DND Markdown/compendium/classes/Wizard",
     "DND Markdown/compendium/classes/Warlock",
     "DND Markdown/compendium/classes/Sorcerer",
@@ -205,31 +228,8 @@
     "DND Markdown/compendium/classes/Monk",
     "DND Markdown/compendium/classes/Fighter",
     "DND Markdown/compendium/classes/Druid",
-    "DND Markdown/compendium/classes/Cleric",
-    "Disciple of Life (Level 1).md",
-    "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
-    "DND Markdown/compendium/spells/purify-food-and-drink.md",
-    "DND Markdown/compendium/items/common-clothes.md",
-    "DND Markdown/compendium/items/travelers-clothes.md",
-    "DND Markdown/compendium/items/arrows-20.md",
-    "Staff of Flowers.md",
-    "DND Markdown/templates/character/filbots-dnd-character-sheet.md",
-    "DND Markdown/templates/character/slrvbs-infobox-multicolumn-5e-sheet-example-filled.md",
-    "DND Markdown/templates/character/vix-character.md",
-    "Folk Hero.md",
-    "Mittwoch/Sessions/Session One.md",
     "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
     "Mittwoch/Characters/Alive PCs/Images/Desith Dark Blue.png",
-    "Mittwoch/Characters/Alive PCs/Madison ×.md",
-    "Mittwoch/Characters/Alive PCs/Kaos × Treek.md",
-    "Mittwoch/Characters/Alive PCs/Joshua × Impentious.md",
-    "Mittwoch/Characters/Alive PCs/Gwenith × Ignatious.md",
-    "Mittwoch/Characters/Alive PCs/Ethan × Henka.md",
-    "Mittwoch/Characters/Alive PCs/Edward ×.md",
-    "Mittwoch/Characters/Alive PCs/Breanna ×.md",
-    "Mittwoch/Characters/Alive PCs/Avany × Acamenos aka Aseral.md",
-    "Mittwoch/Characters/NPCs/Short Wispy Dwarf Lady.md",
-    "Mittwoch/Characters/NPCs/Tall Buff Goliath.md",
     "Mittwoch/Sessions/Session One.canvas",
     "Mittwoch/Map/Port of Olum Cee.png",
     "Pasted image 20250917150448.png",
