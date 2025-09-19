@@ -17,7 +17,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
 | ------- | ------- | ------- | ------- | ------- | ------ |
 | +2 (15) | +1 (13) | +3 (16) | +1 (12) | +4 (18) | 0 (11) |
-
+	
 ### Derived Stats
 
 | Derived Stat          | Value   |

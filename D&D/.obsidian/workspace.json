@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND Markdown/compendium/classes/classes.md",
+                "file": "Mittwoch/Characters/Alive PCs/Breanne × Spade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "classes"
+              "title": "Breanne × Spade"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND Markdown/compendium/classes/classes.md",
+                "file": "Mittwoch/Characters/Alive PCs/Breanne × Spade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for classes"
+              "title": "Backlinks for Breanne × Spade"
             }
           },
           {
@@ -205,13 +205,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "866ba8efe30b8b0f",
+  "active": "51cfe8fe183a0a9b",
   "lastOpenFiles": [
-    "DND Markdown/compendium/classes/Artificer/artificer.md",
+    "Mittwoch/Characters/Alive PCs/Images/Spade Drawing.png",
+    "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
     "DND Markdown/compendium/classes/classes.md",
+    "DND Markdown/compendium/classes/Artificer/artificer.md",
     "Mittwoch/Characters/Alive PCs/Edward × MerdhsaewndÎr (He ~ It).md",
     "DND Markdown/compendium/races/elf.md",
-    "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
     "DND Markdown/compendium/races/yuan-ti.md",
     "Mittwoch/Characters/Alive PCs/Joshua × Pentious.md",
     "DND Markdown/compendium/bestiary/humanoid/druid.md",
@@ -229,10 +230,9 @@
     "DND Markdown/compendium/items/staff-of-the-python.md",
     "DND Markdown/compendium/items/staff-of-charming.md",
     "DND Markdown/compendium/items/abacus.md",
-    "Mittwoch/Characters/Alive PCs/Breanne ×.md",
+    "Mittwoch/Characters/Alive PCs/Breanne × Spade.md",
     "Mittwoch/Characters/Alive PCs/Madison ×.md",
     "Mittwoch/Characters/Alive PCs/Gwenith × Ignatious.md",
-    "Mittwoch/Characters/Alive PCs/Ethan × Henka.md",
     "Mittwoch/Map/Map.png",
     "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
     "Mittwoch/Characters/Alive PCs/Images/Desith Dark Blue.png",
