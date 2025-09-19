@@ -10,6 +10,8 @@ https://www.dndbeyond.com/characters/152334031
 
 6'6"
 Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith Dark Blue.png]], [[Desith Light Blue.png]])
+[[plate-armor|Plate Armor]] being worn
+[[trident|Trident]] on back, [[light-crossbow|Light Crossbow]] on side, holding [[staff-of-flowers|Staff of Flowers]]
 ## Characteristics
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
@@ -25,6 +27,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 | Hit Dice              | 3d8     |
 | Proficiency Bonus     | 2       |
 | Passive Perception    | 16      |
+| Passive Stealth       | 11      |
 | Passive Investigation | 13      |
 | Passive Insight       | 16      |
 | Speed                 | 30ft    |
@@ -65,15 +68,15 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 | Wisdom [**P**]   | +4   | +2    | +6    |
 | Charisma [**P**] | 0    | +2    | +2    |
 
-## Actions
+## Actions (Attacks)
 
-| Name                                       | Hit / DC | Damage             | Type        | Other                                                              |
-| ------------------------------------------ | -------- | ------------------ | ----------- | ------------------------------------------------------------------ |
-| [[light-crossbow\|Light Crossbow]] [**P**] | +3       | 1d8 + 1            | Piercing    |                                                                    |
-| [[Staff of Flowers]]                       | +4       | 1d6 + 2 / 1d8 + 2  | Bludgeoning | Cause a flower to sprout within 5 feet of you. Charges Left: 10/10 |
-| [[trident\|Trident]] [**P**]               | +2       | 1d8 + 2 / 1d10 + 2 | Piercing    |                                                                    |
-| Unarmed Strike                             | +4       | 1d8 + 2            | Bludgeoning |                                                                    |
-| [[Breath Weapon]] (Blue)                   | 13 DEX   | 2d6                | Lightning   | Charges Left: 1/1                                                  |
+| Name                                               | Hit / DC | Damage             | Type        | Other                                                              |
+| -------------------------------------------------- | -------- | ------------------ | ----------- | ------------------------------------------------------------------ |
+| [[light-crossbow\|Light Crossbow]] [**P**]         | +3       | 1d8 + 1            | Piercing    |                                                                    |
+| [[staff-of-flowers\|Staff of Flowers]]             | +4       | 1d6 + 2 / 1d8 + 2  | Bludgeoning | Cause a flower to sprout within 5 feet of you. Charges Left: 10/10 |
+| [[trident\|Trident]] [**P**]                       | +2       | 1d8 + 2 / 1d10 + 2 | Piercing    |                                                                    |
+| Unarmed Strike                                     | +4       | 3                  | Bludgeoning |                                                                    |
+| [[dragonborn#Breath Weapon\|Breath Weapon]] (Blue) | 13 DEX   | 2d6                | Lightning   | Charges Left: 1/1                                                  |
 
 ## Equipment
 
@@ -81,7 +84,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 | ------ | ------ | -------- | ---- | -------- |
 | 0      | 0      | 0        | 0    | 0        |
 
-* [[Staff of Flowers]]
+* [[staff-of-flowers|Staff of Flowers]]
 * [[light-crossbow|Light Crossbow]] with [[arrows-20|Arrows (20)]]
 * [[travelers-clothes|Traveler's Clothes]]
 * [[plate-armor|Plate Armor]]
@@ -95,11 +98,12 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 * `Weapon Proficiencies`: Simple Weapons
 * `Armor Proficencies`: Heavy Armor, Medium Armor, Light Armor, [[DND Markdown/compendium/items/shield|Shield]]
 * `Tool Proficiencies`: [[alchemists-supplies|Alchemist's Supplies]], [[herbalism-kit|Herbalism Kit]]
+* `Land Speed`: 30 feet
 
 ## Features
 
-* [[Disciple of Life]]
-* [[Channel Divinity]]
+* [[cleric-life-domain#Disciple of Life (Level 1)|Disciple of Life]]
+* [[cleric-life-domain#Channel Divinity Preserve Life (Level 2) |Channel Divinity]]
 
 ## Spell Casting
 
@@ -138,8 +142,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 
 ## Background
 
-not yet
-
+When I was born, I was left by my parents at a stranger's doorstep. This stranger was a former elven military mage, nearing old age. As he raised me, he only helped me learn "Good" spells, until his inevitable death. After he died, I moved to the slums, and worked as a healer in a clinic for many years, but
 
 
 D&D Beyond Puller:

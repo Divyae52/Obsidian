@@ -1,12 +1,10 @@
-
-Pure meat eater, also raw meat
 https://www.dndbeyond.com/characters/xxx
 
-| Species                | Class | Alignment    | Experience Points |
-| ---------------------- | ----- | ------------ | ----------------- |
-| [[tiefling\|Tiefling]] |       | True Neutral | Milestone (3)     |
+| Species | Class | Alignment    | Experience Points |
+| ------- | ----- | ------------ | ----------------- |
+|         |       | True Neutral | Milestone (3)     |
 ## Appearance
-Looks a bit more human because of a spell (Voluntary), casted because tieflings are generally untrusted
+
 
 ## Characteristics
 
@@ -23,8 +21,8 @@ Looks a bit more human because of a spell (Voluntary), casted because tieflings 
 | Hit Dice              | 3d    |
 | Proficiency Bonus     | 2     |
 | Passive Perception    |       |
-| Passive Stealth       |       |
 | Passive Investigation |       |
+| Passive Stealth       |       |
 | Passive Insight       |       |
 | Speed                 | 30ft  |
 | Amor Class (AC)       |       |
@@ -69,13 +67,13 @@ Looks a bit more human because of a spell (Voluntary), casted because tieflings 
 ## Actions (NO Spells Needed (Optional))
 [**P**]
 
-| Name           | Hit / DC | Damage  | Type        | Other |
-| -------------- | -------- | ------- | ----------- | ----- |
-| Unarmed Strike | +4       | 1d8 + 2 | Bludgeoning |       |
-|                |          |         |             |       |
-|                |          |         |             |       |
-|                |          |         |             |       |
-|                |          |         |             |       |
+| Name           | Hit / DC | Damage | Type        | Other |
+| -------------- | -------- | ------ | ----------- | ----- |
+| Unarmed Strike | +4       | 1+STR  | Bludgeoning |       |
+|                |          |        |             |       |
+|                |          |        |             |       |
+|                |          |        |             |       |
+|                |          |        |             |       |
 
 ## Equipment
 

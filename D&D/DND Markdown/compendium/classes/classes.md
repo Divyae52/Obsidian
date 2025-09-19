@@ -1,9 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
+tags:
+  - class
 ---
 # Index of Classes
 
+- [[artificer|Artificer]]
 - [Barbarian](barbarian.md)
 - [Bard](bard.md)
 - [Cleric](cleric.md)

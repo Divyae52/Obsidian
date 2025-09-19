@@ -1,14 +1,13 @@
-
-Pure meat eater, also raw meat
 https://www.dndbeyond.com/characters/xxx
 
-| Species                | Class | Alignment    | Experience Points |
-| ---------------------- | ----- | ------------ | ----------------- |
-| [[tiefling\|Tiefling]] |       | True Neutral | Milestone (3)     |
+| Species | Class | Alignment    | Experience Points |
+| ------- | ----- | ------------ | ----------------- |
+|         |       | True Neutral | Milestone (3)     |
 ## Appearance
-Looks a bit more human because of a spell (Voluntary), casted because tieflings are generally untrusted
+
 
 ## Characteristics
+[[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -85,7 +84,7 @@ Looks a bit more human because of a spell (Voluntary), casted because tieflings 
 
 * [[travelers-clothes|Traveler's Clothes]]
 
-## Languages and Proficiencies
+## Languages, Proficiencies, and Speed
 
 * `Instruments`: None
 * `Languages`: Common, 

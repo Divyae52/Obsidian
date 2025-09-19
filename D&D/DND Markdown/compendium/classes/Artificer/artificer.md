@@ -161,7 +161,7 @@ At 2nd level, you gain the ability to imbue mundane items with certain magical i
 
 ##### Infusions Known
 
-When you gain this feature, pick four artificer infusions to learn, choosing from the “[Artificer Infusions]” section at the end of the class’s description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the [[#The Artificer Table|the Artificer table]].
+When you gain this feature, pick four artificer infusions to learn, choosing from the “[[#Infusions Known|Artificer Infusions]]” section at the end of the class’s description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the [[#The Artificer Table|the Artificer table]].
 
 Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
 
