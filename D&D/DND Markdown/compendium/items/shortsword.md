@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/finesse
-- item/property/light
-- item/property/martial
-- item/weapon/martial/melee
-aliases: ["Shortsword"]
+  - compendium/src/5e/phb
+  - item/property/finesse
+  - item/property/light
+  - item/property/martial
+  - item/weapon/martial/melee
+  - item/damageType/piercing
+aliases:
+  - Shortsword
 ---
 # Shortsword
 *Melee Weapon*  

@@ -71,13 +71,13 @@ Humanoid upper body
 ## Actions (NO Spells Needed (Optional))
 [**P**]
 
-| Name           | Hit / DC | Damage | Type        | Other |
-| -------------- | -------- | ------ | ----------- | ----- |
-| Unarmed Strike | +5       | 4      | Bludgeoning |       |
-|                |          |        |             |       |
-|                |          |        |             |       |
-|                |          |        |             |       |
-|                |          |        |             |       |
+| Name                 | Hit / DC | Damage    | Type        | Other |
+| -------------------- | -------- | --------- | ----------- | ----- |
+| Unarmed Strike       | +5       | 4         | Bludgeoning |       |
+| [[spear\|Spear]]     | +2       | 1d6 / 1d8 | Piercing    |       |
+| [[javelin\|Javelin]] | +2       | 1d6       | Piercing    |       |
+|                      |          |           |             |       |
+|                      |          |           |             |       |
 
 ## Equipment
 
@@ -87,13 +87,15 @@ Humanoid upper body
 
 * [[travelers-clothes|Traveler's Clothes]]
 * [[breastplate|Breastplate]]
+* [[spear|Spear]]
+* [[javelin|Javelin]]
 
 ## Languages, Proficiencies, and Speed
 
 * `Instruments`: None
 * `Languages`: Common, 
-* `Weapon Proficiencies`: Simple Weapons
-* `Armor Proficencies`: XXX Armor / Shields
+* `Weapon Proficiencies`: Simple Weapons, Martial Weapons
+* `Armor Proficencies`: Light Armor, Medium Armor, Heavy Armor, Shields
 * `Tool Proficiencies`: None
 * `Land Speed`: 30 feet
 
@@ -102,25 +104,7 @@ Humanoid upper body
 * 
 
 ## Spell Casting
-(**U**) is Upcastable
-
-| Cast Skill | Spell Save DC | Spell Modifier | Spell Attack |
-| ---------- | ------------- | -------------- | ------------ |
-|            |               |                |              |
-
-### Cantrips
-
-* [[guidance|Guidance]] - Touch a creature to grant them a **bonus d4 to one ability check** of their choice.
-
-### First Level
-
-* [ ] Spell Slot 1
-* Spell
-
-### Second Level
-
-* [ ] Spell Slot 1
-* Spell
+N/A
 
 ## Background
 

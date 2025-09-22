@@ -81,6 +81,8 @@ https://www.dndbeyond.com/characters/152679320
 | 0      | 0      | 0        | 0    | 0        |
 
 * [[travelers-clothes|Traveler's Clothes]]
+* [[quarterstaff|Quarterstaff]]
+* [[sling|Sling]]
 
 ## Languages, Proficiencies, and Speed
 

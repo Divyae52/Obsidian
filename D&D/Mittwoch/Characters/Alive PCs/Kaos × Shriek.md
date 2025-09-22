@@ -1,8 +1,8 @@
 https://www.dndbeyond.com/characters/xxx
 
-| Species                  | Class | Alignment    | Experience Points |
-| ------------------------ | ----- | ------------ | ----------------- |
-| Kenku (Great Horned Owl) |       | True Neutral | Milestone (3)     |
+| Species                  | Class     | Alignment       | Experience Points |
+| ------------------------ | --------- | --------------- | ----------------- |
+| Kenku (Great Horned Owl) | [[Rogue]] | Chaotic Neutral | Milestone (3)     |
 ## Appearance
 
 5'5"
@@ -15,40 +15,40 @@ very imposing
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 
-| STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |
+| STR    | DEX     | CON     | INT     | WIS    | CHA    |
+| ------ | ------- | ------- | ------- | ------ | ------ |
+| -1 (8) | +3 (17) | +2 (14) | +2 (14) | 0 (10) | -2 (7) |
 
 ### Derived Stats
 
-| Derived Stat          | Value |
-| --------------------- | ----- |
-| Hit Points            | /     |
-| Temp HP               | 0     |
-| Hit Dice              | 3d    |
-| Proficiency Bonus     | 2     |
-| Passive Perception    |       |
-| Passive Stealth       |       |
-| Passive Investigation |       |
-| Passive Insight       |       |
-| Speed                 | 30ft  |
-| Amor Class (AC)       |       |
-| Initiative            |       |
+| Derived Stat          | Value   |
+| --------------------- | ------- |
+| Hit Points            | 24 / 24 |
+| Temp HP               | 0       |
+| Hit Dice              | 3d8     |
+| Proficiency Bonus     | 2       |
+| Passive Perception    |         |
+| Passive Stealth       |         |
+| Passive Investigation |         |
+| Passive Insight       |         |
+| Speed                 | 30ft    |
+| Amor Class (AC)       | 13      |
+| Initiative            | +3      |
 
 ## Skills
 [**P**] is Proficent
 
 | Skill                 | Stat | Bonus | Total |
 | --------------------- | ---- | ----- | ----- |
-| Acrobatics (DEX)      |      |       |       |
-| Animal Handling (WIS) |      |       |       |
-| Arcana (INT)          |      |       |       |
-| Athletics (STR)       |      |       |       |
-| Deception (CHA)       |      |       |       |
-| History (INT)         |      |       |       |
-| Insight (WIS)         |      |       |       |
-| Intimidation (CHA)    |      |       |       |
-| Investigation (INT)   |      |       |       |
+| Acrobatics (DEX)      | +3   |       |       |
+| Animal Handling (WIS) | 0    |       |       |
+| Arcana (INT)          | +2   |       |       |
+| Athletics (STR)       | -1   |       |       |
+| Deception (CHA)       | -2   |       |       |
+| History (INT)         | +2   |       |       |
+| Insight (WIS)         | 0    |       |       |
+| Intimidation (CHA)    | -2   |       |       |
+| Investigation (INT)   | +2   |       |       |
 | Medicine (WIS)        |      |       |       |
 | Nature (INT)          |      |       |       |
 | Perception (WIS)      |      |       |       |

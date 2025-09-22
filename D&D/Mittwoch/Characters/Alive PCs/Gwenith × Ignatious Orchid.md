@@ -7,6 +7,7 @@ https://www.dndbeyond.com/characters/xxx
 
 Wearing a Helmet emitting fire
 Wearing [[plate-armor|Plate Armor]] w/ orange highlights, fiery motif
+![[Gwenith Drawing.png]]
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 

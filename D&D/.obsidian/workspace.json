@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0900adb7963e063b",
+        "id": "f379d2d7c5c1cc94",
         "type": "tabs",
         "children": [
           {
-            "id": "5c30217cd4dbf09a",
+            "id": "ac3a08a2444a52bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND Markdown/templates/character/Empty.md",
+                "file": "Mittwoch/Characters/Alive PCs/Kaos × Shriek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empty"
+              "title": "Kaos × Shriek"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND Markdown/templates/character/Empty.md",
+                "file": "Mittwoch/Characters/Alive PCs/Kaos × Shriek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Empty"
+              "title": "Backlinks for Kaos × Shriek"
             }
           },
           {
@@ -190,18 +190,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c30217cd4dbf09a",
+  "active": "ac3a08a2444a52bf",
   "lastOpenFiles": [
-    "DND Markdown/compendium/classes/Artificer/artificer-artillerist.md",
     "Mittwoch/Characters/Alive PCs/Breanne × Spade.md",
+    "Mittwoch/Characters/Alive PCs/Kaos × Shriek.md",
+    "DND Markdown/compendium/classes/Bard/bard.md",
+    "DND Markdown/compendium/races/elf.md",
+    "Mittwoch/Characters/Alive PCs/Edward × MerdhsaewndÎr (Merdh) (He ~ It).md",
+    "Mittwoch/Characters/Alive PCs/Gwenith × Ignatious Orchid.md",
+    "Mittwoch/Characters/Alive PCs/Images/Gwenith Drawing.png",
+    "Mittwoch/Characters/Alive PCs/Images/Merdh Drawing.png",
+    "Mittwoch/Characters/Alive PCs/Joshua × Pentious.md",
+    "DND Markdown/compendium/objects/generic-object.md",
+    "DND Markdown/compendium/objects/objects.md",
+    "DND Markdown/compendium/classes/Barbarian/barbarian.md",
+    "DND Markdown/compendium/classes/classes.md",
+    "DND Markdown/templates/character/Empty.md",
+    "DND Markdown/compendium/classes/Artificer/artificer-artillerist.md",
     "Mittwoch/Characters/Alive PCs/Images/Spade Drawing.png",
     "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
-    "DND Markdown/compendium/classes/classes.md",
     "DND Markdown/compendium/classes/Artificer/artificer.md",
-    "Mittwoch/Characters/Alive PCs/Edward × MerdhsaewndÎr (He ~ It).md",
-    "DND Markdown/compendium/races/elf.md",
     "DND Markdown/compendium/races/yuan-ti.md",
-    "Mittwoch/Characters/Alive PCs/Joshua × Pentious.md",
     "DND Markdown/compendium/bestiary/humanoid/druid.md",
     "DND Markdown/compendium/classes/Druid/druid.md",
     "DND Markdown/compendium/classes/Cleric/cleric-life-domain.md",
@@ -212,13 +221,6 @@
     "DND Markdown/compendium/races/tiefling.md",
     "DND Markdown/compendium/races/dragonborn.md",
     "Staff of Flowers.md",
-    "DND Markdown/templates/character/Empty.md",
-    "DND Markdown/compendium/items/staff-of-flowers.md",
-    "DND Markdown/compendium/items/staff-of-the-python.md",
-    "DND Markdown/compendium/items/staff-of-charming.md",
-    "DND Markdown/compendium/items/abacus.md",
-    "Mittwoch/Characters/Alive PCs/Madison ×.md",
-    "Mittwoch/Characters/Alive PCs/Gwenith × Ignatious.md",
     "Mittwoch/Map/Map.png",
     "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
     "Mittwoch/Characters/Alive PCs/Images/Desith Dark Blue.png",

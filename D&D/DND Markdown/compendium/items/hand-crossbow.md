@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/ammunition
-- item/property/light
-- item/property/loading
-- item/property/martial
-- item/weapon/martial/ranged
-aliases: ["Hand Crossbow"]
+  - compendium/src/5e/phb
+  - item/property/ammunition
+  - item/property/light
+  - item/property/loading
+  - item/property/martial
+  - item/weapon/martial/ranged
+  - item/damageType/piercing
+aliases:
+  - Hand Crossbow
 ---
 # Hand Crossbow
 *Ranged Weapon*  

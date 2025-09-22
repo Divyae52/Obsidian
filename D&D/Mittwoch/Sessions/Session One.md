@@ -28,7 +28,7 @@ People look in bag, don't touch.
 [[Kaos × Shriek]] tries to steal, 8 v.s. 12, fails, [[Ethan × Henka]] grabs [[Kaos × Shriek]], says No.
 [[Avany × Acamenos aka Aseral]] wants rations persuades, "It'll be lighter if I carry some! and neither of us can run with the supplies" 12 v.s. 2, succeds
 [[Ethan × Henka]] gives half the rations (5)
-[[Ethan × Henka]] gives 1 ration to [[Aidan × Desith]] [[Joshua × Pentious]] [[Kaos × Shriek]] [[Gwenith × Ignatious]]
+[[Ethan × Henka]] gives 1 ration to [[Aidan × Desith]] [[Joshua × Pentious]] [[Kaos × Shriek]] [[Gwenith × Ignatious Orchid]]
 [[Kaos × Shriek]] runs aimlessly away from the village (North)
 [[Avany × Acamenos aka Aseral]] get 1 waterskin
 [[Ethan × Henka]] walks South, "You can follow if you want"
