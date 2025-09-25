@@ -1,4 +1,6 @@
-
+---
+dg-publish: true
+---
 We start on an unmanned boat, magically pushed off the boat once we reach the shore, and the boat leaves at [[Port of Olum Cee]]
 [[Ethan × Henka]] and [[Breanne × Spade]] transform into generic human
 Short old [[Short Wispy Dwarf Lady]] w/ cane, [[Tall Buff Goliath]] w/ [[plate-armor|Plate Armor]] comes

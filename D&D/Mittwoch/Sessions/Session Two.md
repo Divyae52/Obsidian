@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Avany × Acamenos aka Aseral]] and [[Ethan × Henka]] go south, [[Joshua × Pentious]] follows
 [[Kaos × Shriek]] will eventually end up south
 [[Aidan × Desith]] goes south
