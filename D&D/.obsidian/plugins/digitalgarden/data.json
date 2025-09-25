@@ -1,6 +1,6 @@
 {
   "githubRepo": "obsid-digital-garden",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "Divyae52",
   "gardenBaseUrl": "",
   "prHistory": [],
@@ -11,7 +11,7 @@
   "noteSettingsIsInitialized": true,
   "siteName": "Digital Garden",
   "mainLanguage": "en",
-  "slugifyEnabled": true,
+  "slugifyEnabled": false,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
   "showNoteIconOnTitle": false,

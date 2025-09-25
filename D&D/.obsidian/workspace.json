@@ -11,14 +11,31 @@
             "id": "aaa56c5fd2bf4940",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mittwoch/Map/Map.canvas",
+                "viewState": {
+                  "x": -30,
+                  "y": -2.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Map"
+            }
+          },
+          {
+            "id": "f0ffa8f0eb4363ce",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Map/index.Map.md",
+                "file": "DND Markdown/templates/massproperties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.Map"
+              "title": "massproperties"
             }
           },
           {
@@ -52,7 +69,8 @@
               "title": "Map"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/Map/index.Map.md",
+                "file": "DND Markdown/templates/massproperties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index.Map"
+              "title": "Backlinks for massproperties"
             }
           },
           {
@@ -222,25 +240,27 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "aaa56c5fd2bf4940",
+  "active": "f0ffa8f0eb4363ce",
   "lastOpenFiles": [
-    "Mittwoch/index.Mittwoch.md",
-    "Mittwoch/Map/Hitam Lake.md",
-    "Mittwoch/Map/index.Map.md",
+    "Mittwoch/Characters/Alive PCs/Madison × Zephyr.md",
+    "DND Markdown/templates/massproperties.md",
     "Mittwoch/Map/Järvevaade.md",
+    "Mittwoch/Map/Map.png",
     "Mittwoch/Map/Map.canvas",
+    "Mittwoch/Map/index.Map.md",
     "Mittwoch/Map/Nui Island.md",
     "Mittwoch/Map/Port of Olum Cee.md",
     "Mittwoch/Map/Seeblick.md",
     "Mittwoch/Map/Sekitsui Mountains.md",
     "Mittwoch/Map/tāpara Volcano.md",
-    "Mittwoch/Map/Map.png",
+    "Mittwoch/index.Mittwoch.md",
+    "Mittwoch/Map/Hitam Lake.md",
+    "index.D&D.md",
+    "Mittwoch/Entry.md",
     "Mittwoch/Map/Port of Olum Cee.png",
     "Mittwoch/Sessions/index.Sessions.md",
     "Mittwoch/Sessions/Session One.md",
     "Mittwoch/Sessions/Session Two.md",
-    "Mittwoch/Entry.md",
-    "index.D&D.md",
     "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
     "Mittwoch/index.Mittwoch (2).md",
     "DND Markdown/index.DND Markdown (2).md",
@@ -251,7 +271,6 @@
     "DND Markdown/templates/index.templates (2).md",
     "DND Markdown/rules/index.rules (2).md",
     "DND Markdown/compendium/index.compendium (2).md",
-    "Mittwoch/Characters/NPCs/index.NPCs (2).md",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145350.png",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145022.png",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145017.png",

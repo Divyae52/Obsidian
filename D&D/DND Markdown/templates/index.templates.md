@@ -3,6 +3,7 @@
  [[DND Markdown/templates/character/index.character|index.character]]
  [[DND Markdown/templates/item/index.item|index.item]]
  [[DND Markdown/templates/location/index.location|index.location]]
+ [[DND Markdown/templates/massproperties|massproperties]]
  [[DND Markdown/templates/npc/index.npc|index.npc]]
  [[DND Markdown/templates/organization/index.organization|index.organization]]
  [[DND Markdown/templates/session/index.session|index.session]]
