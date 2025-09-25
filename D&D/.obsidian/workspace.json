@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/index.Mittwoch.md",
+                "file": "index.D&D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.Mittwoch"
+              "title": "index.D&D"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/index.Mittwoch.md",
+                "file": "index.D&D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index.Mittwoch"
+              "title": "Backlinks for index.D&D"
             }
           },
           {
@@ -233,13 +233,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "peerdraft:Show my Peerdraft Shares": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "00a1929359789195",
   "lastOpenFiles": [
-    "Mittwoch/index.Mittwoch (2).md",
     "Mittwoch/index.Mittwoch.md",
+    "Mittwoch/index.Mittwoch (2).md",
     "index.D&D.md",
     "DND Markdown/index.DND Markdown (2).md",
     "Mittwoch/Sessions/index.Sessions (2).md",
