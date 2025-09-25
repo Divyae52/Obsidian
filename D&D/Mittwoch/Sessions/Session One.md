@@ -35,3 +35,10 @@ People look in bag, don't touch.
 [[Joshua × Pentious]] runs after [[Kaos × Shriek]], rolls athletics 2+5=7
 Island is a place only whispered about, only sent if so bad been exiled by society. We don't know why were here.
 We don't know how long ago what we remember is, don't remember recent history.
+
+South:
+[[Ethan × Henka]]
+
+North:
+[[Kaos × Shriek]]
+[[Joshua × Pentious]] (Failed)

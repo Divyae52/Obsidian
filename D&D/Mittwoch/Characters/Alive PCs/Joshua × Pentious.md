@@ -8,6 +8,8 @@ https://www.dndbeyond.com/characters/xxx
 Lower body is snake tail
 Humanoid upper body
 [[breastplate|Breastplate]]
+Standing 5'11"
+Holding spear, has javelin
 
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]

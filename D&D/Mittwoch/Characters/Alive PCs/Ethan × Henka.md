@@ -1,13 +1,15 @@
 https://www.dndbeyond.com/characters/xxx
 
-| Species    | Class | Alignment    | Experience Points |
-| ---------- | ----- | ------------ | ----------------- |
-| Changeling |       | True Neutral | Milestone (3)     |
+| Species    | Class                                                           | Alignment    | Experience Points |
+| ---------- | --------------------------------------------------------------- | ------------ | ----------------- |
+| Changeling | [[artificer\|Artificer]] [[artificer-artillerist\|Artillerist]] | True Neutral | Milestone (3)     |
 ## Appearance
+
 
 [[breastplate|Breastplate]]
 Cloth Pants
 Boots
+Looks like Ethan in cloak
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 
@@ -28,8 +30,8 @@ Boots
 | Passive Investigation |       |
 | Passive Insight       |       |
 | Speed                 | 30ft  |
-| Amor Class (AC)       |       |
-| Initiative            |       |
+| Amor Class (AC)       | 18    |
+| Initiative            | +1    |
 
 ## Skills
 [**P**] is Proficent

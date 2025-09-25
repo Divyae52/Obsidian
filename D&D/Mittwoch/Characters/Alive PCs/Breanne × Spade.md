@@ -5,7 +5,12 @@ https://www.dndbeyond.com/characters/152679320
 | Changeling [[sorcerer\|Sorcerer]] [[wild-magic-tce\|Wild Magic]] 3 ]  | True Neutral | Milestone (3)     |
 ## Appearance
 ![[Spade Drawing.png]]
-
+Currently:
+Human
+blue eyes
+bolnd hair
+chester accessories
+5'10"
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 
@@ -126,12 +131,12 @@ https://www.dndbeyond.com/characters/152679320
 
 ### Cantrips
 
-* [[chill-touch|Chill Touch]]
-* [[fire-bolt|Fire Bolt]]
-* [[Lightning Lure]]
-* [[Mind Sliver]]
-* [[poison-spray|Poison Spray]]
-* [[ray-of-frost|Ray of Frost]]
+* [[chill-touch|Chill Touch]] - Create a hand, on ranged spell attack hit the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn. 120 ft.
+* [[fire-bolt|Fire Bolt]] - On ranged attack spell hit of 120 ft., deal 1d10 fire damage.
+* [[Lightning Lure]] - 15 ft. seen. Creature succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
+* [[Mind Sliver]] - 60 ft seen. Succeed on Intelligence saving throw or take 1d6 psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn. 
+* [[poison-spray|Poison Spray]] - 10 ft. far puff, creature must make a Constitution saving throw or take 1d12 poison damage.
+* [[ray-of-frost|Ray of Frost]] - On ranged attack spell hit of 60 ft., deal 1d8 cold damage + speed reduced by 10 ft. until your next turn.
 
 ### First Level
 
@@ -139,29 +144,17 @@ https://www.dndbeyond.com/characters/152679320
 * [ ] Spell Slot 2
 * [ ] Spell Slot 3
 * [ ] Spell Slot 4
-* [[charm-person|Charm Person]]
-* [[false-life|False Life]] (**U**)
-* [[Tasha's Caustic Brew]] (**U**)
+* [[charm-person|Charm Person]] - Creature in 30 ft. makes a wisdom saving throw, with advantage if you or teammates are fighting it. If failed, it is charmed until 1 hour passes or you/teammates harm it.
+* [[false-life|False Life]] (**U**) - 1d4 + 4 temp. hit points to yourself for one hour.
+* [[Tasha's Caustic Brew]] (**U**) 30ft. long, 5ft. wide. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at the start of each of its turns.
 
 ### Second Level
 
 * [ ] Spell Slot 1
 * [ ] Spell Slot 2
-* [[gust-of-wind|Gust of Wind]]
-* [[misty-step|Misty Step]]
+* [[gust-of-wind|Gust of Wind]] - 60ft. long, 10 ft. wide for 1 min. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line. Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you. The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50% chance chance to extinguish them. As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
+* [[misty-step|Misty Step]] - You teleport up to 30 feet to an unoccupied space that you can see. (BA)
 
 ## Background
 
 *Insert traumatic experiences here*
-
-
-D&D Beyond Puller: change char id
-```dataviewjs
-	const character_id = "152679320"
-
-const headers = {}
-const url = "https://character-service.dndbeyond.com/character/v5/character/" + character_id
-const character_sheet_json = await requestUrl({url: url, headers})
-const data = character_sheet_json.json.data
-dv.paragraph(data)
-```

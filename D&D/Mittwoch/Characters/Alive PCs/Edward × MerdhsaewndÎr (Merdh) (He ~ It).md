@@ -6,6 +6,9 @@ https://www.dndbeyond.com/characters/xxx
 ## Appearance
 
 ![[Merdh Drawing.png]]
+![[Pasted image 20250924145022.png]]
+Elf
+
 
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]

@@ -1,11 +1,15 @@
 https://www.dndbeyond.com/characters/xxx
 
-| Species | Class | Alignment    | Experience Points |
-| ------- | ----- | ------------ | ----------------- |
-|         |       | True Neutral | Milestone (3)     |
+| Species                          | Class              | Alignment    | Experience Points |
+| -------------------------------- | ------------------ | ------------ | ----------------- |
+| [[goblin\|Goblin]] (Add Species) | [[ranger\|Ranger]] | True Neutral | Milestone (3)     |
 ## Appearance
 
-
+Red eyes
+4'
+greyish green skin
+Studded bracelets jewelry
+sharp teeth
 ## Characteristics
 
 | STR | DEX | CON | INT | WIS | CHA |

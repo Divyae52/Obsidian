@@ -6,6 +6,7 @@ https://www.dndbeyond.com/characters/xxx
 | ---------------------- | ----- | ------------ | ----------------- |
 | [[tiefling\|Tiefling]] |       | True Neutral | Milestone (3)     |
 ## Appearance
+
 Looks a bit more human because of a spell (Voluntary), casted because tieflings are generally untrusted
 
 ## Characteristics

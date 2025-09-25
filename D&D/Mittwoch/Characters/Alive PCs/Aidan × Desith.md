@@ -94,7 +94,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 ## Languages and Proficiencies
 
 * `Instruments`: None
-* `Languages`: Common, Draconic
+* `Languages`: Common, Draconic, CSL
 * `Weapon Proficiencies`: Simple Weapons
 * `Armor Proficencies`: Heavy Armor, Medium Armor, Light Armor, [[DND Markdown/compendium/items/shield|Shield]]
 * `Tool Proficiencies`: [[alchemists-supplies|Alchemist's Supplies]], [[herbalism-kit|Herbalism Kit]]
