@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.D&D.md",
+                "file": "Mittwoch/Map/index.Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.D&D"
+              "title": "index.Map"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.D&D.md",
+                "file": "Mittwoch/Map/index.Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index.D&D"
+              "title": "Backlinks for index.Map"
             }
           },
           {
@@ -225,6 +225,17 @@
   "active": "aaa56c5fd2bf4940",
   "lastOpenFiles": [
     "Mittwoch/index.Mittwoch.md",
+    "Mittwoch/Map/Hitam Lake.md",
+    "Mittwoch/Map/index.Map.md",
+    "Mittwoch/Map/Järvevaade.md",
+    "Mittwoch/Map/Map.canvas",
+    "Mittwoch/Map/Nui Island.md",
+    "Mittwoch/Map/Port of Olum Cee.md",
+    "Mittwoch/Map/Seeblick.md",
+    "Mittwoch/Map/Sekitsui Mountains.md",
+    "Mittwoch/Map/tāpara Volcano.md",
+    "Mittwoch/Map/Map.png",
+    "Mittwoch/Map/Port of Olum Cee.png",
     "Mittwoch/Sessions/index.Sessions.md",
     "Mittwoch/Sessions/Session One.md",
     "Mittwoch/Sessions/Session Two.md",
@@ -241,17 +252,6 @@
     "DND Markdown/rules/index.rules (2).md",
     "DND Markdown/compendium/index.compendium (2).md",
     "Mittwoch/Characters/NPCs/index.NPCs (2).md",
-    "Mittwoch/Characters/Alive PCs/index.Alive PCs (2).md",
-    "DND Markdown/templates/session/index.session (2).md",
-    "DND Markdown/templates/organization/index.organization (2).md",
-    "DND Markdown/templates/npc/index.npc (2).md",
-    "DND Markdown/templates/location/index.location (2).md",
-    "DND Markdown/templates/item/index.item (2).md",
-    "DND Markdown/templates/character/index.character (2).md",
-    "DND Markdown/templates/adventure/index.adventure (2).md",
-    "DND Markdown/rules/variant-rules/index.variant-rules (2).md",
-    "Mittwoch/Map/Map.canvas",
-    "Mittwoch/Map/Map.png",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145350.png",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145022.png",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145017.png",
@@ -260,7 +260,6 @@
     "Mittwoch/Characters/Alive PCs/Images/Merdh Drawing.png",
     "Mittwoch/Characters/Alive PCs/Images/Spade Drawing.png",
     "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
-    "Mittwoch/Characters/Alive PCs/Images/Desith Dark Blue.png",
     "Untitled",
     "DND Markdown/rules/Combat",
     "DND Markdown/compendium/classes/Artificer",
