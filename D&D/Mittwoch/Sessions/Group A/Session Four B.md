@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Aidan × Desith]]: 15/27
 [[Madison × Zephyr (They Them)]]: 14/29
 [[Joshua × Pentious]]: 22/22

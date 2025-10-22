@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Kaos × Shriek]]
 [[{}Ethan × Henka]]
 [[{}Ash (Vittoria) × Asher]]

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Histoire:
 	Init:
 	[[{}Ethan × Henka]]20

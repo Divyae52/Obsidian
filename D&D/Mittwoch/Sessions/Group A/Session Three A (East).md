@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 [[{}Avany × Acamenos aka Aseral (They Them)]]
 [[Joshua × Pentious]]
