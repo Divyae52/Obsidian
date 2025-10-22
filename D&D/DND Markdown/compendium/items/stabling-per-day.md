@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/tack-and-harness
-aliases: ["Stabling (per day)"]
+  - compendium/src/5e/phb
+  - item/gear/tack-and-harness
+aliases:
+  - Stabling (per day)
+dg-publish: true
 ---
 # Stabling (per day)
 *Tack and Harness*  

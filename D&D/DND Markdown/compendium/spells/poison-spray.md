@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/conjuration
-aliases: ["Poison Spray"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/conjuration
+aliases:
+  - Poison Spray
+dg-publish: true
 ---
 # Poison Spray
 *cantrip, Conjuration*  

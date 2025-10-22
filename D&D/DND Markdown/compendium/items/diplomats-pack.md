@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Diplomat's Pack"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Diplomat's Pack
+dg-publish: true
 ---
 # Diplomat's Pack
 *Adventuring Gear*  

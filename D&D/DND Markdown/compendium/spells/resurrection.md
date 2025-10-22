@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/level/7
-- spell/school/necromancy
-aliases: ["Resurrection"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/level/7
+  - spell/school/necromancy
+aliases:
+  - Resurrection
+dg-publish: true
 ---
 # Resurrection
 *7th-level, Necromancy*  

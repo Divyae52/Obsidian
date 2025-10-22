@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Swarm of Ravens"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Swarm of Ravens
+dg-publish: true
 ---
 # Swarm of Ravens
 *Source: SRD / Basic Rules*  

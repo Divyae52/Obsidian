@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/school/evocation
-aliases: ["Fireball"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Fireball
+dg-publish: true
 ---
 # Fireball
 *3rd-level, Evocation*  

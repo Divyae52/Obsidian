@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
-aliases: ["Grick"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
+aliases:
+  - Grick
+dg-publish: true
 ---
 # Grick
 *Source: SRD / Basic Rules*  

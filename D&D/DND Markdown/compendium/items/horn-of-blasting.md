@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/major
-- item/wondrous
-aliases: ["Horn of Blasting"]
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Horn of Blasting
+dg-publish: true
 ---
 # Horn of Blasting
 *Wondrous Item, major, rare*  

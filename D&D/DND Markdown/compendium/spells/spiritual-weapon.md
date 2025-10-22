@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/2
-- spell/school/evocation
-aliases: ["Spiritual Weapon"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Spiritual Weapon
+dg-publish: true
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  

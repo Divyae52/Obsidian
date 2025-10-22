@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/6
-- spell/ritual
-- spell/school/abjuration
-aliases: ["Forbiddance"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/6
+  - spell/ritual
+  - spell/school/abjuration
+aliases:
+  - Forbiddance
+dg-publish: true
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  

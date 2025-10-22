@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Animate Objects"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Animate Objects
+dg-publish: true
 ---
 # Animate Objects
 *5th-level, Transmutation*  

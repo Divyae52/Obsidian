@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/beast
-aliases: ["Swarm of Poisonous Snakes"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Swarm of Poisonous Snakes
+dg-publish: true
 ---
 # Swarm of Poisonous Snakes
 *Source: SRD / Basic Rules*  

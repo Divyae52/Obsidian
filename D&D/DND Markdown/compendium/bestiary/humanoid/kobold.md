@@ -2,19 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/humanoid/kobold
-aliases: ["Kobold"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/humanoid/kobold
+aliases:
+  - Kobold
+dg-publish: true
 ---
 # Kobold
 *Source: SRD / Basic Rules*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/egyptian
-- domain/nature
-- domain/tempest
-aliases: ["Sobek"]
+  - compendium/src/5e/phb
+  - deity/egyptian
+  - domain/nature
+  - domain/tempest
+aliases:
+  - Sobek
+dg-publish: true
 ---
 # Sobek
 *Source: SRD / Basic Rules* 

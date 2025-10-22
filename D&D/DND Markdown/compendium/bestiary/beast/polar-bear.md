@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/underdark
-- monster/size/large
-- monster/type/beast
-aliases: ["Polar Bear"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Polar Bear
+dg-publish: true
 ---
 # Polar Bear
 *Source: SRD / Basic Rules*  

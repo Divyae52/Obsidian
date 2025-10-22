@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Androsphinx"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Androsphinx
+dg-publish: true
 ---
 # Androsphinx
 *Source: SRD / Basic Rules*  

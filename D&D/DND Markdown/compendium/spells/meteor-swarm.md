@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/9
-- spell/school/evocation
-aliases: ["Meteor Swarm"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/evocation
+aliases:
+  - Meteor Swarm
+dg-publish: true
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

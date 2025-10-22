@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/trade-good
-aliases: ["Linen (1 sq. yd.)"]
+  - compendium/src/5e/phb
+  - item/gear/trade-good
+aliases:
+  - Linen (1 sq. yd.)
+dg-publish: true
 ---
 # Linen (1 sq. yd.)
 *Trade Good*  

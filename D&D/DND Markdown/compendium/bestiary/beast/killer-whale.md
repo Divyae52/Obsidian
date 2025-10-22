@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/beast
-aliases: ["Killer Whale"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/beast
+aliases:
+  - Killer Whale
+dg-publish: true
 ---
 # Killer Whale
 *Source: SRD / Basic Rules*  

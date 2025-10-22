@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Chimera"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Chimera
+dg-publish: true
 ---
 # Chimera
 *Source: SRD / Basic Rules*  

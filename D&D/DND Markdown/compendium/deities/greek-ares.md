@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greek
-- domain/war
-aliases: ["Ares"]
+  - compendium/src/5e/phb
+  - deity/greek
+  - domain/war
+aliases:
+  - Ares
+dg-publish: true
 ---
 # Ares
 *Source: SRD / Basic Rules* 

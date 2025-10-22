@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Storm Giant Strength"]
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Storm Giant Strength
+dg-publish: true
 ---
 # Potion of Storm Giant Strength
 *Potion, minor, legendary*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/size/large
-- monster/type/beast
-aliases: ["Rhinoceros"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Rhinoceros
+dg-publish: true
 ---
 # Rhinoceros
 *Source: SRD / Basic Rules*  

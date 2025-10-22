@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/beast
-aliases: ["Swarm of Quippers"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Swarm of Quippers
+dg-publish: true
 ---
 # Swarm of Quippers
 *Source: SRD / Basic Rules*  

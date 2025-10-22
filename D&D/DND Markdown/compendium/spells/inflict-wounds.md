@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/1
-- spell/school/necromancy
-aliases: ["Inflict Wounds"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/1
+  - spell/school/necromancy
+aliases:
+  - Inflict Wounds
+dg-publish: true
 ---
 # Inflict Wounds
 *1st-level, Necromancy*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/cantrip
-- spell/school/conjuration
-aliases: ["Produce Flame"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/cantrip
+  - spell/school/conjuration
+aliases:
+  - Produce Flame
+dg-publish: true
 ---
 # Produce Flame
 *cantrip, Conjuration*  

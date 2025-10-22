@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous
-aliases: ["Belt of Fire Giant Strength"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Belt of Fire Giant Strength
+dg-publish: true
 ---
 # Belt of Fire Giant Strength
 *Wondrous Item, major, very rare (requires attunement)*  

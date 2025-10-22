@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/gargantuan
-- monster/type/monstrosity/titan
-aliases: ["Tarrasque"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/gargantuan
+  - monster/type/monstrosity/titan
+aliases:
+  - Tarrasque
+dg-publish: true
 ---
 # Tarrasque
 *Source: SRD / Basic Rules*  

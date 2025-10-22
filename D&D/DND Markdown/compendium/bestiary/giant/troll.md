@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
-aliases: ["Troll"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
+aliases:
+  - Troll
+dg-publish: true
 ---
 # Troll
 *Source: SRD / Basic Rules*  

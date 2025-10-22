@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/mm
-aliases: ["Empowered Spell"]
+  - compendium/src/5e/phb
+  - optional-feature/mm
+aliases:
+  - Empowered Spell
+dg-publish: true
 ---
 # Empowered Spell
 *Source: SRD / Basic Rules* 

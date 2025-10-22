@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Eagle"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Eagle
+dg-publish: true
 ---
 # Giant Eagle
 *Source: SRD / Basic Rules*  

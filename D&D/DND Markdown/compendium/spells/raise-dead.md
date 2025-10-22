@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/5
-- spell/school/necromancy
-aliases: ["Raise Dead"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/5
+  - spell/school/necromancy
+aliases:
+  - Raise Dead
+dg-publish: true
 ---
 # Raise Dead
 *5th-level, Necromancy*  

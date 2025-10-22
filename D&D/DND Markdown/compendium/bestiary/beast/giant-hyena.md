@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Hyena"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Hyena
+dg-publish: true
 ---
 # Giant Hyena
 *Source: SRD / Basic Rules*  

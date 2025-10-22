@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/beast
-aliases: ["Triceratops"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/beast
+aliases:
+  - Triceratops
+dg-publish: true
 ---
 # Triceratops
 *Source: SRD / Basic Rules*  

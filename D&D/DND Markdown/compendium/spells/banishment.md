@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Banishment"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Banishment
+dg-publish: true
 ---
 # Banishment
 *4th-level, Abjuration*  

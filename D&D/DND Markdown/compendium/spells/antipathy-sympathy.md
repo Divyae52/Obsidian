@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/wizard
-- spell/level/8
-- spell/school/enchantment
-aliases: ["Antipathy/Sympathy"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/enchantment
+aliases:
+  - Antipathy/Sympathy
+dg-publish: true
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  

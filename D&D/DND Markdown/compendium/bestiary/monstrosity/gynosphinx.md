@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Gynosphinx"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Gynosphinx
+dg-publish: true
 ---
 # Gynosphinx
 *Source: SRD / Basic Rules*  

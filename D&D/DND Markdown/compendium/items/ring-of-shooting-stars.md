@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous/ring
-aliases: ["Ring of Shooting Stars"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous/ring
+aliases:
+  - Ring of Shooting Stars
+dg-publish: true
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  

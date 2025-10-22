@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
-aliases: ["Shadow"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Shadow
+dg-publish: true
 ---
 # Shadow
 *Source: SRD / Basic Rules*  

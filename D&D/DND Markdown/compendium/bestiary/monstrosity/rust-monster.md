@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
-aliases: ["Rust Monster"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
+aliases:
+  - Rust Monster
+dg-publish: true
 ---
 # Rust Monster
 *Source: SRD / Basic Rules*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/gargantuan
-- monster/type/monstrosity/titan
-aliases: ["Kraken"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/gargantuan
+  - monster/type/monstrosity/titan
+aliases:
+  - Kraken
+dg-publish: true
 ---
 # Kraken
 *Source: SRD / Basic Rules*  

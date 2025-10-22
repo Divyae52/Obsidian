@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/trade-good
-aliases: ["Platinum"]
+  - compendium/src/5e/phb
+  - item/gear/trade-good
+aliases:
+  - Platinum
+dg-publish: true
 ---
 # Platinum
 *Trade Good*  

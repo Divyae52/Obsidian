@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/versatile
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/staff
-aliases: ["Staff of Charming"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/staff
+aliases:
+  - Staff of Charming
+dg-publish: true
 ---
 # Staff of Charming
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Barkskin"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Barkskin
+dg-publish: true
 ---
 # Barkskin
 *2nd-level, Transmutation*  

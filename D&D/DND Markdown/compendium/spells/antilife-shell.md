@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/5
-- spell/school/abjuration
-aliases: ["Antilife Shell"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/5
+  - spell/school/abjuration
+aliases:
+  - Antilife Shell
+dg-publish: true
 ---
 # Antilife Shell
 *5th-level, Abjuration*  

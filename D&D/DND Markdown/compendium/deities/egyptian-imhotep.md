@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/egyptian
-- domain/knowledge
-aliases: ["Imhotep"]
+  - compendium/src/5e/phb
+  - deity/egyptian
+  - domain/knowledge
+aliases:
+  - Imhotep
+dg-publish: true
 ---
 # Imhotep
 *Source: SRD / Basic Rules* 

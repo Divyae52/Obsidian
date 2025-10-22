@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/rod
-aliases: ["Rod of Rulership"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/rod
+aliases:
+  - Rod of Rulership
+dg-publish: true
 ---
 # Rod of Rulership
 *Rod, major, rare (requires attunement)*  

@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Mounts and Vehicles; Tack, Harness, and Drawn Vehicles"]
+  - compendium/src/5e/phb
+aliases:
+  - Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
+dg-publish: true
 ---
 # Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
 *Source: SRD / Basic Rules* 

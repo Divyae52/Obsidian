@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/large
-- monster/type/elemental
-aliases: ["Efreeti"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/elemental
+aliases:
+  - Efreeti
+dg-publish: true
 ---
 # Efreeti
 *Source: SRD / Basic Rules*  

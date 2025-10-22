@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/divination
-aliases: ["Comprehend Languages"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Comprehend Languages
+dg-publish: true
 ---
 # Comprehend Languages
 *1st-level, Divination (ritual)*  

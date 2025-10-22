@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/cantrip
-- spell/school/transmutation
-aliases: ["Thaumaturgy"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/cantrip
+  - spell/school/transmutation
+aliases:
+  - Thaumaturgy
+dg-publish: true
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  

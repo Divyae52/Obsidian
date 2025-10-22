@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/celestial
-aliases: ["Deva"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/celestial
+aliases:
+  - Deva
+dg-publish: true
 ---
 # Deva
 *Source: SRD / Basic Rules*  

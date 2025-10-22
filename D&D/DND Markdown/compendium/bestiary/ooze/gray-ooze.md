@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/ooze
-aliases: ["Gray Ooze"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/ooze
+aliases:
+  - Gray Ooze
+dg-publish: true
 ---
 # Gray Ooze
 *Source: SRD / Basic Rules*  

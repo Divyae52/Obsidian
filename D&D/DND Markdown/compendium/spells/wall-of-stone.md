@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/5
-- spell/school/evocation
-aliases: ["Wall of Stone"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Wall of Stone
+dg-publish: true
 ---
 # Wall of Stone
 *5th-level, Evocation*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous/wand
-aliases: ["+1 Wand of the War Mage"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous/wand
+aliases:
+  - +1 Wand of the War Mage
+dg-publish: true
 ---
 # +1 Wand of the War Mage
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

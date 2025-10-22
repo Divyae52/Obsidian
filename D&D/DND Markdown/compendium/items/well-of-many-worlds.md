@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: ["Well of Many Worlds"]
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Well of Many Worlds
+dg-publish: true
 ---
 # Well of Many Worlds
 *Wondrous Item, major, legendary*  

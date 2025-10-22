@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/weapon/ammunition
-aliases: ["Crossbow Bolt"]
+  - compendium/src/5e/phb
+  - item/weapon/ammunition
+aliases:
+  - Crossbow Bolt
+dg-publish: true
 ---
 # Crossbow Bolt
 *Ammunition*  

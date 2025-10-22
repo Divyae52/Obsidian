@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/conjuration
-aliases: ["Acid Splash"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/conjuration
+aliases:
+  - Acid Splash
+dg-publish: true
 ---
 # Acid Splash
 *cantrip, Conjuration*  

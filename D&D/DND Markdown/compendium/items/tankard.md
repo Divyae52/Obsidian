@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Tankard"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Tankard
+dg-publish: true
 ---
 # Tankard
 *Adventuring Gear*  

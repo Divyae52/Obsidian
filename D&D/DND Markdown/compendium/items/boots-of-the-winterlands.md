@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: ["Boots of the Winterlands"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Boots of the Winterlands
+dg-publish: true
 ---
 # Boots of the Winterlands
 *Wondrous Item, major, uncommon (requires attunement)*  

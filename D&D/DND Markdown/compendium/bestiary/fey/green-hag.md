@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/fey
-aliases: ["Green Hag"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/fey
+aliases:
+  - Green Hag
+dg-publish: true
 ---
 # Green Hag
 *Source: SRD / Basic Rules*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/gaming-set
-aliases: ["Dice Set"]
+  - compendium/src/5e/phb
+  - item/gear/gaming-set
+aliases:
+  - Dice Set
+dg-publish: true
 ---
 # Dice Set
 *Gaming Set*  

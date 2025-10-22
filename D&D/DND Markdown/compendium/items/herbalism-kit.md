@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/tools
-aliases: ["Herbalism Kit"]
+  - compendium/src/5e/phb
+  - item/gear/tools
+aliases:
+  - Herbalism Kit
+dg-publish: true
 ---
 # Herbalism Kit
 *Tools*  

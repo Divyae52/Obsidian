@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/martial
-- item/property/thrown
-- item/property/versatile
-- item/rarity/uncommon
-- item/tier/major
-- item/weapon/martial/melee
-aliases: ["Trident of Fish Command"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/martial
+  - item/property/thrown
+  - item/property/versatile
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/weapon/martial/melee
+aliases:
+  - Trident of Fish Command
+dg-publish: true
 ---
 # Trident of Fish Command
 *Melee Weapon, major, uncommon (requires attunement)*  

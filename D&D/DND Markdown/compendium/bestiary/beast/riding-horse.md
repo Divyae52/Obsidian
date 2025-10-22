@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
-aliases: ["Riding Horse"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Riding Horse
+dg-publish: true
 ---
 # Riding Horse
 *Source: SRD / Basic Rules*  

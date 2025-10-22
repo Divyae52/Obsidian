@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Sentient Special Purpose"]
+  - compendium/src/5e/dmg
+aliases:
+  - Sentient Special Purpose
+dg-publish: true
 ---
 # Sentient Special Purpose
 *Source: SRD / Basic Rules* 

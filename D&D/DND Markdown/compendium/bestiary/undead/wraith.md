@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead
-aliases: ["Wraith"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Wraith
+dg-publish: true
 ---
 # Wraith
 *Source: SRD / Basic Rules*  

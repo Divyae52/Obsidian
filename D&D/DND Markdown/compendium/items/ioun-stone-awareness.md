@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous
-aliases: ["Ioun Stone, Awareness"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Ioun Stone, Awareness
+dg-publish: true
 ---
 # Ioun Stone, Awareness
 *Wondrous Item, major, rare (requires attunement)*  

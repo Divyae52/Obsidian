@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/egyptian
-- domain/arcana
-- domain/knowledge
-- domain/life
-aliases: ["Isis"]
+  - compendium/src/5e/phb
+  - deity/egyptian
+  - domain/arcana
+  - domain/knowledge
+  - domain/life
+aliases:
+  - Isis
+dg-publish: true
 ---
 # Isis
 *Source: SRD / Basic Rules* 

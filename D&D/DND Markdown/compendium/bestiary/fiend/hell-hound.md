@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fiend
-aliases: ["Hell Hound"]
+  - compendium/src/5e/mm
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fiend
+aliases:
+  - Hell Hound
+dg-publish: true
 ---
 # Hell Hound
 *Source: SRD / Basic Rules*  

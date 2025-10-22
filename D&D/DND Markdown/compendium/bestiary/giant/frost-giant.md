@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/giant
-aliases: ["Frost Giant"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/giant
+aliases:
+  - Frost Giant
+dg-publish: true
 ---
 # Frost Giant
 *Source: SRD / Basic Rules*  

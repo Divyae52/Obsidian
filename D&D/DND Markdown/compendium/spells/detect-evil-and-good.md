@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/1
-- spell/school/divination
-aliases: ["Detect Evil and Good"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/1
+  - spell/school/divination
+aliases:
+  - Detect Evil and Good
+dg-publish: true
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Cloudkill"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Cloudkill
+dg-publish: true
 ---
 # Cloudkill
 *5th-level, Conjuration*  

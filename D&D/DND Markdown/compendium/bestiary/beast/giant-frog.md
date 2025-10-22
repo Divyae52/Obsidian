@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/beast
-aliases: ["Giant Frog"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Giant Frog
+dg-publish: true
 ---
 # Giant Frog
 *Source: SRD / Basic Rules*  

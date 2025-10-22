@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Shocking Grasp"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Shocking Grasp
+dg-publish: true
 ---
 # Shocking Grasp
 *cantrip, Evocation*  

@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/medium
-- monster/type/celestial
-aliases: ["Couatl"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/celestial
+aliases:
+  - Couatl
+dg-publish: true
 ---
 # Couatl
 *Source: SRD / Basic Rules*  

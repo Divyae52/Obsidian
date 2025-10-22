@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/celtic
-- domain/forge
-- domain/knowledge
-- domain/life
-aliases: ["Goibhniu"]
+  - compendium/src/5e/phb
+  - deity/celtic
+  - domain/forge
+  - domain/knowledge
+  - domain/life
+aliases:
+  - Goibhniu
+dg-publish: true
 ---
 # Goibhniu
 *Source: SRD / Basic Rules* 

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/conjuration
-aliases: ["Find Familiar"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/conjuration
+aliases:
+  - Find Familiar
+dg-publish: true
 ---
 # Find Familiar
 *1st-level, Conjuration (ritual)*  

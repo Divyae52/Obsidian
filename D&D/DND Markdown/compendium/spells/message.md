@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/transmutation
-aliases: ["Message"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/transmutation
+aliases:
+  - Message
+dg-publish: true
 ---
 # Message
 *cantrip, Transmutation*  

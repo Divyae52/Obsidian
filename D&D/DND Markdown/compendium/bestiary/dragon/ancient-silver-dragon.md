@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/gargantuan
-- monster/type/dragon
-aliases: ["Ancient Silver Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/gargantuan
+  - monster/type/dragon
+aliases:
+  - Ancient Silver Dragon
+dg-publish: true
 ---
 # Ancient Silver Dragon
 *Source: SRD / Basic Rules*  

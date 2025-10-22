@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/monstrosity
-aliases: ["Harpy"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/monstrosity
+aliases:
+  - Harpy
+dg-publish: true
 ---
 # Harpy
 *Source: SRD / Basic Rules*  

@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/monk
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/9
-- spell/school/necromancy
-aliases: ["Astral Projection"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/monk
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/necromancy
+aliases:
+  - Astral Projection
+dg-publish: true
 ---
 # Astral Projection
 *9th-level, Necromancy*  

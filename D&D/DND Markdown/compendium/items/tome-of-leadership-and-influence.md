@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous
-aliases: ["Tome of Leadership and Influence"]
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Tome of Leadership and Influence
+dg-publish: true
 ---
 # Tome of Leadership and Influence
 *Wondrous Item, major, very rare*  

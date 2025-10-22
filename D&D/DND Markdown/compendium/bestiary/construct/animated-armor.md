@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/construct
-aliases: ["Animated Armor"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/construct
+aliases:
+  - Animated Armor
+dg-publish: true
 ---
 # Animated Armor
 *Source: SRD / Basic Rules*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/6
-- spell/school/evocation
-aliases: ["Blade Barrier"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/6
+  - spell/school/evocation
+aliases:
+  - Blade Barrier
+dg-publish: true
 ---
 # Blade Barrier
 *6th-level, Evocation*  

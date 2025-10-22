@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Whispers of the Grave"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Whispers of the Grave
+dg-publish: true
 ---
 # Whispers of the Grave
 *Source: SRD / Basic Rules* 

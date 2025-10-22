@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous
-aliases: ["Bag of Beans"]
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Bag of Beans
+dg-publish: true
 ---
 # Bag of Beans
 *Wondrous Item, minor, rare*  

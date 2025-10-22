@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Badger"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Badger
+dg-publish: true
 ---
 # Badger
 *Source: SRD / Basic Rules*  

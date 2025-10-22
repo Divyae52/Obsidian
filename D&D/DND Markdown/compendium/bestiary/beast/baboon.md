@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/small
-- monster/type/beast
-aliases: ["Baboon"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/small
+  - monster/type/beast
+aliases:
+  - Baboon
+dg-publish: true
 ---
 # Baboon
 *Source: SRD / Basic Rules*  

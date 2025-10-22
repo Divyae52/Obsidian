@@ -1,15 +1,11 @@
 https://www.dndbeyond.com/characters/xxx
 
-| Species                                 | Class                | Alignment    | Experience Points |
-| --------------------------------------- | -------------------- | ------------ | ----------------- |
-| [[centaur\|Centaur]] (Add Species Ver.) | [[paladin\|Paladin]] | True Neutral | Milestone (3)     |
+| Species | Class | Alignment    | Experience Points |
+| ------- | ----- | ------------ | ----------------- |
+|         |       | True Neutral | Milestone (3)     |
 ## Appearance
 
-Wearing a Helmet emitting fire
-Wearing [[plate-armor|Plate Armor]] w/ orange highlights, fiery motif
-Fire tail
-7'2"
-![[Gwenith Drawing.png]]
+
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 
@@ -87,7 +83,6 @@ Fire tail
 | 0      | 0      | 0        | 0    | 0        |
 
 * [[travelers-clothes|Traveler's Clothes]]
-* [[plate-armor|Plate Armor]]
 
 ## Languages, Proficiencies, and Speed
 

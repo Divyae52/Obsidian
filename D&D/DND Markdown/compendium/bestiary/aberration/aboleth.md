@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
-aliases: ["Aboleth"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
+aliases:
+  - Aboleth
+dg-publish: true
 ---
 # Aboleth
 *Source: SRD / Basic Rules*  

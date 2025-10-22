@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/9
-- spell/school/abjuration
-aliases: ["Imprisonment"]
+  - compendium/src/5e/phb
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/abjuration
+aliases:
+  - Imprisonment
+dg-publish: true
 ---
 # Imprisonment
 *9th-level, Abjuration*  

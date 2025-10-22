@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/desert
-- monster/size/large
-- monster/type/dragon
-aliases: ["Young Blue Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/dragon
+aliases:
+  - Young Blue Dragon
+dg-publish: true
 ---
 # Young Blue Dragon
 *Source: SRD / Basic Rules*  

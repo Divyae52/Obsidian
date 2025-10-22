@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/size/medium
-- monster/type/beast
-aliases: ["Giant Crab"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Giant Crab
+dg-publish: true
 ---
 # Giant Crab
 *Source: SRD / Basic Rules*  

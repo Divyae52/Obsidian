@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/9
-- spell/school/evocation
-aliases: ["Mass Heal"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/9
+  - spell/school/evocation
+aliases:
+  - Mass Heal
+dg-publish: true
 ---
 # Mass Heal
 *9th-level, Evocation*  

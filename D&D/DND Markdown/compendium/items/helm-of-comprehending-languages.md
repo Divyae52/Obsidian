@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous
-aliases: ["Helm of Comprehending Languages"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Helm of Comprehending Languages
+dg-publish: true
 ---
 # Helm of Comprehending Languages
 *Wondrous Item, minor, uncommon*  

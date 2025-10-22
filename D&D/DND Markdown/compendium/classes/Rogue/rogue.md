@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/rogue
-- compendium/src/5e/phb
-aliases: ["Rogue"]
+  - class/rogue
+  - compendium/src/5e/phb
+aliases:
+  - Rogue
+dg-publish: true
 ---
 # Rogue
 *Source: SRD / Basic Rules*  

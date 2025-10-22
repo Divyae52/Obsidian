@@ -8,6 +8,7 @@ tags:
   - item/damageType/piercing
 aliases:
   - Javelin
+dg-publish: true
 ---
 # Javelin
 *Melee Weapon*  

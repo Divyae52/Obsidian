@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/level/5
-- spell/school/necromancy
-aliases: ["Contagion"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/5
+  - spell/school/necromancy
+aliases:
+  - Contagion
+dg-publish: true
 ---
 # Contagion
 *5th-level, Necromancy*  

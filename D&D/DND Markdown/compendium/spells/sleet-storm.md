@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Sleet Storm"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Sleet Storm
+dg-publish: true
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

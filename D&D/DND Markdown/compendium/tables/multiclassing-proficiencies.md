@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Multiclassing Proficiencies"]
+  - compendium/src/5e/phb
+aliases:
+  - Multiclassing Proficiencies
+dg-publish: true
 ---
 # Multiclassing Proficiencies
 *Source: SRD / Basic Rules* 

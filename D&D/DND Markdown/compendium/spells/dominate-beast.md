@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/level/4
-- spell/school/enchantment
-aliases: ["Dominate Beast"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/level/4
+  - spell/school/enchantment
+aliases:
+  - Dominate Beast
+dg-publish: true
 ---
 # Dominate Beast
 *4th-level, Enchantment*  

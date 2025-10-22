@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/gear/poison
-- item/property/poison
-aliases: ["Drow Poison"]
+  - compendium/src/5e/dmg
+  - item/gear/poison
+  - item/property/poison
+aliases:
+  - Drow Poison
+dg-publish: true
 ---
 # Drow Poison
 *Adventuring Gear, poison*  

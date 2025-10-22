@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Spider"]
+  - compendium/src/5e/mm
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Spider
+dg-publish: true
 ---
 # Spider
 *Source: SRD / Basic Rules*  

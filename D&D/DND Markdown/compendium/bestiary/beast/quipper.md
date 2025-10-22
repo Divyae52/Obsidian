@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Quipper"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Quipper
+dg-publish: true
 ---
 # Quipper
 *Source: SRD / Basic Rules*  

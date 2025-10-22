@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
-aliases: ["Axe Beak"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Axe Beak
+dg-publish: true
 ---
 # Axe Beak
 *Source: SRD / Basic Rules*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/size/small
-- monster/type/monstrosity
-aliases: ["Cockatrice"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/size/small
+  - monster/type/monstrosity
+aliases:
+  - Cockatrice
+dg-publish: true
 ---
 # Cockatrice
 *Source: SRD / Basic Rules*  

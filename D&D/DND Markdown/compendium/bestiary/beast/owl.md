@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Owl"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Owl
+dg-publish: true
 ---
 # Owl
 *Source: SRD / Basic Rules*  

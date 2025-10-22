@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/beast
-aliases: ["Reef Shark"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Reef Shark
+dg-publish: true
 ---
 # Reef Shark
 *Source: SRD / Basic Rules*  

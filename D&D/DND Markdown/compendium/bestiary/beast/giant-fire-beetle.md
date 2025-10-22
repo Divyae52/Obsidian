@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/small
-- monster/type/beast
-aliases: ["Giant Fire Beetle"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/beast
+aliases:
+  - Giant Fire Beetle
+dg-publish: true
 ---
 # Giant Fire Beetle
 *Source: SRD / Basic Rules*  

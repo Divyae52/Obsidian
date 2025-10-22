@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/undead
-aliases: ["Minotaur Skeleton"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/undead
+aliases:
+  - Minotaur Skeleton
+dg-publish: true
 ---
 # Minotaur Skeleton
 *Source: SRD / Basic Rules*  

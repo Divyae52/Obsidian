@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Swarm of Rats"]
+  - compendium/src/5e/mm
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Swarm of Rats
+dg-publish: true
 ---
 # Swarm of Rats
 *Source: SRD / Basic Rules*  

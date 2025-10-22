@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/school/evocation
-aliases: ["Lightning Bolt"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Lightning Bolt
+dg-publish: true
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  

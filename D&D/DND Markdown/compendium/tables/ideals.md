@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-aliases: ["Ideals"]
+aliases:
+  - Ideals
+dg-publish: true
 ---
 # Ideals
 

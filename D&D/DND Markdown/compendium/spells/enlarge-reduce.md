@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Enlarge/Reduce"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Enlarge/Reduce
+dg-publish: true
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

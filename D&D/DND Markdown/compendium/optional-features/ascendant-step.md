@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Ascendant Step"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Ascendant Step
+dg-publish: true
 ---
 # Ascendant Step
 *Source: SRD / Basic Rules* 

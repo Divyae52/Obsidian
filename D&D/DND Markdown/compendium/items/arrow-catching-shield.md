@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/armor/shield
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-aliases: ["Arrow-Catching Shield"]
+  - compendium/src/5e/dmg
+  - item/armor/shield
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+aliases:
+  - Arrow-Catching Shield
+dg-publish: true
 ---
 # Arrow-Catching Shield
 *Shield, major, rare (requires attunement)*  

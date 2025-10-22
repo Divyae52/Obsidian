@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/medium
-- monster/type/monstrosity
-aliases: ["Death Dog"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/monstrosity
+aliases:
+  - Death Dog
+dg-publish: true
 ---
 # Death Dog
 *Source: SRD / Basic Rules*  

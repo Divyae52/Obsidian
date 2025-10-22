@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Aid"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Aid
+dg-publish: true
 ---
 # Aid
 *2nd-level, Abjuration*  

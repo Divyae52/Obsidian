@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/beast
-aliases: ["Tyrannosaurus Rex"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/beast
+aliases:
+  - Tyrannosaurus Rex
+dg-publish: true
 ---
 # Tyrannosaurus Rex
 *Source: SRD / Basic Rules*  

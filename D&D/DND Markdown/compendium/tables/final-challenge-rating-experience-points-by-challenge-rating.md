@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Final Challenge Rating; Experience Points by Challenge Rating"]
+  - compendium/src/5e/dmg
+aliases:
+  - Final Challenge Rating; Experience Points by Challenge Rating
+dg-publish: true
 ---
 # Final Challenge Rating; Experience Points by Challenge Rating
 *Source: SRD / Basic Rules* 

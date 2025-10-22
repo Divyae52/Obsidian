@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous
-aliases: ["Tome of Clear Thought"]
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Tome of Clear Thought
+dg-publish: true
 ---
 # Tome of Clear Thought
 *Wondrous Item, major, very rare*  

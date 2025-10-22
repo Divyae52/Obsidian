@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/2
-- spell/school/evocation
-aliases: ["Flame Blade"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Flame Blade
+dg-publish: true
 ---
 # Flame Blade
 *2nd-level, Evocation*  

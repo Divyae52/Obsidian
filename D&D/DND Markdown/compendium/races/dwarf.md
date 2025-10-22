@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/dwarf
-aliases: ["Dwarf"]
+  - compendium/src/5e/phb
+  - race/dwarf
+aliases:
+  - Dwarf
+dg-publish: true
 ---
 # Dwarf
 *Source: SRD / Basic Rules*  

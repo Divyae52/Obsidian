@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/versatile
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous/staff
-aliases: ["Staff of Thunder and Lightning"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous/staff
+aliases:
+  - Staff of Thunder and Lightning
+dg-publish: true
 ---
 # Staff of Thunder and Lightning
 *Staff, major, very rare (requires attunement)*  

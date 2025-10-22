@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/3
-- spell/school/illusion
-aliases: ["Major Image"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/illusion
+aliases:
+  - Major Image
+dg-publish: true
 ---
 # Major Image
 *3rd-level, Illusion*  

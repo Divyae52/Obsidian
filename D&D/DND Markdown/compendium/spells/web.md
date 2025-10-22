@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/conjuration
-aliases: ["Web"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/conjuration
+aliases:
+  - Web
+dg-publish: true
 ---
 # Web
 *2nd-level, Conjuration*  

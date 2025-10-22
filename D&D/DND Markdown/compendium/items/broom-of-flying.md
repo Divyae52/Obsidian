@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: ["Broom of Flying"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Broom of Flying
+dg-publish: true
 ---
 # Broom of Flying
 *Wondrous Item, major, uncommon*  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/celestial
-aliases: ["Solar"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/celestial
+aliases:
+  - Solar
+dg-publish: true
 ---
 # Solar
 *Source: SRD / Basic Rules*  

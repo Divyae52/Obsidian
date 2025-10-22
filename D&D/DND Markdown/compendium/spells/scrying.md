@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/5
-- spell/school/divination
-aliases: ["Scrying"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/divination
+aliases:
+  - Scrying
+dg-publish: true
 ---
 # Scrying
 *5th-level, Divination*  

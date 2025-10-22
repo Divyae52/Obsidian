@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/ranger
-- spell/level/2
-- spell/ritual
-- spell/school/illusion
-aliases: ["Silence"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/ranger
+  - spell/level/2
+  - spell/ritual
+  - spell/school/illusion
+aliases:
+  - Silence
+dg-publish: true
 ---
 # Silence
 *2nd-level, Illusion (ritual)*  

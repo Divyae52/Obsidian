@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/mech
-aliases: ["Poison Needle"]
+  - compendium/src/5e/dmg
+  - hazard/mech
+aliases:
+  - Poison Needle
+dg-publish: true
 ---
 # Poison Needle
 *Mechanical Trap*  

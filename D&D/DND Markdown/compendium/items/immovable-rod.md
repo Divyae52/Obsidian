@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous/rod
-aliases: ["Immovable Rod"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous/rod
+aliases:
+  - Immovable Rod
+dg-publish: true
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

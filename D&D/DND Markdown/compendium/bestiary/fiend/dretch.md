@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/small
-- monster/type/fiend/demon
-aliases: ["Dretch"]
+  - compendium/src/5e/mm
+  - monster/size/small
+  - monster/type/fiend/demon
+aliases:
+  - Dretch
+dg-publish: true
 ---
 # Dretch
 *Source: SRD / Basic Rules*  

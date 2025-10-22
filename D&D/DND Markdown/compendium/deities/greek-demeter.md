@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greek
-- domain/life
-aliases: ["Demeter"]
+  - compendium/src/5e/phb
+  - deity/greek
+  - domain/life
+aliases:
+  - Demeter
+dg-publish: true
 ---
 # Demeter
 *Source: SRD / Basic Rules* 

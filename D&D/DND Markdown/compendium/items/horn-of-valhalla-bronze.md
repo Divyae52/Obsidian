@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous
-aliases: ["Horn of Valhalla, Bronze"]
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Horn of Valhalla, Bronze
+dg-publish: true
 ---
 # Horn of Valhalla, Bronze
 *Wondrous Item, major, very rare*  

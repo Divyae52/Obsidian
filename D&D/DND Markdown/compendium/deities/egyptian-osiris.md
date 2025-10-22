@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/egyptian
-- domain/grave
-- domain/life
-- domain/nature
-aliases: ["Osiris"]
+  - compendium/src/5e/phb
+  - deity/egyptian
+  - domain/grave
+  - domain/life
+  - domain/nature
+aliases:
+  - Osiris
+dg-publish: true
 ---
 # Osiris
 *Source: SRD / Basic Rules* 

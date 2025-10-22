@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/large
-- monster/type/plant
-aliases: ["Shambling Mound"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/large
+  - monster/type/plant
+aliases:
+  - Shambling Mound
+dg-publish: true
 ---
 # Shambling Mound
 *Source: SRD / Basic Rules*  

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
   - class
+dg-publish: true
 ---
 # Index of Classes
 

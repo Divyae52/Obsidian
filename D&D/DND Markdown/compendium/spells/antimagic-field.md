@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/wizard
-- spell/level/8
-- spell/school/abjuration
-aliases: ["Antimagic Field"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/abjuration
+aliases:
+  - Antimagic Field
+dg-publish: true
 ---
 # Antimagic Field
 *8th-level, Abjuration*  

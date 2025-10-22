@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
-aliases: ["Otyugh"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
+aliases:
+  - Otyugh
+dg-publish: true
 ---
 # Otyugh
 *Source: SRD / Basic Rules*  

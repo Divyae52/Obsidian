@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/school/divination
-aliases: ["Clairvoyance"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/divination
+aliases:
+  - Clairvoyance
+dg-publish: true
 ---
 # Clairvoyance
 *3rd-level, Divination*  

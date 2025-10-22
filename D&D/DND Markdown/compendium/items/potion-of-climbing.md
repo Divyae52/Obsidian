@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/common
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Climbing"]
+  - compendium/src/5e/dmg
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Climbing
+dg-publish: true
 ---
 # Potion of Climbing
 *Potion, minor, common*  

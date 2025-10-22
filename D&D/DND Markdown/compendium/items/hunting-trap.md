@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Hunting Trap"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Hunting Trap
+dg-publish: true
 ---
 # Hunting Trap
 *Adventuring Gear*  

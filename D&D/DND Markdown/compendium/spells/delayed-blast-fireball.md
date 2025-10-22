@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/7
-- spell/school/evocation
-aliases: ["Delayed Blast Fireball"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/evocation
+aliases:
+  - Delayed Blast Fireball
+dg-publish: true
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  

@@ -4,69 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f379d2d7c5c1cc94",
+        "id": "1503646e4c8fb2b1",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa56c5fd2bf4940",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mittwoch/Map/Map.canvas",
-                "viewState": {
-                  "x": -30,
-                  "y": -2.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Map"
-            }
-          },
-          {
-            "id": "f0ffa8f0eb4363ce",
+            "id": "92d9923f0e433469",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND Markdown/templates/massproperties.md",
+                "file": "Mittwoch/Sessions/Group B/Session Three B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "massproperties"
+              "title": "Session Three B"
             }
           },
           {
-            "id": "d937dcc1a543e7a9",
+            "id": "65664e04b55473bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Sessions/Session One.md",
+                "file": "Mittwoch/Sessions/Group B/Session Four.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session One"
-            }
-          },
-          {
-            "id": "a3513eef316bf542",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mittwoch/Map/Map.canvas",
-                "viewState": {
-                  "x": -30,
-                  "y": -2.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Map"
+              "title": "Session Four"
             }
           }
         ],
@@ -143,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND Markdown/templates/massproperties.md",
+                "file": "Mittwoch/Sessions/Group B/Session Four.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for massproperties"
+              "title": "Backlinks for Session Four"
             }
           },
           {
@@ -237,58 +203,59 @@
       "bases:Create new base": false,
       "peerdraft:Show my Peerdraft Shares": false,
       "templater-obsidian:Templater": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "simple-sketch:Simple Sketch": false
     }
   },
-  "active": "f0ffa8f0eb4363ce",
+  "active": "65664e04b55473bf",
   "lastOpenFiles": [
-    "Mittwoch/Characters/Alive PCs/Madison × Zephyr.md",
-    "DND Markdown/templates/massproperties.md",
-    "Mittwoch/Map/Järvevaade.md",
-    "Mittwoch/Map/Map.png",
-    "Mittwoch/Map/Map.canvas",
-    "Mittwoch/Map/index.Map.md",
-    "Mittwoch/Map/Nui Island.md",
-    "Mittwoch/Map/Port of Olum Cee.md",
+    "Mittwoch/Sessions/Group B/index.Group B.md",
+    "Mittwoch/Sessions/Group A/Session Four.md",
+    "Mittwoch/Characters/Alive PCs/Group B/Zachary.md",
+    "Mittwoch/Characters/Alive PCs/Group B/Rhys.md",
+    "Mittwoch/Sessions/Group B/Session Four.md",
+    "Mittwoch/Sessions/Mixed/Session One.md",
+    "Mittwoch/Sessions/Mixed/Session Two.md",
+    "Mittwoch/Sessions/Group B/Session Three B.md",
     "Mittwoch/Map/Seeblick.md",
-    "Mittwoch/Map/Sekitsui Mountains.md",
-    "Mittwoch/Map/tāpara Volcano.md",
-    "Mittwoch/index.Mittwoch.md",
-    "Mittwoch/Map/Hitam Lake.md",
-    "index.D&D.md",
-    "Mittwoch/Entry.md",
+    "Mittwoch/Characters/Alive PCs/Group B/{}Ash (Vittoria) × Asher.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Joshua × Pentious.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Edward × MerdhsaewndÎr (Merdh) (He ~ It).md",
+    "Mittwoch/Characters/Alive PCs/Group A/Dominic ×.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Afifa ×.md",
+    "Mittwoch/Characters/Alive PCs/Group A/{}Gwenith × Ignatious Orchid (He Him).md",
+    "Mittwoch/Characters/Alive PCs/Group A/{}Avany × Acamenos aka Aseral (They Them).md",
+    "Mittwoch/Sessions/Group A/Session Three A (East).md",
+    "Mittwoch/Characters/Alive PCs/Group B/{}Ethan × Henka.md",
+    "DND Markdown/compendium/classes/Fighter/fighter.md",
+    "DND Markdown/compendium/classes/Fighter/fighter-battle-master.md",
+    "DND Markdown/compendium/races/yuan-ti.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Madison × Zephyr (They Them).md",
+    "Mittwoch/Characters/Alive PCs/Group A/index.Group A.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+    "DND Markdown/compendium/classes/Fighter/fighter-champion.md",
+    "Mittwoch/Sessions/Mixed/Session One+Two Isle.png",
+    "Mittwoch/Sessions/Mixed/index.Mixed.md",
+    "image.png",
+    "Mittwoch/Sessions/Group A/Session 3+4 A.png",
+    "Mittwoch/Map/Map.png",
+    "Mittwoch/Sessions/Mixed/Session One Isle.png~",
+    "Mittwoch/Sessions/Mixed/Session One Isle.png-autosave.kra",
     "Mittwoch/Map/Port of Olum Cee.png",
-    "Mittwoch/Sessions/index.Sessions.md",
-    "Mittwoch/Sessions/Session One.md",
-    "Mittwoch/Sessions/Session Two.md",
-    "Mittwoch/Characters/Alive PCs/Aidan × Desith.md",
-    "Mittwoch/index.Mittwoch (2).md",
-    "DND Markdown/index.DND Markdown (2).md",
-    "Mittwoch/Sessions/index.Sessions (2).md",
-    "Mittwoch/Map/index.Map (2).md",
-    "Mittwoch/Characters/index.Characters (2).md",
-    "DND Markdown/tools/index.tools (2).md",
-    "DND Markdown/templates/index.templates (2).md",
-    "DND Markdown/rules/index.rules (2).md",
-    "DND Markdown/compendium/index.compendium (2).md",
+    "Mittwoch/Sessions/Mixed/Session One OC.png",
+    "Untitled.base",
+    "Mittwoch/Sessions/Mixed/Session One.canvas",
+    "Ink/Drawing/2025.10.1 - 19.16pm.drawing",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145350.png",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145022.png",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145017.png",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924144832.png",
-    "Mittwoch/Characters/Alive PCs/Images/Gwenith Drawing.png",
-    "Mittwoch/Characters/Alive PCs/Images/Merdh Drawing.png",
-    "Mittwoch/Characters/Alive PCs/Images/Spade Drawing.png",
-    "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
-    "Untitled",
-    "DND Markdown/rules/Combat",
-    "DND Markdown/compendium/classes/Artificer",
-    "DND Markdown/compendium/classes/Wizard",
-    "DND Markdown/compendium/classes/Warlock",
-    "DND Markdown/compendium/classes/Sorcerer",
-    "DND Markdown/compendium/classes/Rogue",
-    "DND Markdown/compendium/classes/Ranger",
-    "DND Markdown/compendium/classes/Paladin",
-    "DND Markdown/compendium/classes/Monk",
-    "Mittwoch/Sessions/Session One.canvas"
+    "Ink/Drawing/2025.10.1 - 18.49pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "Mittwoch/Sessions/Mixed",
+    "Mittwoch/Characters/Alive PCs/Group B",
+    "Mittwoch/Characters/Alive PCs/Group A",
+    "Mittwoch/Map/Map.canvas"
   ]
 }

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Rations (1 day)"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Rations (1 day)
+dg-publish: true
 ---
 # Rations (1 day)
 *Adventuring Gear*  

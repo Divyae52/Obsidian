@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/major
-- item/wondrous
-aliases: ["Figurine of Wondrous Power, Serpentine Owl"]
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Figurine of Wondrous Power, Serpentine Owl
+dg-publish: true
 ---
 # Figurine of Wondrous Power, Serpentine Owl
 *Wondrous Item, major, rare*  

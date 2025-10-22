@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Hippogriff"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Hippogriff
+dg-publish: true
 ---
 # Hippogriff
 *Source: SRD / Basic Rules*  

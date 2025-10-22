@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/warlock
-- spell/level/2
-- spell/school/enchantment
-aliases: ["Enthrall"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/warlock
+  - spell/level/2
+  - spell/school/enchantment
+aliases:
+  - Enthrall
+dg-publish: true
 ---
 # Enthrall
 *2nd-level, Enchantment*  

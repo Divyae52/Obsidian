@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Trade Goods"]
+  - compendium/src/5e/phb
+aliases:
+  - Trade Goods
+dg-publish: true
 ---
 # Trade Goods
 *Source: SRD / Basic Rules* 

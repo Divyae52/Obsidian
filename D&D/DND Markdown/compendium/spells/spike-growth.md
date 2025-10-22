@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Spike Growth"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Spike Growth
+dg-publish: true
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

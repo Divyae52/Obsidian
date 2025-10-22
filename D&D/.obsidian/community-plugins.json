@@ -6,6 +6,8 @@
   "templater-obsidian",
   "zoottelkeeper-obsidian-plugin",
   "digitalgarden",
-  "obsidian-discordrpc",
-  "multi-properties"
+  "multi-properties",
+  "ink",
+  "simple-sketch",
+  "image-converter"
 ]

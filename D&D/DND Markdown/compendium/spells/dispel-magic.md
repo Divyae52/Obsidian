@@ -2,17 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Dispel Magic"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Dispel Magic
+dg-publish: true
 ---
 # Dispel Magic
 *3rd-level, Abjuration*  

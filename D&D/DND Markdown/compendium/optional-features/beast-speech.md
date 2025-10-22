@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Beast Speech"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Beast Speech
+dg-publish: true
 ---
 # Beast Speech
 *Source: SRD / Basic Rules* 

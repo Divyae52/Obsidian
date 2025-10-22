@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- compendium/src/5e/phb
-aliases: ["Acolyte"]
+  - compendium/src/5e/phb
+aliases:
+  - Acolyte
+dg-publish: true
 ---
 # Acolyte
 *Source: SRD / Basic Rules*  

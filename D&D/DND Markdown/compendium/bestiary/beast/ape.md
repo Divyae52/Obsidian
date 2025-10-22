@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/medium
-- monster/type/beast
-aliases: ["Ape"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Ape
+dg-publish: true
 ---
 # Ape
 *Source: SRD / Basic Rules*  

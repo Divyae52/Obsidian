@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/small
-- monster/type/beast
-aliases: ["Blood Hawk"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/small
+  - monster/type/beast
+aliases:
+  - Blood Hawk
+dg-publish: true
 ---
 # Blood Hawk
 *Source: SRD / Basic Rules*  

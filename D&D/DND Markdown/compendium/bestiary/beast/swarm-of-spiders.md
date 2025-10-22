@@ -2,17 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Swarm of Spiders"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Swarm of Spiders
+dg-publish: true
 ---
 # Swarm of Spiders
 *Source: SRD / Basic Rules*  

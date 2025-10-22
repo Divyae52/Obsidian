@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous
-aliases: ["Dust of Sneezing and Choking"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Dust of Sneezing and Choking
+dg-publish: true
 ---
 # Dust of Sneezing and Choking
 *Wondrous Item, minor, uncommon*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Antitoxin (vial)"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Antitoxin (vial)
+dg-publish: true
 ---
 # Antitoxin (vial)
 *Adventuring Gear*  

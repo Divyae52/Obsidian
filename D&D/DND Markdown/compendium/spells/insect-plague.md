@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Insect Plague"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Insect Plague
+dg-publish: true
 ---
 # Insect Plague
 *5th-level, Conjuration*  

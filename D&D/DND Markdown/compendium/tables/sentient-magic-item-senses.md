@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Sentient Magic Item Senses"]
+  - compendium/src/5e/dmg
+aliases:
+  - Sentient Magic Item Senses
+dg-publish: true
 ---
 # Sentient Magic Item Senses
 *Source: SRD / Basic Rules* 

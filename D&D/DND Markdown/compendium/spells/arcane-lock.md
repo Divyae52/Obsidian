@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Arcane Lock"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Arcane Lock
+dg-publish: true
 ---
 # Arcane Lock
 *2nd-level, Abjuration*  

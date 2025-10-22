@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["The Norse Pantheon; Norse Deities"]
+  - compendium/src/5e/phb
+aliases:
+  - The Norse Pantheon; Norse Deities
+dg-publish: true
 ---
 # The Norse Pantheon; Norse Deities
 *Source: SRD / Basic Rules* 

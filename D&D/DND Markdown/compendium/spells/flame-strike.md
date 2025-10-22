@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/5
-- spell/school/evocation
-aliases: ["Flame Strike"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Flame Strike
+dg-publish: true
 ---
 # Flame Strike
 *5th-level, Evocation*  

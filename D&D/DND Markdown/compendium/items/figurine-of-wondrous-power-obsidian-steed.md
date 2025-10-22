@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous
-aliases: ["Figurine of Wondrous Power, Obsidian Steed"]
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Figurine of Wondrous Power, Obsidian Steed
+dg-publish: true
 ---
 # Figurine of Wondrous Power, Obsidian Steed
 *Wondrous Item, major, very rare*  

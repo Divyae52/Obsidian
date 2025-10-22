@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Flying Snake"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Flying Snake
+dg-publish: true
 ---
 # Flying Snake
 *Source: SRD / Basic Rules*  

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Only lvl 0-2 spells done so far, some still connect online
 
 ## Cantrips

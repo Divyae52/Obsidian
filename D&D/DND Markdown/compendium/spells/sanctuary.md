@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Sanctuary"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Sanctuary
+dg-publish: true
 ---
 # Sanctuary
 *1st-level, Abjuration*  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/gear/poison
-- item/property/poison
-aliases: ["Truth Serum"]
+  - compendium/src/5e/dmg
+  - item/gear/poison
+  - item/property/poison
+aliases:
+  - Truth Serum
+dg-publish: true
 ---
 # Truth Serum
 *Adventuring Gear, poison*  

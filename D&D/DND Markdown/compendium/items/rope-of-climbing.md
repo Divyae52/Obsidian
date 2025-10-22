@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous
-aliases: ["Rope of Climbing"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Rope of Climbing
+dg-publish: true
 ---
 # Rope of Climbing
 *Wondrous Item, minor, uncommon*  

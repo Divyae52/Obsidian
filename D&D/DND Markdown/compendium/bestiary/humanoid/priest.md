@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
-aliases: ["Priest"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
+aliases:
+  - Priest
+dg-publish: true
 ---
 # Priest
 *Source: SRD / Basic Rules*  

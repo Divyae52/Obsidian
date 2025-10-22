@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/large
-- monster/type/beast
-aliases: ["Plesiosaurus"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Plesiosaurus
+dg-publish: true
 ---
 # Plesiosaurus
 *Source: SRD / Basic Rules*  

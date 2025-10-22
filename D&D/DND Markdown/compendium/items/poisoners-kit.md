@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/tools
-aliases: ["Poisoner's Kit"]
+  - compendium/src/5e/phb
+  - item/gear/tools
+aliases:
+  - Poisoner's Kit
+dg-publish: true
 ---
 # Poisoner's Kit
 *Tools*  

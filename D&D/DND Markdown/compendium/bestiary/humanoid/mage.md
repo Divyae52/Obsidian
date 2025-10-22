@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
-aliases: ["Mage"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
+aliases:
+  - Mage
+dg-publish: true
 ---
 # Mage
 *Source: SRD / Basic Rules*  

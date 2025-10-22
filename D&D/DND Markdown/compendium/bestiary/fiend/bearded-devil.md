@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/fiend/devil
-aliases: ["Bearded Devil"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/fiend/devil
+aliases:
+  - Bearded Devil
+dg-publish: true
 ---
 # Bearded Devil
 *Source: SRD / Basic Rules*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: ["Pearl of Power"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Pearl of Power
+dg-publish: true
 ---
 # Pearl of Power
 *Wondrous Item, major, uncommon (requires attunement by a spellcaster)*  

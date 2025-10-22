@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/school/transmutation
-aliases: ["Slow"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/transmutation
+aliases:
+  - Slow
+dg-publish: true
 ---
 # Slow
 *3rd-level, Transmutation*  

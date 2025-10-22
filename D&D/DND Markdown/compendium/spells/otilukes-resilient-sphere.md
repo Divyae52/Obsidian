@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/4
-- spell/school/evocation
-aliases: ["Otiluke's Resilient Sphere"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/evocation
+aliases:
+  - Otiluke's Resilient Sphere
+dg-publish: true
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Evocation*  

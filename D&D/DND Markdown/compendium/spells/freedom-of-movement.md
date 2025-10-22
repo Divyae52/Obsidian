@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/ranger
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Freedom of Movement"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Freedom of Movement
+dg-publish: true
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/dragon
-aliases: ["Pseudodragon"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/dragon
+aliases:
+  - Pseudodragon
+dg-publish: true
 ---
 # Pseudodragon
 *Source: SRD / Basic Rules*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: ["Gloves of Missile Snaring"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Gloves of Missile Snaring
+dg-publish: true
 ---
 # Gloves of Missile Snaring
 *Wondrous Item, major, uncommon (requires attunement)*  

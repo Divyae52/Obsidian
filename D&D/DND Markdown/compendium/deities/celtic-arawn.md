@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/celtic
-- domain/death
-- domain/life
-aliases: ["Arawn"]
+  - compendium/src/5e/phb
+  - deity/celtic
+  - domain/death
+  - domain/life
+aliases:
+  - Arawn
+dg-publish: true
 ---
 # Arawn
 *Source: SRD / Basic Rules* 

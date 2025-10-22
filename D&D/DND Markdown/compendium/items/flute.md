@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/instrument
-aliases: ["Flute"]
+  - compendium/src/5e/phb
+  - item/gear/instrument
+aliases:
+  - Flute
+dg-publish: true
 ---
 # Flute
 *Instrument*  

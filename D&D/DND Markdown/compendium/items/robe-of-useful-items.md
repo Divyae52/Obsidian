@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous
-aliases: ["Robe of Useful Items"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Robe of Useful Items
+dg-publish: true
 ---
 # Robe of Useful Items
 *Wondrous Item, minor, uncommon*  

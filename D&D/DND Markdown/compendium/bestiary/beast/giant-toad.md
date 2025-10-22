@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Toad"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Toad
+dg-publish: true
 ---
 # Giant Toad
 *Source: SRD / Basic Rules*  

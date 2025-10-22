@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-aliases: ["Personality Traits"]
+aliases:
+  - Personality Traits
+dg-publish: true
 ---
 # Personality Traits
 

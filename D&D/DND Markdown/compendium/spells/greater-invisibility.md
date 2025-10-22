@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/4
-- spell/school/illusion
-aliases: ["Greater Invisibility"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/illusion
+aliases:
+  - Greater Invisibility
+dg-publish: true
 ---
 # Greater Invisibility
 *4th-level, Illusion*  

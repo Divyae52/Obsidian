@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/poison
-- item/property/poison
-aliases: ["Basic Poison (vial)"]
+  - compendium/src/5e/phb
+  - item/gear/poison
+  - item/property/poison
+aliases:
+  - Basic Poison (vial)
+dg-publish: true
 ---
 # Basic Poison (vial)
 *Adventuring Gear, poison*  

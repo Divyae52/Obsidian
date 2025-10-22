@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Eldritch Spear"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Eldritch Spear
+dg-publish: true
 ---
 # Eldritch Spear
 *Source: SRD / Basic Rules* 

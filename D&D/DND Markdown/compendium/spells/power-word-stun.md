@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/8
-- spell/school/enchantment
-aliases: ["Power Word Stun"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/enchantment
+aliases:
+  - Power Word Stun
+dg-publish: true
 ---
 # Power Word Stun
 *8th-level, Enchantment*  

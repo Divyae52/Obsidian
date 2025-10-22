@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Revivify"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Revivify
+dg-publish: true
 ---
 # Revivify
 *3rd-level, Necromancy*  

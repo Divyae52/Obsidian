@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend/devil
-aliases: ["Ice Devil"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend/devil
+aliases:
+  - Ice Devil
+dg-publish: true
 ---
 # Ice Devil
 *Source: SRD / Basic Rules*  

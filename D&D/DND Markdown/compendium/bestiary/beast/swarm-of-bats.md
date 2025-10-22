@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Swarm of Bats"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Swarm of Bats
+dg-publish: true
 ---
 # Swarm of Bats
 *Source: SRD / Basic Rules*  

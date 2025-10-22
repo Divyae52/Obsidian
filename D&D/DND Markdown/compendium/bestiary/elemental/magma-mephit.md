@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/small
-- monster/type/elemental
-aliases: ["Magma Mephit"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/elemental
+aliases:
+  - Magma Mephit
+dg-publish: true
 ---
 # Magma Mephit
 *Source: SRD / Basic Rules*  

@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/beast
-aliases: ["Giant Constrictor Snake"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/beast
+aliases:
+  - Giant Constrictor Snake
+dg-publish: true
 ---
 # Giant Constrictor Snake
 *Source: SRD / Basic Rules*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Guardian Naga"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Guardian Naga
+dg-publish: true
 ---
 # Guardian Naga
 *Source: SRD / Basic Rules*  

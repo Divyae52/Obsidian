@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/ranger
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Protection from Energy"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Protection from Energy
+dg-publish: true
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  

@@ -1,8 +1,11 @@
+---
+dg-publish: true
+---
 https://www.dndbeyond.com/characters/xxx
 
-| Species              | Class                | Alignment    | Experience Points |
-| -------------------- | -------------------- | ------------ | ----------------- |
-| [[yuan-ti\|Yuan-ti]] | [[fighter\|Fighter]] | True Neutral | Milestone (3)     |
+| Species              | Class                                                         | Alignment    | Experience Points |
+| -------------------- | ------------------------------------------------------------- | ------------ | ----------------- |
+| [[yuan-ti\|Yuan-ti]] | [[fighter\|Fighter]] [[fighter-battle-master\|Battle Master]] | True Neutral | Milestone (3)     |
 ## Appearance
 
 Lower body is snake tail
@@ -103,7 +106,18 @@ Holding spear, has javelin
 
 ## Features
 
-* 
+* ##### [[yuan-ti|Yuan-ti]]
+	* Darkvision
+		* You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+	* Magic Resistance
+		* You have advantage on saving throws against spells.
+	* Poison Resilience
+		* You have advantage on saving throws you make to avoid or end the poisoned condition on yourself. You also have resistance to poison damage.
+	* Serpentine Spellcasting
+		* You know the poison spray cantrip. You can cast [[animal-friendship|Animal Friendship]] an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast suggestion with this trait. Once you cast it, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
+		* Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
+* ##### [[fighter|Fighter]]
+	* ###### [[fighter-battle-master|Battle Master]]
 
 ## Spell Casting
 N/A

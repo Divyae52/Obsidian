@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Eldritch Invocation"]
+  - compendium/src/5e/phb
+aliases:
+  - Eldritch Invocation
+dg-publish: true
 ---
 # Eldritch Invocation
 *Source: SRD / Basic Rules* 

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Agonizing Blast"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Agonizing Blast
+dg-publish: true
 ---
 # Agonizing Blast
 *Source: SRD / Basic Rules* 

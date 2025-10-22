@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/monstrosity
-aliases: ["Remorhaz"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/monstrosity
+aliases:
+  - Remorhaz
+dg-publish: true
 ---
 # Remorhaz
 *Source: SRD / Basic Rules*  

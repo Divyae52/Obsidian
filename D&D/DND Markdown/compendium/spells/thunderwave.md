@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/1
-- spell/school/evocation
-aliases: ["Thunderwave"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Thunderwave
+dg-publish: true
 ---
 # Thunderwave
 *1st-level, Evocation*  

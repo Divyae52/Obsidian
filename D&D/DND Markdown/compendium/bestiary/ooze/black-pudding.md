@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/ooze
-aliases: ["Black Pudding"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/ooze
+aliases:
+  - Black Pudding
+dg-publish: true
 ---
 # Black Pudding
 *Source: SRD / Basic Rules*  

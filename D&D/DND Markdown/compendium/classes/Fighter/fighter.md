@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter
-- compendium/src/5e/phb
-aliases: ["Fighter"]
+  - class/fighter
+  - compendium/src/5e/phb
+aliases:
+  - Fighter
+dg-publish: true
 ---
 # Fighter
 *Source: SRD / Basic Rules*  

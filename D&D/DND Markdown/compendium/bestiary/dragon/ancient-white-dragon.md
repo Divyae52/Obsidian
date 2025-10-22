@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/size/gargantuan
-- monster/type/dragon
-aliases: ["Ancient White Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/size/gargantuan
+  - monster/type/dragon
+aliases:
+  - Ancient White Dragon
+dg-publish: true
 ---
 # Ancient White Dragon
 *Source: SRD / Basic Rules*  

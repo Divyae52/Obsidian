@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/plant
-aliases: ["Shrieker"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/plant
+aliases:
+  - Shrieker
+dg-publish: true
 ---
 # Shrieker
 *Source: SRD / Basic Rules*  

@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Water Breathing"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Water Breathing
+dg-publish: true
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  

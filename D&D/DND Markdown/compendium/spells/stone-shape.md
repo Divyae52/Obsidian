@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/wizard
-- spell/level/4
-- spell/school/transmutation
-aliases: ["Stone Shape"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/transmutation
+aliases:
+  - Stone Shape
+dg-publish: true
 ---
 # Stone Shape
 *4th-level, Transmutation*  

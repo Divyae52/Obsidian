@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: ["Belt of Cloud Giant Strength"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Belt of Cloud Giant Strength
+dg-publish: true
 ---
 # Belt of Cloud Giant Strength
 *Wondrous Item, major, legendary (requires attunement)*  

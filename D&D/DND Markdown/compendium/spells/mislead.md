@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/5
-- spell/school/illusion
-aliases: ["Mislead"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/illusion
+aliases:
+  - Mislead
+dg-publish: true
 ---
 # Mislead
 *5th-level, Illusion*  

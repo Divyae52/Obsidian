@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/5
-- spell/school/enchantment
-aliases: ["Hold Monster"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/enchantment
+aliases:
+  - Hold Monster
+dg-publish: true
 ---
 # Hold Monster
 *5th-level, Enchantment*  

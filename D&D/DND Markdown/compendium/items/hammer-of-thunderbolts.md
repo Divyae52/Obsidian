@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/property/heavy
-- item/property/martial
-- item/property/two-handed
-- item/rarity/legendary
-- item/tier/major
-- item/weapon/martial/melee
-aliases: ["Hammer of Thunderbolts"]
+  - compendium/src/5e/dmg
+  - item/property/heavy
+  - item/property/martial
+  - item/property/two-handed
+  - item/rarity/legendary
+  - item/tier/major
+  - item/weapon/martial/melee
+aliases:
+  - Hammer of Thunderbolts
+dg-publish: true
 ---
 # Hammer of Thunderbolts
 *Melee Weapon, major, legendary*  

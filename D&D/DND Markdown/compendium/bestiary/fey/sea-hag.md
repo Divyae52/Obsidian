@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/fey
-aliases: ["Sea Hag"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/fey
+aliases:
+  - Sea Hag
+dg-publish: true
 ---
 # Sea Hag
 *Source: SRD / Basic Rules*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Misty Visions"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Misty Visions
+dg-publish: true
 ---
 # Misty Visions
 *Source: SRD / Basic Rules* 

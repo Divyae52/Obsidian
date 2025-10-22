@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/level/1
-- spell/school/transmutation
-aliases: ["Create or Destroy Water"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/1
+  - spell/school/transmutation
+aliases:
+  - Create or Destroy Water
+dg-publish: true
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  

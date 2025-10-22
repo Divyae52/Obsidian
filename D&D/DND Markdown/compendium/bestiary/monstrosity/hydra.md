@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/swamp
-- monster/size/huge
-- monster/type/monstrosity
-aliases: ["Hydra"]
+  - compendium/src/5e/mm
+  - monster/environment/swamp
+  - monster/size/huge
+  - monster/type/monstrosity
+aliases:
+  - Hydra
+dg-publish: true
 ---
 # Hydra
 *Source: SRD / Basic Rules*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/warlock
-- spell/level/1
-- spell/school/evocation
-aliases: ["Hellish Rebuke"]
+  - compendium/src/5e/phb
+  - spell/class/warlock
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Hellish Rebuke
+dg-publish: true
 ---
 # Hellish Rebuke
 *1st-level, Evocation*  

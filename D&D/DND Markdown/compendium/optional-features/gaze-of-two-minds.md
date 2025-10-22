@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Gaze of Two Minds"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Gaze of Two Minds
+dg-publish: true
 ---
 # Gaze of Two Minds
 *Source: SRD / Basic Rules* 

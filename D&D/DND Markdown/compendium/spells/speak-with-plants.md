@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/ranger
-- spell/level/3
-- spell/school/transmutation
-aliases: ["Speak with Plants"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/3
+  - spell/school/transmutation
+aliases:
+  - Speak with Plants
+dg-publish: true
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/elemental
-aliases: ["Invisible Stalker"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/elemental
+aliases:
+  - Invisible Stalker
+dg-publish: true
 ---
 # Invisible Stalker
 *Source: SRD / Basic Rules*  

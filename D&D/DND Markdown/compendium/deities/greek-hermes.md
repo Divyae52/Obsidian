@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greek
-- domain/trickery
-aliases: ["Hermes"]
+  - compendium/src/5e/phb
+  - deity/greek
+  - domain/trickery
+aliases:
+  - Hermes
+dg-publish: true
 ---
 # Hermes
 *Source: SRD / Basic Rules* 

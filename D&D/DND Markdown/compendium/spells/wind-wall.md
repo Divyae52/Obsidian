@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/3
-- spell/school/evocation
-aliases: ["Wind Wall"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Wind Wall
+dg-publish: true
 ---
 # Wind Wall
 *3rd-level, Evocation*  

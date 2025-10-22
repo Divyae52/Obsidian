@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/tiny
-- monster/type/fiend/demon
-aliases: ["Quasit"]
+  - compendium/src/5e/mm
+  - monster/size/tiny
+  - monster/type/fiend/demon
+aliases:
+  - Quasit
+dg-publish: true
 ---
 # Quasit
 *Source: SRD / Basic Rules*  

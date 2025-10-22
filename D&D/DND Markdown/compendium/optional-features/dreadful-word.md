@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Dreadful Word"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Dreadful Word
+dg-publish: true
 ---
 # Dreadful Word
 *Source: SRD / Basic Rules* 

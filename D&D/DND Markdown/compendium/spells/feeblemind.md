@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/8
-- spell/school/enchantment
-aliases: ["Feeblemind"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/enchantment
+aliases:
+  - Feeblemind
+dg-publish: true
 ---
 # Feeblemind
 *8th-level, Enchantment*  

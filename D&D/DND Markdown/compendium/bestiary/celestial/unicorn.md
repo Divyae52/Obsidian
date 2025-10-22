@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/large
-- monster/type/celestial
-aliases: ["Unicorn"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/celestial
+aliases:
+  - Unicorn
+dg-publish: true
 ---
 # Unicorn
 *Source: SRD / Basic Rules*  

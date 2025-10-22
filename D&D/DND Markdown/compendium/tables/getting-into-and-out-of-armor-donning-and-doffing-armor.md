@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Getting Into and Out of Armor; Donning and Doffing Armor"]
+  - compendium/src/5e/phb
+aliases:
+  - Getting Into and Out of Armor; Donning and Doffing Armor
+dg-publish: true
 ---
 # Getting Into and Out of Armor; Donning and Doffing Armor
 *Source: SRD / Basic Rules* 

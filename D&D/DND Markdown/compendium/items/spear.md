@@ -9,6 +9,7 @@ tags:
   - item/damageType/piercing
 aliases:
   - Spear
+dg-publish: true
 ---
 # Spear
 *Melee Weapon*  

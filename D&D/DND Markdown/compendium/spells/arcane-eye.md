@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/4
-- spell/school/divination
-aliases: ["Arcane Eye"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/divination
+aliases:
+  - Arcane Eye
+dg-publish: true
 ---
 # Arcane Eye
 *4th-level, Divination*  

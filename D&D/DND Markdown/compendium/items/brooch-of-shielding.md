@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: ["Brooch of Shielding"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Brooch of Shielding
+dg-publish: true
 ---
 # Brooch of Shielding
 *Wondrous Item, major, uncommon (requires attunement)*  

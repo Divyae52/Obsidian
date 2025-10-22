@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greek
-- domain/life
-aliases: ["Dionysus"]
+  - compendium/src/5e/phb
+  - deity/greek
+  - domain/life
+aliases:
+  - Dionysus
+dg-publish: true
 ---
 # Dionysus
 *Source: SRD / Basic Rules* 

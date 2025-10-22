@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Stoneskin"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Stoneskin
+dg-publish: true
 ---
 # Stoneskin
 *4th-level, Abjuration*  

@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/enchantment
-aliases: ["Suggestion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/enchantment
+aliases:
+  - Suggestion
+dg-publish: true
 ---
 # Suggestion
 *2nd-level, Enchantment*  

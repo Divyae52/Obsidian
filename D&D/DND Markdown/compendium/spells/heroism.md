@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/paladin
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Heroism"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/paladin
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Heroism
+dg-publish: true
 ---
 # Heroism
 *1st-level, Enchantment*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Beguiling Influence"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Beguiling Influence
+dg-publish: true
 ---
 # Beguiling Influence
 *Source: SRD / Basic Rules* 

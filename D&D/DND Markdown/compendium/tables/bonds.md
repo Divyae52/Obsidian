@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-aliases: ["Bonds"]
+aliases:
+  - Bonds
+dg-publish: true
 ---
 # Bonds
 

@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/4
-- spell/school/enchantment
-aliases: ["Confusion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/enchantment
+aliases:
+  - Confusion
+dg-publish: true
 ---
 # Confusion
 *4th-level, Enchantment*  

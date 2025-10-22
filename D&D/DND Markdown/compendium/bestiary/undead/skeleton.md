@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
-aliases: ["Skeleton"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Skeleton
+dg-publish: true
 ---
 # Skeleton
 *Source: SRD / Basic Rules*  

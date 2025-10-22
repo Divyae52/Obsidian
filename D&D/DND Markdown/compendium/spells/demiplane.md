@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/8
-- spell/school/conjuration
-aliases: ["Demiplane"]
+  - compendium/src/5e/phb
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/conjuration
+aliases:
+  - Demiplane
+dg-publish: true
 ---
 # Demiplane
 *8th-level, Conjuration*  

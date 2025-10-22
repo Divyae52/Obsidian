@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/ranger
-- spell/level/1
-- spell/school/evocation
-aliases: ["Cure Wounds"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Cure Wounds
+dg-publish: true
 ---
 # Cure Wounds
 *1st-level, Evocation*  

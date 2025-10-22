@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Scorpion"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Scorpion
+dg-publish: true
 ---
 # Scorpion
 *Source: SRD / Basic Rules*  

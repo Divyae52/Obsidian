@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Component Pouch"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Component Pouch
+dg-publish: true
 ---
 # Component Pouch
 *Adventuring Gear*  

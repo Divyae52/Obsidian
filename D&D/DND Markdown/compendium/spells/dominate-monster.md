@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/8
-- spell/school/enchantment
-aliases: ["Dominate Monster"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/enchantment
+aliases:
+  - Dominate Monster
+dg-publish: true
 ---
 # Dominate Monster
 *8th-level, Enchantment*  

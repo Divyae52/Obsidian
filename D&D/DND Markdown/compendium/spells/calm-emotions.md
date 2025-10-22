@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/level/2
-- spell/school/enchantment
-aliases: ["Calm Emotions"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/level/2
+  - spell/school/enchantment
+aliases:
+  - Calm Emotions
+dg-publish: true
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  

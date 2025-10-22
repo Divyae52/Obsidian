@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/4
-- spell/school/evocation
-aliases: ["Fire Shield"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/evocation
+aliases:
+  - Fire Shield
+dg-publish: true
 ---
 # Fire Shield
 *4th-level, Evocation*  

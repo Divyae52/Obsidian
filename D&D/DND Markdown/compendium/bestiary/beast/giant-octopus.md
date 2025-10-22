@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Octopus"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Octopus
+dg-publish: true
 ---
 # Giant Octopus
 *Source: SRD / Basic Rules*  

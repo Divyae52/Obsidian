@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/tack-and-harness
-aliases: ["Pack Saddle"]
+  - compendium/src/5e/phb
+  - item/gear/tack-and-harness
+aliases:
+  - Pack Saddle
+dg-publish: true
 ---
 # Pack Saddle
 *Tack and Harness*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/8
-- spell/school/abjuration
-aliases: ["Holy Aura"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/8
+  - spell/school/abjuration
+aliases:
+  - Holy Aura
+dg-publish: true
 ---
 # Holy Aura
 *8th-level, Abjuration*  

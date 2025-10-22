@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/armor/medium
-- item/rarity/rare
-- item/tier/major
-aliases: ["Elven Chain"]
+  - compendium/src/5e/dmg
+  - item/armor/medium
+  - item/rarity/rare
+  - item/tier/major
+aliases:
+  - Elven Chain
+dg-publish: true
 ---
 # Elven Chain
 *Medium Armor, major, rare*  

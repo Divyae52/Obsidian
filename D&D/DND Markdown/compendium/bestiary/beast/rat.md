@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Rat"]
+  - compendium/src/5e/mm
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Rat
+dg-publish: true
 ---
 # Rat
 *Source: SRD / Basic Rules*  

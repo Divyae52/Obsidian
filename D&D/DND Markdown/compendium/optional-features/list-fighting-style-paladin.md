@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Fighting Style, Paladin"]
+  - compendium/src/5e/phb
+aliases:
+  - Fighting Style, Paladin
+dg-publish: true
 ---
 # Fighting Style, Paladin
 *Source: SRD / Basic Rules* 

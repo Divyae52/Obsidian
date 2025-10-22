@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/fiend/devil
-aliases: ["Chain Devil"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/fiend/devil
+aliases:
+  - Chain Devil
+dg-publish: true
 ---
 # Chain Devil
 *Source: SRD / Basic Rules*  

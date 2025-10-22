@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Magnifying Glass"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Magnifying Glass
+dg-publish: true
 ---
 # Magnifying Glass
 *Adventuring Gear*  

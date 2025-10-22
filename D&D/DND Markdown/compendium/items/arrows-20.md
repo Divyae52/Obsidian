@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/weapon/ammunition
-aliases: ["Arrows (20)"]
+  - compendium/src/5e/phb
+  - item/weapon/ammunition
+aliases:
+  - Arrows (20)
+dg-publish: true
 ---
 # Arrows (20)
 *Ammunition*  

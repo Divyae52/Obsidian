@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Spider"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Spider
+dg-publish: true
 ---
 # Giant Spider
 *Source: SRD / Basic Rules*  

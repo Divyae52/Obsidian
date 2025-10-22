@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Pact Boon"]
+  - compendium/src/5e/phb
+aliases:
+  - Pact Boon
+dg-publish: true
 ---
 # Pact Boon
 *Source: SRD / Basic Rules* 

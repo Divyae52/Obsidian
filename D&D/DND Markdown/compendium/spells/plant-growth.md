@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/ranger
-- spell/level/3
-- spell/school/transmutation
-aliases: ["Plant Growth"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/3
+  - spell/school/transmutation
+aliases:
+  - Plant Growth
+dg-publish: true
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

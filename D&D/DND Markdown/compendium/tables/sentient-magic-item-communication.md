@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Sentient Magic Item Communication"]
+  - compendium/src/5e/dmg
+aliases:
+  - Sentient Magic Item Communication
+dg-publish: true
 ---
 # Sentient Magic Item Communication
 *Source: SRD / Basic Rules* 

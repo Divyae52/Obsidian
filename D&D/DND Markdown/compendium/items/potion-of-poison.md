@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/property/poison
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Poison"]
+  - compendium/src/5e/dmg
+  - item/property/poison
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Poison
+dg-publish: true
 ---
 # Potion of Poison
 *Potion, minor, uncommon, poison*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/small
-- monster/type/beast
-aliases: ["Jackal"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/small
+  - monster/type/beast
+aliases:
+  - Jackal
+dg-publish: true
 ---
 # Jackal
 *Source: SRD / Basic Rules*  

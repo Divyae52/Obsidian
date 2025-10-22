@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/medium
-- monster/type/monstrosity
-aliases: ["Medusa"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/monstrosity
+aliases:
+  - Medusa
+dg-publish: true
 ---
 # Medusa
 *Source: SRD / Basic Rules*  

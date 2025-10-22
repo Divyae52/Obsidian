@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/egyptian
-- domain/death
-- domain/grave
-- domain/order
-aliases: ["Anubis"]
+  - compendium/src/5e/phb
+  - deity/egyptian
+  - domain/death
+  - domain/grave
+  - domain/order
+aliases:
+  - Anubis
+dg-publish: true
 ---
 # Anubis
 *Source: SRD / Basic Rules* 

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Sea Horse"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Sea Horse
+dg-publish: true
 ---
 # Giant Sea Horse
 *Source: SRD / Basic Rules*  

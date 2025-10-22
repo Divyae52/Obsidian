@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous
-aliases: ["Decanter of Endless Water"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Decanter of Endless Water
+dg-publish: true
 ---
 # Decanter of Endless Water
 *Wondrous Item, minor, uncommon*  

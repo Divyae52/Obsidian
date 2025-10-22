@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/large
-- monster/type/elemental
-aliases: ["Fire Elemental"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/elemental
+aliases:
+  - Fire Elemental
+dg-publish: true
 ---
 # Fire Elemental
 *Source: SRD / Basic Rules*  

@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/finesse
-- item/property/martial
-- item/property/versatile
-- item/rarity/rare
-- item/tier/major
-- item/weapon/martial/melee
-aliases: ["Sun Blade"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/finesse
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/rare
+  - item/tier/major
+  - item/weapon/martial/melee
+aliases:
+  - Sun Blade
+dg-publish: true
 ---
 # Sun Blade
 *Melee Weapon, major, rare (requires attunement)*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Oil of Slipperiness"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Oil of Slipperiness
+dg-publish: true
 ---
 # Oil of Slipperiness
 *Potion, minor, uncommon*  

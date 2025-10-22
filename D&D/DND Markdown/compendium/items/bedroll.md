@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Bedroll"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Bedroll
+dg-publish: true
 ---
 # Bedroll
 *Adventuring Gear*  

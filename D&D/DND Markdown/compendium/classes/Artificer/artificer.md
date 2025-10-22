@@ -6,6 +6,7 @@ tags:
   - compendium/src/5e/tce
 aliases:
   - Artificer
+dg-publish: true
 ---
 # Artificer
 *Source: Tasha's Cauldon of Everything*  

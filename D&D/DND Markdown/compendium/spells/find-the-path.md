@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/level/6
-- spell/school/divination
-aliases: ["Find the Path"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/6
+  - spell/school/divination
+aliases:
+  - Find the Path
+dg-publish: true
 ---
 # Find the Path
 *6th-level, Divination*  

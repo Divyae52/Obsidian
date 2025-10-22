@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Water Breathing"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Water Breathing
+dg-publish: true
 ---
 # Potion of Water Breathing
 *Potion, minor, uncommon*  

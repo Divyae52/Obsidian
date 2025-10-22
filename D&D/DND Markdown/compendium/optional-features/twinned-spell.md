@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/mm
-aliases: ["Twinned Spell"]
+  - compendium/src/5e/phb
+  - optional-feature/mm
+aliases:
+  - Twinned Spell
+dg-publish: true
 ---
 # Twinned Spell
 *Source: SRD / Basic Rules* 

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/minor
-- item/wondrous/scroll
-aliases: ["Spell Scroll (9th Level)"]
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/minor
+  - item/wondrous/scroll
+aliases:
+  - Spell Scroll (9th Level)
+dg-publish: true
 ---
 # Spell Scroll (9th Level)
 *Scroll, minor, legendary*  

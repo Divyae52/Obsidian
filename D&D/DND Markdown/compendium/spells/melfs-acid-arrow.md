@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Melf's Acid Arrow"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Melf's Acid Arrow
+dg-publish: true
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
-aliases: ["Weretiger"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
+aliases:
+  - Weretiger
+dg-publish: true
 ---
 # Weretiger
 *Source: SRD / Basic Rules*  

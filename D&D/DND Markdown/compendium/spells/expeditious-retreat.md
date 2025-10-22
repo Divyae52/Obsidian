@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/1
-- spell/school/transmutation
-aliases: ["Expeditious Retreat"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/transmutation
+aliases:
+  - Expeditious Retreat
+dg-publish: true
 ---
 # Expeditious Retreat
 *1st-level, Transmutation*  

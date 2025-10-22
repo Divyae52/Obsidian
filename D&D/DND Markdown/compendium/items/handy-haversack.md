@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous
-aliases: ["Handy Haversack"]
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Handy Haversack
+dg-publish: true
 ---
 # Handy Haversack
 *Wondrous Item, minor, rare*  

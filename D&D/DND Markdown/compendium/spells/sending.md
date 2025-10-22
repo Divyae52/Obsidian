@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/wizard
-- spell/level/3
-- spell/school/evocation
-aliases: ["Sending"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Sending
+dg-publish: true
 ---
 # Sending
 *3rd-level, Evocation*  

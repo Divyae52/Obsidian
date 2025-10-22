@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/celestial
-aliases: ["Planetar"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/celestial
+aliases:
+  - Planetar
+dg-publish: true
 ---
 # Planetar
 *Source: SRD / Basic Rules*  

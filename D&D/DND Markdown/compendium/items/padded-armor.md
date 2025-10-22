@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/armor/light
-aliases: ["Padded Armor"]
+  - compendium/src/5e/phb
+  - item/armor/light
+aliases:
+  - Padded Armor
+dg-publish: true
 ---
 # Padded Armor
 *Light Armor*  

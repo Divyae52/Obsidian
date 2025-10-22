@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/wizard
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Bestow Curse"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Bestow Curse
+dg-publish: true
 ---
 # Bestow Curse
 *3rd-level, Necromancy*  

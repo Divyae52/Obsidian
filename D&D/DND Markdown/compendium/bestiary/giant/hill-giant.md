@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/size/huge
-- monster/type/giant
-aliases: ["Hill Giant"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/giant
+aliases:
+  - Hill Giant
+dg-publish: true
 ---
 # Hill Giant
 *Source: SRD / Basic Rules*  

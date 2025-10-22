@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/7
-- spell/school/conjuration
-aliases: ["Teleport"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/conjuration
+aliases:
+  - Teleport
+dg-publish: true
 ---
 # Teleport
 *7th-level, Conjuration*  

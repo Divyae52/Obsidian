@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Manticore"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Manticore
+dg-publish: true
 ---
 # Manticore
 *Source: SRD / Basic Rules*  

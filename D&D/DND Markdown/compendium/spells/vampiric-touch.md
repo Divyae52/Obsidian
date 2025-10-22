@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Vampiric Touch"]
+  - compendium/src/5e/phb
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Vampiric Touch
+dg-publish: true
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  

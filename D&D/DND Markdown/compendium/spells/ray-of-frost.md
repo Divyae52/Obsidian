@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Ray of Frost"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Ray of Frost
+dg-publish: true
 ---
 # Ray of Frost
 *cantrip, Evocation*  

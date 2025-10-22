@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/humanoid/lizardfolk
-aliases: ["Lizardfolk"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/humanoid/lizardfolk
+aliases:
+  - Lizardfolk
+dg-publish: true
 ---
 # Lizardfolk
 *Source: SRD / Basic Rules*  

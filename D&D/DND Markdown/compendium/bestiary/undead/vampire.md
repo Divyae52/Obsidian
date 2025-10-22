@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead/shapechanger
-aliases: ["Vampire"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead/shapechanger
+aliases:
+  - Vampire
+dg-publish: true
 ---
 # Vampire
 *Source: SRD / Basic Rules*  

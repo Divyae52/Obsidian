@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/ranger
-- spell/level/1
-- spell/school/divination
-aliases: ["Hunter's Mark"]
+  - compendium/src/5e/phb
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/divination
+aliases:
+  - Hunter's Mark
+dg-publish: true
 ---
 # Hunter's Mark
 *1st-level, Divination*  

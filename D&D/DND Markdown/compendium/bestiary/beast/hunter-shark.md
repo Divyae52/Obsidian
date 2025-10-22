@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/large
-- monster/type/beast
-aliases: ["Hunter Shark"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Hunter Shark
+dg-publish: true
 ---
 # Hunter Shark
 *Source: SRD / Basic Rules*  

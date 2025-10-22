@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/ranger
-- spell/level/1
-- spell/ritual
-- spell/school/divination
-aliases: ["Speak with Animals"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/1
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Speak with Animals
+dg-publish: true
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  

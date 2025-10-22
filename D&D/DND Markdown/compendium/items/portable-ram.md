@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Portable Ram"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Portable Ram
+dg-publish: true
 ---
 # Portable Ram
 *Adventuring Gear*  

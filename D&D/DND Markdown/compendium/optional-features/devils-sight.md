@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Devil's Sight"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Devil's Sight
+dg-publish: true
 ---
 # Devil's Sight
 *Source: SRD / Basic Rules* 

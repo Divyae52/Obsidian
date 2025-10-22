@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/gargantuan
-- monster/type/dragon
-aliases: ["Ancient Gold Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/gargantuan
+  - monster/type/dragon
+aliases:
+  - Ancient Gold Dragon
+dg-publish: true
 ---
 # Ancient Gold Dragon
 *Source: SRD / Basic Rules*  

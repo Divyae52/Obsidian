@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-- compendium/src/5e/phb
-aliases: ["Actions"]
+  - compendium/src/5e/dmg
+  - compendium/src/5e/phb
+aliases:
+  - Actions
+dg-publish: true
 ---
 # Actions
 

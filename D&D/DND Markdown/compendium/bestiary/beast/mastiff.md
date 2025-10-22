@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Mastiff"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Mastiff
+dg-publish: true
 ---
 # Mastiff
 *Source: SRD / Basic Rules*  

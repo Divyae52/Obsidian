@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
-aliases: ["Werewolf"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
+aliases:
+  - Werewolf
+dg-publish: true
 ---
 # Werewolf
 *Source: SRD / Basic Rules*  

@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
-aliases: ["Wererat"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
+aliases:
+  - Wererat
+dg-publish: true
 ---
 # Wererat
 *Source: SRD / Basic Rules*  

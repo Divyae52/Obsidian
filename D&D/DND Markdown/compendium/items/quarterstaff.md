@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/versatile
-- item/weapon/simple/melee
-aliases: ["Quarterstaff"]
+  - compendium/src/5e/phb
+  - item/property/versatile
+  - item/weapon/simple/melee
+aliases:
+  - Quarterstaff
+dg-publish: true
 ---
 # Quarterstaff
 *Melee Weapon*  

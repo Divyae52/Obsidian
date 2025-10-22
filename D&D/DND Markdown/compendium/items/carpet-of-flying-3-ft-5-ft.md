@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous
-aliases: ["Carpet of Flying, 3 ft. × 5 ft."]
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Carpet of Flying, 3 ft. × 5 ft.
+dg-publish: true
 ---
 # Carpet of Flying, 3 ft. × 5 ft.
 *Wondrous Item, major, very rare*  

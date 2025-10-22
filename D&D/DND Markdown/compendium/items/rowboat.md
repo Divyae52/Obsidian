@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/vehicle/ship
-aliases: ["Rowboat"]
+  - compendium/src/5e/dmg
+  - item/vehicle/ship
+aliases:
+  - Rowboat
+dg-publish: true
 ---
 # Rowboat
 *Ship, Vehicle (water)*  

@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Standard Languages"]
+  - compendium/src/5e/phb
+aliases:
+  - Standard Languages
+dg-publish: true
 ---
 # Standard Languages
 *Source: SRD / Basic Rules* 

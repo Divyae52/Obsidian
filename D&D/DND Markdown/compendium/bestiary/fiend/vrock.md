@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend/demon
-aliases: ["Vrock"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend/demon
+aliases:
+  - Vrock
+dg-publish: true
 ---
 # Vrock
 *Source: SRD / Basic Rules*  

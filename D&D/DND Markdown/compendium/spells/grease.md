@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/1
-- spell/school/conjuration
-aliases: ["Grease"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/conjuration
+aliases:
+  - Grease
+dg-publish: true
 ---
 # Grease
 *1st-level, Conjuration*  

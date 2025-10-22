@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/wizard/evocation
-- compendium/src/5e/phb
-aliases: ["School of Evocation"]
+  - class/wizard/evocation
+  - compendium/src/5e/phb
+aliases:
+  - School of Evocation
+dg-publish: true
 ---
 # School of Evocation
 *[Wizard](wizard.md): Arcane Tradition*  

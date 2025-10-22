@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/humanoid/gnoll
-aliases: ["Gnoll"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/humanoid/gnoll
+aliases:
+  - Gnoll
+dg-publish: true
 ---
 # Gnoll
 *Source: SRD / Basic Rules*  

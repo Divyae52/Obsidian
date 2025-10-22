@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/humanoid/sahuagin
-aliases: ["Sahuagin"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/humanoid/sahuagin
+aliases:
+  - Sahuagin
+dg-publish: true
 ---
 # Sahuagin
 *Source: SRD / Basic Rules*  

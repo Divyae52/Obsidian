@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/warlock
-- compendium/src/5e/phb
-aliases: ["Warlock"]
+  - class/warlock
+  - compendium/src/5e/phb
+aliases:
+  - Warlock
+dg-publish: true
 ---
 # Warlock
 *Source: SRD / Basic Rules*  

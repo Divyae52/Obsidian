@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/level/5
-- spell/school/evocation
-aliases: ["Mass Cure Wounds"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Mass Cure Wounds
+dg-publish: true
 ---
 # Mass Cure Wounds
 *5th-level, Evocation*  

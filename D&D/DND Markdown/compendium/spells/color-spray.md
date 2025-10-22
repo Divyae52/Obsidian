@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/1
-- spell/school/illusion
-aliases: ["Color Spray"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/illusion
+aliases:
+  - Color Spray
+dg-publish: true
 ---
 # Color Spray
 *1st-level, Illusion*  

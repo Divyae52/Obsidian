@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/finesse
-- item/property/light
-- item/property/martial
-- item/rarity/very-rare
-- item/tier/major
-- item/weapon/martial/melee
-aliases: ["Scimitar of Speed"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/finesse
+  - item/property/light
+  - item/property/martial
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/weapon/martial/melee
+aliases:
+  - Scimitar of Speed
+dg-publish: true
 ---
 # Scimitar of Speed
 *Melee Weapon, major, very rare (requires attunement)*  

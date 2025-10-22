@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/6
-- spell/ritual
-- spell/school/conjuration
-aliases: ["Drawmij's Instant Summons"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/6
+  - spell/ritual
+  - spell/school/conjuration
+aliases:
+  - Drawmij's Instant Summons
+dg-publish: true
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  

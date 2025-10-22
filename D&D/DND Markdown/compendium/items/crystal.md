@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/spellcasting-focus
-aliases: ["Crystal"]
+  - compendium/src/5e/phb
+  - item/gear/spellcasting-focus
+aliases:
+  - Crystal
+dg-publish: true
 ---
 # Crystal
 *Spellcasting Focus*  

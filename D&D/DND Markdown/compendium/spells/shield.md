@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Shield"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Shield
+dg-publish: true
 ---
 # Shield
 *1st-level, Abjuration*  

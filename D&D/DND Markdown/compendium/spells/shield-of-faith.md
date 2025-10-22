@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Shield of Faith"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Shield of Faith
+dg-publish: true
 ---
 # Shield of Faith
 *1st-level, Abjuration*  

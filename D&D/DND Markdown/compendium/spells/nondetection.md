@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/ranger
-- spell/class/wizard
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Nondetection"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/ranger
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Nondetection
+dg-publish: true
 ---
 # Nondetection
 *3rd-level, Abjuration*  

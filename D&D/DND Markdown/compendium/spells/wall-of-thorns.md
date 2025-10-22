@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/6
-- spell/school/conjuration
-aliases: ["Wall of Thorns"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/6
+  - spell/school/conjuration
+aliases:
+  - Wall of Thorns
+dg-publish: true
 ---
 # Wall of Thorns
 *6th-level, Conjuration*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/1
-- spell/school/necromancy
-aliases: ["False Life"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/necromancy
+aliases:
+  - False Life
+dg-publish: true
 ---
 # False Life
 *1st-level, Necromancy*  

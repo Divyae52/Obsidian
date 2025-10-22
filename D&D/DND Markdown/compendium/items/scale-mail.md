@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/armor/medium
-aliases: ["Scale Mail"]
+  - compendium/src/5e/phb
+  - item/armor/medium
+aliases:
+  - Scale Mail
+dg-publish: true
 ---
 # Scale Mail
 *Medium Armor*  

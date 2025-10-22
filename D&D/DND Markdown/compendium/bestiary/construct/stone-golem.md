@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/construct
-aliases: ["Stone Golem"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/construct
+aliases:
+  - Stone Golem
+dg-publish: true
 ---
 # Stone Golem
 *Source: SRD / Basic Rules*  

@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/level/7
-- spell/school/transmutation
-aliases: ["Regenerate"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/7
+  - spell/school/transmutation
+aliases:
+  - Regenerate
+dg-publish: true
 ---
 # Regenerate
 *7th-level, Transmutation*  

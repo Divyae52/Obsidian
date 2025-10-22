@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greek
-- domain/arcana
-- domain/knowledge
-- domain/trickery
-aliases: ["Hecate"]
+  - compendium/src/5e/phb
+  - deity/greek
+  - domain/arcana
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - Hecate
+dg-publish: true
 ---
 # Hecate
 *Source: SRD / Basic Rules* 

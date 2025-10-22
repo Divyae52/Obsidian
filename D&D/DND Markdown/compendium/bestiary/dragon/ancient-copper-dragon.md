@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/size/gargantuan
-- monster/type/dragon
-aliases: ["Ancient Copper Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/size/gargantuan
+  - monster/type/dragon
+aliases:
+  - Ancient Copper Dragon
+dg-publish: true
 ---
 # Ancient Copper Dragon
 *Source: SRD / Basic Rules*  

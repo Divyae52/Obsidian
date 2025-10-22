@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/martial
-- item/weapon/martial/melee
-aliases: ["War Pick"]
+  - compendium/src/5e/phb
+  - item/property/martial
+  - item/weapon/martial/melee
+aliases:
+  - War Pick
+dg-publish: true
 ---
 # War Pick
 *Melee Weapon*  

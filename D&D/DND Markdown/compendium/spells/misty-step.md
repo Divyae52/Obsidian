@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/conjuration
-aliases: ["Misty Step"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/conjuration
+aliases:
+  - Misty Step
+dg-publish: true
 ---
 # Misty Step
 *2nd-level, Conjuration*  

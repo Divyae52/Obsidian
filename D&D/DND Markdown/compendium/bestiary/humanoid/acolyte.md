@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
-aliases: ["Acolyte"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
+aliases:
+  - Acolyte
+dg-publish: true
 ---
 # Acolyte
 *Source: SRD / Basic Rules*  

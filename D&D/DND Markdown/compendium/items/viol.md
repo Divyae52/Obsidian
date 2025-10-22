@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/instrument
-aliases: ["Viol"]
+  - compendium/src/5e/phb
+  - item/gear/instrument
+aliases:
+  - Viol
+dg-publish: true
 ---
 # Viol
 *Instrument*  

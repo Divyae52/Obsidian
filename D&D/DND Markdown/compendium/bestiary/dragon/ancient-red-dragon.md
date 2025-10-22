@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/gargantuan
-- monster/type/dragon
-aliases: ["Ancient Red Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/gargantuan
+  - monster/type/dragon
+aliases:
+  - Ancient Red Dragon
+dg-publish: true
 ---
 # Ancient Red Dragon
 *Source: SRD / Basic Rules*  

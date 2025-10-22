@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/small
-- monster/type/elemental
-aliases: ["Magmin"]
+  - compendium/src/5e/mm
+  - monster/size/small
+  - monster/type/elemental
+aliases:
+  - Magmin
+dg-publish: true
 ---
 # Magmin
 *Source: SRD / Basic Rules*  

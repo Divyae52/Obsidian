@@ -11,6 +11,7 @@ tags:
   - item/damageType/piercing
 aliases:
   - Hand Crossbow
+dg-publish: true
 ---
 # Hand Crossbow
 *Ranged Weapon*  

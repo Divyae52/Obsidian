@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Beyond 1st Level; Character Advancement"]
+  - compendium/src/5e/phb
+aliases:
+  - Beyond 1st Level; Character Advancement
+dg-publish: true
 ---
 # Beyond 1st Level; Character Advancement
 *Source: SRD / Basic Rules* 

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Book of Ancient Secrets"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Book of Ancient Secrets
+dg-publish: true
 ---
 # Book of Ancient Secrets
 *Source: SRD / Basic Rules* 

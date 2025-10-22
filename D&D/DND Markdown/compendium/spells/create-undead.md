@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/6
-- spell/school/necromancy
-aliases: ["Create Undead"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/necromancy
+aliases:
+  - Create Undead
+dg-publish: true
 ---
 # Create Undead
 *6th-level, Necromancy*  

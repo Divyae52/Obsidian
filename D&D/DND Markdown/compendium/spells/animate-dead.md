@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/wizard
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Animate Dead"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Animate Dead
+dg-publish: true
 ---
 # Animate Dead
 *3rd-level, Necromancy*  

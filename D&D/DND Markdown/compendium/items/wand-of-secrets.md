@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous/wand
-aliases: ["Wand of Secrets"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous/wand
+aliases:
+  - Wand of Secrets
+dg-publish: true
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  

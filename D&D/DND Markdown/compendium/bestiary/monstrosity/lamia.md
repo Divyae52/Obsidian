@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Lamia"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Lamia
+dg-publish: true
 ---
 # Lamia
 *Source: SRD / Basic Rules*  

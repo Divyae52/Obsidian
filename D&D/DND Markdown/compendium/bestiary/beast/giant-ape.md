@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/huge
-- monster/type/beast
-aliases: ["Giant Ape"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/beast
+aliases:
+  - Giant Ape
+dg-publish: true
 ---
 # Giant Ape
 *Source: SRD / Basic Rules*  

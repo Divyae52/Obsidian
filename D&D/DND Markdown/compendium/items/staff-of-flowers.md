@@ -9,6 +9,7 @@ tags:
   - item/tier/minor
 aliases:
   - Staff of Flowers
+dg-publish: true
 ---
 # Staff of Flowers
 *Staff, minor, common*  

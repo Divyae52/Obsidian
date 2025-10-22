@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/level/1
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Purify Food and Drink"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/level/1
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Purify Food and Drink
+dg-publish: true
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

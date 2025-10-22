@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Armor of Shadows"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Armor of Shadows
+dg-publish: true
 ---
 # Armor of Shadows
 *Source: SRD / Basic Rules* 

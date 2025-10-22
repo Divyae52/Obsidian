@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/3
-- spell/ritual
-- spell/school/evocation
-aliases: ["Leomund's Tiny Hut"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/3
+  - spell/ritual
+  - spell/school/evocation
+aliases:
+  - Leomund's Tiny Hut
+dg-publish: true
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  

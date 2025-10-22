@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/9
-- spell/school/conjuration
-aliases: ["Storm of Vengeance"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/9
+  - spell/school/conjuration
+aliases:
+  - Storm of Vengeance
+dg-publish: true
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

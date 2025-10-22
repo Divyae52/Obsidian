@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/medium
-- monster/type/beast
-aliases: ["Black Bear"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Black Bear
+dg-publish: true
 ---
 # Black Bear
 *Source: SRD / Basic Rules*  

@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/6
-- spell/school/divination
-aliases: ["True Seeing"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/divination
+aliases:
+  - True Seeing
+dg-publish: true
 ---
 # True Seeing
 *6th-level, Divination*  

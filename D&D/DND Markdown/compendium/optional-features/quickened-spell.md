@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/mm
-aliases: ["Quickened Spell"]
+  - compendium/src/5e/phb
+  - optional-feature/mm
+aliases:
+  - Quickened Spell
+dg-publish: true
 ---
 # Quickened Spell
 *Source: SRD / Basic Rules* 

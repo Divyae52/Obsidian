@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/small
-- monster/type/humanoid/gnome
-aliases: ["Deep Gnome (Svirfneblin)"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/humanoid/gnome
+aliases:
+  - Deep Gnome (Svirfneblin)
+dg-publish: true
 ---
 # Deep Gnome (Svirfneblin)
 *Source: SRD / Basic Rules*  

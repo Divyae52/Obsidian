@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/7
-- spell/school/conjuration
-aliases: ["Plane Shift"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/conjuration
+aliases:
+  - Plane Shift
+dg-publish: true
 ---
 # Plane Shift
 *7th-level, Conjuration*  

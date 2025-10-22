@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Coinage; Standard Exchange Rates"]
+  - compendium/src/5e/phb
+aliases:
+  - Coinage; Standard Exchange Rates
+dg-publish: true
 ---
 # Coinage; Standard Exchange Rates
 *Source: SRD / Basic Rules* 

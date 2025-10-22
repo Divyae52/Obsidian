@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Ankheg"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Ankheg
+dg-publish: true
 ---
 # Ankheg
 *Source: SRD / Basic Rules*  

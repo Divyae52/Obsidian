@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/beast
-aliases: ["Boar"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Boar
+dg-publish: true
 ---
 # Boar
 *Source: SRD / Basic Rules*  

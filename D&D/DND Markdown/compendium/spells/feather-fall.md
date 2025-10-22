@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/1
-- spell/school/transmutation
-aliases: ["Feather Fall"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/transmutation
+aliases:
+  - Feather Fall
+dg-publish: true
 ---
 # Feather Fall
 *1st-level, Transmutation*  

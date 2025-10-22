@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Master of Myriad Forms"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Master of Myriad Forms
+dg-publish: true
 ---
 # Master of Myriad Forms
 *Source: SRD / Basic Rules* 

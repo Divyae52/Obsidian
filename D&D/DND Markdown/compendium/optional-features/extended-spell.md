@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/mm
-aliases: ["Extended Spell"]
+  - compendium/src/5e/phb
+  - optional-feature/mm
+aliases:
+  - Extended Spell
+dg-publish: true
 ---
 # Extended Spell
 *Source: SRD / Basic Rules* 

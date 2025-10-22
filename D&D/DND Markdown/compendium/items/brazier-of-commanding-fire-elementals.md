@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/major
-- item/wondrous
-aliases: ["Brazier of Commanding Fire Elementals"]
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Brazier of Commanding Fire Elementals
+dg-publish: true
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous Item, major, rare*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/7
-- spell/school/conjuration
-aliases: ["Mordenkainen's Magnificent Mansion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/conjuration
+aliases:
+  - Mordenkainen's Magnificent Mansion
+dg-publish: true
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  

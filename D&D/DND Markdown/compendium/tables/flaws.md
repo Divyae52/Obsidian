@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-aliases: ["Flaws"]
+aliases:
+  - Flaws
+dg-publish: true
 ---
 # Flaws
 

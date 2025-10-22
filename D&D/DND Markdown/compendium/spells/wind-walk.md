@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/6
-- spell/school/transmutation
-aliases: ["Wind Walk"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/6
+  - spell/school/transmutation
+aliases:
+  - Wind Walk
+dg-publish: true
 ---
 # Wind Walk
 *6th-level, Transmutation*  

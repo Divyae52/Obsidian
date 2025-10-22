@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Minions of Chaos"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Minions of Chaos
+dg-publish: true
 ---
 # Minions of Chaos
 *Source: SRD / Basic Rules* 

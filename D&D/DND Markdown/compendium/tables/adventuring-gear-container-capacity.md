@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Adventuring Gear; Container Capacity"]
+  - compendium/src/5e/phb
+aliases:
+  - Adventuring Gear; Container Capacity
+dg-publish: true
 ---
 # Adventuring Gear; Container Capacity
 *Source: SRD / Basic Rules* 

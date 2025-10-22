@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Sentient Magic Item Alignment"]
+  - compendium/src/5e/dmg
+aliases:
+  - Sentient Magic Item Alignment
+dg-publish: true
 ---
 # Sentient Magic Item Alignment
 *Source: SRD / Basic Rules* 

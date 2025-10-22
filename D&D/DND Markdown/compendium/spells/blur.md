@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/illusion
-aliases: ["Blur"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/illusion
+aliases:
+  - Blur
+dg-publish: true
 ---
 # Blur
 *2nd-level, Illusion*  

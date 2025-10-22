@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["The Egyptian Pantheon; Egyptian Deities"]
+  - compendium/src/5e/phb
+aliases:
+  - The Egyptian Pantheon; Egyptian Deities
+dg-publish: true
 ---
 # The Egyptian Pantheon; Egyptian Deities
 *Source: SRD / Basic Rules* 

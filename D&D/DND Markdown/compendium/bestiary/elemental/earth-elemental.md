@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
-aliases: ["Earth Elemental"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
+aliases:
+  - Earth Elemental
+dg-publish: true
 ---
 # Earth Elemental
 *Source: SRD / Basic Rules*  

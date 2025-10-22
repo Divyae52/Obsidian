@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Armor and Shields; Armor"]
+  - compendium/src/5e/phb
+aliases:
+  - Armor and Shields; Armor
+dg-publish: true
 ---
 # Armor and Shields; Armor
 *Source: SRD / Basic Rules* 

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Speak with Dead"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Speak with Dead
+dg-publish: true
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

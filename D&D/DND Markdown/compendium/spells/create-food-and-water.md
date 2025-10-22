@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Create Food and Water"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Create Food and Water
+dg-publish: true
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

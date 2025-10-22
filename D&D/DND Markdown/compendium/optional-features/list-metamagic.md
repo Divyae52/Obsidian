@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Metamagic"]
+  - compendium/src/5e/phb
+aliases:
+  - Metamagic
+dg-publish: true
 ---
 # Metamagic
 *Source: SRD / Basic Rules* 

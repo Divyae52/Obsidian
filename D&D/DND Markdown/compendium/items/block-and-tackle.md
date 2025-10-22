@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Block and Tackle"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Block and Tackle
+dg-publish: true
 ---
 # Block and Tackle
 *Adventuring Gear*  

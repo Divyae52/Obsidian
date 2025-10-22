@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/conjuration
-aliases: ["Mage Hand"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/conjuration
+aliases:
+  - Mage Hand
+dg-publish: true
 ---
 # Mage Hand
 *cantrip, Conjuration*  

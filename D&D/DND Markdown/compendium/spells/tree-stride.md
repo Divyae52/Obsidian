@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Tree Stride"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Tree Stride
+dg-publish: true
 ---
 # Tree Stride
 *5th-level, Conjuration*  

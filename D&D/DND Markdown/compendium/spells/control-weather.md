@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/wizard
-- spell/level/8
-- spell/school/transmutation
-aliases: ["Control Weather"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/transmutation
+aliases:
+  - Control Weather
+dg-publish: true
 ---
 # Control Weather
 *8th-level, Transmutation*  

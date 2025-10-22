@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Magic Circle"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Magic Circle
+dg-publish: true
 ---
 # Magic Circle
 *3rd-level, Abjuration*  

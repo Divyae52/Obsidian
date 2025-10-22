@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/mech
-aliases: ["Falling Net"]
+  - compendium/src/5e/dmg
+  - hazard/mech
+aliases:
+  - Falling Net
+dg-publish: true
 ---
 # Falling Net
 *Mechanical Trap*  

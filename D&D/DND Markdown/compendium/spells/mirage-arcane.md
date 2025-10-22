@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/wizard
-- spell/level/7
-- spell/school/illusion
-aliases: ["Mirage Arcane"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/illusion
+aliases:
+  - Mirage Arcane
+dg-publish: true
 ---
 # Mirage Arcane
 *7th-level, Illusion*  

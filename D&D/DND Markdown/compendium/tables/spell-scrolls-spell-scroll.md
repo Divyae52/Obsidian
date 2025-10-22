@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Spell Scrolls; Spell Scroll"]
+  - compendium/src/5e/dmg
+aliases:
+  - Spell Scrolls; Spell Scroll
+dg-publish: true
 ---
 # Spell Scrolls; Spell Scroll
 *Source: SRD / Basic Rules* 

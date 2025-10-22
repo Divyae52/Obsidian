@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["The Celtic Pantheon; Celtic Deities"]
+  - compendium/src/5e/phb
+aliases:
+  - The Celtic Pantheon; Celtic Deities
+dg-publish: true
 ---
 # The Celtic Pantheon; Celtic Deities
 *Source: SRD / Basic Rules* 

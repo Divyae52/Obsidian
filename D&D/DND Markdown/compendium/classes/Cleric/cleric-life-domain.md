@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/cleric/life
-- compendium/src/5e/phb
-- domain/life
-aliases: ["Life Domain"]
+  - class/cleric/life
+  - compendium/src/5e/phb
+  - domain/life
+aliases:
+  - Life Domain
+dg-publish: true
 ---
 # Life Domain
 *[Cleric](cleric.md): Divine Domain*  

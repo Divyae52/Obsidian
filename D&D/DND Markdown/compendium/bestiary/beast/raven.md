@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Raven"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Raven
+dg-publish: true
 ---
 # Raven
 *Source: SRD / Basic Rules*  

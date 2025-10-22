@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/transmutation
-aliases: ["Prestidigitation"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/transmutation
+aliases:
+  - Prestidigitation
+dg-publish: true
 ---
 # Prestidigitation
 *cantrip, Transmutation*  

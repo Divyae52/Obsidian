@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Sea Horse"]
+  - compendium/src/5e/mm
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Sea Horse
+dg-publish: true
 ---
 # Sea Horse
 *Source: SRD / Basic Rules*  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/undead
-aliases: ["Warhorse Skeleton"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/undead
+aliases:
+  - Warhorse Skeleton
+dg-publish: true
 ---
 # Warhorse Skeleton
 *Source: SRD / Basic Rules*  

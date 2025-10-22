@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/ranger
-- spell/level/2
-- spell/ritual
-- spell/school/enchantment
-aliases: ["Animal Messenger"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/2
+  - spell/ritual
+  - spell/school/enchantment
+aliases:
+  - Animal Messenger
+dg-publish: true
 ---
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  

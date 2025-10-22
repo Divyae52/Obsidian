@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/6
-- spell/school/conjuration
-aliases: ["Planar Ally"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/6
+  - spell/school/conjuration
+aliases:
+  - Planar Ally
+dg-publish: true
 ---
 # Planar Ally
 *6th-level, Conjuration*  

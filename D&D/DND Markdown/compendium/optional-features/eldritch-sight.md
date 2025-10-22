@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Eldritch Sight"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Eldritch Sight
+dg-publish: true
 ---
 # Eldritch Sight
 *Source: SRD / Basic Rules* 

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/construct
-aliases: ["Flesh Golem"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/construct
+aliases:
+  - Flesh Golem
+dg-publish: true
 ---
 # Flesh Golem
 *Source: SRD / Basic Rules*  

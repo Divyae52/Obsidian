@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/5
-- spell/school/evocation
-aliases: ["Cone of Cold"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Cone of Cold
+dg-publish: true
 ---
 # Cone of Cold
 *5th-level, Evocation*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin
-- spell/level/1
-- spell/school/evocation
-aliases: ["Divine Favor"]
+  - compendium/src/5e/phb
+  - spell/class/paladin
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Divine Favor
+dg-publish: true
 ---
 # Divine Favor
 *1st-level, Evocation*  

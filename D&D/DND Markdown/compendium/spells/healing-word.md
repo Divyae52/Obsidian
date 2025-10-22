@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/level/1
-- spell/school/evocation
-aliases: ["Healing Word"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Healing Word
+dg-publish: true
 ---
 # Healing Word
 *1st-level, Evocation*  

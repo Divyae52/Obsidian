@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/2
-- spell/school/enchantment
-aliases: ["Zone of Truth"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/2
+  - spell/school/enchantment
+aliases:
+  - Zone of Truth
+dg-publish: true
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

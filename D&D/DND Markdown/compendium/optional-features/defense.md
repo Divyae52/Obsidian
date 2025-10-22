@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/fs-f
-- optional-feature/fs-p
-- optional-feature/fs-r
-aliases: ["Defense"]
+  - compendium/src/5e/phb
+  - optional-feature/fs-f
+  - optional-feature/fs-p
+  - optional-feature/fs-r
+aliases:
+  - Defense
+dg-publish: true
 ---
 # Defense
 *Source: SRD / Basic Rules* 

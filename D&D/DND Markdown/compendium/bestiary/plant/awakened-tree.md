@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/huge
-- monster/type/plant
-aliases: ["Awakened Tree"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/plant
+aliases:
+  - Awakened Tree
+dg-publish: true
 ---
 # Awakened Tree
 *Source: SRD / Basic Rules*  

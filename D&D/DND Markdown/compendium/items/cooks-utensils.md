@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/artisans-tools
-aliases: ["Cook's Utensils"]
+  - compendium/src/5e/phb
+  - item/gear/artisans-tools
+aliases:
+  - Cook's Utensils
+dg-publish: true
 ---
 # Cook's Utensils
 *Artisan's Tools*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Drider"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Drider
+dg-publish: true
 ---
 # Drider
 *Source: SRD / Basic Rules*  

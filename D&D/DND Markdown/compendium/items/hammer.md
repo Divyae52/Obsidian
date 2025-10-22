@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Hammer"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Hammer
+dg-publish: true
 ---
 # Hammer
 *Adventuring Gear*  

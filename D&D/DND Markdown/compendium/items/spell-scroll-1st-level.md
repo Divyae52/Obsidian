@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/common
-- item/tier/minor
-- item/wondrous/scroll
-aliases: ["Spell Scroll (1st Level)"]
+  - compendium/src/5e/dmg
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous/scroll
+aliases:
+  - Spell Scroll (1st Level)
+dg-publish: true
 ---
 # Spell Scroll (1st Level)
 *Scroll, minor, common*  

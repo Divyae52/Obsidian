@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Enhance Ability"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Enhance Ability
+dg-publish: true
 ---
 # Enhance Ability
 *2nd-level, Transmutation*  

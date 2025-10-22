@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/conjuration
-aliases: ["Unseen Servant"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/conjuration
+aliases:
+  - Unseen Servant
+dg-publish: true
 ---
 # Unseen Servant
 *1st-level, Conjuration (ritual)*  

@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/illusion
-aliases: ["Mirror Image"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/illusion
+aliases:
+  - Mirror Image
+dg-publish: true
 ---
 # Mirror Image
 *2nd-level, Illusion*  

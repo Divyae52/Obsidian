@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/dragon
-aliases: ["Blue Dragon Wyrmling"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/dragon
+aliases:
+  - Blue Dragon Wyrmling
+dg-publish: true
 ---
 # Blue Dragon Wyrmling
 *Source: SRD / Basic Rules*  

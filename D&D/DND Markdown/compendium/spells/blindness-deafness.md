@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/necromancy
-aliases: ["Blindness/Deafness"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/necromancy
+aliases:
+  - Blindness/Deafness
+dg-publish: true
 ---
 # Blindness/Deafness
 *2nd-level, Necromancy*  

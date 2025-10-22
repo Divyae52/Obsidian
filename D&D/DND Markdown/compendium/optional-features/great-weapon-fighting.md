@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/fs-f
-- optional-feature/fs-p
-aliases: ["Great Weapon Fighting"]
+  - compendium/src/5e/phb
+  - optional-feature/fs-f
+  - optional-feature/fs-p
+aliases:
+  - Great Weapon Fighting
+dg-publish: true
 ---
 # Great Weapon Fighting
 *Source: SRD / Basic Rules* 

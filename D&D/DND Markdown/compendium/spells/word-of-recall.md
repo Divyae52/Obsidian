@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/6
-- spell/school/conjuration
-aliases: ["Word of Recall"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/6
+  - spell/school/conjuration
+aliases:
+  - Word of Recall
+dg-publish: true
 ---
 # Word of Recall
 *6th-level, Conjuration*  

@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
-aliases: ["Ettin"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
+aliases:
+  - Ettin
+dg-publish: true
 ---
 # Ettin
 *Source: SRD / Basic Rules*  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/undead
-aliases: ["Lich"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Lich
+dg-publish: true
 ---
 # Lich
 *Source: SRD / Basic Rules*  

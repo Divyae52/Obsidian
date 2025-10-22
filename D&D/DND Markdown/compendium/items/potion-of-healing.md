@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/common
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Healing"]
+  - compendium/src/5e/dmg
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Healing
+dg-publish: true
 ---
 # Potion of Healing
 *Potion, minor, common*  

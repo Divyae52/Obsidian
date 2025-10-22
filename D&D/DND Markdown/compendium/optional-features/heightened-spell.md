@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/mm
-aliases: ["Heightened Spell"]
+  - compendium/src/5e/phb
+  - optional-feature/mm
+aliases:
+  - Heightened Spell
+dg-publish: true
 ---
 # Heightened Spell
 *Source: SRD / Basic Rules* 

@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/ranger
-- spell/class/wizard
-- spell/level/2
-- spell/school/divination
-aliases: ["Locate Object"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/ranger
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/divination
+aliases:
+  - Locate Object
+dg-publish: true
 ---
 # Locate Object
 *2nd-level, Divination*  

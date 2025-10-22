@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/major
-- item/wondrous
-aliases: ["Bowl of Commanding Water Elementals"]
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Bowl of Commanding Water Elementals
+dg-publish: true
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous Item, major, rare*  

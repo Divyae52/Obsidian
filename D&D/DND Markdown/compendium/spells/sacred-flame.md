@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Sacred Flame"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Sacred Flame
+dg-publish: true
 ---
 # Sacred Flame
 *cantrip, Evocation*  

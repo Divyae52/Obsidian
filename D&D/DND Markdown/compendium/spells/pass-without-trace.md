@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Pass without Trace"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Pass without Trace
+dg-publish: true
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

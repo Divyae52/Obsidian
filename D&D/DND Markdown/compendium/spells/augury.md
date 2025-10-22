@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/2
-- spell/ritual
-- spell/school/divination
-aliases: ["Augury"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/2
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Augury
+dg-publish: true
 ---
 # Augury
 *2nd-level, Divination (ritual)*  

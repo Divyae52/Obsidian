@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/minor
-- item/wondrous
-aliases: ["Sovereign Glue"]
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Sovereign Glue
+dg-publish: true
 ---
 # Sovereign Glue
 *Wondrous Item, minor, legendary*  

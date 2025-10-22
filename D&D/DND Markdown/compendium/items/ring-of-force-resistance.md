@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/ring
-aliases: ["Ring of Force Resistance"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/ring
+aliases:
+  - Ring of Force Resistance
+dg-publish: true
 ---
 # Ring of Force Resistance
 *Ring, major, rare (requires attunement)*  

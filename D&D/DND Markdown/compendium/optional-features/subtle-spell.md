@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/mm
-aliases: ["Subtle Spell"]
+  - compendium/src/5e/phb
+  - optional-feature/mm
+aliases:
+  - Subtle Spell
+dg-publish: true
 ---
 # Subtle Spell
 *Source: SRD / Basic Rules* 

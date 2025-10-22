@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/humanoid/merfolk
-aliases: ["Merfolk"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/humanoid/merfolk
+aliases:
+  - Merfolk
+dg-publish: true
 ---
 # Merfolk
 *Source: SRD / Basic Rules*  

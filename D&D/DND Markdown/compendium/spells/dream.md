@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/5
-- spell/school/illusion
-aliases: ["Dream"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/illusion
+aliases:
+  - Dream
+dg-publish: true
 ---
 # Dream
 *5th-level, Illusion*  

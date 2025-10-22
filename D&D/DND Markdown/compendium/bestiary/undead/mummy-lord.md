@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/medium
-- monster/type/undead
-aliases: ["Mummy Lord"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Mummy Lord
+dg-publish: true
 ---
 # Mummy Lord
 *Source: SRD / Basic Rules*  

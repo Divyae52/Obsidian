@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/4
-- spell/school/conjuration
-aliases: ["Conjure Woodland Beings"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/4
+  - spell/school/conjuration
+aliases:
+  - Conjure Woodland Beings
+dg-publish: true
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  

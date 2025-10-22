@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/gear/poison
-- item/property/poison
-aliases: ["Malice"]
+  - compendium/src/5e/dmg
+  - item/gear/poison
+  - item/property/poison
+aliases:
+  - Malice
+dg-publish: true
 ---
 # Malice
 *Adventuring Gear, poison*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/5
-- spell/ritual
-- spell/school/divination
-aliases: ["Commune"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/5
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Commune
+dg-publish: true
 ---
 # Commune
 *5th-level, Divination (ritual)*  

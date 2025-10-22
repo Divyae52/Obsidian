@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/level/1
-- spell/school/evocation
-aliases: ["Faerie Fire"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Faerie Fire
+dg-publish: true
 ---
 # Faerie Fire
 *1st-level, Evocation*  

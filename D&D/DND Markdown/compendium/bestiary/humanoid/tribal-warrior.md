@@ -2,19 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/any-race
-aliases: ["Tribal Warrior"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/any-race
+aliases:
+  - Tribal Warrior
+dg-publish: true
 ---
 # Tribal Warrior
 *Source: SRD / Basic Rules*  

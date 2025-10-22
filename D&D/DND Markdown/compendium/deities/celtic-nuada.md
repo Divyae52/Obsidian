@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/celtic
-- domain/order
-- domain/war
-aliases: ["Nuada"]
+  - compendium/src/5e/phb
+  - deity/celtic
+  - domain/order
+  - domain/war
+aliases:
+  - Nuada
+dg-publish: true
 ---
 # Nuada
 *Source: SRD / Basic Rules* 

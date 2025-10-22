@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Speed"]
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Speed
+dg-publish: true
 ---
 # Potion of Speed
 *Potion, minor, very rare*  

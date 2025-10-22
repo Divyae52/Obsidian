@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/gear/instrument
-- item/rarity/uncommon
-- item/tier/major
-aliases: ["Pipes of the Sewers"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/gear/instrument
+  - item/rarity/uncommon
+  - item/tier/major
+aliases:
+  - Pipes of the Sewers
+dg-publish: true
 ---
 # Pipes of the Sewers
 *Instrument, major, uncommon (requires attunement)*  

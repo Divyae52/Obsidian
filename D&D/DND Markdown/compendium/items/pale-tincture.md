@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/gear/poison
-- item/property/poison
-aliases: ["Pale Tincture"]
+  - compendium/src/5e/dmg
+  - item/gear/poison
+  - item/property/poison
+aliases:
+  - Pale Tincture
+dg-publish: true
 ---
 # Pale Tincture
 *Adventuring Gear, poison*  

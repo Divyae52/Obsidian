@@ -2,17 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Swarm of Beetles"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Swarm of Beetles
+dg-publish: true
 ---
 # Swarm of Beetles
 *Source: SRD / Basic Rules*  

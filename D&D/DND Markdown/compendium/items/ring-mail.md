@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/armor/heavy
-aliases: ["Ring Mail"]
+  - compendium/src/5e/phb
+  - item/armor/heavy
+aliases:
+  - Ring Mail
+dg-publish: true
 ---
 # Ring Mail
 *Heavy Armor*  

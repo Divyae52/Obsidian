@@ -2,19 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Stirge"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Stirge
+dg-publish: true
 ---
 # Stirge
 *Source: SRD / Basic Rules*  

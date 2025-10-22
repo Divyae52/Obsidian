@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/7
-- spell/school/transmutation
-aliases: ["Reverse Gravity"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/transmutation
+aliases:
+  - Reverse Gravity
+dg-publish: true
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  

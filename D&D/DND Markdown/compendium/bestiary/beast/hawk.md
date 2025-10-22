@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/tiny
-- monster/type/beast
-aliases: ["Hawk"]
+  - compendium/src/5e/mm
+  - monster/size/tiny
+  - monster/type/beast
+aliases:
+  - Hawk
+dg-publish: true
 ---
 # Hawk
 *Source: SRD / Basic Rules*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/elemental
-aliases: ["Gargoyle"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/elemental
+aliases:
+  - Gargoyle
+dg-publish: true
 ---
 # Gargoyle
 *Source: SRD / Basic Rules*  

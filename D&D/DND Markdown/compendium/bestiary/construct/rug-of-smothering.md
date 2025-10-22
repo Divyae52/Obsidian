@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/construct
-aliases: ["Rug of Smothering"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/construct
+aliases:
+  - Rug of Smothering
+dg-publish: true
 ---
 # Rug of Smothering
 *Source: SRD / Basic Rules*  

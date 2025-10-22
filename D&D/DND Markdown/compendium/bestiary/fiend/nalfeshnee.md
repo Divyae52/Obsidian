@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend/demon
-aliases: ["Nalfeshnee"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend/demon
+aliases:
+  - Nalfeshnee
+dg-publish: true
 ---
 # Nalfeshnee
 *Source: SRD / Basic Rules*  

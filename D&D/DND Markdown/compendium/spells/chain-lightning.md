@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/6
-- spell/school/evocation
-aliases: ["Chain Lightning"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/evocation
+aliases:
+  - Chain Lightning
+dg-publish: true
 ---
 # Chain Lightning
 *6th-level, Evocation*  

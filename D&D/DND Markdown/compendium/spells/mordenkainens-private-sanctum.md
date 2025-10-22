@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Mordenkainen's Private Sanctum"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Mordenkainen's Private Sanctum
+dg-publish: true
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/beast
-aliases: ["Giant Centipede"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/beast
+aliases:
+  - Giant Centipede
+dg-publish: true
 ---
 # Giant Centipede
 *Source: SRD / Basic Rules*  

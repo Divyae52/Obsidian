@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Madness"]
+  - compendium/src/5e/dmg
+aliases:
+  - Madness
+dg-publish: true
 ---
 # Madness
 *Source: SRD / Basic Rules* 

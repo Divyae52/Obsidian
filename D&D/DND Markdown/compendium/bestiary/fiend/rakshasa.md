@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend
-aliases: ["Rakshasa"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend
+aliases:
+  - Rakshasa
+dg-publish: true
 ---
 # Rakshasa
 *Source: SRD / Basic Rules*  

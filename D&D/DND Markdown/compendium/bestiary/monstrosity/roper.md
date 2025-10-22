@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Roper"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Roper
+dg-publish: true
 ---
 # Roper
 *Source: SRD / Basic Rules*  

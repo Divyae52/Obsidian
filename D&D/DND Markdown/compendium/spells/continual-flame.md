@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Continual Flame"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Continual Flame
+dg-publish: true
 ---
 # Continual Flame
 *2nd-level, Evocation*  

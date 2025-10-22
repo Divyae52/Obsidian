@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/level/3
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Meld into Stone"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/3
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Meld into Stone
+dg-publish: true
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

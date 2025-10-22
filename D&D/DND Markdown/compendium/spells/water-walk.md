@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/ranger
-- spell/class/sorcerer
-- spell/level/3
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Water Walk"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/sorcerer
+  - spell/level/3
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Water Walk
+dg-publish: true
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  

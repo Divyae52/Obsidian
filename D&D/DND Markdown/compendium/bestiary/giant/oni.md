@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/urban
-- monster/size/large
-- monster/type/giant
-aliases: ["Oni"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/giant
+aliases:
+  - Oni
+dg-publish: true
 ---
 # Oni
 *Source: SRD / Basic Rules*  

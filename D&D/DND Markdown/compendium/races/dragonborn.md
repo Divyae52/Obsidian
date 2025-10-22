@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/dragonborn
-aliases: ["Dragonborn"]
+  - compendium/src/5e/phb
+  - race/dragonborn
+aliases:
+  - Dragonborn
+dg-publish: true
 ---
 # Dragonborn
 *Source: SRD / Basic Rules*  

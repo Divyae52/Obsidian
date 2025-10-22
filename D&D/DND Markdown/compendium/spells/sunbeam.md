@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/6
-- spell/school/evocation
-aliases: ["Sunbeam"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/evocation
+aliases:
+  - Sunbeam
+dg-publish: true
 ---
 # Sunbeam
 *6th-level, Evocation*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Winter Wolf"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Winter Wolf
+dg-publish: true
 ---
 # Winter Wolf
 *Source: SRD / Basic Rules*  

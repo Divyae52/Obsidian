@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/humanoid/human
-aliases: ["Half-Red Dragon Veteran"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/humanoid/human
+aliases:
+  - Half-Red Dragon Veteran
+dg-publish: true
 ---
 # Half-Red Dragon Veteran
 *Source: SRD / Basic Rules*  

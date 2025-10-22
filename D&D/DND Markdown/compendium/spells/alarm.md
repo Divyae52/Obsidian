@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/ranger
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/abjuration
-aliases: ["Alarm"]
+  - compendium/src/5e/phb
+  - spell/class/ranger
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/abjuration
+aliases:
+  - Alarm
+dg-publish: true
 ---
 # Alarm
 *1st-level, Abjuration (ritual)*  

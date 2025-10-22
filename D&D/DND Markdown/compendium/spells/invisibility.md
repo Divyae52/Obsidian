@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/illusion
-aliases: ["Invisibility"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/illusion
+aliases:
+  - Invisibility
+dg-publish: true
 ---
 # Invisibility
 *2nd-level, Illusion*  

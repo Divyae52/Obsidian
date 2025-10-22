@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/beast
-aliases: ["Panther"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Panther
+dg-publish: true
 ---
 # Panther
 *Source: SRD / Basic Rules*  

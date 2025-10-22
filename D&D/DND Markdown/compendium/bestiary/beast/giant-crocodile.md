@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/swamp
-- monster/size/huge
-- monster/type/beast
-aliases: ["Giant Crocodile"]
+  - compendium/src/5e/mm
+  - monster/environment/swamp
+  - monster/size/huge
+  - monster/type/beast
+aliases:
+  - Giant Crocodile
+dg-publish: true
 ---
 # Giant Crocodile
 *Source: SRD / Basic Rules*  

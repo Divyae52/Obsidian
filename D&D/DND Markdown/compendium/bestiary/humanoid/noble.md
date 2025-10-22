@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
-aliases: ["Noble"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
+aliases:
+  - Noble
+dg-publish: true
 ---
 # Noble
 *Source: SRD / Basic Rules*  

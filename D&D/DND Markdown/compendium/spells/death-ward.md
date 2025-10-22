@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Death Ward"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Death Ward
+dg-publish: true
 ---
 # Death Ward
 *4th-level, Abjuration*  

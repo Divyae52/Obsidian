@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Thief of Five Fates"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Thief of Five Fates
+dg-publish: true
 ---
 # Thief of Five Fates
 *Source: SRD / Basic Rules* 

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend/demon
-aliases: ["Hezrou"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend/demon
+aliases:
+  - Hezrou
+dg-publish: true
 ---
 # Hezrou
 *Source: SRD / Basic Rules*  

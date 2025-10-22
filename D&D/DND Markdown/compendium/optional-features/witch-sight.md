@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Witch Sight"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Witch Sight
+dg-publish: true
 ---
 # Witch Sight
 *Source: SRD / Basic Rules* 

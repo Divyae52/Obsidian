@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Bewitching Whispers"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Bewitching Whispers
+dg-publish: true
 ---
 # Bewitching Whispers
 *Source: SRD / Basic Rules* 

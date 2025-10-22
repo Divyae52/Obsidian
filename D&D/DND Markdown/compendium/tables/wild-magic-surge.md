@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Wild Magic Surge"]
+  - compendium/src/5e/phb
+aliases:
+  - Wild Magic Surge
+dg-publish: true
 ---
 # Wild Magic Surge
 *Source: SRD / Basic Rules* 

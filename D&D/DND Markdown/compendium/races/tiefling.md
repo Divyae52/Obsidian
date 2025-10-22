@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/tiefling
-aliases: ["Tiefling"]
+  - compendium/src/5e/phb
+  - race/tiefling
+aliases:
+  - Tiefling
+dg-publish: true
 ---
 # Tiefling
 *Source: SRD / Basic Rules*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Otherworldly Leap"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Otherworldly Leap
+dg-publish: true
 ---
 # Otherworldly Leap
 *Source: SRD / Basic Rules* 

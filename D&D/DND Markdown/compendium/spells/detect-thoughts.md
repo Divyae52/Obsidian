@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/divination
-aliases: ["Detect Thoughts"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/divination
+aliases:
+  - Detect Thoughts
+dg-publish: true
 ---
 # Detect Thoughts
 *2nd-level, Divination*  

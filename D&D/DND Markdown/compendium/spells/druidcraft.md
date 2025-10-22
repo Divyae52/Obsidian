@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/cantrip
-- spell/school/transmutation
-aliases: ["Druidcraft"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/cantrip
+  - spell/school/transmutation
+aliases:
+  - Druidcraft
+dg-publish: true
 ---
 # Druidcraft
 *cantrip, Transmutation*  

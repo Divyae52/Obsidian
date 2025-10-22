@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Weapons"]
+  - compendium/src/5e/phb
+aliases:
+  - Weapons
+dg-publish: true
 ---
 # Weapons
 *Source: SRD / Basic Rules* 

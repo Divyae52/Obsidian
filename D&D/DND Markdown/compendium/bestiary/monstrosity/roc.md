@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/gargantuan
-- monster/type/monstrosity
-aliases: ["Roc"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/gargantuan
+  - monster/type/monstrosity
+aliases:
+  - Roc
+dg-publish: true
 ---
 # Roc
 *Source: SRD / Basic Rules*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/4
-- spell/school/conjuration
-aliases: ["Guardian of Faith"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/4
+  - spell/school/conjuration
+aliases:
+  - Guardian of Faith
+dg-publish: true
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

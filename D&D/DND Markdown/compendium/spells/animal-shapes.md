@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/8
-- spell/school/transmutation
-aliases: ["Animal Shapes"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/8
+  - spell/school/transmutation
+aliases:
+  - Animal Shapes
+dg-publish: true
 ---
 # Animal Shapes
 *8th-level, Transmutation*  

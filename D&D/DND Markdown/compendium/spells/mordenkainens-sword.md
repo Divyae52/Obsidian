@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/7
-- spell/school/evocation
-aliases: ["Mordenkainen's Sword"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/evocation
+aliases:
+  - Mordenkainen's Sword
+dg-publish: true
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

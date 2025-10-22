@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Charm Person"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Charm Person
+dg-publish: true
 ---
 # Charm Person
 *1st-level, Enchantment*  

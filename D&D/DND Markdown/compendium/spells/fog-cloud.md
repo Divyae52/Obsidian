@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/1
-- spell/school/conjuration
-aliases: ["Fog Cloud"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/conjuration
+aliases:
+  - Fog Cloud
+dg-publish: true
 ---
 # Fog Cloud
 *1st-level, Conjuration*  

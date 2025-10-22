@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Damage Types"]
+  - compendium/src/5e/phb
+aliases:
+  - Damage Types
+dg-publish: true
 ---
 # Damage Types
 *Source: SRD / Basic Rules* 

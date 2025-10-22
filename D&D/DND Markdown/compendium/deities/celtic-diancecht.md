@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/celtic
-- domain/life
-aliases: ["Diancecht"]
+  - compendium/src/5e/phb
+  - deity/celtic
+  - domain/life
+aliases:
+  - Diancecht
+dg-publish: true
 ---
 # Diancecht
 *Source: SRD / Basic Rules* 

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Pitcher"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Pitcher
+dg-publish: true
 ---
 # Pitcher
 *Adventuring Gear*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Sculptor of Flesh"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Sculptor of Flesh
+dg-publish: true
 ---
 # Sculptor of Flesh
 *Source: SRD / Basic Rules* 

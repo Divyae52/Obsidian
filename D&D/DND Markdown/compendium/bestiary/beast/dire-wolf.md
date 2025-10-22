@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
-aliases: ["Dire Wolf"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Dire Wolf
+dg-publish: true
 ---
 # Dire Wolf
 *Source: SRD / Basic Rules*  

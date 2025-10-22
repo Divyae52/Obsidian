@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/6
-- spell/school/necromancy
-aliases: ["Magic Jar"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/necromancy
+aliases:
+  - Magic Jar
+dg-publish: true
 ---
 # Magic Jar
 *6th-level, Necromancy*  

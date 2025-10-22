@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Adventuring Gear"]
+  - compendium/src/5e/phb
+aliases:
+  - Adventuring Gear
+dg-publish: true
 ---
 # Adventuring Gear
 *Source: SRD / Basic Rules* 

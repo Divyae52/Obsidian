@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/beast
-aliases: ["Giant Wolf Spider"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Giant Wolf Spider
+dg-publish: true
 ---
 # Giant Wolf Spider
 *Source: SRD / Basic Rules*  

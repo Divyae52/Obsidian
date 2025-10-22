@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/6
-- spell/school/transmutation
-aliases: ["Move Earth"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/transmutation
+aliases:
+  - Move Earth
+dg-publish: true
 ---
 # Move Earth
 *6th-level, Transmutation*  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend/devil
-aliases: ["Horned Devil"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend/devil
+aliases:
+  - Horned Devil
+dg-publish: true
 ---
 # Horned Devil
 *Source: SRD / Basic Rules*  

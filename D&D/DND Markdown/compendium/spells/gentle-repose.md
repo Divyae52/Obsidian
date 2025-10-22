@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/wizard
-- spell/level/2
-- spell/ritual
-- spell/school/necromancy
-aliases: ["Gentle Repose"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/wizard
+  - spell/level/2
+  - spell/ritual
+  - spell/school/necromancy
+aliases:
+  - Gentle Repose
+dg-publish: true
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

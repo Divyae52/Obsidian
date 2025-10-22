@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/food-and-drink
-aliases: ["Loaf of Bread"]
+  - compendium/src/5e/phb
+  - item/gear/food-and-drink
+aliases:
+  - Loaf of Bread
+dg-publish: true
 ---
 # Loaf of Bread
 *Food and Drink*  

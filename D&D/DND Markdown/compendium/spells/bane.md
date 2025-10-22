@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Bane"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Bane
+dg-publish: true
 ---
 # Bane
 *1st-level, Enchantment*  

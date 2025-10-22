@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/spellcasting-focus
-- item/property/versatile
-aliases: ["Wooden Staff"]
+  - compendium/src/5e/phb
+  - item/gear/spellcasting-focus
+  - item/property/versatile
+aliases:
+  - Wooden Staff
+dg-publish: true
 ---
 # Wooden Staff
 *Spellcasting Focus*  

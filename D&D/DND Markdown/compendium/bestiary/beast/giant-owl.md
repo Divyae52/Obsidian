@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Owl"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Owl
+dg-publish: true
 ---
 # Giant Owl
 *Source: SRD / Basic Rules*  

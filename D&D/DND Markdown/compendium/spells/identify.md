@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/divination
-aliases: ["Identify"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Identify
+dg-publish: true
 ---
 # Identify
 *1st-level, Divination (ritual)*  

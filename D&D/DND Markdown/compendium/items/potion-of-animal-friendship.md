@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Animal Friendship"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Animal Friendship
+dg-publish: true
 ---
 # Potion of Animal Friendship
 *Potion, minor, uncommon*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Scholar's Pack"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Scholar's Pack
+dg-publish: true
 ---
 # Scholar's Pack
 *Adventuring Gear*  

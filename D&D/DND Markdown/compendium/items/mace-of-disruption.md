@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/weapon/simple/melee
-aliases: ["Mace of Disruption"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/weapon/simple/melee
+aliases:
+  - Mace of Disruption
+dg-publish: true
 ---
 # Mace of Disruption
 *Melee Weapon, major, rare (requires attunement)*  

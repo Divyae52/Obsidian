@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/large
-- monster/type/construct
-aliases: ["Shield Guardian"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/construct
+aliases:
+  - Shield Guardian
+dg-publish: true
 ---
 # Shield Guardian
 *Source: SRD / Basic Rules*  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend/devil
-aliases: ["Bone Devil"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend/devil
+aliases:
+  - Bone Devil
+dg-publish: true
 ---
 # Bone Devil
 *Source: SRD / Basic Rules*  

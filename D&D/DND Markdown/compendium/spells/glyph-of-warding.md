@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/wizard
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Glyph of Warding"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Glyph of Warding
+dg-publish: true
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

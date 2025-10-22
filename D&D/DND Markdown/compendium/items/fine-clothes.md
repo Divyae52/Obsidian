@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Fine Clothes"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Fine Clothes
+dg-publish: true
 ---
 # Fine Clothes
 *Adventuring Gear*  

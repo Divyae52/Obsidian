@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/dragon
-aliases: ["Gold Dragon Wyrmling"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/dragon
+aliases:
+  - Gold Dragon Wyrmling
+dg-publish: true
 ---
 # Gold Dragon Wyrmling
 *Source: SRD / Basic Rules*  

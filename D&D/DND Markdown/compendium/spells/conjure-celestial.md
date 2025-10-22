@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/7
-- spell/school/conjuration
-aliases: ["Conjure Celestial"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/7
+  - spell/school/conjuration
+aliases:
+  - Conjure Celestial
+dg-publish: true
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  

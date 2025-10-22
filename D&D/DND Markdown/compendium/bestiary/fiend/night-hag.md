@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/medium
-- monster/type/fiend
-aliases: ["Night Hag"]
+  - compendium/src/5e/mm
+  - monster/size/medium
+  - monster/type/fiend
+aliases:
+  - Night Hag
+dg-publish: true
 ---
 # Night Hag
 *Source: SRD / Basic Rules*  

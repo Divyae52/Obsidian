@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/gear/poison
-- item/property/poison
-aliases: ["Serpent Venom"]
+  - compendium/src/5e/dmg
+  - item/gear/poison
+  - item/property/poison
+aliases:
+  - Serpent Venom
+dg-publish: true
 ---
 # Serpent Venom
 *Adventuring Gear, poison*  

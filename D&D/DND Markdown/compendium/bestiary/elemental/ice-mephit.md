@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/size/small
-- monster/type/elemental
-aliases: ["Ice Mephit"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/size/small
+  - monster/type/elemental
+aliases:
+  - Ice Mephit
+dg-publish: true
 ---
 # Ice Mephit
 *Source: SRD / Basic Rules*  

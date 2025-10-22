@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Merrow"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Merrow
+dg-publish: true
 ---
 # Merrow
 *Source: SRD / Basic Rules*  

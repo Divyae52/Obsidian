@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/wand
-aliases: ["Wand of Fear"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/wand
+aliases:
+  - Wand of Fear
+dg-publish: true
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/mountain
-- monster/size/large
-- monster/type/beast
-aliases: ["Saber-Toothed Tiger"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Saber-Toothed Tiger
+dg-publish: true
 ---
 # Saber-Toothed Tiger
 *Source: SRD / Basic Rules*  

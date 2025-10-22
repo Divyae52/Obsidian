@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/undead
-aliases: ["Will-o'-Wisp"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/undead
+aliases:
+  - Will-o'-Wisp
+dg-publish: true
 ---
 # Will-o'-Wisp
 *Source: SRD / Basic Rules*  

@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/6
-- spell/school/necromancy
-aliases: ["Circle of Death"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/necromancy
+aliases:
+  - Circle of Death
+dg-publish: true
 ---
 # Circle of Death
 *6th-level, Necromancy*  

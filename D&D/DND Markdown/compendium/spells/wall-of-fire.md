@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/4
-- spell/school/evocation
-aliases: ["Wall of Fire"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/evocation
+aliases:
+  - Wall of Fire
+dg-publish: true
 ---
 # Wall of Fire
 *4th-level, Evocation*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/monstrosity
-aliases: ["Behir"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/monstrosity
+aliases:
+  - Behir
+dg-publish: true
 ---
 # Behir
 *Source: SRD / Basic Rules*  

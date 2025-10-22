@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/5
-- spell/ritual
-- spell/school/divination
-aliases: ["Commune with Nature"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/5
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Commune with Nature
+dg-publish: true
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  

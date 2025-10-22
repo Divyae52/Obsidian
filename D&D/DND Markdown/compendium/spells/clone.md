@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/8
-- spell/school/necromancy
-aliases: ["Clone"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/necromancy
+aliases:
+  - Clone
+dg-publish: true
 ---
 # Clone
 *8th-level, Necromancy*  

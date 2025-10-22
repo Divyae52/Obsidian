@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/6
-- spell/school/conjuration
-aliases: ["Transport via Plants"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/6
+  - spell/school/conjuration
+aliases:
+  - Transport via Plants
+dg-publish: true
 ---
 # Transport via Plants
 *6th-level, Conjuration*  

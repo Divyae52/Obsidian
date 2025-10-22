@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/4
-- spell/school/necromancy
-aliases: ["Blight"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/necromancy
+aliases:
+  - Blight
+dg-publish: true
 ---
 # Blight
 *4th-level, Necromancy*  

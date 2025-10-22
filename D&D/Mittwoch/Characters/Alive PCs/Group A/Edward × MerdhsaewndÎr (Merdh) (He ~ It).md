@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 https://www.dndbeyond.com/characters/xxx
 
 | Species | Class          | Alignment    | Experience Points |

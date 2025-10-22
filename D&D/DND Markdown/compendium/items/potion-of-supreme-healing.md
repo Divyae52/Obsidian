@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Supreme Healing"]
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Supreme Healing
+dg-publish: true
 ---
 # Potion of Supreme Healing
 *Potion, minor, very rare*  

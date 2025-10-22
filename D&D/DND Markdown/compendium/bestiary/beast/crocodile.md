@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
-aliases: ["Crocodile"]
+  - compendium/src/5e/mm
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Crocodile
+dg-publish: true
 ---
 # Crocodile
 *Source: SRD / Basic Rules*  

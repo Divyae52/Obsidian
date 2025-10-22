@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
-aliases: ["Assassin"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
+aliases:
+  - Assassin
+dg-publish: true
 ---
 # Assassin
 *Source: SRD / Basic Rules*  

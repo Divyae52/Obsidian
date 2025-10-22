@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Bless"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Bless
+dg-publish: true
 ---
 # Bless
 *1st-level, Enchantment*  

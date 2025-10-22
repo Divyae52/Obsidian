@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/5
-- spell/ritual
-- spell/school/divination
-aliases: ["Rary's Telepathic Bond"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/5
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Rary's Telepathic Bond
+dg-publish: true
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

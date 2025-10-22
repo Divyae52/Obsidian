@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/necromancy
-aliases: ["Chill Touch"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/necromancy
+aliases:
+  - Chill Touch
+dg-publish: true
 ---
 # Chill Touch
 *cantrip, Necromancy*  

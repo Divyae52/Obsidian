@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
-aliases: ["Ghast"]
+  - compendium/src/5e/mm
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Ghast
+dg-publish: true
 ---
 # Ghast
 *Source: SRD / Basic Rules*  

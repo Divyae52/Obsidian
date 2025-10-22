@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/1
-- spell/school/illusion
-aliases: ["Disguise Self"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/illusion
+aliases:
+  - Disguise Self
+dg-publish: true
 ---
 # Disguise Self
 *1st-level, Illusion*  

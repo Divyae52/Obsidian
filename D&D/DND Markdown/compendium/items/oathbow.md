@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/ammunition
-- item/property/heavy
-- item/property/martial
-- item/property/two-handed
-- item/rarity/very-rare
-- item/tier/major
-- item/weapon/martial/ranged
-aliases: ["Oathbow"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/ammunition
+  - item/property/heavy
+  - item/property/martial
+  - item/property/two-handed
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/weapon/martial/ranged
+aliases:
+  - Oathbow
+dg-publish: true
 ---
 # Oathbow
 *Ranged Weapon, major, very rare (requires attunement)*  

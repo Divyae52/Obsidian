@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend/devil
-aliases: ["Pit Fiend"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend/devil
+aliases:
+  - Pit Fiend
+dg-publish: true
 ---
 # Pit Fiend
 *Source: SRD / Basic Rules*  

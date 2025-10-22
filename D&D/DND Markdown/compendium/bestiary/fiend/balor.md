@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/huge
-- monster/type/fiend/demon
-aliases: ["Balor"]
+  - compendium/src/5e/mm
+  - monster/size/huge
+  - monster/type/fiend/demon
+aliases:
+  - Balor
+dg-publish: true
 ---
 # Balor
 *Source: SRD / Basic Rules*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous
-aliases: ["Boots of Levitation"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Boots of Levitation
+dg-publish: true
 ---
 # Boots of Levitation
 *Wondrous Item, major, rare (requires attunement)*  

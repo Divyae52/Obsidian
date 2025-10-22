@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/light
-- item/property/thrown
-- item/weapon/simple/melee
-aliases: ["Handaxe"]
+  - compendium/src/5e/phb
+  - item/property/light
+  - item/property/thrown
+  - item/weapon/simple/melee
+aliases:
+  - Handaxe
+dg-publish: true
 ---
 # Handaxe
 *Melee Weapon*  

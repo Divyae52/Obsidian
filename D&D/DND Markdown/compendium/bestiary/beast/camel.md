@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/large
-- monster/type/beast
-aliases: ["Camel"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Camel
+dg-publish: true
 ---
 # Camel
 *Source: SRD / Basic Rules*  

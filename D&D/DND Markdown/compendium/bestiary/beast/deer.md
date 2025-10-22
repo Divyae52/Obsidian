@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/beast
-aliases: ["Deer"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Deer
+dg-publish: true
 ---
 # Deer
 *Source: SRD / Basic Rules*  

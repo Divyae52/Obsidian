@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: ["Horn of Valhalla, Iron"]
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Horn of Valhalla, Iron
+dg-publish: true
 ---
 # Horn of Valhalla, Iron
 *Wondrous Item, major, legendary*  

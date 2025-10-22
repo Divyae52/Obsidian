@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/fs-f
-- optional-feature/fs-p
-aliases: ["Protection"]
+  - compendium/src/5e/phb
+  - optional-feature/fs-f
+  - optional-feature/fs-p
+aliases:
+  - Protection
+dg-publish: true
 ---
 # Protection
 *Source: SRD / Basic Rules* 

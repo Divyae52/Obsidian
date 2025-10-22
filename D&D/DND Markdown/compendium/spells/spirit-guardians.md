@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Spirit Guardians"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Spirit Guardians
+dg-publish: true
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  

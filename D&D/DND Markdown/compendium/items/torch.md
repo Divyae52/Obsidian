@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Torch"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Torch
+dg-publish: true
 ---
 # Torch
 *Adventuring Gear*  

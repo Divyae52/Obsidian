@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/light
-- item/weapon/simple/melee
-aliases: ["Sickle"]
+  - compendium/src/5e/phb
+  - item/property/light
+  - item/weapon/simple/melee
+aliases:
+  - Sickle
+dg-publish: true
 ---
 # Sickle
 *Melee Weapon*  

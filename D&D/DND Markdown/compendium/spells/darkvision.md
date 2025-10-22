@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Darkvision"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Darkvision
+dg-publish: true
 ---
 # Darkvision
 *2nd-level, Transmutation*  

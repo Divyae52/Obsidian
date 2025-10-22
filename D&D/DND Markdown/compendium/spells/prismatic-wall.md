@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/9
-- spell/school/abjuration
-aliases: ["Prismatic Wall"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/abjuration
+aliases:
+  - Prismatic Wall
+dg-publish: true
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/small
-- monster/type/elemental
-aliases: ["Dust Mephit"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/small
+  - monster/type/elemental
+aliases:
+  - Dust Mephit
+dg-publish: true
 ---
 # Dust Mephit
 *Source: SRD / Basic Rules*  

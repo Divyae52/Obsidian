@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/4
-- spell/school/conjuration
-aliases: ["Dimension Door"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/conjuration
+aliases:
+  - Dimension Door
+dg-publish: true
 ---
 # Dimension Door
 *4th-level, Conjuration*  

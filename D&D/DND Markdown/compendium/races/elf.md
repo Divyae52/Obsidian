@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/elf
-aliases: ["Elf"]
+  - compendium/src/5e/phb
+  - race/elf
+aliases:
+  - Elf
+dg-publish: true
 ---
 # Elf
 *Source: SRD / Basic Rules*  

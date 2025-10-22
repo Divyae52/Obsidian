@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/underdark
-- monster/size/gargantuan
-- monster/type/monstrosity
-aliases: ["Purple Worm"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/size/gargantuan
+  - monster/type/monstrosity
+aliases:
+  - Purple Worm
+dg-publish: true
 ---
 # Purple Worm
 *Source: SRD / Basic Rules*  

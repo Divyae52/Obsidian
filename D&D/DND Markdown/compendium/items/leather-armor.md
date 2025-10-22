@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/armor/light
-aliases: ["Leather Armor"]
+  - compendium/src/5e/phb
+  - item/armor/light
+aliases:
+  - Leather Armor
+dg-publish: true
 ---
 # Leather Armor
 *Light Armor*  

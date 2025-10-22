@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/hill
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Mule"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/hill
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Mule
+dg-publish: true
 ---
 # Mule
 *Source: SRD / Basic Rules*  

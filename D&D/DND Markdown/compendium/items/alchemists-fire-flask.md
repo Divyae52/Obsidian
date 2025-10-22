@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Alchemist's Fire (flask)"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Alchemist's Fire (flask)
+dg-publish: true
 ---
 # Alchemist's Fire (flask)
 *Adventuring Gear*  

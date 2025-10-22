@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/shapechanger
-aliases: ["Incubus"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/shapechanger
+aliases:
+  - Incubus
+dg-publish: true
 ---
 # Incubus
 *Source: SRD / Basic Rules*  

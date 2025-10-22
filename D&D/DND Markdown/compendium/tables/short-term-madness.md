@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Short-Term Madness"]
+  - compendium/src/5e/dmg
+aliases:
+  - Short-Term Madness
+dg-publish: true
 ---
 # Short-Term Madness
 *Source: SRD / Basic Rules* 

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/armor/heavy
-aliases: ["Chain Mail"]
+  - compendium/src/5e/phb
+  - item/armor/heavy
+aliases:
+  - Chain Mail
+dg-publish: true
 ---
 # Chain Mail
 *Heavy Armor*  

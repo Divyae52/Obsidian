@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/fey
-aliases: ["Sprite"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/fey
+aliases:
+  - Sprite
+dg-publish: true
 ---
 # Sprite
 *Source: SRD / Basic Rules*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/martial
-- item/property/reach
-- item/property/special
-- item/weapon/martial/melee
-aliases: ["Lance"]
+  - compendium/src/5e/phb
+  - item/property/martial
+  - item/property/reach
+  - item/property/special
+  - item/weapon/martial/melee
+aliases:
+  - Lance
+dg-publish: true
 ---
 # Lance
 *Melee Weapon*  

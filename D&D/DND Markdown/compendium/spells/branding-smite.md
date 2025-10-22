@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin
-- spell/level/2
-- spell/school/evocation
-aliases: ["Branding Smite"]
+  - compendium/src/5e/phb
+  - spell/class/paladin
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Branding Smite
+dg-publish: true
 ---
 # Branding Smite
 *2nd-level, Evocation*  

@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Poisons"]
+  - compendium/src/5e/dmg
+aliases:
+  - Poisons
+dg-publish: true
 ---
 # Poisons
 *Source: SRD / Basic Rules* 

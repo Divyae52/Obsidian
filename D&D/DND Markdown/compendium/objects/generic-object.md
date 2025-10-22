@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/varies
-- object/type/generic
-aliases: ["Generic Object"]
+  - compendium/src/5e/dmg
+  - object/size/varies
+  - object/type/generic
+aliases:
+  - Generic Object
+dg-publish: true
 ---
 # Generic Object
 *Source: SRD / Basic Rules*  

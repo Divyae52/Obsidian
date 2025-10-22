@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity/shapechanger
-aliases: ["Doppelganger"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity/shapechanger
+aliases:
+  - Doppelganger
+dg-publish: true
 ---
 # Doppelganger
 *Source: SRD / Basic Rules*  

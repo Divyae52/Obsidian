@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Knock"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Knock
+dg-publish: true
 ---
 # Knock
 *2nd-level, Transmutation*  

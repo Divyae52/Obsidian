@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["One with Shadows"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - One with Shadows
+dg-publish: true
 ---
 # One with Shadows
 *Source: SRD / Basic Rules* 

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/5
-- spell/school/evocation
-aliases: ["Bigby's Hand"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Bigby's Hand
+dg-publish: true
 ---
 # Bigby's Hand
 *5th-level, Evocation*  

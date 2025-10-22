@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey
-aliases: ["Satyr"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey
+aliases:
+  - Satyr
+dg-publish: true
 ---
 # Satyr
 *Source: SRD / Basic Rules*  

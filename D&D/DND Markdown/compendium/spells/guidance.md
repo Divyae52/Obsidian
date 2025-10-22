@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/level/cantrip
-- spell/school/divination
-aliases: ["Guidance"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/cantrip
+  - spell/school/divination
+aliases:
+  - Guidance
+dg-publish: true
 ---
 # Guidance
 *cantrip, Divination*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/2
-- spell/school/evocation
-aliases: ["Moonbeam"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Moonbeam
+dg-publish: true
 ---
 # Moonbeam
 *2nd-level, Evocation*  

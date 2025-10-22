@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Giant Poisonous Snake"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Giant Poisonous Snake
+dg-publish: true
 ---
 # Giant Poisonous Snake
 *Source: SRD / Basic Rules*  

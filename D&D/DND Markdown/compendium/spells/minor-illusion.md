@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/illusion
-aliases: ["Minor Illusion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/illusion
+aliases:
+  - Minor Illusion
+dg-publish: true
 ---
 # Minor Illusion
 *cantrip, Illusion*  

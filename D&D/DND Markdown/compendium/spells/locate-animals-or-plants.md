@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/ranger
-- spell/level/2
-- spell/ritual
-- spell/school/divination
-aliases: ["Locate Animals or Plants"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/2
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Locate Animals or Plants
+dg-publish: true
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

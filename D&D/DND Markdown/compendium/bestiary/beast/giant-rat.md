@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/beast
-aliases: ["Giant Rat"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/beast
+aliases:
+  - Giant Rat
+dg-publish: true
 ---
 # Giant Rat
 *Source: SRD / Basic Rules*  

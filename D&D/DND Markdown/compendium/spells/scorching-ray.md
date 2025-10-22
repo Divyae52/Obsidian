@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Scorching Ray"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Scorching Ray
+dg-publish: true
 ---
 # Scorching Ray
 *2nd-level, Evocation*  

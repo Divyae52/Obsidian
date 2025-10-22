@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Vulture"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Vulture
+dg-publish: true
 ---
 # Giant Vulture
 *Source: SRD / Basic Rules*  

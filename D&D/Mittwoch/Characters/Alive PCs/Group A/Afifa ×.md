@@ -1,16 +1,13 @@
 https://www.dndbeyond.com/characters/xxx
 
-| Species                          | Class              | Alignment    | Experience Points |
-| -------------------------------- | ------------------ | ------------ | ----------------- |
-| [[goblin\|Goblin]] (Add Species) | [[ranger\|Ranger]] | True Neutral | Milestone (3)     |
+| Species | Class | Alignment    | Experience Points |
+| ------- | ----- | ------------ | ----------------- |
+|         |       | True Neutral | Milestone (3)     |
 ## Appearance
 
-Red eyes
-4'
-greyish green skin
-Studded bracelets jewelry
-sharp teeth
+
 ## Characteristics
+[[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,8 +22,8 @@ sharp teeth
 | Hit Dice              | 3d    |
 | Proficiency Bonus     | 2     |
 | Passive Perception    |       |
-| Passive Investigation |       |
 | Passive Stealth       |       |
+| Passive Investigation |       |
 | Passive Insight       |       |
 | Speed                 | 30ft  |
 | Amor Class (AC)       |       |
@@ -71,13 +68,13 @@ sharp teeth
 ## Actions (NO Spells Needed (Optional))
 [**P**]
 
-| Name           | Hit / DC | Damage | Type        | Other |
-| -------------- | -------- | ------ | ----------- | ----- |
-| Unarmed Strike | +4       | 1+STR  | Bludgeoning |       |
-|                |          |        |             |       |
-|                |          |        |             |       |
-|                |          |        |             |       |
-|                |          |        |             |       |
+| Name           | Hit / DC | Damage  | Type        | Other |
+| -------------- | -------- | ------- | ----------- | ----- |
+| Unarmed Strike | +4       | 1d8 + 2 | Bludgeoning |       |
+|                |          |         |             |       |
+|                |          |         |             |       |
+|                |          |         |             |       |
+|                |          |         |             |       |
 
 ## Equipment
 
@@ -87,7 +84,7 @@ sharp teeth
 
 * [[travelers-clothes|Traveler's Clothes]]
 
-## Languages and Proficiencies
+## Languages, Proficiencies, and Speed
 
 * `Instruments`: None
 * `Languages`: Common, 

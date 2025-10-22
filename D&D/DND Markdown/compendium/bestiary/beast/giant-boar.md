@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
-aliases: ["Giant Boar"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Giant Boar
+dg-publish: true
 ---
 # Giant Boar
 *Source: SRD / Basic Rules*  

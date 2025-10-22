@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/ranger
-- spell/class/wizard
-- spell/level/1
-- spell/school/transmutation
-aliases: ["Longstrider"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/transmutation
+aliases:
+  - Longstrider
+dg-publish: true
 ---
 # Longstrider
 *1st-level, Transmutation*  

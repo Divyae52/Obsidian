@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tdcsr
-- item/attunement/required
-- item/property/versatile
-- item/property/vestige
-- item/rarity/legendary
-- item/weapon/simple/melee
-aliases: ["Spire of Conflux (Dormant)"]
+  - compendium/src/5e/tdcsr
+  - item/attunement/required
+  - item/property/versatile
+  - item/property/vestige
+  - item/rarity/legendary
+  - item/weapon/simple/melee
+aliases:
+  - Spire of Conflux (Dormant)
+dg-publish: true
 ---
 # Spire of Conflux (Dormant)
 *Melee Weapon, legendary (requires attunement by a spellcaster)*  

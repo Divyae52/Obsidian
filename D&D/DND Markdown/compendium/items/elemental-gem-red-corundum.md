@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous
-aliases: ["Elemental Gem, Red Corundum"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Elemental Gem, Red Corundum
+dg-publish: true
 ---
 # Elemental Gem, Red Corundum
 *Wondrous Item, minor, uncommon*  

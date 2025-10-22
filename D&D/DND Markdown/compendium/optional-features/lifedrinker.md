@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Lifedrinker"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Lifedrinker
+dg-publish: true
 ---
 # Lifedrinker
 *Source: SRD / Basic Rules* 

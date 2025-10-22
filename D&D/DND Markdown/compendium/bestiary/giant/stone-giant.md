@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
-aliases: ["Stone Giant"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
+aliases:
+  - Stone Giant
+dg-publish: true
 ---
 # Stone Giant
 *Source: SRD / Basic Rules*  

@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Stinking Cloud"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Stinking Cloud
+dg-publish: true
 ---
 # Stinking Cloud
 *3rd-level, Conjuration*  

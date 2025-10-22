@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/finesse
-- item/property/martial
-- item/property/reach
-- item/weapon/martial/melee
-aliases: ["Whip"]
+  - compendium/src/5e/phb
+  - item/property/finesse
+  - item/property/martial
+  - item/property/reach
+  - item/weapon/martial/melee
+aliases:
+  - Whip
+dg-publish: true
 ---
 # Whip
 *Melee Weapon*  

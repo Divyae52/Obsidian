@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Burglar's Pack"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Burglar's Pack
+dg-publish: true
 ---
 # Burglar's Pack
 *Adventuring Gear*  

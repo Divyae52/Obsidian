@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Spirit Naga"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Spirit Naga
+dg-publish: true
 ---
 # Spirit Naga
 *Source: SRD / Basic Rules*  

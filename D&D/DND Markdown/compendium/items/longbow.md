@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/ammunition
-- item/property/heavy
-- item/property/martial
-- item/property/two-handed
-- item/weapon/martial/ranged
-aliases: ["Longbow"]
+  - compendium/src/5e/phb
+  - item/property/ammunition
+  - item/property/heavy
+  - item/property/martial
+  - item/property/two-handed
+  - item/weapon/martial/ranged
+aliases:
+  - Longbow
+dg-publish: true
 ---
 # Longbow
 *Ranged Weapon*  

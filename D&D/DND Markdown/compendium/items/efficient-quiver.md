@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: ["Efficient Quiver"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Efficient Quiver
+dg-publish: true
 ---
 # Efficient Quiver
 *Wondrous Item, major, uncommon*  

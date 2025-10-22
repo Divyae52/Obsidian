@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin
-- spell/class/wizard
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Magic Weapon"]
+  - compendium/src/5e/phb
+  - spell/class/paladin
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Magic Weapon
+dg-publish: true
 ---
 # Magic Weapon
 *2nd-level, Transmutation*  

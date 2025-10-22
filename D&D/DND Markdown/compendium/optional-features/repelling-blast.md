@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Repelling Blast"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Repelling Blast
+dg-publish: true
 ---
 # Repelling Blast
 *Source: SRD / Basic Rules* 

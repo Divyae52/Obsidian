@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: ["Sphere of Annihilation"]
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Sphere of Annihilation
+dg-publish: true
 ---
 # Sphere of Annihilation
 *Wondrous Item, major, legendary*  

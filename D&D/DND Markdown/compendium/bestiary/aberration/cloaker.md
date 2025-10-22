@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
-aliases: ["Cloaker"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
+aliases:
+  - Cloaker
+dg-publish: true
 ---
 # Cloaker
 *Source: SRD / Basic Rules*  

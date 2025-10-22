@@ -8,7 +8,7 @@
 		{"id":"037e1cb4b97a778b","type":"text","text":"[[tāpara Volcano]]","x":240,"y":-278,"width":175,"height":50},
 		{"id":"87f8394f142cb0c8","type":"text","text":"[[Järvevaade]]","x":-457,"y":-120,"width":125,"height":50},
 		{"id":"1d633048c89593e2","type":"text","text":"[[Seeblick]]","x":-153,"y":-289,"width":123,"height":50},
-		{"id":"3f2da811a47bd28a","x":-441,"y":-539,"width":250,"height":60,"type":"text","text":"---\ndg-publish: true\n---"}
+		{"id":"ae7bdb9c05ad4984","x":-372,"y":-289,"width":50,"height":50,"color":"4","type":"text","text":"X"}
 	],
 	"edges":[]
 }

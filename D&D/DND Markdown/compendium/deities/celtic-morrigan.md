@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/celtic
-- domain/war
-aliases: ["Morrigan"]
+  - compendium/src/5e/phb
+  - deity/celtic
+  - domain/war
+aliases:
+  - Morrigan
+dg-publish: true
 ---
 # Morrigan
 *Source: SRD / Basic Rules* 

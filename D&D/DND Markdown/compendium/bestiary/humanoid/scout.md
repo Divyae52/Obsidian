@@ -2,19 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/any-race
-aliases: ["Scout"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/any-race
+aliases:
+  - Scout
+dg-publish: true
 ---
 # Scout
 *Source: SRD / Basic Rules*  

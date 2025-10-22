@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/6
-- spell/school/illusion
-aliases: ["Programmed Illusion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/illusion
+aliases:
+  - Programmed Illusion
+dg-publish: true
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/level/cantrip
-- spell/school/abjuration
-aliases: ["Resistance"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/cantrip
+  - spell/school/abjuration
+aliases:
+  - Resistance
+dg-publish: true
 ---
 # Resistance
 *cantrip, Abjuration*  

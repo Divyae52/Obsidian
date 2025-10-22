@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
-aliases: ["Ghoul"]
+  - compendium/src/5e/mm
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Ghoul
+dg-publish: true
 ---
 # Ghoul
 *Source: SRD / Basic Rules*  

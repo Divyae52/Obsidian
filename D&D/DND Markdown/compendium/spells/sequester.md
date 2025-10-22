@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/7
-- spell/school/transmutation
-aliases: ["Sequester"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/transmutation
+aliases:
+  - Sequester
+dg-publish: true
 ---
 # Sequester
 *7th-level, Transmutation*  

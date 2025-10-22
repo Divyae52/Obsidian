@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter/champion
-- compendium/src/5e/phb
-aliases: ["Champion"]
+  - class/fighter/champion
+  - compendium/src/5e/phb
+aliases:
+  - Champion
+dg-publish: true
 ---
 # Champion
 *[Fighter](fighter.md): Martial Archetype*  

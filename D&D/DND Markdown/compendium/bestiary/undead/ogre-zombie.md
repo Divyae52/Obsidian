@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/undead
-aliases: ["Ogre Zombie"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/undead
+aliases:
+  - Ogre Zombie
+dg-publish: true
 ---
 # Ogre Zombie
 *Source: SRD / Basic Rules*  

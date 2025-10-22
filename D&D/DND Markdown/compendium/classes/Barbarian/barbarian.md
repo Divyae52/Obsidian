@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/barbarian
-- compendium/src/5e/phb
-aliases: ["Barbarian"]
+  - class/barbarian
+  - compendium/src/5e/phb
+aliases:
+  - Barbarian
+dg-publish: true
 ---
 # Barbarian
 *Source: SRD / Basic Rules*  

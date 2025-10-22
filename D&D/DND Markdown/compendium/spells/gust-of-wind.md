@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Gust of Wind"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Gust of Wind
+dg-publish: true
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

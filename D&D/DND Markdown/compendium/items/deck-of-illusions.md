@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: ["Deck of Illusions"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Deck of Illusions
+dg-publish: true
 ---
 # Deck of Illusions
 *Wondrous Item, major, uncommon*  

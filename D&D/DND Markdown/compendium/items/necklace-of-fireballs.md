@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous
-aliases: ["Necklace of Fireballs"]
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Necklace of Fireballs
+dg-publish: true
 ---
 # Necklace of Fireballs
 *Wondrous Item, minor, rare*  

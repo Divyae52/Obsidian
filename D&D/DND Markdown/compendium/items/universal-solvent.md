@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/minor
-- item/wondrous
-aliases: ["Universal Solvent"]
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Universal Solvent
+dg-publish: true
 ---
 # Universal Solvent
 *Wondrous Item, minor, legendary*  

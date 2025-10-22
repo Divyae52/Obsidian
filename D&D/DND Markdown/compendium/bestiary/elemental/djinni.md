@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/size/large
-- monster/type/elemental
-aliases: ["Djinni"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/size/large
+  - monster/type/elemental
+aliases:
+  - Djinni
+dg-publish: true
 ---
 # Djinni
 *Source: SRD / Basic Rules*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greek
-- domain/knowledge
-- domain/order
-- domain/war
-aliases: ["Athena"]
+  - compendium/src/5e/phb
+  - deity/greek
+  - domain/knowledge
+  - domain/order
+  - domain/war
+aliases:
+  - Athena
+dg-publish: true
 ---
 # Athena
 *Source: SRD / Basic Rules* 

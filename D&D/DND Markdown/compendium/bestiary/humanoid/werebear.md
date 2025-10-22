@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
-aliases: ["Werebear"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
+aliases:
+  - Werebear
+dg-publish: true
 ---
 # Werebear
 *Source: SRD / Basic Rules*  

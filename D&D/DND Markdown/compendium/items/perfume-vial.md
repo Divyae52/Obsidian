@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Perfume (vial)"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Perfume (vial)
+dg-publish: true
 ---
 # Perfume (vial)
 *Adventuring Gear*  

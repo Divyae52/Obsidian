@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/6
-- spell/school/transmutation
-aliases: ["Flesh to Stone"]
+  - compendium/src/5e/phb
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/transmutation
+aliases:
+  - Flesh to Stone
+dg-publish: true
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

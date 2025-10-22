@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Entertainer's Pack"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Entertainer's Pack
+dg-publish: true
 ---
 # Entertainer's Pack
 *Adventuring Gear*  

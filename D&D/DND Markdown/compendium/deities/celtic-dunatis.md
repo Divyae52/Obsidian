@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/celtic
-- domain/nature
-aliases: ["Dunatis"]
+  - compendium/src/5e/phb
+  - deity/celtic
+  - domain/nature
+aliases:
+  - Dunatis
+dg-publish: true
 ---
 # Dunatis
 *Source: SRD / Basic Rules* 

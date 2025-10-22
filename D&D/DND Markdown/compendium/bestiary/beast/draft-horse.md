@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
-aliases: ["Draft Horse"]
+  - compendium/src/5e/mm
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
+aliases:
+  - Draft Horse
+dg-publish: true
 ---
 # Draft Horse
 *Source: SRD / Basic Rules*  

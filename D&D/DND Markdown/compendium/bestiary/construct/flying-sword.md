@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/small
-- monster/type/construct
-aliases: ["Flying Sword"]
+  - compendium/src/5e/mm
+  - monster/size/small
+  - monster/type/construct
+aliases:
+  - Flying Sword
+dg-publish: true
 ---
 # Flying Sword
 *Source: SRD / Basic Rules*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous/ring
-aliases: ["Ring of Water Walking"]
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous/ring
+aliases:
+  - Ring of Water Walking
+dg-publish: true
 ---
 # Ring of Water Walking
 *Ring, major, uncommon*  

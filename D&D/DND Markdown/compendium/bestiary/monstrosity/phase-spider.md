@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Phase Spider"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Phase Spider
+dg-publish: true
 ---
 # Phase Spider
 *Source: SRD / Basic Rules*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/armor/light
-- item/rarity/rare
-- item/tier/major
-aliases: ["Glamoured Studded Leather"]
+  - compendium/src/5e/dmg
+  - item/armor/light
+  - item/rarity/rare
+  - item/tier/major
+aliases:
+  - Glamoured Studded Leather
+dg-publish: true
 ---
 # Glamoured Studded Leather
 *Light Armor, major, rare*  

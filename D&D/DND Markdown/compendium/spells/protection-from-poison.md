@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/ranger
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Protection from Poison"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/ranger
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Protection from Poison
+dg-publish: true
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

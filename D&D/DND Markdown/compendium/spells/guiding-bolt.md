@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/1
-- spell/school/evocation
-aliases: ["Guiding Bolt"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Guiding Bolt
+dg-publish: true
 ---
 # Guiding Bolt
 *1st-level, Evocation*  

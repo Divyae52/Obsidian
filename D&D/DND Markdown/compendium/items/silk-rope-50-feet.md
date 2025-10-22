@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Silk Rope (50 feet)"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Silk Rope (50 feet)
+dg-publish: true
 ---
 # Silk Rope (50 feet)
 *Adventuring Gear*  

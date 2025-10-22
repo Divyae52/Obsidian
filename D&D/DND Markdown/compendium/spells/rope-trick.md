@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Rope Trick"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Rope Trick
+dg-publish: true
 ---
 # Rope Trick
 *2nd-level, Transmutation*  

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 https://www.dndbeyond.com/characters/152334031
 
 [[Desith Dark Blue.png]]
@@ -22,7 +25,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 
 | Derived Stat          | Value   |
 | --------------------- | ------- |
-| Hit Points            | 27 / 27 |
+| Hit Points            | 22 / 27 |
 | Temp HP               | 0       |
 | Hit Dice              | 3d8     |
 | Proficiency Bonus     | 2       |
@@ -33,7 +36,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 | Speed                 | 30ft    |
 | Amor Class (AC)       | 18      |
 | Initiative            | 1       |
-
+ 
 ## Skills
 
 | Skill                       | Stat | Bonus | Total |
@@ -94,7 +97,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 ## Languages and Proficiencies
 
 * `Instruments`: None
-* `Languages`: Common, Draconic, CSL
+* `Languages`: Common, Draconic, CSL, Infernal
 * `Weapon Proficiencies`: Simple Weapons
 * `Armor Proficencies`: Heavy Armor, Medium Armor, Light Armor, [[DND Markdown/compendium/items/shield|Shield]]
 * `Tool Proficiencies`: [[alchemists-supplies|Alchemist's Supplies]], [[herbalism-kit|Herbalism Kit]]
@@ -119,7 +122,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 
 ### First Level
 
-* [ ] Spell Slot 1
+* [x] Spell Slot 1
 * [ ] Spell Slot 2
 * [ ] Spell Slot 3
 * [ ] Spell Slot 4
@@ -131,7 +134,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 
 ### Second Level
 
-* [ ] Spell Slot 1
+* [x] Spell Slot 1
 * [ ] Spell Slot 2
 * [[aid|Aid]] (**U**) - Bolsters up to three creatures, **increasing their hit point maximum and current HP** for 8 hours.
 * [[enhance-ability|Enhance Ability]] (**U**) - Grants a creature **advantage on ability checks** tied to one chosen ability score.

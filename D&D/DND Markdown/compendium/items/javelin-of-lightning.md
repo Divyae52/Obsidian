@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/property/thrown
-- item/rarity/uncommon
-- item/tier/major
-- item/weapon/simple/melee
-aliases: ["Javelin of Lightning"]
+  - compendium/src/5e/dmg
+  - item/property/thrown
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/weapon/simple/melee
+aliases:
+  - Javelin of Lightning
+dg-publish: true
 ---
 # Javelin of Lightning
 *Melee Weapon, major, uncommon*  

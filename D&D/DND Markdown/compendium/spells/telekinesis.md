@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Telekinesis"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Telekinesis
+dg-publish: true
 ---
 # Telekinesis
 *5th-level, Transmutation*  

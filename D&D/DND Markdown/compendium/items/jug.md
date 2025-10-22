@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Jug"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Jug
+dg-publish: true
 ---
 # Jug
 *Adventuring Gear*  

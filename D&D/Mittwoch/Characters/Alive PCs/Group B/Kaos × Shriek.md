@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 | Species                  | Class     | Alignment       | Experience Points |
 | ------------------------ | --------- | --------------- | ----------------- |
 | Kenku (Great Horned Owl) | [[Rogue]] | Chaotic Neutral | Milestone (3)     |
@@ -25,7 +28,7 @@ Resembling a great horned owl, has brown and black colored horns, feathers/plumm
 
 | Derived Stat          | Value   |
 | --------------------- | ------- |
-| Hit Points            | 27 / 27 |
+| Hit Points            | 10 / 27 |
 | Temp HP               | 0       |
 | Hit Dice              | 3d8     |
 | Proficiency Bonus     | 2       |

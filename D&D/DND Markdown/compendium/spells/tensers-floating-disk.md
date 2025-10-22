@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/conjuration
-aliases: ["Tenser's Floating Disk"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/conjuration
+aliases:
+  - Tenser's Floating Disk
+dg-publish: true
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  

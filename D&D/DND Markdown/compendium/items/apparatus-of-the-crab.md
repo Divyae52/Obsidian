@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: ["Apparatus of the Crab"]
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Apparatus of the Crab
+dg-publish: true
 ---
 # Apparatus of the Crab
 *Wondrous Item, major, legendary*  

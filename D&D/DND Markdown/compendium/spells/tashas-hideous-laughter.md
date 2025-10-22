@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Tasha's Hideous Laughter"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Tasha's Hideous Laughter
+dg-publish: true
 ---
 # Tasha's Hideous Laughter
 *1st-level, Enchantment*  

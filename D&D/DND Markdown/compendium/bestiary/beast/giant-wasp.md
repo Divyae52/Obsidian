@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
-aliases: ["Giant Wasp"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
+aliases:
+  - Giant Wasp
+dg-publish: true
 ---
 # Giant Wasp
 *Source: SRD / Basic Rules*  

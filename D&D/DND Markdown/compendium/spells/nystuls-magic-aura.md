@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/2
-- spell/school/illusion
-aliases: ["Nystul's Magic Aura"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/illusion
+aliases:
+  - Nystul's Magic Aura
+dg-publish: true
 ---
 # Nystul's Magic Aura
 *2nd-level, Illusion*  

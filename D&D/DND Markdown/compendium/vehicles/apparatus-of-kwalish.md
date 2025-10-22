@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-- compendium/src/5e/dmg
-- vehicle/size/large
-- vehicle/terrain/sea
-- vehicle/type/object
-aliases: ["Apparatus of Kwalish"]
+  - compendium/src/5e/dmg
+  - vehicle/size/large
+  - vehicle/terrain/sea
+  - vehicle/type/object
+aliases:
+  - Apparatus of Kwalish
+dg-publish: true
 ---
 # Apparatus of Kwalish
 *Source: SRD / Basic Rules*  

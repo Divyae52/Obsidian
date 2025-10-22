@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Warding Bond"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Warding Bond
+dg-publish: true
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

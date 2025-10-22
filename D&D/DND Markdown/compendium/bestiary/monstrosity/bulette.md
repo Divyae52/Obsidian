@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Bulette"]
+  - compendium/src/5e/mm
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Bulette
+dg-publish: true
 ---
 # Bulette
 *Source: SRD / Basic Rules*  

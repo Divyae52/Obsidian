@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/7
-- spell/school/evocation
-aliases: ["Divine Word"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/7
+  - spell/school/evocation
+aliases:
+  - Divine Word
+dg-publish: true
 ---
 # Divine Word
 *7th-level, Evocation*  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/medium
-- monster/type/monstrosity
-aliases: ["Ettercap"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/monstrosity
+aliases:
+  - Ettercap
+dg-publish: true
 ---
 # Ettercap
 *Source: SRD / Basic Rules*  

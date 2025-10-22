@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/6
-- spell/school/enchantment
-aliases: ["Otto's Irresistible Dance"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/enchantment
+aliases:
+  - Otto's Irresistible Dance
+dg-publish: true
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

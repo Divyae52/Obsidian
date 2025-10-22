@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/environment/underwater
-- monster/size/large
-- monster/type/elemental
-aliases: ["Water Elemental"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/elemental
+aliases:
+  - Water Elemental
+dg-publish: true
 ---
 # Water Elemental
 *Source: SRD / Basic Rules*  

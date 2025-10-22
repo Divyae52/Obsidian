@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Passwall"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Passwall
+dg-publish: true
 ---
 # Passwall
 *5th-level, Transmutation*  

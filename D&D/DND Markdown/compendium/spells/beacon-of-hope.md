@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Beacon of Hope"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Beacon of Hope
+dg-publish: true
 ---
 # Beacon of Hope
 *3rd-level, Abjuration*  

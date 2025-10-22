@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Dancing Lights"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Dancing Lights
+dg-publish: true
 ---
 # Dancing Lights
 *cantrip, Evocation*  

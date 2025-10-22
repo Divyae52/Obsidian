@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/plant
-aliases: ["Violet Fungus"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/plant
+aliases:
+  - Violet Fungus
+dg-publish: true
 ---
 # Violet Fungus
 *Source: SRD / Basic Rules*  

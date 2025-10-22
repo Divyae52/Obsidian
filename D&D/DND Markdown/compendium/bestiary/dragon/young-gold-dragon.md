@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/dragon
-aliases: ["Young Gold Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/dragon
+aliases:
+  - Young Gold Dragon
+dg-publish: true
 ---
 # Young Gold Dragon
 *Source: SRD / Basic Rules*  

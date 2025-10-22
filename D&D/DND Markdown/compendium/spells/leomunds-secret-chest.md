@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/4
-- spell/school/conjuration
-aliases: ["Leomund's Secret Chest"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/conjuration
+aliases:
+  - Leomund's Secret Chest
+dg-publish: true
 ---
 # Leomund's Secret Chest
 *4th-level, Conjuration*  

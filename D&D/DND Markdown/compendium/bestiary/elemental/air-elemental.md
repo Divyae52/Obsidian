@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/environment/mountain
-- monster/size/large
-- monster/type/elemental
-aliases: ["Air Elemental"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/elemental
+aliases:
+  - Air Elemental
+dg-publish: true
 ---
 # Air Elemental
 *Source: SRD / Basic Rules*  

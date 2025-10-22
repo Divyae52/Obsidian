@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/tiny
-- monster/type/construct
-aliases: ["Homunculus"]
+  - compendium/src/5e/mm
+  - monster/size/tiny
+  - monster/type/construct
+aliases:
+  - Homunculus
+dg-publish: true
 ---
 # Homunculus
 *Source: SRD / Basic Rules*  

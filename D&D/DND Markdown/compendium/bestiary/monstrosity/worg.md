@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Worg"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Worg
+dg-publish: true
 ---
 # Worg
 *Source: SRD / Basic Rules*  

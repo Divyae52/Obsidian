@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend
-aliases: ["Nightmare"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend
+aliases:
+  - Nightmare
+dg-publish: true
 ---
 # Nightmare
 *Source: SRD / Basic Rules*  

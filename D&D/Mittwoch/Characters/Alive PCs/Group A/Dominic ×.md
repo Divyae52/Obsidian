@@ -5,11 +5,7 @@ https://www.dndbeyond.com/characters/xxx
 |         |       | True Neutral | Milestone (3)     |
 ## Appearance
 
-Half elf drow
-shortish blue hair
-blue grey skin
-5'11"
-![[Pasted image 20250924144832.png]]
+
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Owlbear"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Owlbear
+dg-publish: true
 ---
 # Owlbear
 *Source: SRD / Basic Rules*  

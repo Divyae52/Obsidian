@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
-aliases: ["Fire Giant"]
+  - compendium/src/5e/mm
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
+aliases:
+  - Fire Giant
+dg-publish: true
 ---
 # Fire Giant
 *Source: SRD / Basic Rules*  

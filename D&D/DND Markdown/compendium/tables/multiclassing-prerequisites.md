@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Multiclassing Prerequisites"]
+  - compendium/src/5e/phb
+aliases:
+  - Multiclassing Prerequisites
+dg-publish: true
 ---
 # Multiclassing Prerequisites
 *Source: SRD / Basic Rules* 

@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/goblinoid
-aliases: ["Bugbear"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/goblinoid
+aliases:
+  - Bugbear
+dg-publish: true
 ---
 # Bugbear
 *Source: SRD / Basic Rules*  

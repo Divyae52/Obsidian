@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Light"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Light
+dg-publish: true
 ---
 # Light
 *cantrip, Evocation*  

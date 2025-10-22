@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/level/4
-- spell/school/enchantment
-aliases: ["Compulsion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/level/4
+  - spell/school/enchantment
+aliases:
+  - Compulsion
+dg-publish: true
 ---
 # Compulsion
 *4th-level, Enchantment*  

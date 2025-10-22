@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/vehicle
-aliases: ["Wagon"]
+  - compendium/src/5e/phb
+  - item/vehicle
+aliases:
+  - Wagon
+dg-publish: true
 ---
 # Wagon
 *Vehicle (land)*  

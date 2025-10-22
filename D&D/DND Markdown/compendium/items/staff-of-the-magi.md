@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/versatile
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous/staff
-aliases: ["Staff of the Magi"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous/staff
+aliases:
+  - Staff of the Magi
+dg-publish: true
 ---
 # Staff of the Magi
 *Staff, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/1
-- spell/school/evocation
-aliases: ["Magic Missile"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Magic Missile
+dg-publish: true
 ---
 # Magic Missile
 *1st-level, Evocation*  

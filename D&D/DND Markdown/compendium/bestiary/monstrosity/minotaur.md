@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Minotaur"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Minotaur
+dg-publish: true
 ---
 # Minotaur
 *Source: SRD / Basic Rules*  

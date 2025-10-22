@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/paladin
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Protection from Evil and Good"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Protection from Evil and Good
+dg-publish: true
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  

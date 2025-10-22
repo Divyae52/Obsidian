@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Eyes of the Rune Keeper"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Eyes of the Rune Keeper
+dg-publish: true
 ---
 # Eyes of the Rune Keeper
 *Source: SRD / Basic Rules* 

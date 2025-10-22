@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Sign of Ill Omen"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Sign of Ill Omen
+dg-publish: true
 ---
 # Sign of Ill Omen
 *Source: SRD / Basic Rules* 

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/gargantuan
-- monster/type/dragon
-aliases: ["Dragon Turtle"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/gargantuan
+  - monster/type/dragon
+aliases:
+  - Dragon Turtle
+dg-publish: true
 ---
 # Dragon Turtle
 *Source: SRD / Basic Rules*  

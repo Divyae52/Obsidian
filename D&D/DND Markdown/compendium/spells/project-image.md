@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/7
-- spell/school/illusion
-aliases: ["Project Image"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/illusion
+aliases:
+  - Project Image
+dg-publish: true
 ---
 # Project Image
 *7th-level, Illusion*  

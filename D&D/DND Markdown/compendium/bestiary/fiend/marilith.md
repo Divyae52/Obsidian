@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/size/large
-- monster/type/fiend/demon
-aliases: ["Marilith"]
+  - compendium/src/5e/mm
+  - monster/size/large
+  - monster/type/fiend/demon
+aliases:
+  - Marilith
+dg-publish: true
 ---
 # Marilith
 *Source: SRD / Basic Rules*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/mm
-aliases: ["Careful Spell"]
+  - compendium/src/5e/phb
+  - optional-feature/mm
+aliases:
+  - Careful Spell
+dg-publish: true
 ---
 # Careful Spell
 *Source: SRD / Basic Rules* 

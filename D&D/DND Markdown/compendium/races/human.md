@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/human
-aliases: ["Human"]
+  - compendium/src/5e/phb
+  - race/human
+aliases:
+  - Human
+dg-publish: true
 ---
 # Human
 *Source: SRD / Basic Rules*  

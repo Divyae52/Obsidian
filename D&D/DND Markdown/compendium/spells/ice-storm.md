@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/4
-- spell/school/evocation
-aliases: ["Ice Storm"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/evocation
+aliases:
+  - Ice Storm
+dg-publish: true
 ---
 # Ice Storm
 *4th-level, Evocation*  

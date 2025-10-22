@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/dmg
-- monster/size/medium
-- monster/type/undead
-aliases: ["Avatar of Death (DMG)"]
+  - compendium/src/5e/dmg
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Avatar of Death (DMG)
+dg-publish: true
 ---
 # Avatar of Death (DMG)
 *Source: SRD / Basic Rules*  

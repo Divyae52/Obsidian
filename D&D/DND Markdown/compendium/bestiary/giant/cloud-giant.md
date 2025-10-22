@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/giant
-aliases: ["Cloud Giant"]
+  - compendium/src/5e/mm
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/giant
+aliases:
+  - Cloud Giant
+dg-publish: true
 ---
 # Cloud Giant
 *Source: SRD / Basic Rules*  

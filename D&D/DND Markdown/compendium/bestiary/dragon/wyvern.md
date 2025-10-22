@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/dragon
-aliases: ["Wyvern"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/dragon
+aliases:
+  - Wyvern
+dg-publish: true
 ---
 # Wyvern
 *Source: SRD / Basic Rules*  

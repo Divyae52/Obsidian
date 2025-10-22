@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/giant
-aliases: ["Storm Giant"]
+  - compendium/src/5e/mm
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/giant
+aliases:
+  - Storm Giant
+dg-publish: true
 ---
 # Storm Giant
 *Source: SRD / Basic Rules*  

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/artisans-tools
-aliases: ["Tinker's Tools"]
+  - compendium/src/5e/phb
+  - item/gear/artisans-tools
+aliases:
+  - Tinker's Tools
+dg-publish: true
 ---
 # Tinker's Tools
 *Artisan's Tools*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/ring
-aliases: ["Ring of X-ray Vision"]
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/ring
+aliases:
+  - Ring of X-ray Vision
+dg-publish: true
 ---
 # Ring of X-ray Vision
 *Ring, major, rare (requires attunement)*  

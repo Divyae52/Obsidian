@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/beast
-aliases: ["Mammoth"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/beast
+aliases:
+  - Mammoth
+dg-publish: true
 ---
 # Mammoth
 *Source: SRD / Basic Rules*  

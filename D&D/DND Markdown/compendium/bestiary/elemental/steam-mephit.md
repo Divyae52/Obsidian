@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underwater
-- monster/size/small
-- monster/type/elemental
-aliases: ["Steam Mephit"]
+  - compendium/src/5e/mm
+  - monster/environment/underwater
+  - monster/size/small
+  - monster/type/elemental
+aliases:
+  - Steam Mephit
+dg-publish: true
 ---
 # Steam Mephit
 *Source: SRD / Basic Rules*  

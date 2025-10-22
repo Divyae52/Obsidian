@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/elemental
-aliases: ["Xorn"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/elemental
+aliases:
+  - Xorn
+dg-publish: true
 ---
 # Xorn
 *Source: SRD / Basic Rules*  

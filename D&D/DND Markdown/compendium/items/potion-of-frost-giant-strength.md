@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous/potion
-aliases: ["Potion of Frost Giant Strength"]
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous/potion
+aliases:
+  - Potion of Frost Giant Strength
+dg-publish: true
 ---
 # Potion of Frost Giant Strength
 *Potion, minor, rare*  

@@ -2,8 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Ability Scores and Modifiers"]
+  - compendium/src/5e/phb
+aliases:
+  - Ability Scores and Modifiers
+dg-publish: true
 ---
 # Ability Scores and Modifiers
 *Source: SRD / Basic Rules* 

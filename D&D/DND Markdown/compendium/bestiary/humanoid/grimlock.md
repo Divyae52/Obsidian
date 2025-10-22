@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/grimlock
-aliases: ["Grimlock"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/grimlock
+aliases:
+  - Grimlock
+dg-publish: true
 ---
 # Grimlock
 *Source: SRD / Basic Rules*  

@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/monstrosity
-aliases: ["Centaur"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/monstrosity
+aliases:
+  - Centaur
+dg-publish: true
 ---
 # Centaur
 *Source: SRD / Basic Rules*  

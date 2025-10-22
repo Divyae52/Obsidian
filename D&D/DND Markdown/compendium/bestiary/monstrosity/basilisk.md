@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/monstrosity
-aliases: ["Basilisk"]
+  - compendium/src/5e/mm
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/monstrosity
+aliases:
+  - Basilisk
+dg-publish: true
 ---
 # Basilisk
 *Source: SRD / Basic Rules*  

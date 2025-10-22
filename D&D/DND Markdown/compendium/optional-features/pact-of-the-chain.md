@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-- optional-feature/pb
-aliases: ["Pact of the Chain"]
+  - compendium/src/5e/phb
+  - optional-feature/pb
+aliases:
+  - Pact of the Chain
+dg-publish: true
 ---
 # Pact of the Chain
 *Source: SRD / Basic Rules* 

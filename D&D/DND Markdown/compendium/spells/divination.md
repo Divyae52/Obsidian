@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/level/4
-- spell/ritual
-- spell/school/divination
-aliases: ["Divination"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/level/4
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Divination
+dg-publish: true
 ---
 # Divination
 *4th-level, Divination (ritual)*  

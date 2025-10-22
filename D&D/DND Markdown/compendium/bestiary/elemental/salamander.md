@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
-aliases: ["Salamander"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
+aliases:
+  - Salamander
+dg-publish: true
 ---
 # Salamander
 *Source: SRD / Basic Rules*  

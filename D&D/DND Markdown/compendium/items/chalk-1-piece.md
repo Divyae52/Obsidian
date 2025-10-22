@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: ["Chalk (1 piece)"]
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Chalk (1 piece)
+dg-publish: true
 ---
 # Chalk (1 piece)
 *Adventuring Gear*  
