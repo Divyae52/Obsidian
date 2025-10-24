@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Druid
-dg-publish: true
 ---
 # Druid
 *Source: SRD / Basic Rules*  

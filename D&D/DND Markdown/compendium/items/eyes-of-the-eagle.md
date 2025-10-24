@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Eyes of the Eagle
-dg-publish: true
 ---
 # Eyes of the Eagle
 *Wondrous Item, major, uncommon (requires attunement)*  

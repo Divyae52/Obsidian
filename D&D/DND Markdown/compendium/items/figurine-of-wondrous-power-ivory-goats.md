@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Ivory Goats
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Ivory Goats
 *Wondrous Item, major, rare*  

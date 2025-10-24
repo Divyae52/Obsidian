@@ -6,7 +6,6 @@ tags:
   - item/gear/mount
 aliases:
   - Mule
-dg-publish: true
 ---
 # Mule
 *Mount*  

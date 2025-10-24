@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Dimensional Shackles
-dg-publish: true
 ---
 # Dimensional Shackles
 *Wondrous Item, major, rare*  

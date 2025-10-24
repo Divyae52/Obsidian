@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Ladder (10-foot)
-dg-publish: true
 ---
 # Ladder (10-foot)
 *Adventuring Gear*  

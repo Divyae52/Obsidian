@@ -6,7 +6,6 @@ tags:
   - item/weapon/ammunition
 aliases:
   - Blowgun Needles (50)
-dg-publish: true
 ---
 # Blowgun Needles (50)
 *Ammunition*  

@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Fine Clothes
-dg-publish: true
 ---
 # Fine Clothes
 *Adventuring Gear*  

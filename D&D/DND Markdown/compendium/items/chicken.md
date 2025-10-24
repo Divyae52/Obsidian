@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Chicken
-dg-publish: true
 ---
 # Chicken
 *Trade Good*  

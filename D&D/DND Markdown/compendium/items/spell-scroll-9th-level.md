@@ -8,7 +8,6 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll (9th Level)
-dg-publish: true
 ---
 # Spell Scroll (9th Level)
 *Scroll, minor, legendary*  

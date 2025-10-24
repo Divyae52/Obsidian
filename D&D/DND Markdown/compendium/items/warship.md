@@ -6,7 +6,6 @@ tags:
   - item/vehicle/ship
 aliases:
   - Warship
-dg-publish: true
 ---
 # Warship
 *Ship, Vehicle (water)*  

@@ -14,7 +14,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Spiders
-dg-publish: true
 ---
 # Swarm of Spiders
 *Source: SRD / Basic Rules*  

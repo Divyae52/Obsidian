@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Rope of Climbing
-dg-publish: true
 ---
 # Rope of Climbing
 *Wondrous Item, minor, uncommon*  

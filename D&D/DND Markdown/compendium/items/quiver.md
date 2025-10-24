@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Quiver
-dg-publish: true
 ---
 # Quiver
 *Adventuring Gear*  

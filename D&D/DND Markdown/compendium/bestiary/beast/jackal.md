@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Jackal
-dg-publish: true
 ---
 # Jackal
 *Source: SRD / Basic Rules*  

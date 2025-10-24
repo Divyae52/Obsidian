@@ -9,7 +9,6 @@ tags:
   - domain/life
 aliases:
   - Isis
-dg-publish: true
 ---
 # Isis
 *Source: SRD / Basic Rules* 

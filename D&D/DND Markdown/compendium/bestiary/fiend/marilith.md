@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/demon
 aliases:
   - Marilith
-dg-publish: true
 ---
 # Marilith
 *Source: SRD / Basic Rules*  

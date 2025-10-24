@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Bag of Tricks, Gray
-dg-publish: true
 ---
 # Bag of Tricks, Gray
 *Wondrous Item, major, uncommon*  

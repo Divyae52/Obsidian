@@ -7,7 +7,6 @@ tags:
   - monster/type/beast
 aliases:
   - Sea Horse
-dg-publish: true
 ---
 # Sea Horse
 *Source: SRD / Basic Rules*  

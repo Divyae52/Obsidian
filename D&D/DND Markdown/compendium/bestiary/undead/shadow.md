@@ -9,7 +9,6 @@ tags:
   - monster/type/undead
 aliases:
   - Shadow
-dg-publish: true
 ---
 # Shadow
 *Source: SRD / Basic Rules*  

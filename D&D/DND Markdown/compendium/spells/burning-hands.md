@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Burning Hands
-dg-publish: true
 ---
 # Burning Hands
 *1st-level, Evocation*  

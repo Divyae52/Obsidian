@@ -9,7 +9,6 @@ tags:
   - monster/type/humanoid/lizardfolk
 aliases:
   - Lizardfolk
-dg-publish: true
 ---
 # Lizardfolk
 *Source: SRD / Basic Rules*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Young White Dragon
-dg-publish: true
 ---
 # Young White Dragon
 *Source: SRD / Basic Rules*  

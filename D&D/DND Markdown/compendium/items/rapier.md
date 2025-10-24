@@ -8,7 +8,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Rapier
-dg-publish: true
 ---
 # Rapier
 *Melee Weapon*  

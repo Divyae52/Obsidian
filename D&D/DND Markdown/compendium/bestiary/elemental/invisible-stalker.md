@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Invisible Stalker
-dg-publish: true
 ---
 # Invisible Stalker
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/tack-and-harness
 aliases:
   - Pack Saddle
-dg-publish: true
 ---
 # Pack Saddle
 *Tack and Harness*  

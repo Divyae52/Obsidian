@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Boar
-dg-publish: true
 ---
 # Giant Boar
 *Source: SRD / Basic Rules*  

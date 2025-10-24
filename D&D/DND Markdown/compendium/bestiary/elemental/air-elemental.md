@@ -9,7 +9,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Air Elemental
-dg-publish: true
 ---
 # Air Elemental
 *Source: SRD / Basic Rules*  

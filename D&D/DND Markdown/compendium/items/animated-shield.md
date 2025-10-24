@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Animated Shield
-dg-publish: true
 ---
 # Animated Shield
 *Shield, major, very rare (requires attunement)*  

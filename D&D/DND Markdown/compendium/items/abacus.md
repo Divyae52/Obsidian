@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Abacus
-dg-publish: true
 ---
 # Abacus
 *Adventuring Gear*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Bronze Dragon
-dg-publish: true
 ---
 # Ancient Bronze Dragon
 *Source: SRD / Basic Rules*  

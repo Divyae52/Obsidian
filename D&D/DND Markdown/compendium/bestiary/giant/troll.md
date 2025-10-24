@@ -13,7 +13,6 @@ tags:
   - monster/type/giant
 aliases:
   - Troll
-dg-publish: true
 ---
 # Troll
 *Source: SRD / Basic Rules*  

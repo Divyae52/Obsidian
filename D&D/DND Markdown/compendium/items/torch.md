@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Torch
-dg-publish: true
 ---
 # Torch
 *Adventuring Gear*  

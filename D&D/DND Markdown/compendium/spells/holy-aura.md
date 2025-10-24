@@ -8,7 +8,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Holy Aura
-dg-publish: true
 ---
 # Holy Aura
 *8th-level, Abjuration*  

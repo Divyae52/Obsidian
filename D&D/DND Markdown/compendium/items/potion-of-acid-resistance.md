@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Acid Resistance
-dg-publish: true
 ---
 # Potion of Acid Resistance
 *Potion, minor, uncommon*  

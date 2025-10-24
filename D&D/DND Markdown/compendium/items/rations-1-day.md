@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Rations (1 day)
-dg-publish: true
 ---
 # Rations (1 day)
 *Adventuring Gear*  

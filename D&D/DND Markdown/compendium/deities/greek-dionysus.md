@@ -7,7 +7,6 @@ tags:
   - domain/life
 aliases:
   - Dionysus
-dg-publish: true
 ---
 # Dionysus
 *Source: SRD / Basic Rules* 

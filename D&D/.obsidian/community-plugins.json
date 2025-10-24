@@ -1,13 +1,10 @@
 [
-  "peerdraft",
   "obsidian-dice-roller",
   "obsidian-admonition",
   "dataview",
   "templater-obsidian",
   "zoottelkeeper-obsidian-plugin",
-  "digitalgarden",
   "multi-properties",
   "ink",
-  "simple-sketch",
-  "image-converter"
+  "simple-sketch"
 ]

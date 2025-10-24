@@ -8,7 +8,6 @@ tags:
   - monster/type/ooze
 aliases:
   - Black Pudding
-dg-publish: true
 ---
 # Black Pudding
 *Source: SRD / Basic Rules*  

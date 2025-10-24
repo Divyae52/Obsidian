@@ -1,3 +1,6 @@
+---
+{}
+---
 # Vix's Session Template
 
 **Plugin Dependencies**:

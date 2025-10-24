@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Pass without Trace
-dg-publish: true
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

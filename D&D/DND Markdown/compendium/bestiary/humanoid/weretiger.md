@@ -11,7 +11,6 @@ tags:
   - monster/type/humanoid/shapechanger
 aliases:
   - Weretiger
-dg-publish: true
 ---
 # Weretiger
 *Source: SRD / Basic Rules*  

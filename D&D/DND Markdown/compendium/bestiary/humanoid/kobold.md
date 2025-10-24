@@ -16,7 +16,6 @@ tags:
   - monster/type/humanoid/kobold
 aliases:
   - Kobold
-dg-publish: true
 ---
 # Kobold
 *Source: SRD / Basic Rules*  

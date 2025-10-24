@@ -11,7 +11,6 @@ tags:
   - spell/school/divination
 aliases:
   - True Strike
-dg-publish: true
 ---
 # True Strike
 *cantrip, Divination*  

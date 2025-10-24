@@ -11,7 +11,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Astral Projection
-dg-publish: true
 ---
 # Astral Projection
 *9th-level, Necromancy*  

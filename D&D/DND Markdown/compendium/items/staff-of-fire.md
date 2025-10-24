@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Fire
-dg-publish: true
 ---
 # Staff of Fire
 *Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

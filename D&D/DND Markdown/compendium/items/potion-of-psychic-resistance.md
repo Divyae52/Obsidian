@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Psychic Resistance
-dg-publish: true
 ---
 # Potion of Psychic Resistance
 *Potion, minor, uncommon*  

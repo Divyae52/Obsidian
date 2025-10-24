@@ -11,7 +11,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Unseen Servant
-dg-publish: true
 ---
 # Unseen Servant
 *1st-level, Conjuration (ritual)*  

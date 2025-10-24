@@ -12,7 +12,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Daylight
-dg-publish: true
 ---
 # Daylight
 *3rd-level, Evocation*  

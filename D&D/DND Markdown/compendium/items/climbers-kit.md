@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Climber's Kit
-dg-publish: true
 ---
 # Climber's Kit
 *Adventuring Gear*  

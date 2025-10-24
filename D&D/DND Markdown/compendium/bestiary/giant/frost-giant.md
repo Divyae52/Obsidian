@@ -9,7 +9,6 @@ tags:
   - monster/type/giant
 aliases:
   - Frost Giant
-dg-publish: true
 ---
 # Frost Giant
 *Source: SRD / Basic Rules*  

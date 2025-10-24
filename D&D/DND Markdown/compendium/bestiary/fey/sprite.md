@@ -8,7 +8,6 @@ tags:
   - monster/type/fey
 aliases:
   - Sprite
-dg-publish: true
 ---
 # Sprite
 *Source: SRD / Basic Rules*  

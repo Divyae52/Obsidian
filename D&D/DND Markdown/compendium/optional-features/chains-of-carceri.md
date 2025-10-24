@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Chains of Carceri
-dg-publish: true
 ---
 # Chains of Carceri
 *Source: SRD / Basic Rules* 

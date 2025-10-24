@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Robe of Stars
-dg-publish: true
 ---
 # Robe of Stars
 *Wondrous Item, major, very rare (requires attunement)*  

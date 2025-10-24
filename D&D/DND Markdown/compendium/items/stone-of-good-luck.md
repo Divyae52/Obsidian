@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Stone of Good Luck
-dg-publish: true
 ---
 # Stone of Good Luck
 *Wondrous Item, major, uncommon (requires attunement)*  

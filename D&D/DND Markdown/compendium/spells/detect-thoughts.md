@@ -10,7 +10,6 @@ tags:
   - spell/school/divination
 aliases:
   - Detect Thoughts
-dg-publish: true
 ---
 # Detect Thoughts
 *2nd-level, Divination*  

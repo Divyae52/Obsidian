@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Grappler
-dg-publish: true
 ---
 # Grappler
 *Source: SRD / Basic Rules*  

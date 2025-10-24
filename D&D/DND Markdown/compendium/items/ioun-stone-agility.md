@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Agility
-dg-publish: true
 ---
 # Ioun Stone, Agility
 *Wondrous Item, major, very rare (requires attunement)*  

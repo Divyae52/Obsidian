@@ -7,7 +7,6 @@ tags:
   - domain/knowledge
 aliases:
   - Oghma
-dg-publish: true
 ---
 # Oghma
 *Source: SRD / Basic Rules* 

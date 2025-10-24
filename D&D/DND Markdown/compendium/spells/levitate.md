@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Levitate
-dg-publish: true
 ---
 # Levitate
 *2nd-level, Transmutation*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Dispel Evil and Good
-dg-publish: true
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  

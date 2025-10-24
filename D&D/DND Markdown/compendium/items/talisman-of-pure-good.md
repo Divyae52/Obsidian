@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Talisman of Pure Good
-dg-publish: true
 ---
 # Talisman of Pure Good
 *Wondrous Item, major, legendary (requires attunement by a creature of good alignment)*  

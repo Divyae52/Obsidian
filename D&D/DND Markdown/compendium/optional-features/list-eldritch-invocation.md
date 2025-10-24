@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Eldritch Invocation
-dg-publish: true
 ---
 # Eldritch Invocation
 *Source: SRD / Basic Rules* 

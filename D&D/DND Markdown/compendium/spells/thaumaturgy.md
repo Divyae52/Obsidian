@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Thaumaturgy
-dg-publish: true
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  

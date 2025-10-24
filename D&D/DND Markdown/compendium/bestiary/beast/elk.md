@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Elk
-dg-publish: true
 ---
 # Elk
 *Source: SRD / Basic Rules*  

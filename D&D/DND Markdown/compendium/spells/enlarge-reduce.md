@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Enlarge/Reduce
-dg-publish: true
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

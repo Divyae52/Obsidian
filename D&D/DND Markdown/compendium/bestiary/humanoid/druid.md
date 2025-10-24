@@ -16,7 +16,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Druid
-dg-publish: true
 ---
 # Druid
 *Source: SRD / Basic Rules*  

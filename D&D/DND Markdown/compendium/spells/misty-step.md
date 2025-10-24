@@ -10,7 +10,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Misty Step
-dg-publish: true
 ---
 # Misty Step
 *2nd-level, Conjuration*  

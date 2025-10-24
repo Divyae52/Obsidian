@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Expeditious Retreat
-dg-publish: true
 ---
 # Expeditious Retreat
 *1st-level, Transmutation*  

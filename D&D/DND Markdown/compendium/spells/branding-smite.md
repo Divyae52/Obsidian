@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Branding Smite
-dg-publish: true
 ---
 # Branding Smite
 *2nd-level, Evocation*  

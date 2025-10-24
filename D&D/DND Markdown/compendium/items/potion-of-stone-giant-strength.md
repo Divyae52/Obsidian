@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Stone Giant Strength
-dg-publish: true
 ---
 # Potion of Stone Giant Strength
 *Potion, minor, rare*  

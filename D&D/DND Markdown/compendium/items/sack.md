@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Sack
-dg-publish: true
 ---
 # Sack
 *Adventuring Gear*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Onyx Dog
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Onyx Dog
 *Wondrous Item, major, rare*  

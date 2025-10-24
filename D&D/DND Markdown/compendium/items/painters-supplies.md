@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Painter's Supplies
-dg-publish: true
 ---
 # Painter's Supplies
 *Artisan's Tools*  

@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Wall of Stone
-dg-publish: true
 ---
 # Wall of Stone
 *5th-level, Evocation*  

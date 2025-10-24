@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Gaseous Form
-dg-publish: true
 ---
 # Potion of Gaseous Form
 *Potion, minor, rare*  

@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Red Dragon
-dg-publish: true
 ---
 # Ancient Red Dragon
 *Source: SRD / Basic Rules*  

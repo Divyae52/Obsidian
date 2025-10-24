@@ -6,7 +6,6 @@ tags:
   - race/half-orc
 aliases:
   - Half-Orc
-dg-publish: true
 ---
 # Half-Orc
 *Source: SRD / Basic Rules*  

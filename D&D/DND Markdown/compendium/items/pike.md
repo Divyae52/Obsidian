@@ -10,7 +10,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Pike
-dg-publish: true
 ---
 # Pike
 *Melee Weapon*  

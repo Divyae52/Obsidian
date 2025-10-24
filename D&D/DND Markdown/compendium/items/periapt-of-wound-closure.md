@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Periapt of Wound Closure
-dg-publish: true
 ---
 # Periapt of Wound Closure
 *Wondrous Item, major, uncommon (requires attunement)*  

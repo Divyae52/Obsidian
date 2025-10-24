@@ -14,7 +14,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Centipedes
-dg-publish: true
 ---
 # Swarm of Centipedes
 *Source: SRD / Basic Rules*  

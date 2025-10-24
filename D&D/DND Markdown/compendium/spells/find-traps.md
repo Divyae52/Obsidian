@@ -10,7 +10,6 @@ tags:
   - spell/school/divination
 aliases:
   - Find Traps
-dg-publish: true
 ---
 # Find Traps
 *2nd-level, Divination*  

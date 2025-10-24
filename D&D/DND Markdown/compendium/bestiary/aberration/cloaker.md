@@ -8,7 +8,6 @@ tags:
   - monster/type/aberration
 aliases:
   - Cloaker
-dg-publish: true
 ---
 # Cloaker
 *Source: SRD / Basic Rules*  

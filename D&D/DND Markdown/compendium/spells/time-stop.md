@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Time Stop
-dg-publish: true
 ---
 # Time Stop
 *9th-level, Transmutation*  

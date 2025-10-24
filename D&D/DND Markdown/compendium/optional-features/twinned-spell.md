@@ -6,7 +6,6 @@ tags:
   - optional-feature/mm
 aliases:
   - Twinned Spell
-dg-publish: true
 ---
 # Twinned Spell
 *Source: SRD / Basic Rules* 

@@ -8,7 +8,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Spare the Dying
-dg-publish: true
 ---
 # Spare the Dying
 *cantrip, Necromancy*  

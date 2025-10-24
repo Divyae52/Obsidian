@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Storm of Vengeance
-dg-publish: true
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

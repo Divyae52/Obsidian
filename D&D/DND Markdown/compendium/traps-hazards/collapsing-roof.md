@@ -6,7 +6,6 @@ tags:
   - hazard/mech
 aliases:
   - Collapsing Roof
-dg-publish: true
 ---
 # Collapsing Roof
 *Mechanical Trap*  

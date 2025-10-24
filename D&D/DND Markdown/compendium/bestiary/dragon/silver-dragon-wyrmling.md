@@ -7,7 +7,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Silver Dragon Wyrmling
-dg-publish: true
 ---
 # Silver Dragon Wyrmling
 *Source: SRD / Basic Rules*  

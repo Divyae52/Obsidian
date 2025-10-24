@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Swarming Insects
-dg-publish: true
 ---
 # Staff of Swarming Insects
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

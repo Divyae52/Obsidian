@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Lamia
-dg-publish: true
 ---
 # Lamia
 *Source: SRD / Basic Rules*  

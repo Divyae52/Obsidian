@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Acid Resistance
-dg-publish: true
 ---
 # Ring of Acid Resistance
 *Ring, major, rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Talisman of the Sphere
-dg-publish: true
 ---
 # Talisman of the Sphere
 *Wondrous Item, major, legendary (requires attunement)*  

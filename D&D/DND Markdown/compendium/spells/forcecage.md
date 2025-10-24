@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Forcecage
-dg-publish: true
 ---
 # Forcecage
 *7th-level, Evocation*  

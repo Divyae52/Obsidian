@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Wolf
-dg-publish: true
 ---
 # Wolf
 *Source: SRD / Basic Rules*  

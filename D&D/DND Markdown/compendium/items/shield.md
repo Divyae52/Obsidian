@@ -6,7 +6,6 @@ tags:
   - item/armor/shield
 aliases:
   - Shield
-dg-publish: true
 ---
 # Shield
 *Shield*  

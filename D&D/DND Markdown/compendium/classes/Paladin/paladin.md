@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Paladin
-dg-publish: true
 ---
 # Paladin
 *Source: SRD / Basic Rules*  

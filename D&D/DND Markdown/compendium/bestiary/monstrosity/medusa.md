@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Medusa
-dg-publish: true
 ---
 # Medusa
 *Source: SRD / Basic Rules*  

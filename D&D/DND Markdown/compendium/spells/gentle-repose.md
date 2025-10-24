@@ -10,7 +10,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Gentle Repose
-dg-publish: true
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Wyvern Poison
-dg-publish: true
 ---
 # Wyvern Poison
 *Adventuring Gear, poison*  

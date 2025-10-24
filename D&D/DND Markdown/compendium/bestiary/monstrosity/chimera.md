@@ -11,7 +11,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Chimera
-dg-publish: true
 ---
 # Chimera
 *Source: SRD / Basic Rules*  

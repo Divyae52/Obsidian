@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Mounts and Vehicles; Mounts and Other Animals
-dg-publish: true
 ---
 # Mounts and Vehicles; Mounts and Other Animals
 *Source: SRD / Basic Rules* 

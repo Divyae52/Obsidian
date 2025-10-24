@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Leadership
-dg-publish: true
 ---
 # Ioun Stone, Leadership
 *Wondrous Item, major, very rare (requires attunement)*  

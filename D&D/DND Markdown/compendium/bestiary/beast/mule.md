@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Mule
-dg-publish: true
 ---
 # Mule
 *Source: SRD / Basic Rules*  

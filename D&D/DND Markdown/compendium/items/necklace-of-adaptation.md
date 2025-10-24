@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Necklace of Adaptation
-dg-publish: true
 ---
 # Necklace of Adaptation
 *Wondrous Item, major, uncommon (requires attunement)*  

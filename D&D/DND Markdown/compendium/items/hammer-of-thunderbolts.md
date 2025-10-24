@@ -11,7 +11,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Hammer of Thunderbolts
-dg-publish: true
 ---
 # Hammer of Thunderbolts
 *Melee Weapon, major, legendary*  

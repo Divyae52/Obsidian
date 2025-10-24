@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Warhorse
-dg-publish: true
 ---
 # Warhorse
 *Source: SRD / Basic Rules*  

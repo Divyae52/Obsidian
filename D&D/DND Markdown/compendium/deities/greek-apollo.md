@@ -9,7 +9,6 @@ tags:
   - domain/light
 aliases:
   - Apollo
-dg-publish: true
 ---
 # Apollo
 *Source: SRD / Basic Rules* 

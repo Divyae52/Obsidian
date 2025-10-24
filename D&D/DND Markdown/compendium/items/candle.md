@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Candle
-dg-publish: true
 ---
 # Candle
 *Adventuring Gear*  

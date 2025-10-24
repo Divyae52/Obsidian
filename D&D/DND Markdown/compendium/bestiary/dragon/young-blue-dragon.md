@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Young Blue Dragon
-dg-publish: true
 ---
 # Young Blue Dragon
 *Source: SRD / Basic Rules*  

@@ -12,7 +12,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Toad
-dg-publish: true
 ---
 # Giant Toad
 *Source: SRD / Basic Rules*  

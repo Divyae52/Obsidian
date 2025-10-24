@@ -9,7 +9,6 @@ tags:
   - monster/type/humanoid/sahuagin
 aliases:
   - Sahuagin
-dg-publish: true
 ---
 # Sahuagin
 *Source: SRD / Basic Rules*  

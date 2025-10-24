@@ -14,7 +14,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Commoner
-dg-publish: true
 ---
 # Commoner
 *Source: SRD / Basic Rules*  

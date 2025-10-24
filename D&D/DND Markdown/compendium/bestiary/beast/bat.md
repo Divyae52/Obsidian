@@ -7,7 +7,6 @@ tags:
   - monster/type/beast
 aliases:
   - Bat
-dg-publish: true
 ---
 # Bat
 *Source: SRD / Basic Rules*  

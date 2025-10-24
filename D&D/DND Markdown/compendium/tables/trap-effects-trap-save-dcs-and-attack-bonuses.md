@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Trap Effects; Trap Save DCs and Attack Bonuses
-dg-publish: true
 ---
 # Trap Effects; Trap Save DCs and Attack Bonuses
 *Source: SRD / Basic Rules* 

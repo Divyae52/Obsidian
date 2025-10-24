@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Serpentine Owl
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Serpentine Owl
 *Wondrous Item, major, rare*  

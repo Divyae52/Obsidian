@@ -7,7 +7,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Copper Dragon Wyrmling
-dg-publish: true
 ---
 # Copper Dragon Wyrmling
 *Source: SRD / Basic Rules*  

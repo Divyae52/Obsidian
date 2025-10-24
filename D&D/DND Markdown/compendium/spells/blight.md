@@ -11,7 +11,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Blight
-dg-publish: true
 ---
 # Blight
 *4th-level, Necromancy*  

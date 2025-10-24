@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Belt of Storm Giant Strength
-dg-publish: true
 ---
 # Belt of Storm Giant Strength
 *Wondrous Item, major, legendary (requires attunement)*  

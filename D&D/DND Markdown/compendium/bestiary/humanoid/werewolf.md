@@ -10,7 +10,6 @@ tags:
   - monster/type/humanoid/shapechanger
 aliases:
   - Werewolf
-dg-publish: true
 ---
 # Werewolf
 *Source: SRD / Basic Rules*  

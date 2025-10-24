@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Eldritch Blast
-dg-publish: true
 ---
 # Eldritch Blast
 *cantrip, Evocation*  

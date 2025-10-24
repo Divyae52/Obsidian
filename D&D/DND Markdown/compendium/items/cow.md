@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Cow
-dg-publish: true
 ---
 # Cow
 *Trade Good*  

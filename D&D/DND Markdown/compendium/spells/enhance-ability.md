@@ -11,7 +11,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Enhance Ability
-dg-publish: true
 ---
 # Enhance Ability
 *2nd-level, Transmutation*  

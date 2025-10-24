@@ -6,7 +6,6 @@ tags:
   - item/gear/mount
 aliases:
   - Riding Horse
-dg-publish: true
 ---
 # Riding Horse
 *Mount*  

@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Otiluke's Resilient Sphere
-dg-publish: true
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Evocation*  

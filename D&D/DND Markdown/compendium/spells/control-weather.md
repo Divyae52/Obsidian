@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Control Weather
-dg-publish: true
 ---
 # Control Weather
 *8th-level, Transmutation*  

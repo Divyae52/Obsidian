@@ -9,7 +9,6 @@ tags:
   - monster/type/fiend
 aliases:
   - Hell Hound
-dg-publish: true
 ---
 # Hell Hound
 *Source: SRD / Basic Rules*  

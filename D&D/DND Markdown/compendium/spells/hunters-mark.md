@@ -8,7 +8,6 @@ tags:
   - spell/school/divination
 aliases:
   - Hunter's Mark
-dg-publish: true
 ---
 # Hunter's Mark
 *1st-level, Divination*  

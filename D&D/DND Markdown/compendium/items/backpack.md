@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Backpack
-dg-publish: true
 ---
 # Backpack
 *Adventuring Gear*  

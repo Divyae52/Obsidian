@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Whispers of the Grave
-dg-publish: true
 ---
 # Whispers of the Grave
 *Source: SRD / Basic Rules* 

@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Flame Blade
-dg-publish: true
 ---
 # Flame Blade
 *2nd-level, Evocation*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/plant
 aliases:
   - Awakened Shrub
-dg-publish: true
 ---
 # Awakened Shrub
 *Source: SRD / Basic Rules*  

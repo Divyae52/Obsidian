@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Earthquake
-dg-publish: true
 ---
 # Earthquake
 *8th-level, Evocation*  

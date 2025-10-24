@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/gnome
 aliases:
   - Deep Gnome (Svirfneblin)
-dg-publish: true
 ---
 # Deep Gnome (Svirfneblin)
 *Source: SRD / Basic Rules*  

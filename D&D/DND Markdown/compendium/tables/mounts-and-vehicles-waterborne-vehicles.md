@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Mounts and Vehicles; Waterborne Vehicles
-dg-publish: true
 ---
 # Mounts and Vehicles; Waterborne Vehicles
 *Source: SRD / Basic Rules* 

@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Cloves
-dg-publish: true
 ---
 # Cloves
 *Trade Good*  

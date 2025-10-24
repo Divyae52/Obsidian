@@ -14,7 +14,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Wasps
-dg-publish: true
 ---
 # Swarm of Wasps
 *Source: SRD / Basic Rules*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/construct
 aliases:
   - Animated Armor
-dg-publish: true
 ---
 # Animated Armor
 *Source: SRD / Basic Rules*  

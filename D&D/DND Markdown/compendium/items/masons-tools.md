@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Mason's Tools
-dg-publish: true
 ---
 # Mason's Tools
 *Artisan's Tools*  

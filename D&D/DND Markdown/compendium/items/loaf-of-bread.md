@@ -6,7 +6,6 @@ tags:
   - item/gear/food-and-drink
 aliases:
   - Loaf of Bread
-dg-publish: true
 ---
 # Loaf of Bread
 *Food and Drink*  

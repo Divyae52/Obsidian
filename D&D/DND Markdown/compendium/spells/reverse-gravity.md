@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Reverse Gravity
-dg-publish: true
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  

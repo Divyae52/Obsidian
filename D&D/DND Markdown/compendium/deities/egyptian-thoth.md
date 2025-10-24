@@ -7,7 +7,6 @@ tags:
   - domain/knowledge
 aliases:
   - Thoth
-dg-publish: true
 ---
 # Thoth
 *Source: SRD / Basic Rules* 

@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Beast Speech
-dg-publish: true
 ---
 # Beast Speech
 *Source: SRD / Basic Rules* 

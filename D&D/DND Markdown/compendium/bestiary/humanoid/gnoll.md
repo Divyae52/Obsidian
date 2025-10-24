@@ -11,7 +11,6 @@ tags:
   - monster/type/humanoid/gnoll
 aliases:
   - Gnoll
-dg-publish: true
 ---
 # Gnoll
 *Source: SRD / Basic Rules*  

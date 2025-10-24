@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Dungeoneer's Pack
-dg-publish: true
 ---
 # Dungeoneer's Pack
 *Adventuring Gear*  

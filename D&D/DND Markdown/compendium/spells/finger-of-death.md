@@ -10,7 +10,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Finger of Death
-dg-publish: true
 ---
 # Finger of Death
 *7th-level, Necromancy*  

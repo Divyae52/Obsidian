@@ -7,7 +7,6 @@ tags:
   - domain/life
 aliases:
   - Brigantia
-dg-publish: true
 ---
 # Brigantia
 *Source: SRD / Basic Rules* 

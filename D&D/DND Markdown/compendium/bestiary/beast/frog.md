@@ -7,7 +7,6 @@ tags:
   - monster/type/beast
 aliases:
   - Frog
-dg-publish: true
 ---
 # Frog
 *Source: SRD / Basic Rules*  

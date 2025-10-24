@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Medallion of Thoughts
-dg-publish: true
 ---
 # Medallion of Thoughts
 *Wondrous Item, major, uncommon (requires attunement)*  

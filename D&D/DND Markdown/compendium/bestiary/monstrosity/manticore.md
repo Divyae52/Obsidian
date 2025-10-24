@@ -12,7 +12,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Manticore
-dg-publish: true
 ---
 # Manticore
 *Source: SRD / Basic Rules*  

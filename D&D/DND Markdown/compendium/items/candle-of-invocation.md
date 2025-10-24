@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Candle of Invocation
-dg-publish: true
 ---
 # Candle of Invocation
 *Wondrous Item, major, very rare (requires attunement)*  

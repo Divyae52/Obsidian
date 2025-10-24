@@ -8,7 +8,6 @@ tags:
   - monster/type/ooze
 aliases:
   - Gelatinous Cube
-dg-publish: true
 ---
 # Gelatinous Cube
 *Source: SRD / Basic Rules*  

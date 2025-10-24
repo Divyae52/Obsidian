@@ -7,7 +7,6 @@ tags:
   - optional-feature/fs-p
 aliases:
   - Great Weapon Fighting
-dg-publish: true
 ---
 # Great Weapon Fighting
 *Source: SRD / Basic Rules* 

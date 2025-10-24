@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Goat
-dg-publish: true
 ---
 # Goat
 *Source: SRD / Basic Rules*  

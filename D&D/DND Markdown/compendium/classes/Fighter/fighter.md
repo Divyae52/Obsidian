@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Fighter
-dg-publish: true
 ---
 # Fighter
 *Source: SRD / Basic Rules*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Orb of Dragonkind
-dg-publish: true
 ---
 # Orb of Dragonkind
 *Wondrous Item, artifact (requires attunement)*  

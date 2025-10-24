@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Sealing Wax
-dg-publish: true
 ---
 # Sealing Wax
 *Adventuring Gear*  

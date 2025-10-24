@@ -11,7 +11,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Magic Circle
-dg-publish: true
 ---
 # Magic Circle
 *3rd-level, Abjuration*  

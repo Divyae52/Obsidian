@@ -6,7 +6,6 @@ tags:
   - item/armor/heavy
 aliases:
   - Ring Mail
-dg-publish: true
 ---
 # Ring Mail
 *Heavy Armor*  

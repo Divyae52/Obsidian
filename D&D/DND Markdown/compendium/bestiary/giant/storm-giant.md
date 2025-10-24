@@ -9,7 +9,6 @@ tags:
   - monster/type/giant
 aliases:
   - Storm Giant
-dg-publish: true
 ---
 # Storm Giant
 *Source: SRD / Basic Rules*  

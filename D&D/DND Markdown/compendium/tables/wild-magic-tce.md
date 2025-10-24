@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/tce
 aliases:
   - Wild Magic
-dg-publish: true
 ---
 # Wild Magic
 *Source: SRD / Basic Rules* 

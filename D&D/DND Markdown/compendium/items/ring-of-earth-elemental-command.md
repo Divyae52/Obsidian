@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Earth Elemental Command
-dg-publish: true
 ---
 # Ring of Earth Elemental Command
 *Ring, major, legendary (requires attunement)*  

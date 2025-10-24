@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Tankard
-dg-publish: true
 ---
 # Tankard
 *Adventuring Gear*  

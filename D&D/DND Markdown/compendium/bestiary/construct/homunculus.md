@@ -7,7 +7,6 @@ tags:
   - monster/type/construct
 aliases:
   - Homunculus
-dg-publish: true
 ---
 # Homunculus
 *Source: SRD / Basic Rules*  

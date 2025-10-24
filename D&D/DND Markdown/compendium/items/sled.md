@@ -6,7 +6,6 @@ tags:
   - item/vehicle
 aliases:
   - Sled
-dg-publish: true
 ---
 # Sled
 *Vehicle (land)*  

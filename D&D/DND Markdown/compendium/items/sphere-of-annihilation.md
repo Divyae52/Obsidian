@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Sphere of Annihilation
-dg-publish: true
 ---
 # Sphere of Annihilation
 *Wondrous Item, major, legendary*  

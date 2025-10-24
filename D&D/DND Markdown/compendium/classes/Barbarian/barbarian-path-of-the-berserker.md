@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Path of the Berserker
-dg-publish: true
 ---
 # Path of the Berserker
 *[Barbarian](barbarian.md): Primal Path*  

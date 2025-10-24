@@ -7,7 +7,6 @@ tags:
   - domain/life
 aliases:
   - Life Domain
-dg-publish: true
 ---
 # Life Domain
 *[Cleric](cleric.md): Divine Domain*  

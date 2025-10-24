@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Soap
-dg-publish: true
 ---
 # Soap
 *Adventuring Gear*  

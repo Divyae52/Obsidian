@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Sending
-dg-publish: true
 ---
 # Sending
 *3rd-level, Evocation*  

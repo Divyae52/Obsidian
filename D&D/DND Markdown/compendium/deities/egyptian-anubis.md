@@ -9,7 +9,6 @@ tags:
   - domain/order
 aliases:
   - Anubis
-dg-publish: true
 ---
 # Anubis
 *Source: SRD / Basic Rules* 

@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Wyvern
-dg-publish: true
 ---
 # Wyvern
 *Source: SRD / Basic Rules*  

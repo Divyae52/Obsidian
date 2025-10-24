@@ -6,7 +6,6 @@ tags:
   - optional-feature/mm
 aliases:
   - Distant Spell
-dg-publish: true
 ---
 # Distant Spell
 *Source: SRD / Basic Rules* 

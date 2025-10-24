@@ -13,7 +13,6 @@ tags:
   - monster/type/beast
 aliases:
   - Blood Hawk
-dg-publish: true
 ---
 # Blood Hawk
 *Source: SRD / Basic Rules*  

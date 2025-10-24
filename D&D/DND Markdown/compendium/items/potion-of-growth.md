@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Growth
-dg-publish: true
 ---
 # Potion of Growth
 *Potion, minor, uncommon*  

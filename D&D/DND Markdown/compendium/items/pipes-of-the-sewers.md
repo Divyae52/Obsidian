@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Pipes of the Sewers
-dg-publish: true
 ---
 # Pipes of the Sewers
 *Instrument, major, uncommon (requires attunement)*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Marble Elephant
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Marble Elephant
 *Wondrous Item, major, rare*  

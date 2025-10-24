@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Radiant Resistance
-dg-publish: true
 ---
 # Potion of Radiant Resistance
 *Potion, minor, uncommon*  

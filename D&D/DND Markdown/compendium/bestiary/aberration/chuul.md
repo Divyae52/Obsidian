@@ -8,7 +8,6 @@ tags:
   - monster/type/aberration
 aliases:
   - Chuul
-dg-publish: true
 ---
 # Chuul
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/food-and-drink
 aliases:
   - Hunk of Cheese
-dg-publish: true
 ---
 # Hunk of Cheese
 *Food and Drink*  

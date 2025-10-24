@@ -12,7 +12,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Lizard
-dg-publish: true
 ---
 # Giant Lizard
 *Source: SRD / Basic Rules*  

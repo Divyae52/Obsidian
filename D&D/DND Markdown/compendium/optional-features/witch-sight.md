@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Witch Sight
-dg-publish: true
 ---
 # Witch Sight
 *Source: SRD / Basic Rules* 

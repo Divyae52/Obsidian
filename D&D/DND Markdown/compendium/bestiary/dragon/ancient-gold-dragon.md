@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Gold Dragon
-dg-publish: true
 ---
 # Ancient Gold Dragon
 *Source: SRD / Basic Rules*  

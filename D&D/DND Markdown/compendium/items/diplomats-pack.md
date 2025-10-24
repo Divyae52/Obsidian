@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Diplomat's Pack
-dg-publish: true
 ---
 # Diplomat's Pack
 *Adventuring Gear*  

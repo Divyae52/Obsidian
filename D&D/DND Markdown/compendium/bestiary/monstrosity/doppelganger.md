@@ -9,7 +9,6 @@ tags:
   - monster/type/monstrosity/shapechanger
 aliases:
   - Doppelganger
-dg-publish: true
 ---
 # Doppelganger
 *Source: SRD / Basic Rules*  

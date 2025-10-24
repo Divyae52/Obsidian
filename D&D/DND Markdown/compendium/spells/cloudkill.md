@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Cloudkill
-dg-publish: true
 ---
 # Cloudkill
 *5th-level, Conjuration*  

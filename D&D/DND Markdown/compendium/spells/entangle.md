@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Entangle
-dg-publish: true
 ---
 # Entangle
 *1st-level, Conjuration*  

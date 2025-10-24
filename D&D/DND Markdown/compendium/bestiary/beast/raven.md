@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Raven
-dg-publish: true
 ---
 # Raven
 *Source: SRD / Basic Rules*  

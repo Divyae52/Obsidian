@@ -6,7 +6,6 @@ tags:
   - item/vehicle
 aliases:
   - Carriage
-dg-publish: true
 ---
 # Carriage
 *Vehicle (land)*  

@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Regenerate
-dg-publish: true
 ---
 # Regenerate
 *7th-level, Transmutation*  

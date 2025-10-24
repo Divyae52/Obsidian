@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Gladiator
-dg-publish: true
 ---
 # Gladiator
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - item/weapon/ammunition
 aliases:
   - Arrows (20)
-dg-publish: true
 ---
 # Arrows (20)
 *Ammunition*  

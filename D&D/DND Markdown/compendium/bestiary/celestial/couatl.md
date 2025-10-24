@@ -11,7 +11,6 @@ tags:
   - monster/type/celestial
 aliases:
   - Couatl
-dg-publish: true
 ---
 # Couatl
 *Source: SRD / Basic Rules*  

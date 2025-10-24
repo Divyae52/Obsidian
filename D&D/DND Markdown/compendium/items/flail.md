@@ -7,7 +7,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Flail
-dg-publish: true
 ---
 # Flail
 *Melee Weapon*  

@@ -6,7 +6,6 @@ tags:
   - hazard/mag
 aliases:
   - Sphere of Annihilation
-dg-publish: true
 ---
 # Sphere of Annihilation
 *Magical Trap*  

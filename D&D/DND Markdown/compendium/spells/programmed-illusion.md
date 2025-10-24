@@ -9,7 +9,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Programmed Illusion
-dg-publish: true
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Magma Mephit
-dg-publish: true
 ---
 # Magma Mephit
 *Source: SRD / Basic Rules*  

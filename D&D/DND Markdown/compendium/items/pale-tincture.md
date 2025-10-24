@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Pale Tincture
-dg-publish: true
 ---
 # Pale Tincture
 *Adventuring Gear, poison*  

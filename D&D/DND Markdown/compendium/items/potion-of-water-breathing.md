@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Water Breathing
-dg-publish: true
 ---
 # Potion of Water Breathing
 *Potion, minor, uncommon*  

@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Transport via Plants
-dg-publish: true
 ---
 # Transport via Plants
 *6th-level, Conjuration*  

@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Lance
-dg-publish: true
 ---
 # Lance
 *Melee Weapon*  

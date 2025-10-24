@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Darkmantle
-dg-publish: true
 ---
 # Darkmantle
 *Source: SRD / Basic Rules*  

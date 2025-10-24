@@ -8,7 +8,6 @@ tags:
   - monster/type/undead
 aliases:
   - Mummy Lord
-dg-publish: true
 ---
 # Mummy Lord
 *Source: SRD / Basic Rules*  

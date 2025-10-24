@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Shillelagh
-dg-publish: true
 ---
 # Shillelagh
 *cantrip, Transmutation*  

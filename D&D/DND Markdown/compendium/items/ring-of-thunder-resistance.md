@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Thunder Resistance
-dg-publish: true
 ---
 # Ring of Thunder Resistance
 *Ring, major, rare (requires attunement)*  

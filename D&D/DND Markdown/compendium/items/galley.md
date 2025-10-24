@@ -6,7 +6,6 @@ tags:
   - item/vehicle/ship
 aliases:
   - Galley
-dg-publish: true
 ---
 # Galley
 *Ship, Vehicle (water)*  

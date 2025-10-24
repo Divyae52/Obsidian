@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Ink (1-ounce bottle)
-dg-publish: true
 ---
 # Ink (1-ounce bottle)
 *Adventuring Gear*  

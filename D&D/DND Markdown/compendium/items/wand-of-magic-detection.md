@@ -8,7 +8,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Magic Detection
-dg-publish: true
 ---
 # Wand of Magic Detection
 *Wand, minor, uncommon*  

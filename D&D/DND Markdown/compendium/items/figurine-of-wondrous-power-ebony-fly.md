@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Ebony Fly
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Ebony Fly
 *Wondrous Item, major, rare*  

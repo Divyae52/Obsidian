@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Sledgehammer
-dg-publish: true
 ---
 # Sledgehammer
 *Adventuring Gear*  

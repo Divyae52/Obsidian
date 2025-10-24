@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Magic Missile
-dg-publish: true
 ---
 # Magic Missile
 *1st-level, Evocation*  

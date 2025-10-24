@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Faerie Fire
-dg-publish: true
 ---
 # Faerie Fire
 *1st-level, Evocation*  

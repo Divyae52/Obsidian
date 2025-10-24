@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Silk Rope (50 feet)
-dg-publish: true
 ---
 # Silk Rope (50 feet)
 *Adventuring Gear*  

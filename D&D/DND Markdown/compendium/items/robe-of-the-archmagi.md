@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Robe of the Archmagi
-dg-publish: true
 ---
 # Robe of the Archmagi
 *Wondrous Item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

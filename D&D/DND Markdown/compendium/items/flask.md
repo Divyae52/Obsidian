@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Flask
-dg-publish: true
 ---
 # Flask
 *Adventuring Gear*  

@@ -11,7 +11,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Mage Hand
-dg-publish: true
 ---
 # Mage Hand
 *cantrip, Conjuration*  

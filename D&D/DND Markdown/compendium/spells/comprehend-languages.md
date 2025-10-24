@@ -12,7 +12,6 @@ tags:
   - spell/school/divination
 aliases:
   - Comprehend Languages
-dg-publish: true
 ---
 # Comprehend Languages
 *1st-level, Divination (ritual)*  

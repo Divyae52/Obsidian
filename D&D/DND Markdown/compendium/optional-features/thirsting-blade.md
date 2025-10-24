@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Thirsting Blade
-dg-publish: true
 ---
 # Thirsting Blade
 *Source: SRD / Basic Rules* 

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Goggles of Night
-dg-publish: true
 ---
 # Goggles of Night
 *Wondrous Item, minor, uncommon*  

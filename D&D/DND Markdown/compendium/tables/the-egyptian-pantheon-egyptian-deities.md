@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - The Egyptian Pantheon; Egyptian Deities
-dg-publish: true
 ---
 # The Egyptian Pantheon; Egyptian Deities
 *Source: SRD / Basic Rules* 

@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Incendiary Cloud
-dg-publish: true
 ---
 # Incendiary Cloud
 *8th-level, Conjuration*  

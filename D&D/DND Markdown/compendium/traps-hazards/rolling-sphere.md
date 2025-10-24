@@ -6,7 +6,6 @@ tags:
   - hazard/mech
 aliases:
   - Rolling Sphere
-dg-publish: true
 ---
 # Rolling Sphere
 *Mechanical Trap*  

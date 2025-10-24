@@ -8,7 +8,6 @@ tags:
   - vehicle/type/object
 aliases:
   - Apparatus of Kwalish
-dg-publish: true
 ---
 # Apparatus of Kwalish
 *Source: SRD / Basic Rules*  

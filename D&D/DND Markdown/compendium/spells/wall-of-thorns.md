@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Wall of Thorns
-dg-publish: true
 ---
 # Wall of Thorns
 *6th-level, Conjuration*  

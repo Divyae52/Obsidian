@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Philter of Love
-dg-publish: true
 ---
 # Philter of Love
 *Potion, minor, uncommon*  

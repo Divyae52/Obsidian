@@ -8,7 +8,6 @@ tags:
   - domain/life
 aliases:
   - Lugh
-dg-publish: true
 ---
 # Lugh
 *Source: SRD / Basic Rules* 

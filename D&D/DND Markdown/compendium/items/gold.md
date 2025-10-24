@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Gold
-dg-publish: true
 ---
 # Gold
 *Trade Good*  

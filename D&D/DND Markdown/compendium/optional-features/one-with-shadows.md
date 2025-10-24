@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - One with Shadows
-dg-publish: true
 ---
 # One with Shadows
 *Source: SRD / Basic Rules* 

@@ -11,7 +11,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Protection from Poison
-dg-publish: true
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

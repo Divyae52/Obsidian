@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Barbed Devil
-dg-publish: true
 ---
 # Barbed Devil
 *Source: SRD / Basic Rules*  

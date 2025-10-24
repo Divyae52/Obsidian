@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Feeblemind
-dg-publish: true
 ---
 # Feeblemind
 *8th-level, Enchantment*  

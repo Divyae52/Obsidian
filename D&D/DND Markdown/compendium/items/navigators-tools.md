@@ -6,7 +6,6 @@ tags:
   - item/gear/tools
 aliases:
   - Navigator's Tools
-dg-publish: true
 ---
 # Navigator's Tools
 *Tools*  

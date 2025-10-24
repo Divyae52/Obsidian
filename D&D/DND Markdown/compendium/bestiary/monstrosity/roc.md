@@ -12,7 +12,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Roc
-dg-publish: true
 ---
 # Roc
 *Source: SRD / Basic Rules*  

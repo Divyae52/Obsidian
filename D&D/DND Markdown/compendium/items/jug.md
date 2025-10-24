@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Jug
-dg-publish: true
 ---
 # Jug
 *Adventuring Gear*  

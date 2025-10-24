@@ -7,7 +7,6 @@ tags:
   - monster/type/celestial
 aliases:
   - Planetar
-dg-publish: true
 ---
 # Planetar
 *Source: SRD / Basic Rules*  

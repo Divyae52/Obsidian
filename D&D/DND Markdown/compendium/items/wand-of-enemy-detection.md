@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Enemy Detection
-dg-publish: true
 ---
 # Wand of Enemy Detection
 *Wand, major, rare (requires attunement)*  

@@ -11,7 +11,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Minor Illusion
-dg-publish: true
 ---
 # Minor Illusion
 *cantrip, Illusion*  

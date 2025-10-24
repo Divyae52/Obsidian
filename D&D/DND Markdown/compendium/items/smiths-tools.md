@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Smith's Tools
-dg-publish: true
 ---
 # Smith's Tools
 *Artisan's Tools*  

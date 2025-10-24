@@ -6,7 +6,6 @@ tags:
   - optional-feature/pb
 aliases:
   - Pact of the Blade
-dg-publish: true
 ---
 # Pact of the Blade
 *Source: SRD / Basic Rules* 

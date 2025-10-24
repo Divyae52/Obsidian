@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Burglar's Pack
-dg-publish: true
 ---
 # Burglar's Pack
 *Adventuring Gear*  

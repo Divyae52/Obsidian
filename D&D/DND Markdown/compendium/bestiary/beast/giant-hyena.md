@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Hyena
-dg-publish: true
 ---
 # Giant Hyena
 *Source: SRD / Basic Rules*  

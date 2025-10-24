@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Eyes of Minute Seeing
-dg-publish: true
 ---
 # Eyes of Minute Seeing
 *Wondrous Item, minor, uncommon*  

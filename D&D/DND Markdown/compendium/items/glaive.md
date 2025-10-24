@@ -10,7 +10,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Glaive
-dg-publish: true
 ---
 # Glaive
 *Melee Weapon*  

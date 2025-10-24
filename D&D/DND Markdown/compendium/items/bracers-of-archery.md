@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Bracers of Archery
-dg-publish: true
 ---
 # Bracers of Archery
 *Wondrous Item, major, uncommon (requires attunement)*  

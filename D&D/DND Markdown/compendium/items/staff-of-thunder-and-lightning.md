@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Thunder and Lightning
-dg-publish: true
 ---
 # Staff of Thunder and Lightning
 *Staff, major, very rare (requires attunement)*  

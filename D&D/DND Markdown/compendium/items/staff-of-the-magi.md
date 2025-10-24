@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of the Magi
-dg-publish: true
 ---
 # Staff of the Magi
 *Staff, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

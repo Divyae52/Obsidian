@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e2cb6d5c97dba011",
+        "id": "02a1199c50d37cc2",
         "type": "tabs",
         "children": [
           {
-            "id": "f023692121384237",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Mittwoch/Map/World View/World Map.png"
-              },
-              "icon": "lucide-image",
-              "title": "World Map"
-            }
-          },
-          {
-            "id": "5af1aa49d3b5534e",
+            "id": "80a105d978b9367d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Map/World View/Falinor.md",
+                "file": "Mittwoch/Sessions/Group A/Session Four A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Falinor"
-            }
-          },
-          {
-            "id": "3c0146349ea278ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mittwoch/Map/World View/Mykan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mykan"
-            }
-          },
-          {
-            "id": "0fb20f5b62e80bfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mittwoch/Map/World View/Ryhan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ryhan"
-            }
-          },
-          {
-            "id": "236948aa8f81dcfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.D&D.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index.D&D"
+              "title": "Session Four A"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.D&D.md",
+                "file": "Mittwoch/Sessions/Group A/Session Four A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index.D&D"
+              "title": "Backlinks for Session Four A"
             }
           },
           {
@@ -215,16 +160,6 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "77a0ef367eb0a8a0",
-            "type": "leaf",
-            "state": {
-              "type": "peerdraft-share-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Your Peerdraft Shares"
-            }
           }
         ]
       }
@@ -247,38 +182,41 @@
       "simple-sketch:Simple Sketch": false
     }
   },
-  "active": "236948aa8f81dcfd",
+  "active": "80a105d978b9367d",
   "lastOpenFiles": [
+    "Mittwoch/Sessions/Group B/Session Four B.md",
+    "DND Markdown/compendium/backgrounds/acolyte.md",
+    "Mittwoch/index.Mittwoch.md",
+    "Mittwoch/Sessions/index.Sessions.md",
+    "Mittwoch/Sessions/Mixed/Session Two.md",
+    "DND Markdown/compendium/traps-hazards/poison-darts.md",
+    "DND Markdown/compendium/spells/inflict-wounds.md",
+    "DND Markdown/compendium/optional-features/thief-of-five-fates.md",
+    "DND Markdown/compendium/items/rod-of-alertness.md",
+    "DND Markdown/compendium/items/keelboat.md",
+    "DND Markdown/compendium/items/cooks-utensils.md",
+    "DND Markdown/compendium/deities/greek-hera.md",
+    "DND Markdown/compendium/bestiary/humanoid/thug.md",
+    "DND Markdown/compendium/bestiary/elemental/salamander.md",
+    "DND Markdown/compendium/bestiary/construct/rug-of-smothering.md",
+    "DND Markdown/compendium/bestiary/construct/token/homunculus.png",
+    "DND Markdown/compendium/bestiary/beast/constrictor-snake.md",
+    "DND Markdown/compendium/bestiary/beast/token/flying-snake.png",
+    "DND Markdown/compendium/bestiary/aberration/chuul.md",
+    "DND Markdown/compendium/bestiary/aberration/token/gibbering-mouther.png",
+    "DND Markdown/compendium/backgrounds/index.backgrounds.md",
+    "DND Markdown/compendium/backgrounds/backgrounds.md",
+    "index.D&D.md",
+    "Mittwoch/Sessions/Mixed/index.Mixed.md",
+    "Mittwoch/Sessions/Mixed/Session One+Two Isle.png",
     "Mittwoch/Sessions/Mixed/Session One.md",
+    "Mittwoch/Map/World View/World Map.png",
     "Mittwoch/Map/World View/Falinor.md",
+    "Mittwoch/Map/World View/Mykan.md",
     "Mittwoch/Map/World View/Ryhan.md",
     "Mittwoch/Map/World View/Purgua.md",
-    "Mittwoch/Map/World View/Mykan.md",
-    "Mittwoch/Map/World View/Ennekin.md",
-    "Mittwoch/Map/World View/World Map.png",
-    "Mittwoch/Map/World View/index.World View.md",
-    "index.D&D.md",
     "Mittwoch/Map/World View",
-    "Mittwoch/index.Mittwoch.md",
-    "Mittwoch/Entry.md",
-    "Mittwoch/Characters/index.Characters.md",
-    "Mittwoch/Characters/NPCs/index.NPCs.md",
-    "Mittwoch/Characters/Alive PCs/index.Alive PCs.md",
-    "Mittwoch/Characters/Alive PCs/Group A/index.Group A.md",
-    "Mittwoch/Characters/Alive PCs/Group A/{}Avany × Acamenos aka Aseral (They Them).md",
-    "Mittwoch/Characters/Alive PCs/Group A/{}Gwenith × Ignatious Orchid (He Him).md",
-    "Mittwoch/Characters/Alive PCs/Group A/Afifa ×.md",
-    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
-    "Mittwoch/Characters/Alive PCs/Group A/Dominic ×.md",
-    "Mittwoch/Characters/Alive PCs/Group A/Edward × MerdhsaewndÎr (Merdh) (He ~ It).md",
-    "Mittwoch/Characters/Alive PCs/Group A/Joshua × Pentious.md",
-    "Mittwoch/Characters/Alive PCs/Group A/Madison × Zephyr (They Them).md",
-    "Mittwoch/Sessions/index.Sessions.md",
-    "Mittwoch/Characters/Alive PCs/Group B/index.Group B.md",
-    "Mittwoch/Characters/Alive PCs/Group B/{}Ash (Vittoria) × Asher.md",
-    "Mittwoch/Characters/Alive PCs/Group B/{}Ethan × Henka.md",
     "Mittwoch/Map/Map.canvas",
-    "Mittwoch/Sessions/Mixed/Session One+Two Isle.png",
     "Mittwoch/Sessions/Group A/Session 3+4 A.png",
     "Mittwoch/Map/Map.png",
     "Mittwoch/Sessions/Mixed/Session One Isle.png~",
@@ -289,9 +227,6 @@
     "Mittwoch/Sessions/Mixed/Session One.canvas",
     "Ink/Drawing/2025.10.1 - 19.16pm.drawing",
     "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145350.png",
-    "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145022.png",
-    "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924145017.png",
-    "Mittwoch/Characters/Alive PCs/Images/Pasted image 20250924144832.png",
     "Ink/Drawing/2025.10.1 - 18.49pm.drawing",
     "Ink/Drawing",
     "Ink",

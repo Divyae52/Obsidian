@@ -7,7 +7,6 @@ tags:
   - domain/life
 aliases:
   - Demeter
-dg-publish: true
 ---
 # Demeter
 *Source: SRD / Basic Rules* 

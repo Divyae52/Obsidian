@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Wizard
-dg-publish: true
 ---
 # Wizard
 *Source: SRD / Basic Rules*  

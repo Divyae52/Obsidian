@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Suggestion
-dg-publish: true
 ---
 # Suggestion
 *2nd-level, Enchantment*  

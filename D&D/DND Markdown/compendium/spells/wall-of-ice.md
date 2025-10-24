@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Wall of Ice
-dg-publish: true
 ---
 # Wall of Ice
 *6th-level, Evocation*  

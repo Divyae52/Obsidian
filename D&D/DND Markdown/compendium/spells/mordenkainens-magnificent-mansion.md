@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Mordenkainen's Magnificent Mansion
-dg-publish: true
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  

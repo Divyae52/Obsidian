@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Fire Resistance
-dg-publish: true
 ---
 # Ring of Fire Resistance
 *Ring, major, rare (requires attunement)*  

@@ -10,7 +10,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Halberd
-dg-publish: true
 ---
 # Halberd
 *Melee Weapon*  

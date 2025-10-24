@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Hold Monster
-dg-publish: true
 ---
 # Hold Monster
 *5th-level, Enchantment*  

@@ -6,7 +6,6 @@ tags:
   - optional-feature/mm
 aliases:
   - Extended Spell
-dg-publish: true
 ---
 # Extended Spell
 *Source: SRD / Basic Rules* 

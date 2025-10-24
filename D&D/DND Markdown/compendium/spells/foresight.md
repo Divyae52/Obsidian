@@ -11,7 +11,6 @@ tags:
   - spell/school/divination
 aliases:
   - Foresight
-dg-publish: true
 ---
 # Foresight
 *9th-level, Divination*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Rod
-dg-publish: true
 ---
 # Rod
 *Spellcasting Focus*  

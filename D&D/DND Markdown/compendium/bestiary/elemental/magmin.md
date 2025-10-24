@@ -7,7 +7,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Magmin
-dg-publish: true
 ---
 # Magmin
 *Source: SRD / Basic Rules*  

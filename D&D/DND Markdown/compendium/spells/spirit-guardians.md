@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Spirit Guardians
-dg-publish: true
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  

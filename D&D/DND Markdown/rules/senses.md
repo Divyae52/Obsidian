@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Senses
-dg-publish: true
 ---
 # Senses
 

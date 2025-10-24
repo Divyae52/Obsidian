@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Healing Word
-dg-publish: true
 ---
 # Healing Word
 *1st-level, Evocation*  

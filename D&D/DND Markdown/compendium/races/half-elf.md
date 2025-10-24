@@ -6,7 +6,6 @@ tags:
   - race/half-elf
 aliases:
   - Half-Elf
-dg-publish: true
 ---
 # Half-Elf
 *Source: SRD / Basic Rules*  

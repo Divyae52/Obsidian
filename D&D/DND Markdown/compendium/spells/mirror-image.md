@@ -10,7 +10,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Mirror Image
-dg-publish: true
 ---
 # Mirror Image
 *2nd-level, Illusion*  

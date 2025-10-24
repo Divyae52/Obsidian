@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend
 aliases:
   - Nightmare
-dg-publish: true
 ---
 # Nightmare
 *Source: SRD / Basic Rules*  

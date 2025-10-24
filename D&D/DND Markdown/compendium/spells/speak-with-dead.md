@@ -9,7 +9,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Speak with Dead
-dg-publish: true
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

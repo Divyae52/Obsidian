@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Lemure
-dg-publish: true
 ---
 # Lemure
 *Source: SRD / Basic Rules*  

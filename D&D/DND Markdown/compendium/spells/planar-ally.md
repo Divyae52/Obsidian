@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Planar Ally
-dg-publish: true
 ---
 # Planar Ally
 *6th-level, Conjuration*  

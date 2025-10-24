@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Bead of Force
-dg-publish: true
 ---
 # Bead of Force
 *Wondrous Item, minor, rare*  

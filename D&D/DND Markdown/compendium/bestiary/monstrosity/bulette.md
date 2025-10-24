@@ -10,7 +10,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Bulette
-dg-publish: true
 ---
 # Bulette
 *Source: SRD / Basic Rules*  

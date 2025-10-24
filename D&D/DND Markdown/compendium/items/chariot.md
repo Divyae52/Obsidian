@@ -6,7 +6,6 @@ tags:
   - item/vehicle
 aliases:
   - Chariot
-dg-publish: true
 ---
 # Chariot
 *Vehicle (land)*  

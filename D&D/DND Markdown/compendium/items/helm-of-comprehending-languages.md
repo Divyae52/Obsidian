@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Helm of Comprehending Languages
-dg-publish: true
 ---
 # Helm of Comprehending Languages
 *Wondrous Item, minor, uncommon*  

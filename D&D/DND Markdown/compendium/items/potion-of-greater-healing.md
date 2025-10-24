@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Greater Healing
-dg-publish: true
 ---
 # Potion of Greater Healing
 *Potion, minor, uncommon*  

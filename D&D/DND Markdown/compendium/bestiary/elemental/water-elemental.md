@@ -10,7 +10,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Water Elemental
-dg-publish: true
 ---
 # Water Elemental
 *Source: SRD / Basic Rules*  

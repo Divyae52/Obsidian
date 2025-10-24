@@ -7,7 +7,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Gold Dragon Wyrmling
-dg-publish: true
 ---
 # Gold Dragon Wyrmling
 *Source: SRD / Basic Rules*  

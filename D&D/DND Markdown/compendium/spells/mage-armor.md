@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Mage Armor
-dg-publish: true
 ---
 # Mage Armor
 *1st-level, Abjuration*  

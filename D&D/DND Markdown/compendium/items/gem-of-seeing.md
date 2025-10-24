@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Gem of Seeing
-dg-publish: true
 ---
 # Gem of Seeing
 *Wondrous Item, major, rare (requires attunement)*  

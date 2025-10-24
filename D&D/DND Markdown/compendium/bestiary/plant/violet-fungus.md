@@ -8,7 +8,6 @@ tags:
   - monster/type/plant
 aliases:
   - Violet Fungus
-dg-publish: true
 ---
 # Violet Fungus
 *Source: SRD / Basic Rules*  

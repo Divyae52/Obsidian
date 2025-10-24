@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Polymorph
-dg-publish: true
 ---
 # Wand of Polymorph
 *Wand, major, very rare (requires attunement by a spellcaster)*  

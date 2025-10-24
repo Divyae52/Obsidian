@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Amulet of the Planes
-dg-publish: true
 ---
 # Amulet of the Planes
 *Wondrous Item, major, very rare (requires attunement)*  

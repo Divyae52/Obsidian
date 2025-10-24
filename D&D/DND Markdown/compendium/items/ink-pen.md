@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Ink Pen
-dg-publish: true
 ---
 # Ink Pen
 *Adventuring Gear*  

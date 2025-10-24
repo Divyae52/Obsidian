@@ -6,7 +6,6 @@ tags:
   - item/armor/heavy
 aliases:
   - Splint Armor
-dg-publish: true
 ---
 # Splint Armor
 *Heavy Armor*  

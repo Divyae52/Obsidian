@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Otiluke's Freezing Sphere
-dg-publish: true
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  

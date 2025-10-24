@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Regeneration
-dg-publish: true
 ---
 # Ring of Regeneration
 *Ring, major, very rare (requires attunement)*  

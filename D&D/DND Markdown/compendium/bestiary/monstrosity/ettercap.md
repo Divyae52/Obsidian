@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Ettercap
-dg-publish: true
 ---
 # Ettercap
 *Source: SRD / Basic Rules*  

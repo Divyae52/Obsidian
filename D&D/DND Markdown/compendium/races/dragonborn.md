@@ -6,7 +6,6 @@ tags:
   - race/dragonborn
 aliases:
   - Dragonborn
-dg-publish: true
 ---
 # Dragonborn
 *Source: SRD / Basic Rules*  

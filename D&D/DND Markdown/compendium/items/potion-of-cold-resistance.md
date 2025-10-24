@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Cold Resistance
-dg-publish: true
 ---
 # Potion of Cold Resistance
 *Potion, minor, uncommon*  

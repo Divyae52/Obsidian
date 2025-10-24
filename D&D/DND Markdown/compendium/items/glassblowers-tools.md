@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Glassblower's Tools
-dg-publish: true
 ---
 # Glassblower's Tools
 *Artisan's Tools*  

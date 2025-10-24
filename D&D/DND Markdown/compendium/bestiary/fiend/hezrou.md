@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/demon
 aliases:
   - Hezrou
-dg-publish: true
 ---
 # Hezrou
 *Source: SRD / Basic Rules*  

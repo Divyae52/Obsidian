@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Ball Bearings (bag of 1,000)
-dg-publish: true
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring Gear*  

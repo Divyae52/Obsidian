@@ -12,7 +12,6 @@ tags:
   - monster/type/humanoid/goblinoid
 aliases:
   - Hobgoblin
-dg-publish: true
 ---
 # Hobgoblin
 *Source: SRD / Basic Rules*  

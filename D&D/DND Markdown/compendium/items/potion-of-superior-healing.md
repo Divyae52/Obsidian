@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Superior Healing
-dg-publish: true
 ---
 # Potion of Superior Healing
 *Potion, minor, rare*  

@@ -9,7 +9,6 @@ tags:
   - monster/type/plant
 aliases:
   - Shambling Mound
-dg-publish: true
 ---
 # Shambling Mound
 *Source: SRD / Basic Rules*  

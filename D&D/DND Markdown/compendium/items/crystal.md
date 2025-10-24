@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Crystal
-dg-publish: true
 ---
 # Crystal
 *Spellcasting Focus*  

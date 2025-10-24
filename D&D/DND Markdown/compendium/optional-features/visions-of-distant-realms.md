@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Visions of Distant Realms
-dg-publish: true
 ---
 # Visions of Distant Realms
 *Source: SRD / Basic Rules* 

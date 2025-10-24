@@ -6,7 +6,6 @@ tags:
   - optional-feature/mm
 aliases:
   - Quickened Spell
-dg-publish: true
 ---
 # Quickened Spell
 *Source: SRD / Basic Rules* 

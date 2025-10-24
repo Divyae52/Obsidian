@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Dreadful Word
-dg-publish: true
 ---
 # Dreadful Word
 *Source: SRD / Basic Rules* 

@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Belt of Fire Giant Strength
-dg-publish: true
 ---
 # Belt of Fire Giant Strength
 *Wondrous Item, major, very rare (requires attunement)*  

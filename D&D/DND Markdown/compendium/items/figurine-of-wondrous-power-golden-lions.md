@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Golden Lions
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Golden Lions
 *Wondrous Item, major, rare*  

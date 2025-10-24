@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Enthrall
-dg-publish: true
 ---
 # Enthrall
 *2nd-level, Enchantment*  

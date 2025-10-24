@@ -8,7 +8,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Weird
-dg-publish: true
 ---
 # Weird
 *9th-level, Illusion*  

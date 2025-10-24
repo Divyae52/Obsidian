@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Young Green Dragon
-dg-publish: true
 ---
 # Young Green Dragon
 *Source: SRD / Basic Rules*  

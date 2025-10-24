@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Silver Dragon
-dg-publish: true
 ---
 # Adult Silver Dragon
 *Source: SRD / Basic Rules*  

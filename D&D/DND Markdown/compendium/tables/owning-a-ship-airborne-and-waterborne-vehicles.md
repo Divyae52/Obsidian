@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Owning a Ship; Airborne and Waterborne Vehicles
-dg-publish: true
 ---
 # Owning a Ship; Airborne and Waterborne Vehicles
 *Source: SRD / Basic Rules* 

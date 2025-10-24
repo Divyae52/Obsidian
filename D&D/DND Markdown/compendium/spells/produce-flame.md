@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Produce Flame
-dg-publish: true
 ---
 # Produce Flame
 *cantrip, Conjuration*  

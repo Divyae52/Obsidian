@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Fire Beetle
-dg-publish: true
 ---
 # Giant Fire Beetle
 *Source: SRD / Basic Rules*  

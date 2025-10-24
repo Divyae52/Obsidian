@@ -6,7 +6,6 @@ tags:
   - item/gear/food-and-drink
 aliases:
   - Ale (Mug)
-dg-publish: true
 ---
 # Ale (Mug)
 *Food and Drink*  

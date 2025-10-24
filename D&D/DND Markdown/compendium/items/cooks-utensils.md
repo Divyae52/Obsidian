@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Cook's Utensils
-dg-publish: true
 ---
 # Cook's Utensils
 *Artisan's Tools*  

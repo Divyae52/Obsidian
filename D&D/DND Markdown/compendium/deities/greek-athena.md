@@ -9,7 +9,6 @@ tags:
   - domain/war
 aliases:
   - Athena
-dg-publish: true
 ---
 # Athena
 *Source: SRD / Basic Rules* 

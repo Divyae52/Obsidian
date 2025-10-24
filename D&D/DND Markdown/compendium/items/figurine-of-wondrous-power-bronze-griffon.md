@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Bronze Griffon
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Bronze Griffon
 *Wondrous Item, major, rare*  

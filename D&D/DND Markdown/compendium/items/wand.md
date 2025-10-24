@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Wand
-dg-publish: true
 ---
 # Wand
 *Spellcasting Focus*  

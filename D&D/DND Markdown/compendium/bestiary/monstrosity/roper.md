@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Roper
-dg-publish: true
 ---
 # Roper
 *Source: SRD / Basic Rules*  

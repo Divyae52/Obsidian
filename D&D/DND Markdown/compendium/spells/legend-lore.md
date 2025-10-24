@@ -10,7 +10,6 @@ tags:
   - spell/school/divination
 aliases:
   - Legend Lore
-dg-publish: true
 ---
 # Legend Lore
 *5th-level, Divination*  

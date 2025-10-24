@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Force Resistance
-dg-publish: true
 ---
 # Potion of Force Resistance
 *Potion, minor, uncommon*  

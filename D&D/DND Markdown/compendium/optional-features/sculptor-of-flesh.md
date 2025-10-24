@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Sculptor of Flesh
-dg-publish: true
 ---
 # Sculptor of Flesh
 *Source: SRD / Basic Rules* 

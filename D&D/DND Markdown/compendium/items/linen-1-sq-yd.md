@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Linen (1 sq. yd.)
-dg-publish: true
 ---
 # Linen (1 sq. yd.)
 *Trade Good*  

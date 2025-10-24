@@ -12,7 +12,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Water Breathing
-dg-publish: true
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  

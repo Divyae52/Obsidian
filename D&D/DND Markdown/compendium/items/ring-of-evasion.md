@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Evasion
-dg-publish: true
 ---
 # Ring of Evasion
 *Ring, major, rare (requires attunement)*  

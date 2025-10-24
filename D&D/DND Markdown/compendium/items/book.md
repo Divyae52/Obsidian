@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Book
-dg-publish: true
 ---
 # Book
 *Adventuring Gear*  

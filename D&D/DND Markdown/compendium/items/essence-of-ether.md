@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Essence of Ether
-dg-publish: true
 ---
 # Essence of Ether
 *Adventuring Gear, poison*  

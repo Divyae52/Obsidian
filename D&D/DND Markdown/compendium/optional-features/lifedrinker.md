@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Lifedrinker
-dg-publish: true
 ---
 # Lifedrinker
 *Source: SRD / Basic Rules* 

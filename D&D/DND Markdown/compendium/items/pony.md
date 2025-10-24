@@ -6,7 +6,6 @@ tags:
   - item/gear/mount
 aliases:
   - Pony
-dg-publish: true
 ---
 # Pony
 *Mount*  

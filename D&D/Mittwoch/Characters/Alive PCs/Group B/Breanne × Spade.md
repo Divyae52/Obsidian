@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 https://www.dndbeyond.com/characters/152679320
 

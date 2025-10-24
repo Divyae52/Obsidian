@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Dust of Sneezing and Choking
-dg-publish: true
 ---
 # Dust of Sneezing and Choking
 *Wondrous Item, minor, uncommon*  

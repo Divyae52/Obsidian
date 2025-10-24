@@ -9,7 +9,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Mace of Terror
-dg-publish: true
 ---
 # Mace of Terror
 *Melee Weapon, major, rare (requires attunement)*  

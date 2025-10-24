@@ -6,7 +6,6 @@ tags:
   - item/gear/tack-and-harness
 aliases:
   - Riding Saddle
-dg-publish: true
 ---
 # Riding Saddle
 *Tack and Harness*  

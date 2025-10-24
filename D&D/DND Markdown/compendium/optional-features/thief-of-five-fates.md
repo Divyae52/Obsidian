@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Thief of Five Fates
-dg-publish: true
 ---
 # Thief of Five Fates
 *Source: SRD / Basic Rules* 

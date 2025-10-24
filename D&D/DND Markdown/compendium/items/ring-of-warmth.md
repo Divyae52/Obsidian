@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Warmth
-dg-publish: true
 ---
 # Ring of Warmth
 *Ring, major, uncommon (requires attunement)*  

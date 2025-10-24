@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Basic Poison (vial)
-dg-publish: true
 ---
 # Basic Poison (vial)
 *Adventuring Gear, poison*  

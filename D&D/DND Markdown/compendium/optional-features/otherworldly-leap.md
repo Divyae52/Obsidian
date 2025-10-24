@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Otherworldly Leap
-dg-publish: true
 ---
 # Otherworldly Leap
 *Source: SRD / Basic Rules* 

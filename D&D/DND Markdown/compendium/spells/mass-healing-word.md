@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Mass Healing Word
-dg-publish: true
 ---
 # Mass Healing Word
 *3rd-level, Evocation*  

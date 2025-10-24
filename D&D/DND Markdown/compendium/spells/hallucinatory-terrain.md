@@ -11,7 +11,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Hallucinatory Terrain
-dg-publish: true
 ---
 # Hallucinatory Terrain
 *4th-level, Illusion*  

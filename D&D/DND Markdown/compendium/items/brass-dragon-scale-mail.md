@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Brass Dragon Scale Mail
-dg-publish: true
 ---
 # Brass Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Striking
-dg-publish: true
 ---
 # Staff of Striking
 *Staff, major, very rare (requires attunement)*  

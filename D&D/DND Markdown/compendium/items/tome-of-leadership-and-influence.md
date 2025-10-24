@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Tome of Leadership and Influence
-dg-publish: true
 ---
 # Tome of Leadership and Influence
 *Wondrous Item, major, very rare*  

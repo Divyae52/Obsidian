@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Potter's Tools
-dg-publish: true
 ---
 # Potter's Tools
 *Artisan's Tools*  

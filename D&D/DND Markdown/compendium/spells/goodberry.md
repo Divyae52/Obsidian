@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Goodberry
-dg-publish: true
 ---
 # Goodberry
 *1st-level, Transmutation*  

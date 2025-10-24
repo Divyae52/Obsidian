@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Black Bear
-dg-publish: true
 ---
 # Black Bear
 *Source: SRD / Basic Rules*  

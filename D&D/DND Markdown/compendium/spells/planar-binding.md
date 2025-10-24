@@ -11,7 +11,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Planar Binding
-dg-publish: true
 ---
 # Planar Binding
 *5th-level, Abjuration*  

@@ -8,7 +8,6 @@ tags:
   - domain/light
 aliases:
   - Hathor
-dg-publish: true
 ---
 # Hathor
 *Source: SRD / Basic Rules* 

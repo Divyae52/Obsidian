@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Agonizing Blast
-dg-publish: true
 ---
 # Agonizing Blast
 *Source: SRD / Basic Rules* 

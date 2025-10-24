@@ -8,7 +8,6 @@ tags:
   - monster/type/aberration
 aliases:
   - Aboleth
-dg-publish: true
 ---
 # Aboleth
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Lock
-dg-publish: true
 ---
 # Lock
 *Adventuring Gear*  

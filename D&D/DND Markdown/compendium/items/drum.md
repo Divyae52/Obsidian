@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Drum
-dg-publish: true
 ---
 # Drum
 *Instrument*  

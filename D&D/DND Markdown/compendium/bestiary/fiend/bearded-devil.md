@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Bearded Devil
-dg-publish: true
 ---
 # Bearded Devil
 *Source: SRD / Basic Rules*  

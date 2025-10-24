@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Frog
-dg-publish: true
 ---
 # Giant Frog
 *Source: SRD / Basic Rules*  

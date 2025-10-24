@@ -10,7 +10,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Zone of Truth
-dg-publish: true
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

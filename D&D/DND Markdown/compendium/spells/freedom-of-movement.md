@@ -11,7 +11,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Freedom of Movement
-dg-publish: true
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

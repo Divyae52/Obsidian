@@ -11,7 +11,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Stoneskin
-dg-publish: true
 ---
 # Stoneskin
 *4th-level, Abjuration*  

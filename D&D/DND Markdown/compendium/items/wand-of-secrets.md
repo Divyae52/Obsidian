@@ -8,7 +8,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Secrets
-dg-publish: true
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  

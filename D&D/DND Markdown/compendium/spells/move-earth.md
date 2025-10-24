@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Move Earth
-dg-publish: true
 ---
 # Move Earth
 *6th-level, Transmutation*  

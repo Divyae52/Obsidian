@@ -9,7 +9,6 @@ tags:
   - monster/type/monstrosity/shapechanger
 aliases:
   - Mimic
-dg-publish: true
 ---
 # Mimic
 *Source: SRD / Basic Rules*  

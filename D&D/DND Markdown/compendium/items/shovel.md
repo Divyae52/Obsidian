@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Shovel
-dg-publish: true
 ---
 # Shovel
 *Adventuring Gear*  

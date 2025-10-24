@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Dancing Lights
-dg-publish: true
 ---
 # Dancing Lights
 *cantrip, Evocation*  

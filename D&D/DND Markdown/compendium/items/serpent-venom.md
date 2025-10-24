@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Serpent Venom
-dg-publish: true
 ---
 # Serpent Venom
 *Adventuring Gear, poison*  

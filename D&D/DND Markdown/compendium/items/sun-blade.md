@@ -12,7 +12,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Sun Blade
-dg-publish: true
 ---
 # Sun Blade
 *Melee Weapon, major, rare (requires attunement)*  

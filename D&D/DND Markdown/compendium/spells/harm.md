@@ -8,7 +8,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Harm
-dg-publish: true
 ---
 # Harm
 *6th-level, Necromancy*  

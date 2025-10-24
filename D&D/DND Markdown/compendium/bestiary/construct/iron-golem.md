@@ -7,7 +7,6 @@ tags:
   - monster/type/construct
 aliases:
   - Iron Golem
-dg-publish: true
 ---
 # Iron Golem
 *Source: SRD / Basic Rules*  

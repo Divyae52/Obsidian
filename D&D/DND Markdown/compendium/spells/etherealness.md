@@ -12,7 +12,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Etherealness
-dg-publish: true
 ---
 # Etherealness
 *7th-level, Transmutation*  

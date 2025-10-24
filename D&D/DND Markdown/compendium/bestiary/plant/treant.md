@@ -8,7 +8,6 @@ tags:
   - monster/type/plant
 aliases:
   - Treant
-dg-publish: true
 ---
 # Treant
 *Source: SRD / Basic Rules*  

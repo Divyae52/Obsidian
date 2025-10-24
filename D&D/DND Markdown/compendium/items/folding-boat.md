@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Folding Boat
-dg-publish: true
 ---
 # Folding Boat
 *Wondrous Item, minor, rare*  

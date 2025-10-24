@@ -8,7 +8,6 @@ tags:
   - monster/type/giant
 aliases:
   - Hill Giant
-dg-publish: true
 ---
 # Hill Giant
 *Source: SRD / Basic Rules*  

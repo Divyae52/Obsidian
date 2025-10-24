@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Bell
-dg-publish: true
 ---
 # Bell
 *Adventuring Gear*  

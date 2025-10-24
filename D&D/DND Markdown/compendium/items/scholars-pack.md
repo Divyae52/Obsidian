@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Scholar's Pack
-dg-publish: true
 ---
 # Scholar's Pack
 *Adventuring Gear*  

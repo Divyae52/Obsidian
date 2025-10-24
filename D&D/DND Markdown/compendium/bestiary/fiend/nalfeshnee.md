@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/demon
 aliases:
   - Nalfeshnee
-dg-publish: true
 ---
 # Nalfeshnee
 *Source: SRD / Basic Rules*  

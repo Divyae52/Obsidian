@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Totem
-dg-publish: true
 ---
 # Totem
 *Spellcasting Focus*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Shapechange
-dg-publish: true
 ---
 # Shapechange
 *9th-level, Transmutation*  

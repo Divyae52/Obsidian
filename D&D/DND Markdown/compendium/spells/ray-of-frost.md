@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Ray of Frost
-dg-publish: true
 ---
 # Ray of Frost
 *cantrip, Evocation*  

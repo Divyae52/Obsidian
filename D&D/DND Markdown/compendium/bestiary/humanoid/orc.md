@@ -14,7 +14,6 @@ tags:
   - monster/type/humanoid/orc
 aliases:
   - Orc
-dg-publish: true
 ---
 # Orc
 *Source: SRD / Basic Rules*  

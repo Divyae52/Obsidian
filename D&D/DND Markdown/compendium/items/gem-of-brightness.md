@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Gem of Brightness
-dg-publish: true
 ---
 # Gem of Brightness
 *Wondrous Item, major, uncommon*  

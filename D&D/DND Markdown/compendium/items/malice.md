@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Malice
-dg-publish: true
 ---
 # Malice
 *Adventuring Gear, poison*  

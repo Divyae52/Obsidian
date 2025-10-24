@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Dragon Turtle
-dg-publish: true
 ---
 # Dragon Turtle
 *Source: SRD / Basic Rules*  

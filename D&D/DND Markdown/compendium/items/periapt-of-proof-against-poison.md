@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Periapt of Proof against Poison
-dg-publish: true
 ---
 # Periapt of Proof against Poison
 *Wondrous Item, major, rare*  

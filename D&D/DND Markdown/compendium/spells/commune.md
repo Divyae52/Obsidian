@@ -9,7 +9,6 @@ tags:
   - spell/school/divination
 aliases:
   - Commune
-dg-publish: true
 ---
 # Commune
 *5th-level, Divination (ritual)*  

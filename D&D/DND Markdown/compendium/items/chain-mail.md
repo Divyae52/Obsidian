@@ -6,7 +6,6 @@ tags:
   - item/armor/heavy
 aliases:
   - Chain Mail
-dg-publish: true
 ---
 # Chain Mail
 *Heavy Armor*  

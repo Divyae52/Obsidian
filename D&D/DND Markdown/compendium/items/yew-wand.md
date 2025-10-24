@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Yew Wand
-dg-publish: true
 ---
 # Yew Wand
 *Spellcasting Focus*  

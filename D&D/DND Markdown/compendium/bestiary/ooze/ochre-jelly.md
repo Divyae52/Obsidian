@@ -8,7 +8,6 @@ tags:
   - monster/type/ooze
 aliases:
   - Ochre Jelly
-dg-publish: true
 ---
 # Ochre Jelly
 *Source: SRD / Basic Rules*  

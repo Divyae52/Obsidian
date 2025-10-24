@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Knock
-dg-publish: true
 ---
 # Knock
 *2nd-level, Transmutation*  

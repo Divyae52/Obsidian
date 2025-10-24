@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Bag of Beans
-dg-publish: true
 ---
 # Bag of Beans
 *Wondrous Item, minor, rare*  

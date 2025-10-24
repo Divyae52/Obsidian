@@ -6,7 +6,6 @@ tags:
   - item/gear/tack-and-harness
 aliases:
   - Saddlebags
-dg-publish: true
 ---
 # Saddlebags
 *Tack and Harness*  

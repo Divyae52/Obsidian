@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Earth Elemental
-dg-publish: true
 ---
 # Earth Elemental
 *Source: SRD / Basic Rules*  

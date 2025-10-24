@@ -14,7 +14,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Insects
-dg-publish: true
 ---
 # Swarm of Insects
 *Source: SRD / Basic Rules*  

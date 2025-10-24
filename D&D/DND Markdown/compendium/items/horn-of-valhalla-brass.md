@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Horn of Valhalla, Brass
-dg-publish: true
 ---
 # Horn of Valhalla, Brass
 *Wondrous Item, major, rare*  

@@ -9,7 +9,6 @@ tags:
   - monster/type/undead
 aliases:
   - Vampire Spawn
-dg-publish: true
 ---
 # Vampire Spawn
 *Source: SRD / Basic Rules*  

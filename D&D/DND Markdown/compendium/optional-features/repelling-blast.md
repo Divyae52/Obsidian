@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Repelling Blast
-dg-publish: true
 ---
 # Repelling Blast
 *Source: SRD / Basic Rules* 

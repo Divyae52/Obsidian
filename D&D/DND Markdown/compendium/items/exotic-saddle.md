@@ -6,7 +6,6 @@ tags:
   - item/gear/tack-and-harness
 aliases:
   - Exotic Saddle
-dg-publish: true
 ---
 # Exotic Saddle
 *Tack and Harness*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Tree Stride
-dg-publish: true
 ---
 # Tree Stride
 *5th-level, Conjuration*  

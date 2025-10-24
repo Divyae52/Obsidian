@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Conjure Elemental
-dg-publish: true
 ---
 # Conjure Elemental
 *5th-level, Conjuration*  

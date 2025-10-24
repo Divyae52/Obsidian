@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Elemental Gem, Yellow Diamond
-dg-publish: true
 ---
 # Elemental Gem, Yellow Diamond
 *Wondrous Item, minor, uncommon*  

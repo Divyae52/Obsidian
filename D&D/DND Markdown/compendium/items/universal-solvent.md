@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Universal Solvent
-dg-publish: true
 ---
 # Universal Solvent
 *Wondrous Item, minor, legendary*  

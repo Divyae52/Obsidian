@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Oil (flask)
-dg-publish: true
 ---
 # Oil (flask)
 *Adventuring Gear*  

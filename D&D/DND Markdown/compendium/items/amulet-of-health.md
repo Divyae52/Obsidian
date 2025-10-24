@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Amulet of Health
-dg-publish: true
 ---
 # Amulet of Health
 *Wondrous Item, major, rare (requires attunement)*  

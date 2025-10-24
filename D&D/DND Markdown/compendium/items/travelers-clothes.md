@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Traveler's Clothes
-dg-publish: true
 ---
 # Traveler's Clothes
 *Adventuring Gear*  

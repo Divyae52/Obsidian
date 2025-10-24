@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Efficient Quiver
-dg-publish: true
 ---
 # Efficient Quiver
 *Wondrous Item, major, uncommon*  

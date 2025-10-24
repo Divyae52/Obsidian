@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Bone Devil
-dg-publish: true
 ---
 # Bone Devil
 *Source: SRD / Basic Rules*  

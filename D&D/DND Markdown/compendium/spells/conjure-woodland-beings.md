@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Conjure Woodland Beings
-dg-publish: true
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  

@@ -14,7 +14,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Guard
-dg-publish: true
 ---
 # Guard
 *Source: SRD / Basic Rules*  

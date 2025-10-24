@@ -12,7 +12,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Plane Shift
-dg-publish: true
 ---
 # Plane Shift
 *7th-level, Conjuration*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/fey
 aliases:
   - Dryad
-dg-publish: true
 ---
 # Dryad
 *Source: SRD / Basic Rules*  

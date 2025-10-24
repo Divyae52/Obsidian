@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Spellbook
-dg-publish: true
 ---
 # Spellbook
 *Adventuring Gear*  

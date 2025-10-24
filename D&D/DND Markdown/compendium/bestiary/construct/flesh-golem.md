@@ -7,7 +7,6 @@ tags:
   - monster/type/construct
 aliases:
   - Flesh Golem
-dg-publish: true
 ---
 # Flesh Golem
 *Source: SRD / Basic Rules*  

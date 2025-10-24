@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Bracers of Defense
-dg-publish: true
 ---
 # Bracers of Defense
 *Wondrous Item, major, rare (requires attunement)*  

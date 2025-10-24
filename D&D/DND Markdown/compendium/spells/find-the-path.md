@@ -10,7 +10,6 @@ tags:
   - spell/school/divination
 aliases:
   - Find the Path
-dg-publish: true
 ---
 # Find the Path
 *6th-level, Divination*  

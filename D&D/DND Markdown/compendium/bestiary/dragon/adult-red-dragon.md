@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Red Dragon
-dg-publish: true
 ---
 # Adult Red Dragon
 *Source: SRD / Basic Rules*  

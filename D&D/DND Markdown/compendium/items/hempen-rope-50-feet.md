@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Hempen Rope (50 feet)
-dg-publish: true
 ---
 # Hempen Rope (50 feet)
 *Adventuring Gear*  

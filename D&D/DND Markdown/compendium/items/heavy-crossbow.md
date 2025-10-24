@@ -11,7 +11,6 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Heavy Crossbow
-dg-publish: true
 ---
 # Heavy Crossbow
 *Ranged Weapon*  

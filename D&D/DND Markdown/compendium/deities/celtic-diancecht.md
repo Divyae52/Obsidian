@@ -7,7 +7,6 @@ tags:
   - domain/life
 aliases:
   - Diancecht
-dg-publish: true
 ---
 # Diancecht
 *Source: SRD / Basic Rules* 

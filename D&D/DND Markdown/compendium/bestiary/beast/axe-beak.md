@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Axe Beak
-dg-publish: true
 ---
 # Axe Beak
 *Source: SRD / Basic Rules*  

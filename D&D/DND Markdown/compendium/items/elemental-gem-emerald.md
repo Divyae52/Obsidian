@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Elemental Gem, Emerald
-dg-publish: true
 ---
 # Elemental Gem, Emerald
 *Wondrous Item, minor, uncommon*  

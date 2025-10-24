@@ -8,7 +8,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Inflict Wounds
-dg-publish: true
 ---
 # Inflict Wounds
 *1st-level, Necromancy*  

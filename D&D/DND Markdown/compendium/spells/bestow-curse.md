@@ -10,7 +10,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Bestow Curse
-dg-publish: true
 ---
 # Bestow Curse
 *3rd-level, Necromancy*  

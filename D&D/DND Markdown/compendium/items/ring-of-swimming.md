@@ -8,7 +8,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Swimming
-dg-publish: true
 ---
 # Ring of Swimming
 *Ring, minor, uncommon*  

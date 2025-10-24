@@ -13,7 +13,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Poisonous Snake
-dg-publish: true
 ---
 # Giant Poisonous Snake
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/divination
 aliases:
   - Divination
-dg-publish: true
 ---
 # Divination
 *4th-level, Divination (ritual)*  

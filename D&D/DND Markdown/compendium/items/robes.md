@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Robes
-dg-publish: true
 ---
 # Robes
 *Adventuring Gear*  

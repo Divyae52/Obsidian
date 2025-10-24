@@ -8,7 +8,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Sanctuary
-dg-publish: true
 ---
 # Sanctuary
 *1st-level, Abjuration*  

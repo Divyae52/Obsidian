@@ -9,7 +9,6 @@ tags:
   - item/weapon/simple/ranged
 aliases:
   - Light Crossbow
-dg-publish: true
 ---
 # Light Crossbow
 *Ranged Weapon*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Gloves of Missile Snaring
-dg-publish: true
 ---
 # Gloves of Missile Snaring
 *Wondrous Item, major, uncommon (requires attunement)*  

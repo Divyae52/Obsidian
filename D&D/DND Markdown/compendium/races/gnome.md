@@ -6,7 +6,6 @@ tags:
   - race/gnome
 aliases:
   - Gnome
-dg-publish: true
 ---
 # Gnome
 *Source: SRD / Basic Rules*  

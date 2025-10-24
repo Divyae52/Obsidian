@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Acid Splash
-dg-publish: true
 ---
 # Acid Splash
 *cantrip, Conjuration*  

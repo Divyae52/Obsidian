@@ -9,7 +9,6 @@ tags:
   - spell/school/divination
 aliases:
   - Augury
-dg-publish: true
 ---
 # Augury
 *2nd-level, Divination (ritual)*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Phantom Steed
-dg-publish: true
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  

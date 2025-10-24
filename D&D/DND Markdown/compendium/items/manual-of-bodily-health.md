@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Manual of Bodily Health
-dg-publish: true
 ---
 # Manual of Bodily Health
 *Wondrous Item, major, very rare*  

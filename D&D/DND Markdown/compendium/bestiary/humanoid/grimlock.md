@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/grimlock
 aliases:
   - Grimlock
-dg-publish: true
 ---
 # Grimlock
 *Source: SRD / Basic Rules*  

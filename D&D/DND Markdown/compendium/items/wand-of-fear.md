@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Fear
-dg-publish: true
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  

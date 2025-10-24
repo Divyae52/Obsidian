@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Iron
-dg-publish: true
 ---
 # Iron
 *Trade Good*  

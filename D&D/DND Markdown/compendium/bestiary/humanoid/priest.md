@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Priest
-dg-publish: true
 ---
 # Priest
 *Source: SRD / Basic Rules*  

@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Power
-dg-publish: true
 ---
 # Staff of Power
 *Staff, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  

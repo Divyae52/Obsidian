@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Priest's Pack
-dg-publish: true
 ---
 # Priest's Pack
 *Adventuring Gear*  

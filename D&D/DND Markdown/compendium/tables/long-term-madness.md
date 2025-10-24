@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Long-Term Madness
-dg-publish: true
 ---
 # Long-Term Madness
 *Source: SRD / Basic Rules* 

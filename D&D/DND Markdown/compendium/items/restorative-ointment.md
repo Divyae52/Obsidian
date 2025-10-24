@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Restorative Ointment
-dg-publish: true
 ---
 # Restorative Ointment
 *Wondrous Item, minor, uncommon*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/beast
 aliases:
   - Weasel
-dg-publish: true
 ---
 # Weasel
 *Source: SRD / Basic Rules*  

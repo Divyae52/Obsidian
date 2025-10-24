@@ -12,7 +12,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Spider
-dg-publish: true
 ---
 # Giant Spider
 *Source: SRD / Basic Rules*  

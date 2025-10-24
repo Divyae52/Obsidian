@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Ice Mephit
-dg-publish: true
 ---
 # Ice Mephit
 *Source: SRD / Basic Rules*  

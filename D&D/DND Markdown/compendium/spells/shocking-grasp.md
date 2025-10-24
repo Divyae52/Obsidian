@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Shocking Grasp
-dg-publish: true
 ---
 # Shocking Grasp
 *cantrip, Evocation*  

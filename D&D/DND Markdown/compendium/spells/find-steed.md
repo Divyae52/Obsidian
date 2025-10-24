@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Find Steed
-dg-publish: true
 ---
 # Find Steed
 *2nd-level, Conjuration*  

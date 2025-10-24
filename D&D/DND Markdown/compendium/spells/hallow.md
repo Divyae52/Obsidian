@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Hallow
-dg-publish: true
 ---
 # Hallow
 *5th-level, Evocation*  

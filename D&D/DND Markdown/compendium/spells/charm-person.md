@@ -12,7 +12,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Charm Person
-dg-publish: true
 ---
 # Charm Person
 *1st-level, Enchantment*  

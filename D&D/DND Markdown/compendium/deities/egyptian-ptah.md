@@ -7,7 +7,6 @@ tags:
   - domain/knowledge
 aliases:
   - Ptah
-dg-publish: true
 ---
 # Ptah
 *Source: SRD / Basic Rules* 

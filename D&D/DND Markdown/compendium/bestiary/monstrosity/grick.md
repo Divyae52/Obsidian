@@ -9,7 +9,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Grick
-dg-publish: true
 ---
 # Grick
 *Source: SRD / Basic Rules*  

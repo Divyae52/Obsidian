@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Spike Growth
-dg-publish: true
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

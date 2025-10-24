@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Sunbeam
-dg-publish: true
 ---
 # Sunbeam
 *6th-level, Evocation*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Magic Weapon
-dg-publish: true
 ---
 # Magic Weapon
 *2nd-level, Transmutation*  

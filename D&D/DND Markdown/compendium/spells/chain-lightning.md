@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Chain Lightning
-dg-publish: true
 ---
 # Chain Lightning
 *6th-level, Evocation*  

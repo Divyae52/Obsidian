@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Monk
-dg-publish: true
 ---
 # Monk
 *Source: SRD / Basic Rules*  

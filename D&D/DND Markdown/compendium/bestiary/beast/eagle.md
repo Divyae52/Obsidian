@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Eagle
-dg-publish: true
 ---
 # Eagle
 *Source: SRD / Basic Rules*  

@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Power Word Kill
-dg-publish: true
 ---
 # Power Word Kill
 *9th-level, Enchantment*  

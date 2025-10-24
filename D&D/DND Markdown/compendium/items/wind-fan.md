@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Wind Fan
-dg-publish: true
 ---
 # Wind Fan
 *Wondrous Item, major, uncommon*  

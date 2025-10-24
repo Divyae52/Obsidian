@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Ginger
-dg-publish: true
 ---
 # Ginger
 *Trade Good*  

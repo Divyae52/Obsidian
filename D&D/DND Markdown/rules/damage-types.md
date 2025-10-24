@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Damage Types
-dg-publish: true
 ---
 # Damage Types
 *Source: SRD / Basic Rules* 

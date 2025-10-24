@@ -12,7 +12,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Protection from Energy
-dg-publish: true
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  

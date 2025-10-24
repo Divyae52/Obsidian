@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Vial
-dg-publish: true
 ---
 # Vial
 *Adventuring Gear*  

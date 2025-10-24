@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Crab
-dg-publish: true
 ---
 # Crab
 *Source: SRD / Basic Rules*  

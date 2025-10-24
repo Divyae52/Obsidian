@@ -8,7 +8,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Simulacrum
-dg-publish: true
 ---
 # Simulacrum
 *7th-level, Illusion*  

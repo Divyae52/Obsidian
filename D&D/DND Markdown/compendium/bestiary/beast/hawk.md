@@ -7,7 +7,6 @@ tags:
   - monster/type/beast
 aliases:
   - Hawk
-dg-publish: true
 ---
 # Hawk
 *Source: SRD / Basic Rules*  

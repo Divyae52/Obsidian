@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Ability Checks; Typical Difficulty Classes
-dg-publish: true
 ---
 # Ability Checks; Typical Difficulty Classes
 *Source: SRD / Basic Rules* 

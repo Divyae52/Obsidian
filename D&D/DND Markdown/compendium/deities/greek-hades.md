@@ -8,7 +8,6 @@ tags:
   - domain/grave
 aliases:
   - Hades
-dg-publish: true
 ---
 # Hades
 *Source: SRD / Basic Rules* 

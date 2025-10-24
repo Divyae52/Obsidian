@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/demon
 aliases:
   - Dretch
-dg-publish: true
 ---
 # Dretch
 *Source: SRD / Basic Rules*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Behir
-dg-publish: true
 ---
 # Behir
 *Source: SRD / Basic Rules*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Imp
-dg-publish: true
 ---
 # Imp
 *Source: SRD / Basic Rules*  

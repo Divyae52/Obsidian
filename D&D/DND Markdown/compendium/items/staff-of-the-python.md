@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of the Python
-dg-publish: true
 ---
 # Staff of the Python
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

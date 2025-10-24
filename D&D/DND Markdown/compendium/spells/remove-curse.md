@@ -11,7 +11,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Remove Curse
-dg-publish: true
 ---
 # Remove Curse
 *3rd-level, Abjuration*  

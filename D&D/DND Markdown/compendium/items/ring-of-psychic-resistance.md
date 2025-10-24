@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Psychic Resistance
-dg-publish: true
 ---
 # Ring of Psychic Resistance
 *Ring, major, rare (requires attunement)*  

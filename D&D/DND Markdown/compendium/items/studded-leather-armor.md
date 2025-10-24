@@ -6,7 +6,6 @@ tags:
   - item/armor/light
 aliases:
   - Studded Leather Armor
-dg-publish: true
 ---
 # Studded Leather Armor
 *Light Armor*  

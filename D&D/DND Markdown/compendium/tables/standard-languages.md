@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Standard Languages
-dg-publish: true
 ---
 # Standard Languages
 *Source: SRD / Basic Rules* 

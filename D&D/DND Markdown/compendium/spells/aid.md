@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Aid
-dg-publish: true
 ---
 # Aid
 *2nd-level, Abjuration*  

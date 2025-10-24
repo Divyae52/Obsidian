@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Weaver's Tools
-dg-publish: true
 ---
 # Weaver's Tools
 *Artisan's Tools*  

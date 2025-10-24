@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Censer of Controlling Air Elementals
-dg-publish: true
 ---
 # Censer of Controlling Air Elementals
 *Wondrous Item, major, rare*  

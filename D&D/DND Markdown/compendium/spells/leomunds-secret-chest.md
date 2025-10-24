@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Leomund's Secret Chest
-dg-publish: true
 ---
 # Leomund's Secret Chest
 *4th-level, Conjuration*  

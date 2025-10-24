@@ -6,7 +6,6 @@ tags:
   - item/gear/gaming-set
 aliases:
   - Dice Set
-dg-publish: true
 ---
 # Dice Set
 *Gaming Set*  

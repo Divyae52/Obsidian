@@ -9,7 +9,6 @@ tags:
   - spell/school/divination
 aliases:
   - Guidance
-dg-publish: true
 ---
 # Guidance
 *cantrip, Divination*  

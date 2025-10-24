@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Crocodile
-dg-publish: true
 ---
 # Giant Crocodile
 *Source: SRD / Basic Rules*  

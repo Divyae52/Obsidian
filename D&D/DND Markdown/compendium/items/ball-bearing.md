@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Ball Bearing
-dg-publish: true
 ---
 # Ball Bearing
 *Adventuring Gear*  

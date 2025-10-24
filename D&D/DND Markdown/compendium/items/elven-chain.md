@@ -8,7 +8,6 @@ tags:
   - item/tier/major
 aliases:
   - Elven Chain
-dg-publish: true
 ---
 # Elven Chain
 *Medium Armor, major, rare*  

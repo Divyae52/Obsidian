@@ -10,7 +10,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Gate
-dg-publish: true
 ---
 # Gate
 *9th-level, Conjuration*  

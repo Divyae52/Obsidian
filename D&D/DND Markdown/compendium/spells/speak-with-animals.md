@@ -11,7 +11,6 @@ tags:
   - spell/school/divination
 aliases:
   - Speak with Animals
-dg-publish: true
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  

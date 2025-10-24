@@ -7,7 +7,6 @@ tags:
   - monster/type/celestial
 aliases:
   - Solar
-dg-publish: true
 ---
 # Solar
 *Source: SRD / Basic Rules*  

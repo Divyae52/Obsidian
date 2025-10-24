@@ -7,7 +7,6 @@ tags:
   - domain/war
 aliases:
   - Morrigan
-dg-publish: true
 ---
 # Morrigan
 *Source: SRD / Basic Rules* 

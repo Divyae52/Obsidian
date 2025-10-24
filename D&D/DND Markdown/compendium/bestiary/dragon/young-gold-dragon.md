@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Young Gold Dragon
-dg-publish: true
 ---
 # Young Gold Dragon
 *Source: SRD / Basic Rules*  

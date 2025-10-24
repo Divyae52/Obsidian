@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Cloak of the Bat
-dg-publish: true
 ---
 # Cloak of the Bat
 *Wondrous Item, major, rare (requires attunement)*  

@@ -7,7 +7,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Quarterstaff
-dg-publish: true
 ---
 # Quarterstaff
 *Melee Weapon*  

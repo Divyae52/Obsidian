@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Adventuring Gear
-dg-publish: true
 ---
 # Adventuring Gear
 *Source: SRD / Basic Rules* 

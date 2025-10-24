@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Bane
-dg-publish: true
 ---
 # Bane
 *1st-level, Enchantment*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/demon
 aliases:
   - Vrock
-dg-publish: true
 ---
 # Vrock
 *Source: SRD / Basic Rules*  

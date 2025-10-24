@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Tinderbox
-dg-publish: true
 ---
 # Tinderbox
 *Adventuring Gear*  

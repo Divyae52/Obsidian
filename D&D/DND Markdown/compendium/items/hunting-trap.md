@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Hunting Trap
-dg-publish: true
 ---
 # Hunting Trap
 *Adventuring Gear*  

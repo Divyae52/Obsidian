@@ -6,7 +6,6 @@ tags:
   - hazard/mech
 aliases:
   - Falling Net
-dg-publish: true
 ---
 # Falling Net
 *Mechanical Trap*  

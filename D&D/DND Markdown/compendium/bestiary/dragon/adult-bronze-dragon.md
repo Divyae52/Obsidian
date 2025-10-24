@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Bronze Dragon
-dg-publish: true
 ---
 # Adult Bronze Dragon
 *Source: SRD / Basic Rules*  

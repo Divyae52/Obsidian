@@ -6,7 +6,6 @@ tags:
   - item/armor/medium
 aliases:
   - Chain Shirt
-dg-publish: true
 ---
 # Chain Shirt
 *Medium Armor*  

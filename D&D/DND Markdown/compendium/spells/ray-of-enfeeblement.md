@@ -9,7 +9,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Ray of Enfeeblement
-dg-publish: true
 ---
 # Ray of Enfeeblement
 *2nd-level, Necromancy*  

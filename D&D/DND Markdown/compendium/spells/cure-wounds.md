@@ -12,7 +12,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Cure Wounds
-dg-publish: true
 ---
 # Cure Wounds
 *1st-level, Evocation*  

@@ -9,7 +9,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Merrow
-dg-publish: true
 ---
 # Merrow
 *Source: SRD / Basic Rules*  

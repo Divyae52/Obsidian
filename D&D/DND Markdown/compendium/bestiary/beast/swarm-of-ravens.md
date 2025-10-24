@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Ravens
-dg-publish: true
 ---
 # Swarm of Ravens
 *Source: SRD / Basic Rules*  

@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Multiclassing Proficiencies
-dg-publish: true
 ---
 # Multiclassing Proficiencies
 *Source: SRD / Basic Rules* 

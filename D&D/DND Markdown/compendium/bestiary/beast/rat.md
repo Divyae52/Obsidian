@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Rat
-dg-publish: true
 ---
 # Rat
 *Source: SRD / Basic Rules*  

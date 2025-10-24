@@ -14,7 +14,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Dispel Magic
-dg-publish: true
 ---
 # Dispel Magic
 *3rd-level, Abjuration*  

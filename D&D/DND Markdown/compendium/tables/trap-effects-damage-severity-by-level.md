@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Trap Effects; Damage Severity by Level
-dg-publish: true
 ---
 # Trap Effects; Damage Severity by Level
 *Source: SRD / Basic Rules* 

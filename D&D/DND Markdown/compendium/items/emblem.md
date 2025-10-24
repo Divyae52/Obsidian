@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Emblem
-dg-publish: true
 ---
 # Emblem
 *Spellcasting Focus*  

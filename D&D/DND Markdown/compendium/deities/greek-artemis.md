@@ -8,7 +8,6 @@ tags:
   - domain/nature
 aliases:
   - Artemis
-dg-publish: true
 ---
 # Artemis
 *Source: SRD / Basic Rules* 

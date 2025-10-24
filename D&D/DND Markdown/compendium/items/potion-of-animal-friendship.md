@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Animal Friendship
-dg-publish: true
 ---
 # Potion of Animal Friendship
 *Potion, minor, uncommon*  

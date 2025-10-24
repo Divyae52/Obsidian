@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Speed
-dg-publish: true
 ---
 # Potion of Speed
 *Potion, minor, very rare*  

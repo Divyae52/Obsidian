@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Piton
-dg-publish: true
 ---
 # Piton
 *Adventuring Gear*  

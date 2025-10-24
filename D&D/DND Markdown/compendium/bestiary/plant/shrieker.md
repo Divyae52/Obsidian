@@ -8,7 +8,6 @@ tags:
   - monster/type/plant
 aliases:
   - Shrieker
-dg-publish: true
 ---
 # Shrieker
 *Source: SRD / Basic Rules*  

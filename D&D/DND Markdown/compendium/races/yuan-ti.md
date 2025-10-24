@@ -6,7 +6,6 @@ tags:
   - race/yuan-ti
 aliases:
   - Yuan-ti
-dg-publish: true
 ---
 # Yuan-Ti
 *Source: Mordenkainen's Monsters of the Multiverse*  

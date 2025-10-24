@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Blink
-dg-publish: true
 ---
 # Blink
 *3rd-level, Transmutation*  

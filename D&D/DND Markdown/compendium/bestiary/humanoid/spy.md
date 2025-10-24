@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Spy
-dg-publish: true
 ---
 # Spy
 *Source: SRD / Basic Rules*  

@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Torpor
-dg-publish: true
 ---
 # Torpor
 *Adventuring Gear, poison*  

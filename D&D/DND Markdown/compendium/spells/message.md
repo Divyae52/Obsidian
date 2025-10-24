@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Message
-dg-publish: true
 ---
 # Message
 *cantrip, Transmutation*  

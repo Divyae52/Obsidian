@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Shield of Faith
-dg-publish: true
 ---
 # Shield of Faith
 *1st-level, Abjuration*  

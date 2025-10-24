@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Trade Goods
-dg-publish: true
 ---
 # Trade Goods
 *Source: SRD / Basic Rules* 

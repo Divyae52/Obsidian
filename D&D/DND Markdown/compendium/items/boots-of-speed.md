@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Boots of Speed
-dg-publish: true
 ---
 # Boots of Speed
 *Wondrous Item, major, rare (requires attunement)*  

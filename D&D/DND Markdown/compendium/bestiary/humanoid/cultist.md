@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Cultist
-dg-publish: true
 ---
 # Cultist
 *Source: SRD / Basic Rules*  

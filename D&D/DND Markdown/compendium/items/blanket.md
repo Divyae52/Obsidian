@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Blanket
-dg-publish: true
 ---
 # Blanket
 *Adventuring Gear*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Mind Shielding
-dg-publish: true
 ---
 # Ring of Mind Shielding
 *Ring, major, uncommon (requires attunement)*  

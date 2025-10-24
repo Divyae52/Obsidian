@@ -3,7 +3,6 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 aliases:
   - Ideals
-dg-publish: true
 ---
 # Ideals
 

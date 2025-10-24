@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Green Dragon
-dg-publish: true
 ---
 # Ancient Green Dragon
 *Source: SRD / Basic Rules*  

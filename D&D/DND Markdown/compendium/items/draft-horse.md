@@ -6,7 +6,6 @@ tags:
   - item/gear/mount
 aliases:
   - Draft Horse
-dg-publish: true
 ---
 # Draft Horse
 *Mount*  

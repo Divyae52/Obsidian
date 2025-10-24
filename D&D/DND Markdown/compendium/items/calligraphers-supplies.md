@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Calligrapher's Supplies
-dg-publish: true
 ---
 # Calligrapher's Supplies
 *Artisan's Tools*  

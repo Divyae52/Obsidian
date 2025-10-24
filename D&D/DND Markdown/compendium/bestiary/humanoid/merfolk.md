@@ -9,7 +9,6 @@ tags:
   - monster/type/humanoid/merfolk
 aliases:
   - Merfolk
-dg-publish: true
 ---
 # Merfolk
 *Source: SRD / Basic Rules*  

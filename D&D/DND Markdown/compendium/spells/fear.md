@@ -11,7 +11,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Fear
-dg-publish: true
 ---
 # Fear
 *3rd-level, Illusion*  

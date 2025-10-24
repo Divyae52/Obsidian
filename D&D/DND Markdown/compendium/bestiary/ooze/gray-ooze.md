@@ -8,7 +8,6 @@ tags:
   - monster/type/ooze
 aliases:
   - Gray Ooze
-dg-publish: true
 ---
 # Gray Ooze
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - monster/type/fey
 aliases:
   - Sea Hag
-dg-publish: true
 ---
 # Sea Hag
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Fireballs
-dg-publish: true
 ---
 # Wand of Fireballs
 *Wand, major, rare (requires attunement by a spellcaster)*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Sheep
-dg-publish: true
 ---
 # Sheep
 *Trade Good*  

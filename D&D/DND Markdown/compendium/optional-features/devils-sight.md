@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Devil's Sight
-dg-publish: true
 ---
 # Devil's Sight
 *Source: SRD / Basic Rules* 

@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Flour
-dg-publish: true
 ---
 # Flour
 *Trade Good*  

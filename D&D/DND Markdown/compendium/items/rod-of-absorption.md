@@ -9,7 +9,6 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Absorption
-dg-publish: true
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  

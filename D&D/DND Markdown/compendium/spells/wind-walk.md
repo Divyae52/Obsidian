@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Wind Walk
-dg-publish: true
 ---
 # Wind Walk
 *6th-level, Transmutation*  

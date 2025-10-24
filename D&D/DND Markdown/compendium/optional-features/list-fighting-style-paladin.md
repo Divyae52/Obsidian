@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Fighting Style, Paladin
-dg-publish: true
 ---
 # Fighting Style, Paladin
 *Source: SRD / Basic Rules* 

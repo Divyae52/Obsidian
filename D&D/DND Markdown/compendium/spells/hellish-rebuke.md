@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Hellish Rebuke
-dg-publish: true
 ---
 # Hellish Rebuke
 *1st-level, Evocation*  

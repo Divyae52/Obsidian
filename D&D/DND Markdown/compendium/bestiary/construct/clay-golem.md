@@ -7,7 +7,6 @@ tags:
   - monster/type/construct
 aliases:
   - Clay Golem
-dg-publish: true
 ---
 # Clay Golem
 *Source: SRD / Basic Rules*  

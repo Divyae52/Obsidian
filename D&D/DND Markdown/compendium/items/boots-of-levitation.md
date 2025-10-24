@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Boots of Levitation
-dg-publish: true
 ---
 # Boots of Levitation
 *Wondrous Item, major, rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Maul
-dg-publish: true
 ---
 # Maul
 *Melee Weapon*  

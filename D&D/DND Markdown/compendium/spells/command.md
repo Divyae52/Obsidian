@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Command
-dg-publish: true
 ---
 # Command
 *1st-level, Enchantment*  

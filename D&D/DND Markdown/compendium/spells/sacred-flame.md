@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Sacred Flame
-dg-publish: true
 ---
 # Sacred Flame
 *cantrip, Evocation*  

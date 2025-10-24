@@ -8,7 +8,6 @@ tags:
   - domain/light
 aliases:
   - Re-Horakhty
-dg-publish: true
 ---
 # Re-Horakhty
 *Source: SRD / Basic Rules* 

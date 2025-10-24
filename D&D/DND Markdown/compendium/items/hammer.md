@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Hammer
-dg-publish: true
 ---
 # Hammer
 *Adventuring Gear*  

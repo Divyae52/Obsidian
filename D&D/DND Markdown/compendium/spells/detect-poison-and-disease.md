@@ -12,7 +12,6 @@ tags:
   - spell/school/divination
 aliases:
   - Detect Poison and Disease
-dg-publish: true
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

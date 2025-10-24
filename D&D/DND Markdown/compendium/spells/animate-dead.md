@@ -9,7 +9,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Animate Dead
-dg-publish: true
 ---
 # Animate Dead
 *3rd-level, Necromancy*  

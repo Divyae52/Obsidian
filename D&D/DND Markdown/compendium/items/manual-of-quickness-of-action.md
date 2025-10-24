@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Manual of Quickness of Action
-dg-publish: true
 ---
 # Manual of Quickness of Action
 *Wondrous Item, major, very rare*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Water Walking
-dg-publish: true
 ---
 # Ring of Water Walking
 *Ring, major, uncommon*  

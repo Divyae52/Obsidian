@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Bless
-dg-publish: true
 ---
 # Bless
 *1st-level, Enchantment*  

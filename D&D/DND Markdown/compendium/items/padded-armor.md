@@ -6,7 +6,6 @@ tags:
   - item/armor/light
 aliases:
   - Padded Armor
-dg-publish: true
 ---
 # Padded Armor
 *Light Armor*  

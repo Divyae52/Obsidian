@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity/titan
 aliases:
   - Kraken
-dg-publish: true
 ---
 # Kraken
 *Source: SRD / Basic Rules*  

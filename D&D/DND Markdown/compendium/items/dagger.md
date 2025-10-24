@@ -9,7 +9,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Dagger
-dg-publish: true
 ---
 # Dagger
 *Melee Weapon*  

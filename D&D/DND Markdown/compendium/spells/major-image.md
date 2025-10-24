@@ -11,7 +11,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Major Image
-dg-publish: true
 ---
 # Major Image
 *3rd-level, Illusion*  

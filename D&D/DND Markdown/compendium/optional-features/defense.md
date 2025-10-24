@@ -8,7 +8,6 @@ tags:
   - optional-feature/fs-r
 aliases:
   - Defense
-dg-publish: true
 ---
 # Defense
 *Source: SRD / Basic Rules* 

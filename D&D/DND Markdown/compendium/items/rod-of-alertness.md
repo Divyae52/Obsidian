@@ -9,7 +9,6 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Alertness
-dg-publish: true
 ---
 # Rod of Alertness
 *Rod, major, very rare (requires attunement)*  

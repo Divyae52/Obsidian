@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Bag of Tricks, Tan
-dg-publish: true
 ---
 # Bag of Tricks, Tan
 *Wondrous Item, major, uncommon*  

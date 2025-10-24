@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Object Armor Class
-dg-publish: true
 ---
 # Object Armor Class
 *Source: SRD / Basic Rules* 

@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Salamander
-dg-publish: true
 ---
 # Salamander
 *Source: SRD / Basic Rules*  

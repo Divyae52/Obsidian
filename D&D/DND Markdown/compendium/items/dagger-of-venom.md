@@ -11,7 +11,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Dagger of Venom
-dg-publish: true
 ---
 # Dagger of Venom
 *Melee Weapon, major, rare*  

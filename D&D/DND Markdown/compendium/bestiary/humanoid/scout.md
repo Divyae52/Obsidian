@@ -16,7 +16,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Scout
-dg-publish: true
 ---
 # Scout
 *Source: SRD / Basic Rules*  

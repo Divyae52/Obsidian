@@ -7,7 +7,6 @@ tags:
   - domain/knowledge
 aliases:
   - Imhotep
-dg-publish: true
 ---
 # Imhotep
 *Source: SRD / Basic Rules* 

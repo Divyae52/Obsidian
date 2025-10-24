@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Battle Master
-dg-publish: true
 ---
 # Battle Master
 *[Fighter](fighter.md): Martial Archetype*  

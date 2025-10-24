@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Flaming Sphere
-dg-publish: true
 ---
 # Flaming Sphere
 *2nd-level, Conjuration*  

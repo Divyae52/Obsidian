@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Rope Trick
-dg-publish: true
 ---
 # Rope Trick
 *2nd-level, Transmutation*  

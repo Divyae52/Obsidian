@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Feather Token, Swan Boat
-dg-publish: true
 ---
 # Feather Token, Swan Boat
 *Wondrous Item, minor, rare*  

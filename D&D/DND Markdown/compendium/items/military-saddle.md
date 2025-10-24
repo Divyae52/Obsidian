@@ -6,7 +6,6 @@ tags:
   - item/gear/tack-and-harness
 aliases:
   - Military Saddle
-dg-publish: true
 ---
 # Military Saddle
 *Tack and Harness*  

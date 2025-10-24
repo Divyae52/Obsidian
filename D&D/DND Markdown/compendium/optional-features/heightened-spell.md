@@ -6,7 +6,6 @@ tags:
   - optional-feature/mm
 aliases:
   - Heightened Spell
-dg-publish: true
 ---
 # Heightened Spell
 *Source: SRD / Basic Rules* 

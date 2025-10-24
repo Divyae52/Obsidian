@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Protection
-dg-publish: true
 ---
 # Ioun Stone, Protection
 *Wondrous Item, major, rare (requires attunement)*  

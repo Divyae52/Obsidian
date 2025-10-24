@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Fortitude
-dg-publish: true
 ---
 # Ioun Stone, Fortitude
 *Wondrous Item, major, very rare (requires attunement)*  

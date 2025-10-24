@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Master of Myriad Forms
-dg-publish: true
 ---
 # Master of Myriad Forms
 *Source: SRD / Basic Rules* 

@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Cobbler's Tools
-dg-publish: true
 ---
 # Cobbler's Tools
 *Artisan's Tools*  

@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Indefinite Madness
-dg-publish: true
 ---
 # Indefinite Madness
 *Source: SRD / Basic Rules* 

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Eversmoking Bottle
-dg-publish: true
 ---
 # Eversmoking Bottle
 *Wondrous Item, major, uncommon*  

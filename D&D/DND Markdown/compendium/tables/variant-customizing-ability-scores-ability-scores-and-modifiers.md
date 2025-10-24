@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - "Variant: Customizing Ability Scores; Ability Scores and Modifiers"
-dg-publish: true
 ---
 # Variant: Customizing Ability Scores; Ability Scores and Modifiers
 *Source: SRD / Basic Rules* 

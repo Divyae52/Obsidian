@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Sign of Ill Omen
-dg-publish: true
 ---
 # Sign of Ill Omen
 *Source: SRD / Basic Rules* 

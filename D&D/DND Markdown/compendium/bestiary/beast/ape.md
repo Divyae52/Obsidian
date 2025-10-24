@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Ape
-dg-publish: true
 ---
 # Ape
 *Source: SRD / Basic Rules*  

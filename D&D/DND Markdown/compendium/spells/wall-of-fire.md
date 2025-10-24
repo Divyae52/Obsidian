@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Wall of Fire
-dg-publish: true
 ---
 # Wall of Fire
 *4th-level, Evocation*  

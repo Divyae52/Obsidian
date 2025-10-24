@@ -10,7 +10,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Stinking Cloud
-dg-publish: true
 ---
 # Stinking Cloud
 *3rd-level, Conjuration*  

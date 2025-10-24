@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Scarab of Protection
-dg-publish: true
 ---
 # Scarab of Protection
 *Wondrous Item, major, legendary (requires attunement)*  

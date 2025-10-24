@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Blue Dragon Scale Mail
-dg-publish: true
 ---
 # Blue Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

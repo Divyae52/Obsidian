@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Red Dragon Scale Mail
-dg-publish: true
 ---
 # Red Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

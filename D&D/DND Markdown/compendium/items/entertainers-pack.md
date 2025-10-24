@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Entertainer's Pack
-dg-publish: true
 ---
 # Entertainer's Pack
 *Adventuring Gear*  

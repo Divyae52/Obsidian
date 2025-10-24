@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Alchemist's Supplies
-dg-publish: true
 ---
 # Alchemist's Supplies
 *Artisan's Tools*  

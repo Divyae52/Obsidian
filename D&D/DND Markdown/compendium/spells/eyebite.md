@@ -11,7 +11,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Eyebite
-dg-publish: true
 ---
 # Eyebite
 *6th-level, Necromancy*  

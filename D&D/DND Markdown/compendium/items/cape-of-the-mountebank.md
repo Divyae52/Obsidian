@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Cape of the Mountebank
-dg-publish: true
 ---
 # Cape of the Mountebank
 *Wondrous Item, major, rare*  

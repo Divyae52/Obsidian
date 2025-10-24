@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Sovereign Glue
-dg-publish: true
 ---
 # Sovereign Glue
 *Wondrous Item, minor, legendary*  

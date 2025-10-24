@@ -6,7 +6,6 @@ tags:
   - item/gear/food-and-drink
 aliases:
   - Fine Wine (Bottle)
-dg-publish: true
 ---
 # Fine Wine (Bottle)
 *Food and Drink*  

@@ -7,7 +7,6 @@ tags:
   - item/property/versatile
 aliases:
   - Staff
-dg-publish: true
 ---
 # Staff
 *Spellcasting Focus*  

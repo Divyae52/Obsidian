@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Copper
-dg-publish: true
 ---
 # Copper
 *Trade Good*  

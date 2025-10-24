@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Djinni
-dg-publish: true
 ---
 # Djinni
 *Source: SRD / Basic Rules*  

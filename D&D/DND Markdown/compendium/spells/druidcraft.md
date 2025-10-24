@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Druidcraft
-dg-publish: true
 ---
 # Druidcraft
 *cantrip, Transmutation*  

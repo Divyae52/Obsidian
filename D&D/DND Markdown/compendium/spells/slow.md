@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Slow
-dg-publish: true
 ---
 # Slow
 *3rd-level, Transmutation*  

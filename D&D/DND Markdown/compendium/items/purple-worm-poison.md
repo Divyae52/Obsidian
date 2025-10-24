@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Purple Worm Poison
-dg-publish: true
 ---
 # Purple Worm Poison
 *Adventuring Gear, poison*  

@@ -12,7 +12,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Trident of Fish Command
-dg-publish: true
 ---
 # Trident of Fish Command
 *Melee Weapon, major, uncommon (requires attunement)*  

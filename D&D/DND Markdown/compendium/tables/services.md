@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Services
-dg-publish: true
 ---
 # Services
 *Source: SRD / Basic Rules* 

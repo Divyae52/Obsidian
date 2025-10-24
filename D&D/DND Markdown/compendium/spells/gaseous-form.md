@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Gaseous Form
-dg-publish: true
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  

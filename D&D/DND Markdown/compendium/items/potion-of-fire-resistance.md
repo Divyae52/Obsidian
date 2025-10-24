@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Fire Resistance
-dg-publish: true
 ---
 # Potion of Fire Resistance
 *Potion, minor, uncommon*  

@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Acid (vial)
-dg-publish: true
 ---
 # Acid (vial)
 *Adventuring Gear*  

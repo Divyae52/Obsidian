@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Ability Scores and Modifiers
-dg-publish: true
 ---
 # Ability Scores and Modifiers
 *Source: SRD / Basic Rules* 

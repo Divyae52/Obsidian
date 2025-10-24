@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Poison Resistance
-dg-publish: true
 ---
 # Potion of Poison Resistance
 *Potion, minor, uncommon*  

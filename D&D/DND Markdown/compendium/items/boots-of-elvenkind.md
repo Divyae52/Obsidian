@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Boots of Elvenkind
-dg-publish: true
 ---
 # Boots of Elvenkind
 *Wondrous Item, major, uncommon*  

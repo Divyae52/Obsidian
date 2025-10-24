@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - The Fiend
-dg-publish: true
 ---
 # The Fiend
 *[Warlock](warlock.md): Otherworldly Patron*  

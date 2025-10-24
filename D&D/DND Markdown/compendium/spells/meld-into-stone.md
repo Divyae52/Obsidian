@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Meld into Stone
-dg-publish: true
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

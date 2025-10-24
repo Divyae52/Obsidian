@@ -6,7 +6,6 @@ tags:
   - item/gear/tools
 aliases:
   - Herbalism Kit
-dg-publish: true
 ---
 # Herbalism Kit
 *Tools*  

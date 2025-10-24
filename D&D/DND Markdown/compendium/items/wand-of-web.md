@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Web
-dg-publish: true
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

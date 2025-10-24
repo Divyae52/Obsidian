@@ -8,7 +8,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Phantasmal Killer
-dg-publish: true
 ---
 # Phantasmal Killer
 *4th-level, Illusion*  

@@ -10,7 +10,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Teleport
-dg-publish: true
 ---
 # Teleport
 *7th-level, Conjuration*  

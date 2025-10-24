@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Sequester
-dg-publish: true
 ---
 # Sequester
 *7th-level, Transmutation*  

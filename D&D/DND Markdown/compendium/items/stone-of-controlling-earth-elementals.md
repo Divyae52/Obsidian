@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Stone of Controlling Earth Elementals
-dg-publish: true
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous Item, major, rare*  

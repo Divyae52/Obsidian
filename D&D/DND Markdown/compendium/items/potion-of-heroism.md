@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Heroism
-dg-publish: true
 ---
 # Potion of Heroism
 *Potion, minor, rare*  

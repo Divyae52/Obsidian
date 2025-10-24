@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Silk (1 sq. yd.)
-dg-publish: true
 ---
 # Silk (1 sq. yd.)
 *Trade Good*  

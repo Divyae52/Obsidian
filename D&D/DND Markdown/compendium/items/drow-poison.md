@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Drow Poison
-dg-publish: true
 ---
 # Drow Poison
 *Adventuring Gear, poison*  

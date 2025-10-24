@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Tenser's Floating Disk
-dg-publish: true
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  

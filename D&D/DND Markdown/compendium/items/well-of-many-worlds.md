@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Well of Many Worlds
-dg-publish: true
 ---
 # Well of Many Worlds
 *Wondrous Item, major, legendary*  

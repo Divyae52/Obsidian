@@ -10,7 +10,6 @@ tags:
   - monster/type/giant
 aliases:
   - Stone Giant
-dg-publish: true
 ---
 # Stone Giant
 *Source: SRD / Basic Rules*  

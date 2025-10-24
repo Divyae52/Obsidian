@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Cover
-dg-publish: true
 ---
 # Cover
 *Source: SRD / Basic Rules* 

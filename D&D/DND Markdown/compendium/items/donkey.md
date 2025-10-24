@@ -6,7 +6,6 @@ tags:
   - item/gear/mount
 aliases:
   - Donkey
-dg-publish: true
 ---
 # Donkey
 *Mount*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Otto's Irresistible Dance
-dg-publish: true
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

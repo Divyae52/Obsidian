@@ -8,7 +8,6 @@ tags:
   - spell/school/divination
 aliases:
   - Arcane Eye
-dg-publish: true
 ---
 # Arcane Eye
 *4th-level, Divination*  

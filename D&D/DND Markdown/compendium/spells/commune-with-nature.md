@@ -10,7 +10,6 @@ tags:
   - spell/school/divination
 aliases:
   - Commune with Nature
-dg-publish: true
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  

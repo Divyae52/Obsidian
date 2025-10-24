@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Dire Wolf
-dg-publish: true
 ---
 # Dire Wolf
 *Source: SRD / Basic Rules*  

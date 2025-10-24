@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Whetstone
-dg-publish: true
 ---
 # Whetstone
 *Adventuring Gear*  

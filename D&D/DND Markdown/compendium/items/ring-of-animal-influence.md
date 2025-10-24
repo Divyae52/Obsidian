@@ -8,7 +8,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Animal Influence
-dg-publish: true
 ---
 # Ring of Animal Influence
 *Ring, major, rare*  

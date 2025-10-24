@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Elk
-dg-publish: true
 ---
 # Giant Elk
 *Source: SRD / Basic Rules*  

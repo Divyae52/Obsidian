@@ -8,7 +8,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Longsword
-dg-publish: true
 ---
 # Longsword
 *Melee Weapon*  

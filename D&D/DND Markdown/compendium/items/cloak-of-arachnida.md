@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Cloak of Arachnida
-dg-publish: true
 ---
 # Cloak of Arachnida
 *Wondrous Item, major, very rare (requires attunement)*  

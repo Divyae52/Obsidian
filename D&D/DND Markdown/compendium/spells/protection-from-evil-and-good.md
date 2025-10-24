@@ -11,7 +11,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Protection from Evil and Good
-dg-publish: true
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  

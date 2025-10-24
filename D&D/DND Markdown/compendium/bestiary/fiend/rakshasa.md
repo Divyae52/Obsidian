@@ -8,7 +8,6 @@ tags:
   - monster/type/fiend
 aliases:
   - Rakshasa
-dg-publish: true
 ---
 # Rakshasa
 *Source: SRD / Basic Rules*  

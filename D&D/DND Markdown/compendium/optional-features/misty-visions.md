@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Misty Visions
-dg-publish: true
 ---
 # Misty Visions
 *Source: SRD / Basic Rules* 

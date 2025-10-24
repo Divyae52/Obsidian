@@ -10,7 +10,6 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Longbow
-dg-publish: true
 ---
 # Longbow
 *Ranged Weapon*  

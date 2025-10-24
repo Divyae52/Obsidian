@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Woodcarver's Tools
-dg-publish: true
 ---
 # Woodcarver's Tools
 *Artisan's Tools*  

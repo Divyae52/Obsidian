@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Erinyes
-dg-publish: true
 ---
 # Erinyes
 *Source: SRD / Basic Rules*  

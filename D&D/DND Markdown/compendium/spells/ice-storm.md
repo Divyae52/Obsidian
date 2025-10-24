@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Ice Storm
-dg-publish: true
 ---
 # Ice Storm
 *4th-level, Evocation*  

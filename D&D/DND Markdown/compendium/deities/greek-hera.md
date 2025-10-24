@@ -7,7 +7,6 @@ tags:
   - domain/trickery
 aliases:
   - Hera
-dg-publish: true
 ---
 # Hera
 *Source: SRD / Basic Rules* 

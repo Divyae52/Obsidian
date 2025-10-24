@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Black Dragon
-dg-publish: true
 ---
 # Adult Black Dragon
 *Source: SRD / Basic Rules*  

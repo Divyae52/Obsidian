@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Bewitching Whispers
-dg-publish: true
 ---
 # Bewitching Whispers
 *Source: SRD / Basic Rules* 

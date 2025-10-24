@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Minotaur
-dg-publish: true
 ---
 # Minotaur
 *Source: SRD / Basic Rules*  

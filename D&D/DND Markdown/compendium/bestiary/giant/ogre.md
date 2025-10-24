@@ -16,7 +16,6 @@ tags:
   - monster/type/giant
 aliases:
   - Ogre
-dg-publish: true
 ---
 # Ogre
 *Source: SRD / Basic Rules*  

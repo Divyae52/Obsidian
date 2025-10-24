@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Plant Growth
-dg-publish: true
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

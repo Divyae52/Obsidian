@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Poisons
-dg-publish: true
 ---
 # Poisons
 *Source: SRD / Basic Rules* 

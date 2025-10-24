@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Reef Shark
-dg-publish: true
 ---
 # Reef Shark
 *Source: SRD / Basic Rules*  

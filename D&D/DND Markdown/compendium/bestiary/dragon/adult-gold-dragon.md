@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Gold Dragon
-dg-publish: true
 ---
 # Adult Gold Dragon
 *Source: SRD / Basic Rules*  

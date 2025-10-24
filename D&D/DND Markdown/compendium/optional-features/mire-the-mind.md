@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Mire the Mind
-dg-publish: true
 ---
 # Mire the Mind
 *Source: SRD / Basic Rules* 

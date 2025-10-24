@@ -8,7 +8,6 @@ tags:
   - item/weapon/simple/ranged
 aliases:
   - Shortbow
-dg-publish: true
 ---
 # Shortbow
 *Ranged Weapon*  

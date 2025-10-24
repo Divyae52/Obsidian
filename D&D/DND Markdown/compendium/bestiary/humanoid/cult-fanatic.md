@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Cult Fanatic
-dg-publish: true
 ---
 # Cult Fanatic
 *Source: SRD / Basic Rules*  

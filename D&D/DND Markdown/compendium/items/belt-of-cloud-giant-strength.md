@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Belt of Cloud Giant Strength
-dg-publish: true
 ---
 # Belt of Cloud Giant Strength
 *Wondrous Item, major, legendary (requires attunement)*  

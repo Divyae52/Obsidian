@@ -10,7 +10,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Create Undead
-dg-publish: true
 ---
 # Create Undead
 *6th-level, Necromancy*  

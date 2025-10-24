@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Assign Hit Dice; Hit Dice by Size
-dg-publish: true
 ---
 # Assign Hit Dice; Hit Dice by Size
 *Source: SRD / Basic Rules* 

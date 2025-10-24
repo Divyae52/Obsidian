@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Rust Monster
-dg-publish: true
 ---
 # Rust Monster
 *Source: SRD / Basic Rules*  

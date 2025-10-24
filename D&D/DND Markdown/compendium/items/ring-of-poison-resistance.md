@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Poison Resistance
-dg-publish: true
 ---
 # Ring of Poison Resistance
 *Ring, major, rare (requires attunement)*  

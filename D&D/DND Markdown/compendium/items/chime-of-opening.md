@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Chime of Opening
-dg-publish: true
 ---
 # Chime of Opening
 *Wondrous Item, minor, rare*  

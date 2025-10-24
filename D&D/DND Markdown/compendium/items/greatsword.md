@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Greatsword
-dg-publish: true
 ---
 # Greatsword
 *Melee Weapon*  

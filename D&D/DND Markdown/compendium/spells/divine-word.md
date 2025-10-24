@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Divine Word
-dg-publish: true
 ---
 # Divine Word
 *7th-level, Evocation*  

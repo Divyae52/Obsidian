@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Power Word Stun
-dg-publish: true
 ---
 # Power Word Stun
 *8th-level, Enchantment*  

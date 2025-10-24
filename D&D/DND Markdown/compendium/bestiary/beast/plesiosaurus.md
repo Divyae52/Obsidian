@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Plesiosaurus
-dg-publish: true
 ---
 # Plesiosaurus
 *Source: SRD / Basic Rules*  

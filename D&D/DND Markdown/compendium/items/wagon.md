@@ -6,7 +6,6 @@ tags:
   - item/vehicle
 aliases:
   - Wagon
-dg-publish: true
 ---
 # Wagon
 *Vehicle (land)*  

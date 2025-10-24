@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Darkness
-dg-publish: true
 ---
 # Darkness
 *2nd-level, Evocation*  

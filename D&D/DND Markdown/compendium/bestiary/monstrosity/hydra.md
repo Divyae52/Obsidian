@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Hydra
-dg-publish: true
 ---
 # Hydra
 *Source: SRD / Basic Rules*  

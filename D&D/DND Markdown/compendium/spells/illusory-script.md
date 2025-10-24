@@ -11,7 +11,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Illusory Script
-dg-publish: true
 ---
 # Illusory Script
 *1st-level, Illusion (ritual)*  

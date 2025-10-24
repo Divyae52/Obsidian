@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Belt of Stone Giant Strength
-dg-publish: true
 ---
 # Belt of Stone Giant Strength
 *Wondrous Item, major, very rare (requires attunement)*  

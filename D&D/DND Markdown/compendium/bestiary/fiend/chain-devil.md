@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Chain Devil
-dg-publish: true
 ---
 # Chain Devil
 *Source: SRD / Basic Rules*  

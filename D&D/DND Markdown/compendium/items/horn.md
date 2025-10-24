@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Horn
-dg-publish: true
 ---
 # Horn
 *Instrument*  

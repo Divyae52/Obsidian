@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Gloves of Swimming and Climbing
-dg-publish: true
 ---
 # Gloves of Swimming and Climbing
 *Wondrous Item, major, uncommon (requires attunement)*  

@@ -7,7 +7,6 @@ tags:
   - domain/nature
 aliases:
   - Dunatis
-dg-publish: true
 ---
 # Dunatis
 *Source: SRD / Basic Rules* 

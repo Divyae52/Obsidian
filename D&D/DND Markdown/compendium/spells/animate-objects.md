@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Animate Objects
-dg-publish: true
 ---
 # Animate Objects
 *5th-level, Transmutation*  

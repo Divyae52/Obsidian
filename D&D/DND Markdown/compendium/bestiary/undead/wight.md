@@ -11,7 +11,6 @@ tags:
   - monster/type/undead
 aliases:
   - Wight
-dg-publish: true
 ---
 # Wight
 *Source: SRD / Basic Rules*  

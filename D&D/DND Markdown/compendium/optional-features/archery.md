@@ -7,7 +7,6 @@ tags:
   - optional-feature/fs-r
 aliases:
   - Archery
-dg-publish: true
 ---
 # Archery
 *Source: SRD / Basic Rules* 

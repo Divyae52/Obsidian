@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - True Polymorph
-dg-publish: true
 ---
 # True Polymorph
 *9th-level, Transmutation*  

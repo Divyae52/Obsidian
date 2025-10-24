@@ -6,7 +6,6 @@ tags:
   - race/human
 aliases:
   - Human
-dg-publish: true
 ---
 # Human
 *Source: SRD / Basic Rules*  

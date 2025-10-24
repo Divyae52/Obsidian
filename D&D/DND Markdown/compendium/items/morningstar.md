@@ -7,7 +7,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Morningstar
-dg-publish: true
 ---
 # Morningstar
 *Melee Weapon*  

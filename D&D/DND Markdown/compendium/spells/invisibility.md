@@ -11,7 +11,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Invisibility
-dg-publish: true
 ---
 # Invisibility
 *2nd-level, Illusion*  

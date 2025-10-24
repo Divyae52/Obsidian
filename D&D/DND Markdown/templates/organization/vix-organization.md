@@ -1,3 +1,6 @@
+---
+{}
+---
 # Vix's Organization Template
 
 __Plugin Dependencies__:

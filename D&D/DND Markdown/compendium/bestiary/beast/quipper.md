@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Quipper
-dg-publish: true
 ---
 # Quipper
 *Source: SRD / Basic Rules*  

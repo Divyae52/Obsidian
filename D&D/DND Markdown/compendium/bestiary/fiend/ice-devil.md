@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Ice Devil
-dg-publish: true
 ---
 # Ice Devil
 *Source: SRD / Basic Rules*  

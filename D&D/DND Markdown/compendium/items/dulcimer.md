@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Dulcimer
-dg-publish: true
 ---
 # Dulcimer
 *Instrument*  

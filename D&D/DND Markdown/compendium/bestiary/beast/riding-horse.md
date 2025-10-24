@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Riding Horse
-dg-publish: true
 ---
 # Riding Horse
 *Source: SRD / Basic Rules*  

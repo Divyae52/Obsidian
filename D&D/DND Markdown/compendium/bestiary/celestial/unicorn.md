@@ -8,7 +8,6 @@ tags:
   - monster/type/celestial
 aliases:
   - Unicorn
-dg-publish: true
 ---
 # Unicorn
 *Source: SRD / Basic Rules*  

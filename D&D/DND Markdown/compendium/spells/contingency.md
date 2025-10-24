@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Contingency
-dg-publish: true
 ---
 # Contingency
 *6th-level, Evocation*  

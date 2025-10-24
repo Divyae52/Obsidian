@@ -7,7 +7,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - War Pick
-dg-publish: true
 ---
 # War Pick
 *Melee Weapon*  

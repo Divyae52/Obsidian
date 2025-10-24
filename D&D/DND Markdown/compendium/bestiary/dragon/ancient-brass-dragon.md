@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Brass Dragon
-dg-publish: true
 ---
 # Ancient Brass Dragon
 *Source: SRD / Basic Rules*  

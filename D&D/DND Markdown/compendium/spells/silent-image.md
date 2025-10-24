@@ -10,7 +10,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Silent Image
-dg-publish: true
 ---
 # Silent Image
 *1st-level, Illusion*  

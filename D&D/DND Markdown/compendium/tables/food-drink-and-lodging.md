@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Food, Drink, and Lodging
-dg-publish: true
 ---
 # Food, Drink, and Lodging
 *Source: SRD / Basic Rules* 

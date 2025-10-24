@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Rat
-dg-publish: true
 ---
 # Giant Rat
 *Source: SRD / Basic Rules*  

@@ -8,7 +8,6 @@ tags:
   - domain/tempest
 aliases:
   - Sobek
-dg-publish: true
 ---
 # Sobek
 *Source: SRD / Basic Rules* 

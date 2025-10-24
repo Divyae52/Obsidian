@@ -8,7 +8,6 @@ tags:
   - domain/trickery
 aliases:
   - The Daghdha
-dg-publish: true
 ---
 # The Daghdha
 *Source: SRD / Basic Rules* 

@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Signet Ring
-dg-publish: true
 ---
 # Signet Ring
 *Adventuring Gear*  

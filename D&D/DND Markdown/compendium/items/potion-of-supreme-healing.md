@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Supreme Healing
-dg-publish: true
 ---
 # Potion of Supreme Healing
 *Potion, minor, very rare*  

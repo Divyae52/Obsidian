@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Thug
-dg-publish: true
 ---
 # Thug
 *Source: SRD / Basic Rules*  

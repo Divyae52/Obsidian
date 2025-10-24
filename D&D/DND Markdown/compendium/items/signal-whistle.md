@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Signal Whistle
-dg-publish: true
 ---
 # Signal Whistle
 *Adventuring Gear*  

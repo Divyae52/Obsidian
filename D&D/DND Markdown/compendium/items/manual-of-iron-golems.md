@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Manual of Iron Golems
-dg-publish: true
 ---
 # Manual of Iron Golems
 *Wondrous Item, major, very rare*  

@@ -12,7 +12,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Wolf Spider
-dg-publish: true
 ---
 # Giant Wolf Spider
 *Source: SRD / Basic Rules*  

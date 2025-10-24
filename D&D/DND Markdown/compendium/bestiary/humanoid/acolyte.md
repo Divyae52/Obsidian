@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Acolyte
-dg-publish: true
 ---
 # Acolyte
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Leatherworker's Tools
-dg-publish: true
 ---
 # Leatherworker's Tools
 *Artisan's Tools*  

@@ -11,7 +11,6 @@ tags:
   - spell/school/divination
 aliases:
   - Locate Animals or Plants
-dg-publish: true
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

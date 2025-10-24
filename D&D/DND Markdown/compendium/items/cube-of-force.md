@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Cube of Force
-dg-publish: true
 ---
 # Cube of Force
 *Wondrous Item, major, rare (requires attunement)*  

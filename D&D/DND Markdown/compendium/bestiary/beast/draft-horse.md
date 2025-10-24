@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Draft Horse
-dg-publish: true
 ---
 # Draft Horse
 *Source: SRD / Basic Rules*  

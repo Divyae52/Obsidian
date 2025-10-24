@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Cubic Gate
-dg-publish: true
 ---
 # Cubic Gate
 *Wondrous Item, major, legendary*  

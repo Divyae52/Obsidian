@@ -10,7 +10,6 @@ tags:
   - spell/school/divination
 aliases:
   - See Invisibility
-dg-publish: true
 ---
 # See Invisibility
 *2nd-level, Divination*  

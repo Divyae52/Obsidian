@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Mind Reading
-dg-publish: true
 ---
 # Potion of Mind Reading
 *Potion, minor, rare*  

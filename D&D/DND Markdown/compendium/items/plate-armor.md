@@ -6,7 +6,6 @@ tags:
   - item/armor/heavy
 aliases:
   - Plate Armor
-dg-publish: true
 ---
 # Plate Armor
 *Heavy Armor*  

@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Eldritch Spear
-dg-publish: true
 ---
 # Eldritch Spear
 *Source: SRD / Basic Rules* 

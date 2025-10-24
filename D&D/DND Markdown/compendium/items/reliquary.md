@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Reliquary
-dg-publish: true
 ---
 # Reliquary
 *Spellcasting Focus*  

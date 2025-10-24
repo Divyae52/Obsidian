@@ -6,7 +6,6 @@ tags:
   - item/armor/medium
 aliases:
   - Scale Mail
-dg-publish: true
 ---
 # Scale Mail
 *Medium Armor*  

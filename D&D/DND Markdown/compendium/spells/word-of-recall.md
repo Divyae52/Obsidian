@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Word of Recall
-dg-publish: true
 ---
 # Word of Recall
 *6th-level, Conjuration*  

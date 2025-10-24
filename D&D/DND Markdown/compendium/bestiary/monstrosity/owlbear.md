@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Owlbear
-dg-publish: true
 ---
 # Owlbear
 *Source: SRD / Basic Rules*  

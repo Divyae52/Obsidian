@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Iron Spike
-dg-publish: true
 ---
 # Iron Spike
 *Adventuring Gear*  

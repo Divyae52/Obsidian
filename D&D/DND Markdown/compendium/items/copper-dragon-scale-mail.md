@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Copper Dragon Scale Mail
-dg-publish: true
 ---
 # Copper Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

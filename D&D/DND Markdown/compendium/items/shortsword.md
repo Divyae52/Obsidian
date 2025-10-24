@@ -10,7 +10,6 @@ tags:
   - item/damageType/piercing
 aliases:
   - Shortsword
-dg-publish: true
 ---
 # Shortsword
 *Melee Weapon*  

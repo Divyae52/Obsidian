@@ -7,7 +7,6 @@ tags:
   - monster/type/construct
 aliases:
   - Flying Sword
-dg-publish: true
 ---
 # Flying Sword
 *Source: SRD / Basic Rules*  

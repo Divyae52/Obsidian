@@ -11,7 +11,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Prestidigitation
-dg-publish: true
 ---
 # Prestidigitation
 *cantrip, Transmutation*  

@@ -7,7 +7,6 @@ tags:
   - domain/war
 aliases:
   - Bast
-dg-publish: true
 ---
 # Bast
 *Source: SRD / Basic Rules* 

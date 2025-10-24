@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Thief
-dg-publish: true
 ---
 # Thief
 *[Rogue](rogue.md): Roguish Archetype*  

@@ -10,7 +10,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Chill Touch
-dg-publish: true
 ---
 # Chill Touch
 *cantrip, Necromancy*  

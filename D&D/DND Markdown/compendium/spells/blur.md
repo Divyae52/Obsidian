@@ -9,7 +9,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Blur
-dg-publish: true
 ---
 # Blur
 *2nd-level, Illusion*  

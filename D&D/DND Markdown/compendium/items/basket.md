@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Basket
-dg-publish: true
 ---
 # Basket
 *Adventuring Gear*  

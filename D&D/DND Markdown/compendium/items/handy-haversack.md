@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Handy Haversack
-dg-publish: true
 ---
 # Handy Haversack
 *Wondrous Item, minor, rare*  

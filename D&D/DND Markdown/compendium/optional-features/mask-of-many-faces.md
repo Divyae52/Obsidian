@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Mask of Many Faces
-dg-publish: true
 ---
 # Mask of Many Faces
 *Source: SRD / Basic Rules* 

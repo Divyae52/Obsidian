@@ -13,7 +13,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Phase Spider
-dg-publish: true
 ---
 # Phase Spider
 *Source: SRD / Basic Rules*  

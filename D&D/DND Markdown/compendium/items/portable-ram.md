@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Portable Ram
-dg-publish: true
 ---
 # Portable Ram
 *Adventuring Gear*  

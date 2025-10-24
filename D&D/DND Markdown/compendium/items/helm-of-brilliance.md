@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Helm of Brilliance
-dg-publish: true
 ---
 # Helm of Brilliance
 *Wondrous Item, major, very rare (requires attunement)*  

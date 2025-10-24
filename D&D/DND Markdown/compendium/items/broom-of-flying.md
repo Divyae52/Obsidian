@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Broom of Flying
-dg-publish: true
 ---
 # Broom of Flying
 *Wondrous Item, major, uncommon*  

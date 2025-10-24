@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Demon Armor
-dg-publish: true
 ---
 # Demon Armor
 *Heavy Armor, major, very rare (requires attunement)*  

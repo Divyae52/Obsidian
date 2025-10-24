@@ -10,7 +10,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Insect Plague
-dg-publish: true
 ---
 # Insect Plague
 *5th-level, Conjuration*  

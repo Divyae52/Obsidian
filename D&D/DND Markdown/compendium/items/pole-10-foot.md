@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Pole (10-foot)
-dg-publish: true
 ---
 # Pole (10-foot)
 *Adventuring Gear*  

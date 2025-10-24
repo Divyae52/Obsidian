@@ -7,7 +7,6 @@ tags:
   - domain/war
 aliases:
   - Ares
-dg-publish: true
 ---
 # Ares
 *Source: SRD / Basic Rules* 

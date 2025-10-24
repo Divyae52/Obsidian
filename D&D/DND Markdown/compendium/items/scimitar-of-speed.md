@@ -12,7 +12,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Scimitar of Speed
-dg-publish: true
 ---
 # Scimitar of Speed
 *Melee Weapon, major, very rare (requires attunement)*  

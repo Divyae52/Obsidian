@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Grappling Hook
-dg-publish: true
 ---
 # Grappling Hook
 *Adventuring Gear*  

@@ -8,7 +8,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Light Hammer
-dg-publish: true
 ---
 # Light Hammer
 *Melee Weapon*  

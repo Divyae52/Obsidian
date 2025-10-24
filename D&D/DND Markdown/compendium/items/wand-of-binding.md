@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Binding
-dg-publish: true
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  

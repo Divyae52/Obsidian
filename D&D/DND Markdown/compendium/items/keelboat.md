@@ -6,7 +6,6 @@ tags:
   - item/vehicle/ship
 aliases:
   - Keelboat
-dg-publish: true
 ---
 # Keelboat
 *Ship, Vehicle (water)*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Feather Token, Whip
-dg-publish: true
 ---
 # Feather Token, Whip
 *Wondrous Item, minor, rare*  

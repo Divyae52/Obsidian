@@ -11,7 +11,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Fog Cloud
-dg-publish: true
 ---
 # Fog Cloud
 *1st-level, Conjuration*  

@@ -9,7 +9,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Guardian Naga
-dg-publish: true
 ---
 # Guardian Naga
 *Source: SRD / Basic Rules*  

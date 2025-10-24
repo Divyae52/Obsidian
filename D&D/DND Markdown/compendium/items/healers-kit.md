@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Healer's Kit
-dg-publish: true
 ---
 # Healer's Kit
 *Adventuring Gear*  

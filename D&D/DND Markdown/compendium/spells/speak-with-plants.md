@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Speak with Plants
-dg-publish: true
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

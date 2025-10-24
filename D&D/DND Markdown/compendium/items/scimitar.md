@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Scimitar
-dg-publish: true
 ---
 # Scimitar
 *Melee Weapon*  

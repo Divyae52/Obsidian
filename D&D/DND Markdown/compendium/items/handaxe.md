@@ -8,7 +8,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Handaxe
-dg-publish: true
 ---
 # Handaxe
 *Melee Weapon*  

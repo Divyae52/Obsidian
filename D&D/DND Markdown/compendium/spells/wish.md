@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Wish
-dg-publish: true
 ---
 # Wish
 *9th-level, Conjuration*  

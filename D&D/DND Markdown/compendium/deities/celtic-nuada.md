@@ -8,7 +8,6 @@ tags:
   - domain/war
 aliases:
   - Nuada
-dg-publish: true
 ---
 # Nuada
 *Source: SRD / Basic Rules* 

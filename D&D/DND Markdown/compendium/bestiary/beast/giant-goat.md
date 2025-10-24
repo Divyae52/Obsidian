@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Goat
-dg-publish: true
 ---
 # Giant Goat
 *Source: SRD / Basic Rules*  

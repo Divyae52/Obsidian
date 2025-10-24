@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Alter Self
-dg-publish: true
 ---
 # Alter Self
 *2nd-level, Transmutation*  

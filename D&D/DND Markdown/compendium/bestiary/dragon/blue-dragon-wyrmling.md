@@ -7,7 +7,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Blue Dragon Wyrmling
-dg-publish: true
 ---
 # Blue Dragon Wyrmling
 *Source: SRD / Basic Rules*  

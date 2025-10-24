@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Iron Pot
-dg-publish: true
 ---
 # Iron Pot
 *Adventuring Gear*  

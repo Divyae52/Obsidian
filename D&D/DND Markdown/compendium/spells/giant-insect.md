@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Giant Insect
-dg-publish: true
 ---
 # Giant Insect
 *4th-level, Transmutation*  

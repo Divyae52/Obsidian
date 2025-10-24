@@ -10,7 +10,6 @@ tags:
   - monster/type/fey
 aliases:
   - Green Hag
-dg-publish: true
 ---
 # Green Hag
 *Source: SRD / Basic Rules*  

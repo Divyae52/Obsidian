@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Ranger
-dg-publish: true
 ---
 # Ranger
 *Source: SRD / Basic Rules*  

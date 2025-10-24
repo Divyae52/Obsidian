@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Confusion
-dg-publish: true
 ---
 # Confusion
 *4th-level, Enchantment*  

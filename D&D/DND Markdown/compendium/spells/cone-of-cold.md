@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Cone of Cold
-dg-publish: true
 ---
 # Cone of Cold
 *5th-level, Evocation*  

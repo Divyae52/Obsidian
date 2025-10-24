@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Shawm
-dg-publish: true
 ---
 # Shawm
 *Instrument*  

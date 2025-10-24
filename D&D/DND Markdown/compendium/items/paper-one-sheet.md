@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Paper (one sheet)
-dg-publish: true
 ---
 # Paper (one sheet)
 *Adventuring Gear*  

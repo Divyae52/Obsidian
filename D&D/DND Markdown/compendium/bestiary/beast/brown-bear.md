@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Brown Bear
-dg-publish: true
 ---
 # Brown Bear
 *Source: SRD / Basic Rules*  

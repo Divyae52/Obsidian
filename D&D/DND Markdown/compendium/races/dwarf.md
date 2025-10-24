@@ -6,7 +6,6 @@ tags:
   - race/dwarf
 aliases:
   - Dwarf
-dg-publish: true
 ---
 # Dwarf
 *Source: SRD / Basic Rules*  

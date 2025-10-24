@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Drawmij's Instant Summons
-dg-publish: true
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  

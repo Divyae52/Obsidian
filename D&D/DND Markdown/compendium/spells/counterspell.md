@@ -10,7 +10,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Counterspell
-dg-publish: true
 ---
 # Counterspell
 *3rd-level, Abjuration*  

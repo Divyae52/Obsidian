@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Dust of Disappearance
-dg-publish: true
 ---
 # Dust of Disappearance
 *Wondrous Item, minor, uncommon*  

@@ -10,7 +10,6 @@ tags:
   - monster/type/humanoid/shapechanger
 aliases:
   - Wererat
-dg-publish: true
 ---
 # Wererat
 *Source: SRD / Basic Rules*  

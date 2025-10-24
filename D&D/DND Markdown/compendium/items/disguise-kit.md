@@ -6,7 +6,6 @@ tags:
   - item/gear/tools
 aliases:
   - Disguise Kit
-dg-publish: true
 ---
 # Disguise Kit
 *Tools*  

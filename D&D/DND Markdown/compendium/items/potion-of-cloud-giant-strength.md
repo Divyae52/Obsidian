@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Cloud Giant Strength
-dg-publish: true
 ---
 # Potion of Cloud Giant Strength
 *Potion, minor, very rare*  

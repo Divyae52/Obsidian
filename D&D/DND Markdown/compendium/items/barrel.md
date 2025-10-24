@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Barrel
-dg-publish: true
 ---
 # Barrel
 *Adventuring Gear*  

@@ -7,7 +7,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Club
-dg-publish: true
 ---
 # Club
 *Melee Weapon*  

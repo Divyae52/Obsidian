@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Armor of Shadows
-dg-publish: true
 ---
 # Armor of Shadows
 *Source: SRD / Basic Rules* 

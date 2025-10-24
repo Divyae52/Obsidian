@@ -8,7 +8,6 @@ tags:
   - domain/tempest
 aliases:
   - Manannan mac Lir
-dg-publish: true
 ---
 # Manannan mac Lir
 *Source: SRD / Basic Rules* 

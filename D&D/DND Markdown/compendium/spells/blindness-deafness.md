@@ -11,7 +11,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Blindness/Deafness
-dg-publish: true
 ---
 # Blindness/Deafness
 *2nd-level, Necromancy*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/undead
 aliases:
   - Warhorse Skeleton
-dg-publish: true
 ---
 # Warhorse Skeleton
 *Source: SRD / Basic Rules*  

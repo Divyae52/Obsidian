@@ -8,7 +8,6 @@ tags:
   - monster/type/undead
 aliases:
   - Skeleton
-dg-publish: true
 ---
 # Skeleton
 *Source: SRD / Basic Rules*  

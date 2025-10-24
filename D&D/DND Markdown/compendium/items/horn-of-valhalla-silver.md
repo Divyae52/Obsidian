@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Horn of Valhalla, Silver
-dg-publish: true
 ---
 # Horn of Valhalla, Silver
 *Wondrous Item, major, rare*  

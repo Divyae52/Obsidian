@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Block and Tackle
-dg-publish: true
 ---
 # Block and Tackle
 *Adventuring Gear*  

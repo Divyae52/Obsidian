@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Killer Whale
-dg-publish: true
 ---
 # Killer Whale
 *Source: SRD / Basic Rules*  

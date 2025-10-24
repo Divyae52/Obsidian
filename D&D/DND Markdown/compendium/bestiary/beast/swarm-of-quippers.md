@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Quippers
-dg-publish: true
 ---
 # Swarm of Quippers
 *Source: SRD / Basic Rules*  

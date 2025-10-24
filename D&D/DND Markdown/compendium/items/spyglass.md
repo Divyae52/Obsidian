@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Spyglass
-dg-publish: true
 ---
 # Spyglass
 *Adventuring Gear*  

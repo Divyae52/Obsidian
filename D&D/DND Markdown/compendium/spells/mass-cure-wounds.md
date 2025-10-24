@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Mass Cure Wounds
-dg-publish: true
 ---
 # Mass Cure Wounds
 *5th-level, Evocation*  

@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Green Dragon Scale Mail
-dg-publish: true
 ---
 # Green Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

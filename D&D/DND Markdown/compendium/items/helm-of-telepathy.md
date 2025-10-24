@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Helm of Telepathy
-dg-publish: true
 ---
 # Helm of Telepathy
 *Wondrous Item, major, uncommon (requires attunement)*  

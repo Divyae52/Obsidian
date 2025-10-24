@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Magnifying Glass
-dg-publish: true
 ---
 # Magnifying Glass
 *Adventuring Gear*  

@@ -12,7 +12,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Constrictor Snake
-dg-publish: true
 ---
 # Giant Constrictor Snake
 *Source: SRD / Basic Rules*  

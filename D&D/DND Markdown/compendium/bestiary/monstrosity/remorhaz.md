@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Remorhaz
-dg-publish: true
 ---
 # Remorhaz
 *Source: SRD / Basic Rules*  

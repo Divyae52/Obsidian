@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Cat
-dg-publish: true
 ---
 # Cat
 *Source: SRD / Basic Rules*  

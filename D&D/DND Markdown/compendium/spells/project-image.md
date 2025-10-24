@@ -9,7 +9,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Project Image
-dg-publish: true
 ---
 # Project Image
 *7th-level, Illusion*  

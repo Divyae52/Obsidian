@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Viol
-dg-publish: true
 ---
 # Viol
 *Instrument*  

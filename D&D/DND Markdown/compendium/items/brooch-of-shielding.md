@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Brooch of Shielding
-dg-publish: true
 ---
 # Brooch of Shielding
 *Wondrous Item, major, uncommon (requires attunement)*  

@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Sentient Magic Item Communication
-dg-publish: true
 ---
 # Sentient Magic Item Communication
 *Source: SRD / Basic Rules* 

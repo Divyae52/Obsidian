@@ -10,7 +10,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Nondetection
-dg-publish: true
 ---
 # Nondetection
 *3rd-level, Abjuration*  

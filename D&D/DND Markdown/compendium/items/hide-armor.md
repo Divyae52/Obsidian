@@ -6,7 +6,6 @@ tags:
   - item/armor/medium
 aliases:
   - Hide Armor
-dg-publish: true
 ---
 # Hide Armor
 *Medium Armor*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Crystal Ball
-dg-publish: true
 ---
 # Crystal Ball
 *Wondrous Item, major, very rare (requires attunement)*  

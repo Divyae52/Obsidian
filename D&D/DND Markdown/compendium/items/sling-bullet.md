@@ -6,7 +6,6 @@ tags:
   - item/weapon/ammunition
 aliases:
   - Sling Bullet
-dg-publish: true
 ---
 # Sling Bullet
 *Ammunition*  

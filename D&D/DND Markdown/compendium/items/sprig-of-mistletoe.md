@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Sprig of Mistletoe
-dg-publish: true
 ---
 # Sprig of Mistletoe
 *Spellcasting Focus*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Periapt of Health
-dg-publish: true
 ---
 # Periapt of Health
 *Wondrous Item, minor, uncommon*  

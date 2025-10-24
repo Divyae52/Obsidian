@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Steam Mephit
-dg-publish: true
 ---
 # Steam Mephit
 *Source: SRD / Basic Rules*  

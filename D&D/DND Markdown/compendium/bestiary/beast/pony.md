@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Pony
-dg-publish: true
 ---
 # Pony
 *Source: SRD / Basic Rules*  

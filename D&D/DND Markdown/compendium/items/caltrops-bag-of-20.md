@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Caltrops (bag of 20)
-dg-publish: true
 ---
 # Caltrops (bag of 20)
 *Adventuring Gear*  

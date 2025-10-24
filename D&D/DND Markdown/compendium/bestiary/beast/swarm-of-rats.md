@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Rats
-dg-publish: true
 ---
 # Swarm of Rats
 *Source: SRD / Basic Rules*  

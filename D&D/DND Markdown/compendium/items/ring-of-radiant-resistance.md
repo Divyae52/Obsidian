@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Radiant Resistance
-dg-publish: true
 ---
 # Ring of Radiant Resistance
 *Ring, major, rare (requires attunement)*  

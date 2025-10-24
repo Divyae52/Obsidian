@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Saber-Toothed Tiger
-dg-publish: true
 ---
 # Saber-Toothed Tiger
 *Source: SRD / Basic Rules*  

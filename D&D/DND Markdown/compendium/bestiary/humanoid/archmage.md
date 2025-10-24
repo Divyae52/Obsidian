@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Archmage
-dg-publish: true
 ---
 # Archmage
 *Source: SRD / Basic Rules*  

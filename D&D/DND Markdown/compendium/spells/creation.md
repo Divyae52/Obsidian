@@ -9,7 +9,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Creation
-dg-publish: true
 ---
 # Creation
 *5th-level, Illusion*  

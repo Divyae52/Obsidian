@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Crowbar
-dg-publish: true
 ---
 # Crowbar
 *Adventuring Gear*  

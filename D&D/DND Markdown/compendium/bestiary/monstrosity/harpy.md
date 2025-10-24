@@ -11,7 +11,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Harpy
-dg-publish: true
 ---
 # Harpy
 *Source: SRD / Basic Rules*  

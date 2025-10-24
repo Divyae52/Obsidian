@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Exotic Languages
-dg-publish: true
 ---
 # Exotic Languages
 *Source: SRD / Basic Rules* 

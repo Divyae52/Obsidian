@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Antitoxin (vial)
-dg-publish: true
 ---
 # Antitoxin (vial)
 *Adventuring Gear*  

@@ -8,7 +8,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Warhammer
-dg-publish: true
 ---
 # Warhammer
 *Melee Weapon*  

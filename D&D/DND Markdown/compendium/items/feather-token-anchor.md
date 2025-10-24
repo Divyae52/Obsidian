@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Feather Token, Anchor
-dg-publish: true
 ---
 # Feather Token, Anchor
 *Wondrous Item, minor, rare*  

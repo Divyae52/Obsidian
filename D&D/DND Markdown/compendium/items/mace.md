@@ -6,7 +6,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Mace
-dg-publish: true
 ---
 # Mace
 *Melee Weapon*  

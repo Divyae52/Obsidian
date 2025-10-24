@@ -8,7 +8,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Magic Missiles
-dg-publish: true
 ---
 # Wand of Magic Missiles
 *Wand, major, uncommon*  

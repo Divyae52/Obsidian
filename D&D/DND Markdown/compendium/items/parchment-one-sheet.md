@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Parchment (one sheet)
-dg-publish: true
 ---
 # Parchment (one sheet)
 *Adventuring Gear*  

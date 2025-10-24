@@ -6,7 +6,6 @@ tags:
   - item/gear/tack-and-harness
 aliases:
   - Feed (per day)
-dg-publish: true
 ---
 # Feed (per day)
 *Tack and Harness*  

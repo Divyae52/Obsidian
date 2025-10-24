@@ -6,7 +6,6 @@ tags:
   - race/tiefling
 aliases:
   - Tiefling
-dg-publish: true
 ---
 # Tiefling
 *Source: SRD / Basic Rules*  

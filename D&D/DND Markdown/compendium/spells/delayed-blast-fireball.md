@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Delayed Blast Fireball
-dg-publish: true
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  

@@ -6,7 +6,6 @@ tags:
   - item/armor/medium
 aliases:
   - Breastplate
-dg-publish: true
 ---
 # Breastplate
 *Medium Armor*  

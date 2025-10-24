@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Leomund's Tiny Hut
-dg-publish: true
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  

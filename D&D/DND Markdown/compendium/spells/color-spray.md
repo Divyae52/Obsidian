@@ -9,7 +9,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Color Spray
-dg-publish: true
 ---
 # Color Spray
 *1st-level, Illusion*  

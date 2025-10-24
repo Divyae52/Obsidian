@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - School of Evocation
-dg-publish: true
 ---
 # School of Evocation
 *[Wizard](wizard.md): Arcane Tradition*  

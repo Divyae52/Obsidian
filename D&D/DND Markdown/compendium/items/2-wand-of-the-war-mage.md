@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - +2 Wand of the War Mage
-dg-publish: true
 ---
 # +2 Wand of the War Mage
 *Wand, major, rare (requires attunement by a spellcaster)*  

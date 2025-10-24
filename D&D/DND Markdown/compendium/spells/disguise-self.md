@@ -10,7 +10,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Disguise Self
-dg-publish: true
 ---
 # Disguise Self
 *1st-level, Illusion*  

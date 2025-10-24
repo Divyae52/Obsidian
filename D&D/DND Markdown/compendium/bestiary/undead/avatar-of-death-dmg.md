@@ -7,7 +7,6 @@ tags:
   - monster/type/undead
 aliases:
   - Avatar of Death (DMG)
-dg-publish: true
 ---
 # Avatar of Death (DMG)
 *Source: SRD / Basic Rules*  

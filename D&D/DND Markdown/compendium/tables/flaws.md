@@ -3,7 +3,6 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 aliases:
   - Flaws
-dg-publish: true
 ---
 # Flaws
 

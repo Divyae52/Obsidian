@@ -8,7 +8,6 @@ tags:
   - item/tier/major
 aliases:
   - Dwarven Plate
-dg-publish: true
 ---
 # Dwarven Plate
 *Heavy Armor, major, very rare*  

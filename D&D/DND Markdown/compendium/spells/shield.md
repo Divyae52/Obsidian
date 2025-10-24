@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Shield
-dg-publish: true
 ---
 # Shield
 *1st-level, Abjuration*  

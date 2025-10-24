@@ -8,7 +8,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Battleaxe
-dg-publish: true
 ---
 # Battleaxe
 *Melee Weapon*  

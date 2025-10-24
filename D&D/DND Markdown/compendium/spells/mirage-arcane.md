@@ -10,7 +10,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Mirage Arcane
-dg-publish: true
 ---
 # Mirage Arcane
 *7th-level, Illusion*  

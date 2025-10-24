@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Hourglass
-dg-publish: true
 ---
 # Hourglass
 *Adventuring Gear*  

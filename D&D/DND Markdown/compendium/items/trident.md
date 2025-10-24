@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Trident
-dg-publish: true
 ---
 # Trident
 *Melee Weapon*  

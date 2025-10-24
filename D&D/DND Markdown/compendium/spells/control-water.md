@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Control Water
-dg-publish: true
 ---
 # Control Water
 *4th-level, Transmutation*  

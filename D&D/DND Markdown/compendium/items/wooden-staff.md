@@ -7,7 +7,6 @@ tags:
   - item/property/versatile
 aliases:
   - Wooden Staff
-dg-publish: true
 ---
 # Wooden Staff
 *Spellcasting Focus*  

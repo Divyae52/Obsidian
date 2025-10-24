@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Copper Dragon
-dg-publish: true
 ---
 # Adult Copper Dragon
 *Source: SRD / Basic Rules*  

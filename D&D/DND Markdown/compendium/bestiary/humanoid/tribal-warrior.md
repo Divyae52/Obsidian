@@ -16,7 +16,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Tribal Warrior
-dg-publish: true
 ---
 # Tribal Warrior
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Minions of Chaos
-dg-publish: true
 ---
 # Minions of Chaos
 *Source: SRD / Basic Rules* 

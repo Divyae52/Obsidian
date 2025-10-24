@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of the Woodlands
-dg-publish: true
 ---
 # Staff of the Woodlands
 *Staff, major, rare (requires attunement by a druid)*  

@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Blade Barrier
-dg-publish: true
 ---
 # Blade Barrier
 *6th-level, Evocation*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/divination
 aliases:
   - Detect Evil and Good
-dg-publish: true
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

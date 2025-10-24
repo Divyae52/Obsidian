@@ -8,7 +8,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Vicious Mockery
-dg-publish: true
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  

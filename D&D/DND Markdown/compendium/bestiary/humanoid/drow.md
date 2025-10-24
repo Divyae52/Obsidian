@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/elf
 aliases:
   - Drow
-dg-publish: true
 ---
 # Drow
 *Source: SRD / Basic Rules*  

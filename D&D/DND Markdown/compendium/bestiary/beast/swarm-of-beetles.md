@@ -14,7 +14,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Beetles
-dg-publish: true
 ---
 # Swarm of Beetles
 *Source: SRD / Basic Rules*  

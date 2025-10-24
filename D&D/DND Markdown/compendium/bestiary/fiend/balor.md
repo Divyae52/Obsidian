@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/demon
 aliases:
   - Balor
-dg-publish: true
 ---
 # Balor
 *Source: SRD / Basic Rules*  

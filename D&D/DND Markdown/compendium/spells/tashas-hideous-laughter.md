@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Tasha's Hideous Laughter
-dg-publish: true
 ---
 # Tasha's Hideous Laughter
 *1st-level, Enchantment*  

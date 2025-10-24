@@ -6,7 +6,6 @@ tags:
   - item/gear/tools
 aliases:
   - Forgery Kit
-dg-publish: true
 ---
 # Forgery Kit
 *Tools*  

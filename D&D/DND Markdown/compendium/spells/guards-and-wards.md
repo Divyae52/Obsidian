@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Guards and Wards
-dg-publish: true
 ---
 # Guards and Wards
 *6th-level, Abjuration*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Iron Flask
-dg-publish: true
 ---
 # Iron Flask
 *Wondrous Item, major, legendary*  

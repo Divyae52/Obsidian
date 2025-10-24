@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Silver Dragon Scale Mail
-dg-publish: true
 ---
 # Silver Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

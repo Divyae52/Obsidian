@@ -7,7 +7,6 @@ tags:
   - domain/trickery
 aliases:
   - Hermes
-dg-publish: true
 ---
 # Hermes
 *Source: SRD / Basic Rules* 

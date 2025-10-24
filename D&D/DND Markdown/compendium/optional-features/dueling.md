@@ -9,7 +9,6 @@ tags:
   - optional-feature/fs-r
 aliases:
   - Dueling
-dg-publish: true
 ---
 # Dueling
 *Source: SRD / Basic Rules* 

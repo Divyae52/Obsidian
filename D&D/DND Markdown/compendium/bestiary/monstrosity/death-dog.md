@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Death Dog
-dg-publish: true
 ---
 # Death Dog
 *Source: SRD / Basic Rules*  

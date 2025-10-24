@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Wind Wall
-dg-publish: true
 ---
 # Wind Wall
 *3rd-level, Evocation*  

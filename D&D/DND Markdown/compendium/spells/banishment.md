@@ -12,7 +12,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Banishment
-dg-publish: true
 ---
 # Banishment
 *4th-level, Abjuration*  

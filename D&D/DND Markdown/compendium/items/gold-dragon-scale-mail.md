@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Gold Dragon Scale Mail
-dg-publish: true
 ---
 # Gold Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Feather Token, Tree
-dg-publish: true
 ---
 # Feather Token, Tree
 *Wondrous Item, minor, rare*  

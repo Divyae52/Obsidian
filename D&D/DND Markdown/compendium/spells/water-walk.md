@@ -12,7 +12,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Water Walk
-dg-publish: true
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  

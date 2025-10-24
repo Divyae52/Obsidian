@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - The Celtic Pantheon; Celtic Deities
-dg-publish: true
 ---
 # The Celtic Pantheon; Celtic Deities
 *Source: SRD / Basic Rules* 

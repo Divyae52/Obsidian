@@ -6,7 +6,6 @@ tags:
   - hazard/mech
 aliases:
   - Poison Needle
-dg-publish: true
 ---
 # Poison Needle
 *Mechanical Trap*  

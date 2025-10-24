@@ -8,7 +8,6 @@ tags:
   - monster/type/fey
 aliases:
   - Satyr
-dg-publish: true
 ---
 # Satyr
 *Source: SRD / Basic Rules*  

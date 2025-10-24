@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Gauntlets of Ogre Power
-dg-publish: true
 ---
 # Gauntlets of Ogre Power
 *Wondrous Item, major, uncommon (requires attunement)*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Fire Elemental
-dg-publish: true
 ---
 # Fire Elemental
 *Source: SRD / Basic Rules*  

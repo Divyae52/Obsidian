@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Manual of Clay Golems
-dg-publish: true
 ---
 # Manual of Clay Golems
 *Wondrous Item, major, very rare*  

@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Sorcerer
-dg-publish: true
 ---
 # Sorcerer
 *Source: SRD / Basic Rules*  

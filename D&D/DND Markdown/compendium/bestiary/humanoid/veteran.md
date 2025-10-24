@@ -15,7 +15,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Veteran
-dg-publish: true
 ---
 # Veteran
 *Source: SRD / Basic Rules*  

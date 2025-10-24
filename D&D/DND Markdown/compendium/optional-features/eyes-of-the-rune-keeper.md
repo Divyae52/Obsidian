@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Eyes of the Rune Keeper
-dg-publish: true
 ---
 # Eyes of the Rune Keeper
 *Source: SRD / Basic Rules* 

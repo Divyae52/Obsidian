@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Boots of the Winterlands
-dg-publish: true
 ---
 # Boots of the Winterlands
 *Wondrous Item, major, uncommon (requires attunement)*  

@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Mordenkainen's Faithful Hound
-dg-publish: true
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  

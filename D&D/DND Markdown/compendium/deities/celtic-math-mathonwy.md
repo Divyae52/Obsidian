@@ -8,7 +8,6 @@ tags:
   - domain/knowledge
 aliases:
   - Math Mathonwy
-dg-publish: true
 ---
 # Math Mathonwy
 *Source: SRD / Basic Rules* 

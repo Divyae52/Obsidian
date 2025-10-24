@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Tome of Clear Thought
-dg-publish: true
 ---
 # Tome of Clear Thought
 *Wondrous Item, major, very rare*  

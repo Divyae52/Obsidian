@@ -7,7 +7,6 @@ tags:
   - object/type/generic
 aliases:
   - Generic Object
-dg-publish: true
 ---
 # Generic Object
 *Source: SRD / Basic Rules*  

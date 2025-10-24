@@ -8,7 +8,6 @@ tags:
   - item/weapon/simple/ranged
 aliases:
   - Dart
-dg-publish: true
 ---
 # Dart
 *Ranged Weapon*  

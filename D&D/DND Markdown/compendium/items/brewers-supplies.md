@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Brewer's Supplies
-dg-publish: true
 ---
 # Brewer's Supplies
 *Artisan's Tools*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Manual of Gainful Exercise
-dg-publish: true
 ---
 # Manual of Gainful Exercise
 *Wondrous Item, major, very rare*  

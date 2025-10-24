@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Invisibility
-dg-publish: true
 ---
 # Potion of Invisibility
 *Potion, minor, very rare*  

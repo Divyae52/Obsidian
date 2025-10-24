@@ -11,7 +11,6 @@ tags:
   - monster/type/humanoid/shapechanger
 aliases:
   - Wereboar
-dg-publish: true
 ---
 # Wereboar
 *Source: SRD / Basic Rules*  

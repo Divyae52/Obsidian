@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Intellect
-dg-publish: true
 ---
 # Ioun Stone, Intellect
 *Wondrous Item, major, very rare (requires attunement)*  

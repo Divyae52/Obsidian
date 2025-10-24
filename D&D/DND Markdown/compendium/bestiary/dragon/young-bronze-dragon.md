@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Young Bronze Dragon
-dg-publish: true
 ---
 # Young Bronze Dragon
 *Source: SRD / Basic Rules*  

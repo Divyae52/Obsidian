@@ -7,7 +7,6 @@ tags:
   - monster/type/construct
 aliases:
   - Stone Golem
-dg-publish: true
 ---
 # Stone Golem
 *Source: SRD / Basic Rules*  

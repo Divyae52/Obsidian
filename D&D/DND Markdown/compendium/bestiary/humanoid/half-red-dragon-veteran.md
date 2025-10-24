@@ -7,7 +7,6 @@ tags:
   - monster/type/humanoid/human
 aliases:
   - Half-Red Dragon Veteran
-dg-publish: true
 ---
 # Half-Red Dragon Veteran
 *Source: SRD / Basic Rules*  

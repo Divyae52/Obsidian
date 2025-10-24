@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Mass Heal
-dg-publish: true
 ---
 # Mass Heal
 *9th-level, Evocation*  

@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Fighting Style, Ranger
-dg-publish: true
 ---
 # Fighting Style, Ranger
 *Source: SRD / Basic Rules* 

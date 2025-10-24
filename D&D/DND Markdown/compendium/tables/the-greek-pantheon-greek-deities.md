@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - The Greek Pantheon; Greek Deities
-dg-publish: true
 ---
 # The Greek Pantheon; Greek Deities
 *Source: SRD / Basic Rules* 

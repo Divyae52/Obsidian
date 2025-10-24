@@ -11,7 +11,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Jump
-dg-publish: true
 ---
 # Jump
 *1st-level, Transmutation*  

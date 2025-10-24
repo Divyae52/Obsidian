@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Saffron
-dg-publish: true
 ---
 # Saffron
 *Trade Good*  

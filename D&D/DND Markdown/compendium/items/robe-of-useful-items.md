@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Robe of Useful Items
-dg-publish: true
 ---
 # Robe of Useful Items
 *Wondrous Item, minor, uncommon*  

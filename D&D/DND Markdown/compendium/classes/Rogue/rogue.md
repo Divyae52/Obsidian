@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Rogue
-dg-publish: true
 ---
 # Rogue
 *Source: SRD / Basic Rules*  

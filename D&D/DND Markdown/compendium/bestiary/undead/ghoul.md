@@ -10,7 +10,6 @@ tags:
   - monster/type/undead
 aliases:
   - Ghoul
-dg-publish: true
 ---
 # Ghoul
 *Source: SRD / Basic Rules*  

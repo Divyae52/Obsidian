@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Draconic Bloodline
-dg-publish: true
 ---
 # Draconic Bloodline
 *[Sorcerer](sorcerer.md): Sorcerous Origin*  

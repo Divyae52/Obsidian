@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Portable Hole
-dg-publish: true
 ---
 # Portable Hole
 *Wondrous Item, minor, rare*  

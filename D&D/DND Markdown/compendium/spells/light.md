@@ -11,7 +11,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Light
-dg-publish: true
 ---
 # Light
 *cantrip, Evocation*  

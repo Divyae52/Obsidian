@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Tome of Understanding
-dg-publish: true
 ---
 # Tome of Understanding
 *Wondrous Item, major, very rare*  

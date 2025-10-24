@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Crawler Mucus (Contact)
-dg-publish: true
 ---
 # Crawler Mucus (Contact)
 *Adventuring Gear, poison*  

@@ -11,7 +11,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Purify Food and Drink
-dg-publish: true
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

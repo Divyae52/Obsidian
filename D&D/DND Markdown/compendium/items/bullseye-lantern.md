@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Bullseye Lantern
-dg-publish: true
 ---
 # Bullseye Lantern
 *Adventuring Gear*  

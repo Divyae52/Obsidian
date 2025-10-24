@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Horseshoes of a Zephyr
-dg-publish: true
 ---
 # Horseshoes of a Zephyr
 *Wondrous Item, minor, very rare*  

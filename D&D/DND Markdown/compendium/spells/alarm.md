@@ -10,7 +10,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Alarm
-dg-publish: true
 ---
 # Alarm
 *1st-level, Abjuration (ritual)*  

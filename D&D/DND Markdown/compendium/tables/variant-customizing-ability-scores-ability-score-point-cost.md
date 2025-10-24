@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - "Variant: Customizing Ability Scores; Ability Score Point Cost"
-dg-publish: true
 ---
 # Variant: Customizing Ability Scores; Ability Score Point Cost
 *Source: SRD / Basic Rules* 

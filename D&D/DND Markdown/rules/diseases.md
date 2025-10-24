@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Diseases
-dg-publish: true
 ---
 # Diseases
 

@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Grease
-dg-publish: true
 ---
 # Grease
 *1st-level, Conjuration*  

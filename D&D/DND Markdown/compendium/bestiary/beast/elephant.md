@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Elephant
-dg-publish: true
 ---
 # Elephant
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Salt
-dg-publish: true
 ---
 # Salt
 *Trade Good*  

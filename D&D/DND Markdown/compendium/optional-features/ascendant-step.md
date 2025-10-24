@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Ascendant Step
-dg-publish: true
 ---
 # Ascendant Step
 *Source: SRD / Basic Rules* 

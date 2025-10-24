@@ -8,7 +8,6 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Security
-dg-publish: true
 ---
 # Rod of Security
 *Rod, major, very rare*  

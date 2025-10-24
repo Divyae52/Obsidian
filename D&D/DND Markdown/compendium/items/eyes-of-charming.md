@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Eyes of Charming
-dg-publish: true
 ---
 # Eyes of Charming
 *Wondrous Item, major, uncommon (requires attunement)*  

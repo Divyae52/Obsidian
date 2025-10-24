@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Mass Suggestion
-dg-publish: true
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  

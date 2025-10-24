@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Madness
-dg-publish: true
 ---
 # Madness
 *Source: SRD / Basic Rules* 

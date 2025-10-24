@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Lyre
-dg-publish: true
 ---
 # Lyre
 *Instrument*  

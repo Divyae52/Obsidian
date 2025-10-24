@@ -8,7 +8,6 @@ tags:
   - monster/type/construct
 aliases:
   - Shield Guardian
-dg-publish: true
 ---
 # Shield Guardian
 *Source: SRD / Basic Rules*  

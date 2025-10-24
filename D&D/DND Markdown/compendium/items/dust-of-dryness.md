@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Dust of Dryness
-dg-publish: true
 ---
 # Dust of Dryness
 *Wondrous Item, minor, uncommon*  

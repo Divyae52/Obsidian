@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Meteor Swarm
-dg-publish: true
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

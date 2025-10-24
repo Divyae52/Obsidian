@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Skills
-dg-publish: true
 ---
 # Skills
 

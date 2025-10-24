@@ -9,7 +9,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Purple Worm
-dg-publish: true
 ---
 # Purple Worm
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Hunter
-dg-publish: true
 ---
 # Hunter
 *[Ranger](ranger.md): Ranger Archetype*  

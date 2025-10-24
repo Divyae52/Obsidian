@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Climbing
-dg-publish: true
 ---
 # Potion of Climbing
 *Potion, minor, common*  

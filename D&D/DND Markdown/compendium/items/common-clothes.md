@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Common Clothes
-dg-publish: true
 ---
 # Common Clothes
 *Adventuring Gear*  

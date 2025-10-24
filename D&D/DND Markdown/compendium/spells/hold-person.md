@@ -13,7 +13,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Hold Person
-dg-publish: true
 ---
 # Hold Person
 *2nd-level, Enchantment*  

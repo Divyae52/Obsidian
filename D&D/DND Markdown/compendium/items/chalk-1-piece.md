@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Chalk (1 piece)
-dg-publish: true
 ---
 # Chalk (1 piece)
 *Adventuring Gear*  

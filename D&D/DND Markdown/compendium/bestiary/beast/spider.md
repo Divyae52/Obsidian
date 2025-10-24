@@ -7,7 +7,6 @@ tags:
   - monster/type/beast
 aliases:
   - Spider
-dg-publish: true
 ---
 # Spider
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Contagion
-dg-publish: true
 ---
 # Contagion
 *5th-level, Necromancy*  

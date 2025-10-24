@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Tiger
-dg-publish: true
 ---
 # Tiger
 *Source: SRD / Basic Rules*  

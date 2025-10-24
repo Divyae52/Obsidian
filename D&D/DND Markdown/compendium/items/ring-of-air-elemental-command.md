@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Air Elemental Command
-dg-publish: true
 ---
 # Ring of Air Elemental Command
 *Ring, major, legendary (requires attunement)*  

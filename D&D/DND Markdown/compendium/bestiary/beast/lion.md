@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Lion
-dg-publish: true
 ---
 # Lion
 *Source: SRD / Basic Rules*  

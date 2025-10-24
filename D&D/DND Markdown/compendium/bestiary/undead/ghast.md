@@ -10,7 +10,6 @@ tags:
   - monster/type/undead
 aliases:
   - Ghast
-dg-publish: true
 ---
 # Ghast
 *Source: SRD / Basic Rules*  

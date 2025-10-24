@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Fishing Tackle
-dg-publish: true
 ---
 # Fishing Tackle
 *Adventuring Gear*  

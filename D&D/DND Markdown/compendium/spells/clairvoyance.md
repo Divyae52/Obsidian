@@ -11,7 +11,6 @@ tags:
   - spell/school/divination
 aliases:
   - Clairvoyance
-dg-publish: true
 ---
 # Clairvoyance
 *3rd-level, Divination*  

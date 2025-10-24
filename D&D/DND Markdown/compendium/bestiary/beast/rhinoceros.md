@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Rhinoceros
-dg-publish: true
 ---
 # Rhinoceros
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Paralysis
-dg-publish: true
 ---
 # Wand of Paralysis
 *Wand, major, rare (requires attunement by a spellcaster)*  

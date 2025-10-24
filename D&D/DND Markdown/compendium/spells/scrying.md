@@ -12,7 +12,6 @@ tags:
   - spell/school/divination
 aliases:
   - Scrying
-dg-publish: true
 ---
 # Scrying
 *5th-level, Divination*  

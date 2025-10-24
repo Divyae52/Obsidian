@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Forbiddance
-dg-publish: true
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  

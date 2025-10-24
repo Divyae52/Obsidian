@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Telekinesis
-dg-publish: true
 ---
 # Telekinesis
 *5th-level, Transmutation*  

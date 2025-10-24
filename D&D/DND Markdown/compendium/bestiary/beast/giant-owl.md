@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Owl
-dg-publish: true
 ---
 # Giant Owl
 *Source: SRD / Basic Rules*  

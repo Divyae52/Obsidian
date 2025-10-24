@@ -9,7 +9,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Gargoyle
-dg-publish: true
 ---
 # Gargoyle
 *Source: SRD / Basic Rules*  

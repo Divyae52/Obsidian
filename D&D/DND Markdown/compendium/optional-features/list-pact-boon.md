@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Pact Boon
-dg-publish: true
 ---
 # Pact Boon
 *Source: SRD / Basic Rules* 

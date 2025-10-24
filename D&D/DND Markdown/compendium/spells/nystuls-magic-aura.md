@@ -8,7 +8,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Nystul's Magic Aura
-dg-publish: true
 ---
 # Nystul's Magic Aura
 *2nd-level, Illusion*  

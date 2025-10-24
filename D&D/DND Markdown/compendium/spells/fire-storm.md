@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Fire Storm
-dg-publish: true
 ---
 # Fire Storm
 *7th-level, Evocation*  

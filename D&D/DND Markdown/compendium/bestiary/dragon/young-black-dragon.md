@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Young Black Dragon
-dg-publish: true
 ---
 # Young Black Dragon
 *Source: SRD / Basic Rules*  

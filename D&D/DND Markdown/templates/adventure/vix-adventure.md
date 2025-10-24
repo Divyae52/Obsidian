@@ -1,3 +1,6 @@
+---
+{}
+---
 # ViX's Adventure Template
 
 **Plugin Dependencies**:

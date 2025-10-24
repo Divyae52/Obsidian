@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Assassin's Blood
-dg-publish: true
 ---
 # Assassin's Blood
 *Adventuring Gear, poison*  

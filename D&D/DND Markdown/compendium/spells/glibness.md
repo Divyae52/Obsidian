@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Glibness
-dg-publish: true
 ---
 # Glibness
 *8th-level, Transmutation*  

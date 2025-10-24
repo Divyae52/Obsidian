@@ -8,7 +8,6 @@ tags:
   - item/tier/major
 aliases:
   - Pipes of Haunting
-dg-publish: true
 ---
 # Pipes of Haunting
 *Instrument, major, uncommon*  

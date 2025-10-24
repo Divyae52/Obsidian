@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Oil of Taggit
-dg-publish: true
 ---
 # Oil of Taggit
 *Adventuring Gear, poison*  

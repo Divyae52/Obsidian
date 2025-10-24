@@ -13,7 +13,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Berserker
-dg-publish: true
 ---
 # Berserker
 *Source: SRD / Basic Rules*  

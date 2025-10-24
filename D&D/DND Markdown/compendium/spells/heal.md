@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Heal
-dg-publish: true
 ---
 # Heal
 *6th-level, Evocation*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Flesh to Stone
-dg-publish: true
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

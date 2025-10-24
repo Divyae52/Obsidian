@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Black Dragon Scale Mail
-dg-publish: true
 ---
 # Black Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

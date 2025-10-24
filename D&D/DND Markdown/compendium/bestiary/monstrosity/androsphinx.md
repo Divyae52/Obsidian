@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Androsphinx
-dg-publish: true
 ---
 # Androsphinx
 *Source: SRD / Basic Rules*  

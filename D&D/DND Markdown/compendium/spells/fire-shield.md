@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Fire Shield
-dg-publish: true
 ---
 # Fire Shield
 *4th-level, Evocation*  

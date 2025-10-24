@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Oil of Etherealness
-dg-publish: true
 ---
 # Oil of Etherealness
 *Potion, minor, rare*  

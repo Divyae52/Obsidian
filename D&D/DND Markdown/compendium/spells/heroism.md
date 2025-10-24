@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Heroism
-dg-publish: true
 ---
 # Heroism
 *1st-level, Enchantment*  

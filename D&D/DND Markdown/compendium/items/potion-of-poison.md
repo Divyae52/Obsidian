@@ -9,7 +9,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Poison
-dg-publish: true
 ---
 # Potion of Poison
 *Potion, minor, uncommon, poison*  

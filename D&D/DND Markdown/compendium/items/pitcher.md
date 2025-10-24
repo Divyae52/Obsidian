@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Pitcher
-dg-publish: true
 ---
 # Pitcher
 *Adventuring Gear*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous/rod
 aliases:
   - Immovable Rod
-dg-publish: true
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

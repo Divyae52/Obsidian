@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend
 aliases:
   - Night Hag
-dg-publish: true
 ---
 # Night Hag
 *Source: SRD / Basic Rules*  

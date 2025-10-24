@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Wings of Flying
-dg-publish: true
 ---
 # Wings of Flying
 *Wondrous Item, major, rare (requires attunement)*  

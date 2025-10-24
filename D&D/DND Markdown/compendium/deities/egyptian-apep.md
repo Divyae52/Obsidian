@@ -7,7 +7,6 @@ tags:
   - domain/trickery
 aliases:
   - Apep
-dg-publish: true
 ---
 # Apep
 *Source: SRD / Basic Rules* 

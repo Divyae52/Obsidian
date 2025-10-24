@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Horseshoes of Speed
-dg-publish: true
 ---
 # Horseshoes of Speed
 *Wondrous Item, minor, rare*  

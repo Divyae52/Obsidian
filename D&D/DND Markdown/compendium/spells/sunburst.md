@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Sunburst
-dg-publish: true
 ---
 # Sunburst
 *8th-level, Evocation*  

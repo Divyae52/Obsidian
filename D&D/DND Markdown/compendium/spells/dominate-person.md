@@ -10,7 +10,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Dominate Person
-dg-publish: true
 ---
 # Dominate Person
 *5th-level, Enchantment*  

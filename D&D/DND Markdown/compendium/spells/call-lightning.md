@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Call Lightning
-dg-publish: true
 ---
 # Call Lightning
 *3rd-level, Conjuration*  

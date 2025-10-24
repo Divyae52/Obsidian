@@ -11,7 +11,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Thunderwave
-dg-publish: true
 ---
 # Thunderwave
 *1st-level, Evocation*  

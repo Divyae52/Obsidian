@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Continual Flame
-dg-publish: true
 ---
 # Continual Flame
 *2nd-level, Evocation*  

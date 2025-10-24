@@ -8,7 +8,6 @@ tags:
   - monster/type/fey
 aliases:
   - Blink Dog
-dg-publish: true
 ---
 # Blink Dog
 *Source: SRD / Basic Rules*  

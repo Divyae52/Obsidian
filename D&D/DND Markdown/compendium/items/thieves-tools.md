@@ -6,7 +6,6 @@ tags:
   - item/gear/tools
 aliases:
   - Thieves' Tools
-dg-publish: true
 ---
 # Thieves' Tools
 *Tools*  

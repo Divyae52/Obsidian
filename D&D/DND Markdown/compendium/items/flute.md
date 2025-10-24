@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Flute
-dg-publish: true
 ---
 # Flute
 *Instrument*  

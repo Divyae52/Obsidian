@@ -6,7 +6,6 @@ tags:
   - item/vehicle/ship
 aliases:
   - Rowboat
-dg-publish: true
 ---
 # Rowboat
 *Ship, Vehicle (water)*  

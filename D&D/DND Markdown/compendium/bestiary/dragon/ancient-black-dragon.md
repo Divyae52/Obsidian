@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Black Dragon
-dg-publish: true
 ---
 # Ancient Black Dragon
 *Source: SRD / Basic Rules*  

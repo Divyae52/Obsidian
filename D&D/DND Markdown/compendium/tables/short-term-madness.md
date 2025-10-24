@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Short-Term Madness
-dg-publish: true
 ---
 # Short-Term Madness
 *Source: SRD / Basic Rules* 

@@ -10,7 +10,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Spire of Conflux (Dormant)
-dg-publish: true
 ---
 # Spire of Conflux (Dormant)
 *Melee Weapon, legendary (requires attunement by a spellcaster)*  

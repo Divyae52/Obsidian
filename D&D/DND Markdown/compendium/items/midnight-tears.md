@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Midnight Tears
-dg-publish: true
 ---
 # Midnight Tears
 *Adventuring Gear, poison*  

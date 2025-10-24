@@ -8,7 +8,6 @@ tags:
   - domain/knowledge
 aliases:
   - Hephaestus
-dg-publish: true
 ---
 # Hephaestus
 *Source: SRD / Basic Rules* 

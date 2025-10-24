@@ -13,7 +13,6 @@ tags:
   - spell/school/divination
 aliases:
   - Locate Object
-dg-publish: true
 ---
 # Locate Object
 *2nd-level, Divination*  

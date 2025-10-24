@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Whip
-dg-publish: true
 ---
 # Whip
 *Melee Weapon*  

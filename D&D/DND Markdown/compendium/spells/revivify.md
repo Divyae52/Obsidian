@@ -9,7 +9,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Revivify
-dg-publish: true
 ---
 # Revivify
 *3rd-level, Necromancy*  

@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Eldritch Sight
-dg-publish: true
 ---
 # Eldritch Sight
 *Source: SRD / Basic Rules* 

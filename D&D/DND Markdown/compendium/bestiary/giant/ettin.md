@@ -10,7 +10,6 @@ tags:
   - monster/type/giant
 aliases:
   - Ettin
-dg-publish: true
 ---
 # Ettin
 *Source: SRD / Basic Rules*  

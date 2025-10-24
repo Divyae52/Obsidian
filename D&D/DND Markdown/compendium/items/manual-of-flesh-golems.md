@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Manual of Flesh Golems
-dg-publish: true
 ---
 # Manual of Flesh Golems
 *Wondrous Item, major, very rare*  

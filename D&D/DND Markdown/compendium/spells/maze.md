@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Maze
-dg-publish: true
 ---
 # Maze
 *8th-level, Conjuration*  

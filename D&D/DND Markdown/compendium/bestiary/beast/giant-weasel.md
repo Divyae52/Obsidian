@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Weasel
-dg-publish: true
 ---
 # Giant Weasel
 *Source: SRD / Basic Rules*  

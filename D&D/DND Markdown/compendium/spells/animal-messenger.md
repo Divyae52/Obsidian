@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Animal Messenger
-dg-publish: true
 ---
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  

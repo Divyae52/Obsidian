@@ -8,7 +8,6 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll (Cantrip)
-dg-publish: true
 ---
 # Spell Scroll (Cantrip)
 *Scroll, minor, common*  

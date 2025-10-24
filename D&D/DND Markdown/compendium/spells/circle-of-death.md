@@ -10,7 +10,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Circle of Death
-dg-publish: true
 ---
 # Circle of Death
 *6th-level, Necromancy*  

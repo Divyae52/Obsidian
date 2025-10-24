@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Free Action
-dg-publish: true
 ---
 # Ring of Free Action
 *Ring, major, rare (requires attunement)*  

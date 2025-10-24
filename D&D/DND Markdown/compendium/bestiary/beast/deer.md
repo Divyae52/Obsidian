@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Deer
-dg-publish: true
 ---
 # Deer
 *Source: SRD / Basic Rules*  

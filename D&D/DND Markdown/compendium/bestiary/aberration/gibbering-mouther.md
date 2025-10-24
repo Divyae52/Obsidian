@@ -8,7 +8,6 @@ tags:
   - monster/type/aberration
 aliases:
   - Gibbering Mouther
-dg-publish: true
 ---
 # Gibbering Mouther
 *Source: SRD / Basic Rules*  

@@ -10,7 +10,6 @@ tags:
   - spell/school/divination
 aliases:
   - Contact Other Plane
-dg-publish: true
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  

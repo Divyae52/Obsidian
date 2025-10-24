@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Cloak of the Manta Ray
-dg-publish: true
 ---
 # Cloak of the Manta Ray
 *Wondrous Item, minor, uncommon*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Horned Devil
-dg-publish: true
 ---
 # Horned Devil
 *Source: SRD / Basic Rules*  

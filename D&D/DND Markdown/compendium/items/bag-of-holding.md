@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Bag of Holding
-dg-publish: true
 ---
 # Bag of Holding
 *Wondrous Item, minor, uncommon*  

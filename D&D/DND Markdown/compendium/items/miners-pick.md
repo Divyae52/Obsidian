@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Miner's Pick
-dg-publish: true
 ---
 # Miner's Pick
 *Adventuring Gear*  

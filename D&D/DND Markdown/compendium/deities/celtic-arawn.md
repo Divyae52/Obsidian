@@ -8,7 +8,6 @@ tags:
   - domain/life
 aliases:
   - Arawn
-dg-publish: true
 ---
 # Arawn
 *Source: SRD / Basic Rules* 

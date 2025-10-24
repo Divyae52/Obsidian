@@ -11,7 +11,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Hypnotic Pattern
-dg-publish: true
 ---
 # Hypnotic Pattern
 *3rd-level, Illusion*  

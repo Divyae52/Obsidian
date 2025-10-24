@@ -10,7 +10,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Greater Restoration
-dg-publish: true
 ---
 # Greater Restoration
 *5th-level, Abjuration*  

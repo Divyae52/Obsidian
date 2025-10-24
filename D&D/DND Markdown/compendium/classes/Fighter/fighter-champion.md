@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Champion
-dg-publish: true
 ---
 # Champion
 *[Fighter](fighter.md): Martial Archetype*  

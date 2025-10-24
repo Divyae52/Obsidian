@@ -9,7 +9,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Mislead
-dg-publish: true
 ---
 # Mislead
 *5th-level, Illusion*  

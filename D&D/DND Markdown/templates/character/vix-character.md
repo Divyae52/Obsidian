@@ -1,3 +1,6 @@
+---
+{}
+---
 # Vix's Player Character Template
 
 __Plugin Dependencies__:

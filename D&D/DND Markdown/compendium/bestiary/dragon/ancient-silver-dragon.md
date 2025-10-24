@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Silver Dragon
-dg-publish: true
 ---
 # Ancient Silver Dragon
 *Source: SRD / Basic Rules*  

@@ -15,7 +15,6 @@ tags:
   - spell/school/divination
 aliases:
   - Detect Magic
-dg-publish: true
 ---
 # Detect Magic
 *1st-level, Divination (ritual)*  

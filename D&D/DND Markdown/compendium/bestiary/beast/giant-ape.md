@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Ape
-dg-publish: true
 ---
 # Giant Ape
 *Source: SRD / Basic Rules*  

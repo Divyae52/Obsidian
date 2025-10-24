@@ -10,7 +10,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Gust of Wind
-dg-publish: true
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

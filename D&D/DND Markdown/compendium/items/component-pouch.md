@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Component Pouch
-dg-publish: true
 ---
 # Component Pouch
 *Adventuring Gear*  

@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Flying Snake
-dg-publish: true
 ---
 # Flying Snake
 *Source: SRD / Basic Rules*  

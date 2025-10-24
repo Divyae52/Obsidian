@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Bats
-dg-publish: true
 ---
 # Swarm of Bats
 *Source: SRD / Basic Rules*  

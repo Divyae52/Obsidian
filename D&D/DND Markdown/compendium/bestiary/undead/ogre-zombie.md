@@ -7,7 +7,6 @@ tags:
   - monster/type/undead
 aliases:
   - Ogre Zombie
-dg-publish: true
 ---
 # Ogre Zombie
 *Source: SRD / Basic Rules*  

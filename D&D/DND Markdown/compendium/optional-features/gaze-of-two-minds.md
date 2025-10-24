@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Gaze of Two Minds
-dg-publish: true
 ---
 # Gaze of Two Minds
 *Source: SRD / Basic Rules* 

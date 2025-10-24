@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult White Dragon
-dg-publish: true
 ---
 # Adult White Dragon
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Orb
-dg-publish: true
 ---
 # Orb
 *Spellcasting Focus*  

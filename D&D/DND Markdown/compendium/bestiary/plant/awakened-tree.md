@@ -8,7 +8,6 @@ tags:
   - monster/type/plant
 aliases:
   - Awakened Tree
-dg-publish: true
 ---
 # Awakened Tree
 *Source: SRD / Basic Rules*  

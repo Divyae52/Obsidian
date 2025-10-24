@@ -7,7 +7,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Sickle
-dg-publish: true
 ---
 # Sickle
 *Melee Weapon*  

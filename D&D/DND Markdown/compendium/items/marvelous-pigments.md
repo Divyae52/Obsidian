@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Marvelous Pigments
-dg-publish: true
 ---
 # Marvelous Pigments
 *Wondrous Item, minor, very rare*  

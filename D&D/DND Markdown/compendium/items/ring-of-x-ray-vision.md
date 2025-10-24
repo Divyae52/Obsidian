@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of X-ray Vision
-dg-publish: true
 ---
 # Ring of X-ray Vision
 *Ring, major, rare (requires attunement)*  

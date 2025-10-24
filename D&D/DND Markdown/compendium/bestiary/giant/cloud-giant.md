@@ -8,7 +8,6 @@ tags:
   - monster/type/giant
 aliases:
   - Cloud Giant
-dg-publish: true
 ---
 # Cloud Giant
 *Source: SRD / Basic Rules*  

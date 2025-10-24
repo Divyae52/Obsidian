@@ -12,7 +12,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Mending
-dg-publish: true
 ---
 # Mending
 *cantrip, Transmutation*  

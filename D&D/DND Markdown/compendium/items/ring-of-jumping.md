@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Jumping
-dg-publish: true
 ---
 # Ring of Jumping
 *Ring, major, uncommon (requires attunement)*  

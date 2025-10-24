@@ -9,7 +9,6 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Lordly Might
-dg-publish: true
 ---
 # Rod of Lordly Might
 *Rod, major, legendary (requires attunement)*  

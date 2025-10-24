@@ -10,7 +10,6 @@ tags:
   - monster/type/celestial
 aliases:
   - Pegasus
-dg-publish: true
 ---
 # Pegasus
 *Source: SRD / Basic Rules*  

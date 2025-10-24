@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Young Copper Dragon
-dg-publish: true
 ---
 # Young Copper Dragon
 *Source: SRD / Basic Rules*  

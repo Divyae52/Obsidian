@@ -9,7 +9,6 @@ tags:
   - monster/type/giant
 aliases:
   - Oni
-dg-publish: true
 ---
 # Oni
 *Source: SRD / Basic Rules*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/dragon
 aliases:
   - White Dragon Wyrmling
-dg-publish: true
 ---
 # White Dragon Wyrmling
 *Source: SRD / Basic Rules*  

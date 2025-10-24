@@ -11,7 +11,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Polymorph
-dg-publish: true
 ---
 # Polymorph
 *4th-level, Transmutation*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/undead
 aliases:
   - Zombie
-dg-publish: true
 ---
 # Zombie
 *Source: SRD / Basic Rules*  

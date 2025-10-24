@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Cotton Cloth (1 sq. yd.)
-dg-publish: true
 ---
 # Cotton Cloth (1 sq. yd.)
 *Trade Good*  

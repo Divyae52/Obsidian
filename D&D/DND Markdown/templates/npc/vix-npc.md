@@ -1,3 +1,6 @@
+---
+{}
+---
 # Vix's NPC Template
 
 **Plugin Dependencies**:

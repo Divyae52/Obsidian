@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Slippers of Spider Climbing
-dg-publish: true
 ---
 # Slippers of Spider Climbing
 *Wondrous Item, major, uncommon (requires attunement)*  

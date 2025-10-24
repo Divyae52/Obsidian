@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Reincarnate
-dg-publish: true
 ---
 # Reincarnate
 *5th-level, Transmutation*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Mirror of Life Trapping
-dg-publish: true
 ---
 # Mirror of Life Trapping
 *Wondrous Item, major, very rare*  

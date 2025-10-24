@@ -10,7 +10,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Raise Dead
-dg-publish: true
 ---
 # Raise Dead
 *5th-level, Necromancy*  

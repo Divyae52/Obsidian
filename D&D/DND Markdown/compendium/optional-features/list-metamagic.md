@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Metamagic
-dg-publish: true
 ---
 # Metamagic
 *Source: SRD / Basic Rules* 

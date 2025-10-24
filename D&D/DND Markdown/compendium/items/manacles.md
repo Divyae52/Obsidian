@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Manacles
-dg-publish: true
 ---
 # Manacles
 *Adventuring Gear*  

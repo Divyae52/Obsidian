@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Waterskin
-dg-publish: true
 ---
 # Waterskin
 *Adventuring Gear*  

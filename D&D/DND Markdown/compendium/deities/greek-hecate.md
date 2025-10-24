@@ -9,7 +9,6 @@ tags:
   - domain/trickery
 aliases:
   - Hecate
-dg-publish: true
 ---
 # Hecate
 *Source: SRD / Basic Rules* 

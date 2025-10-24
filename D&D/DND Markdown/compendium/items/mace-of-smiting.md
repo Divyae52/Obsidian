@@ -8,7 +8,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Mace of Smiting
-dg-publish: true
 ---
 # Mace of Smiting
 *Melee Weapon, major, rare*  

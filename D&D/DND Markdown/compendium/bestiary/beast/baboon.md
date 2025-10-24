@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Baboon
-dg-publish: true
 ---
 # Baboon
 *Source: SRD / Basic Rules*  

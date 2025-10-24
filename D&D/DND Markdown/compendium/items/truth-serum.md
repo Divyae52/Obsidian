@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Truth Serum
-dg-publish: true
 ---
 # Truth Serum
 *Adventuring Gear, poison*  

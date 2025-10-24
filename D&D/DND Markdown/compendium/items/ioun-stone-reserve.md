@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Reserve
-dg-publish: true
 ---
 # Ioun Stone, Reserve
 *Wondrous Item, major, rare (requires attunement)*  

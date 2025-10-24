@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/devil
 aliases:
   - Pit Fiend
-dg-publish: true
 ---
 # Pit Fiend
 *Source: SRD / Basic Rules*  

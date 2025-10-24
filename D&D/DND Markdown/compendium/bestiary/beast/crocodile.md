@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Crocodile
-dg-publish: true
 ---
 # Crocodile
 *Source: SRD / Basic Rules*  

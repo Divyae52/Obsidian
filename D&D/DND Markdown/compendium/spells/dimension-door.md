@@ -11,7 +11,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Dimension Door
-dg-publish: true
 ---
 # Dimension Door
 *4th-level, Conjuration*  

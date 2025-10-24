@@ -6,7 +6,6 @@ tags:
   - item/gear/mount
 aliases:
   - Warhorse
-dg-publish: true
 ---
 # Warhorse
 *Mount*  

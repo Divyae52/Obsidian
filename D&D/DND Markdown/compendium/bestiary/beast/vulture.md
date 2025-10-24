@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Vulture
-dg-publish: true
 ---
 # Vulture
 *Source: SRD / Basic Rules*  

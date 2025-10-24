@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Mammoth
-dg-publish: true
 ---
 # Mammoth
 *Source: SRD / Basic Rules*  

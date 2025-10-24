@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Talisman of Ultimate Evil
-dg-publish: true
 ---
 # Talisman of Ultimate Evil
 *Wondrous Item, major, legendary (requires attunement by a creature of evil alignment)*  

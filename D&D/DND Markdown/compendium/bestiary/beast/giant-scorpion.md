@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Scorpion
-dg-publish: true
 ---
 # Giant Scorpion
 *Source: SRD / Basic Rules*  

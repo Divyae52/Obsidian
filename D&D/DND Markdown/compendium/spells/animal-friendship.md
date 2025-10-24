@@ -10,7 +10,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Animal Friendship
-dg-publish: true
 ---
 # Animal Friendship
 *1st-level, Enchantment*  

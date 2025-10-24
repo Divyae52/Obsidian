@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Plate Armor of Etherealness
-dg-publish: true
 ---
 # Plate Armor of Etherealness
 *Heavy Armor, major, legendary (requires attunement)*  

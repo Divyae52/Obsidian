@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Cloak of Elvenkind
-dg-publish: true
 ---
 # Cloak of Elvenkind
 *Wondrous Item, major, uncommon (requires attunement)*  

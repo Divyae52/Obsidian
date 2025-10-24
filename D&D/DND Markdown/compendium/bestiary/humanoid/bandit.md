@@ -13,7 +13,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Bandit
-dg-publish: true
 ---
 # Bandit
 *Source: SRD / Basic Rules*  

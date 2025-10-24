@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Camel
-dg-publish: true
 ---
 # Camel
 *Source: SRD / Basic Rules*  

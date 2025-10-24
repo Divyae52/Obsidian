@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Chain (10 feet)
-dg-publish: true
 ---
 # Chain (10 feet)
 *Adventuring Gear*  

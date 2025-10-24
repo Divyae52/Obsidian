@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Spirit Naga
-dg-publish: true
 ---
 # Spirit Naga
 *Source: SRD / Basic Rules*  

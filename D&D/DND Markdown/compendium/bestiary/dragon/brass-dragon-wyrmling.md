@@ -7,7 +7,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Brass Dragon Wyrmling
-dg-publish: true
 ---
 # Brass Dragon Wyrmling
 *Source: SRD / Basic Rules*  

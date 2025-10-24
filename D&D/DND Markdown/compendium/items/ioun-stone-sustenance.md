@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Sustenance
-dg-publish: true
 ---
 # Ioun Stone, Sustenance
 *Wondrous Item, major, rare (requires attunement)*  

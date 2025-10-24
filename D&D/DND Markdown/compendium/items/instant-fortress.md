@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Instant Fortress
-dg-publish: true
 ---
 # Instant Fortress
 *Wondrous Item, major, rare*  

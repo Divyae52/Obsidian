@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Lute
-dg-publish: true
 ---
 # Lute
 *Instrument*  

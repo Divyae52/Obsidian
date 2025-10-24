@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Stone Shape
-dg-publish: true
 ---
 # Stone Shape
 *4th-level, Transmutation*  

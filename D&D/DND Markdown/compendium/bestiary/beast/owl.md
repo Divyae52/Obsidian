@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Owl
-dg-publish: true
 ---
 # Owl
 *Source: SRD / Basic Rules*  

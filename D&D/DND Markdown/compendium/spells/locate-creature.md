@@ -13,7 +13,6 @@ tags:
   - spell/school/divination
 aliases:
   - Locate Creature
-dg-publish: true
 ---
 # Locate Creature
 *4th-level, Divination*  

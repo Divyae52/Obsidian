@@ -8,7 +8,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Antilife Shell
-dg-publish: true
 ---
 # Antilife Shell
 *5th-level, Abjuration*  

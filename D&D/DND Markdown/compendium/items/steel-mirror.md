@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Steel Mirror
-dg-publish: true
 ---
 # Steel Mirror
 *Adventuring Gear*  

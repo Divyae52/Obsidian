@@ -6,7 +6,6 @@ tags:
   - item/vehicle/ship
 aliases:
   - Longship
-dg-publish: true
 ---
 # Longship
 *Ship, Vehicle (water)*  

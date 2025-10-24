@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Guiding Bolt
-dg-publish: true
 ---
 # Guiding Bolt
 *1st-level, Evocation*  

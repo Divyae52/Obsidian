@@ -10,7 +10,6 @@ tags:
   - spell/school/divination
 aliases:
   - Identify
-dg-publish: true
 ---
 # Identify
 *1st-level, Divination (ritual)*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/divination
 aliases:
   - Rary's Telepathic Bond
-dg-publish: true
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

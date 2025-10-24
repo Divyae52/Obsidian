@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Spiritual Weapon
-dg-publish: true
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  

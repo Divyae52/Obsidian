@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Helm of Teleportation
-dg-publish: true
 ---
 # Helm of Teleportation
 *Wondrous Item, major, rare (requires attunement)*  

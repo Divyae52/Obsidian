@@ -8,7 +8,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Three Wishes
-dg-publish: true
 ---
 # Ring of Three Wishes
 *Ring, major, legendary*  

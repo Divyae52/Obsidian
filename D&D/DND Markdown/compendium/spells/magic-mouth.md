@@ -10,7 +10,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Magic Mouth
-dg-publish: true
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

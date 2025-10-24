@@ -6,7 +6,6 @@ tags:
   - item/gear/gaming-set
 aliases:
   - Playing Card Set
-dg-publish: true
 ---
 # Playing Card Set
 *Gaming Set*  

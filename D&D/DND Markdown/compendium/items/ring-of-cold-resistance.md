@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Cold Resistance
-dg-publish: true
 ---
 # Ring of Cold Resistance
 *Ring, major, rare (requires attunement)*  

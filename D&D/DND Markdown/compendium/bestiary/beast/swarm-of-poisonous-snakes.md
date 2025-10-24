@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Swarm of Poisonous Snakes
-dg-publish: true
 ---
 # Swarm of Poisonous Snakes
 *Source: SRD / Basic Rules*  

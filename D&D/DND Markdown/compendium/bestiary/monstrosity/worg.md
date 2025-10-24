@@ -10,7 +10,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Worg
-dg-publish: true
 ---
 # Worg
 *Source: SRD / Basic Rules*  

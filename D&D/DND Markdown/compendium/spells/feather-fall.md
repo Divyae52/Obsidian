@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Feather Fall
-dg-publish: true
 ---
 # Feather Fall
 *1st-level, Transmutation*  

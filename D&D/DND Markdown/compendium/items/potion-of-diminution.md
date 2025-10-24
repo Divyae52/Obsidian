@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Diminution
-dg-publish: true
 ---
 # Potion of Diminution
 *Potion, minor, rare*  

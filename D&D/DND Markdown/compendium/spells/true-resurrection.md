@@ -9,7 +9,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - True Resurrection
-dg-publish: true
 ---
 # True Resurrection
 *9th-level, Necromancy*  

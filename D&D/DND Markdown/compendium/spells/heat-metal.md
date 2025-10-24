@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Heat Metal
-dg-publish: true
 ---
 # Heat Metal
 *2nd-level, Transmutation*  

@@ -9,7 +9,6 @@ tags:
   - domain/nature
 aliases:
   - Osiris
-dg-publish: true
 ---
 # Osiris
 *Source: SRD / Basic Rules* 

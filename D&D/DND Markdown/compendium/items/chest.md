@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Chest
-dg-publish: true
 ---
 # Chest
 *Adventuring Gear*  

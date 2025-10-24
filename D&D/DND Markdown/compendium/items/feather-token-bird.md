@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Feather Token, Bird
-dg-publish: true
 ---
 # Feather Token, Bird
 *Wondrous Item, minor, rare*  

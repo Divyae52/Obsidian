@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Polar Bear
-dg-publish: true
 ---
 # Polar Bear
 *Source: SRD / Basic Rules*  

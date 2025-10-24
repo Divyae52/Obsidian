@@ -9,7 +9,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Ankheg
-dg-publish: true
 ---
 # Ankheg
 *Source: SRD / Basic Rules*  

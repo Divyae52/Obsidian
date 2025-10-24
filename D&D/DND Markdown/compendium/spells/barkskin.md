@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Barkskin
-dg-publish: true
 ---
 # Barkskin
 *2nd-level, Transmutation*  

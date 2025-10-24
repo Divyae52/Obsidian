@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Mastery
-dg-publish: true
 ---
 # Ioun Stone, Mastery
 *Wondrous Item, major, legendary (requires attunement)*  

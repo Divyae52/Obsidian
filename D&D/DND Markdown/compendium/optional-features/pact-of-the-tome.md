@@ -6,7 +6,6 @@ tags:
   - optional-feature/pb
 aliases:
   - Pact of the Tome
-dg-publish: true
 ---
 # Pact of the Tome
 *Source: SRD / Basic Rules* 

@@ -9,7 +9,6 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Wonder
-dg-publish: true
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  

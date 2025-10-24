@@ -9,7 +9,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Javelin of Lightning
-dg-publish: true
 ---
 # Javelin of Lightning
 *Melee Weapon, major, uncommon*  

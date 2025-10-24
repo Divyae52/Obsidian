@@ -8,7 +8,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Prismatic Wall
-dg-publish: true
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  

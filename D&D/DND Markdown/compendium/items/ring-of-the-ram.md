@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Ram
-dg-publish: true
 ---
 # Ring of the Ram
 *Ring, major, rare (requires attunement)*  

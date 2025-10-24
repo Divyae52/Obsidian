@@ -7,7 +7,6 @@ tags:
   - optional-feature/fs-p
 aliases:
   - Protection
-dg-publish: true
 ---
 # Protection
 *Source: SRD / Basic Rules* 

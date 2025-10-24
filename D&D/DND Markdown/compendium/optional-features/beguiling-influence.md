@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Beguiling Influence
-dg-publish: true
 ---
 # Beguiling Influence
 *Source: SRD / Basic Rules* 

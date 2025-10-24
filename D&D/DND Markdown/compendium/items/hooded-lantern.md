@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Hooded Lantern
-dg-publish: true
 ---
 # Hooded Lantern
 *Adventuring Gear*  

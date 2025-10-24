@@ -8,7 +8,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Warding Bond
-dg-publish: true
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Green Dragon Wyrmling
-dg-publish: true
 ---
 # Green Dragon Wyrmling
 *Source: SRD / Basic Rules*  

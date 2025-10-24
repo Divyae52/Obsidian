@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Centipede
-dg-publish: true
 ---
 # Giant Centipede
 *Source: SRD / Basic Rules*  

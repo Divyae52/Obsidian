@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Scorching Ray
-dg-publish: true
 ---
 # Scorching Ray
 *2nd-level, Evocation*  

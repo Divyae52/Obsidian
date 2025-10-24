@@ -11,7 +11,6 @@ tags:
   - monster/type/humanoid/shapechanger
 aliases:
   - Werebear
-dg-publish: true
 ---
 # Werebear
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Cloak of Protection
-dg-publish: true
 ---
 # Cloak of Protection
 *Wondrous Item, major, uncommon (requires attunement)*  

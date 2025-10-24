@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Passwall
-dg-publish: true
 ---
 # Passwall
 *5th-level, Transmutation*  

@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Frost
-dg-publish: true
 ---
 # Staff of Frost
 *Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

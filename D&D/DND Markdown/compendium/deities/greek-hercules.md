@@ -8,7 +8,6 @@ tags:
   - domain/war
 aliases:
   - Hercules
-dg-publish: true
 ---
 # Hercules
 *Source: SRD / Basic Rules* 

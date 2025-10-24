@@ -6,7 +6,6 @@ tags:
   - item/gear/tack-and-harness
 aliases:
   - Bit and bridle
-dg-publish: true
 ---
 # Bit and bridle
 *Tack and Harness*  

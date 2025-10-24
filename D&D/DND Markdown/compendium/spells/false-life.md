@@ -9,7 +9,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - False Life
-dg-publish: true
 ---
 # False Life
 *1st-level, Necromancy*  

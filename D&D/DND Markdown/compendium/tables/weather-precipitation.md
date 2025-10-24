@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Weather; Precipitation
-dg-publish: true
 ---
 # Weather; Precipitation
 *Source: SRD / Basic Rules* 

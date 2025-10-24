@@ -6,7 +6,6 @@ tags:
   - item/gear/mount
 aliases:
   - Camel
-dg-publish: true
 ---
 # Camel
 *Mount*  

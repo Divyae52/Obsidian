@@ -7,7 +7,6 @@ tags:
   - domain/trickery
 aliases:
   - Bes
-dg-publish: true
 ---
 # Bes
 *Source: SRD / Basic Rules* 

@@ -7,7 +7,6 @@ tags:
   - domain/light
 aliases:
   - Belenus
-dg-publish: true
 ---
 # Belenus
 *Source: SRD / Basic Rules* 

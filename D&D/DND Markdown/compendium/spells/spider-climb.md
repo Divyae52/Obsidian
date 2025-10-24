@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Spider Climb
-dg-publish: true
 ---
 # Spider Climb
 *2nd-level, Transmutation*  

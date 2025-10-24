@@ -13,7 +13,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Bandit Captain
-dg-publish: true
 ---
 # Bandit Captain
 *Source: SRD / Basic Rules*  

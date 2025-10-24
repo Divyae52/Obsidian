@@ -10,7 +10,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Greater Invisibility
-dg-publish: true
 ---
 # Greater Invisibility
 *4th-level, Illusion*  

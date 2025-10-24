@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Barbarian
-dg-publish: true
 ---
 # Barbarian
 *Source: SRD / Basic Rules*  

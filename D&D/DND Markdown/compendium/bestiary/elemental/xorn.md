@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Xorn
-dg-publish: true
 ---
 # Xorn
 *Source: SRD / Basic Rules*  

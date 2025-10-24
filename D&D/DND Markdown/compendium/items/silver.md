@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Silver
-dg-publish: true
 ---
 # Silver
 *Trade Good*  

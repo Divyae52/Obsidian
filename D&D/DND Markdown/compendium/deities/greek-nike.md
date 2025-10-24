@@ -7,7 +7,6 @@ tags:
   - domain/war
 aliases:
   - Nike
-dg-publish: true
 ---
 # Nike
 *Source: SRD / Basic Rules* 

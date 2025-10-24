@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Belt of Frost Giant Strength
-dg-publish: true
 ---
 # Belt of Frost Giant Strength
 *Wondrous Item, major, very rare (requires attunement)*  

@@ -6,7 +6,6 @@ tags:
   - item/weapon/ammunition
 aliases:
   - Arrow
-dg-publish: true
 ---
 # Arrow
 *Ammunition*  

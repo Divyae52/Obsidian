@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Dominate Beast
-dg-publish: true
 ---
 # Dominate Beast
 *4th-level, Enchantment*  

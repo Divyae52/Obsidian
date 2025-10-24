@@ -6,7 +6,6 @@ tags:
   - race/halfling
 aliases:
   - Halfling
-dg-publish: true
 ---
 # Halfling
 *Source: SRD / Basic Rules*  

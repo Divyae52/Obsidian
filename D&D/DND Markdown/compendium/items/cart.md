@@ -6,7 +6,6 @@ tags:
   - item/vehicle
 aliases:
   - Cart
-dg-publish: true
 ---
 # Cart
 *Vehicle (land)*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Bag of Tricks, Rust
-dg-publish: true
 ---
 # Bag of Tricks, Rust
 *Wondrous Item, major, uncommon*  

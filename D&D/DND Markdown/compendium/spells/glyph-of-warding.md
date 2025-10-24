@@ -10,7 +10,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Glyph of Warding
-dg-publish: true
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

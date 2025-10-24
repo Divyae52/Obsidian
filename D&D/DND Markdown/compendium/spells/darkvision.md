@@ -11,7 +11,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Darkvision
-dg-publish: true
 ---
 # Darkvision
 *2nd-level, Transmutation*  

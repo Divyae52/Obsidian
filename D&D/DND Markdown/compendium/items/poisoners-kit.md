@@ -6,7 +6,6 @@ tags:
   - item/gear/tools
 aliases:
   - Poisoner's Kit
-dg-publish: true
 ---
 # Poisoner's Kit
 *Tools*  

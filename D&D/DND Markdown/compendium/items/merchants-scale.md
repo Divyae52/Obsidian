@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Merchant's Scale
-dg-publish: true
 ---
 # Merchant's Scale
 *Adventuring Gear*  

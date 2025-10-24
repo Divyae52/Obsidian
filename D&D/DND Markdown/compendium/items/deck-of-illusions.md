@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Deck of Illusions
-dg-publish: true
 ---
 # Deck of Illusions
 *Wondrous Item, major, uncommon*  

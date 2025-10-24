@@ -9,7 +9,6 @@ tags:
   - monster/type/undead
 aliases:
   - Ghost
-dg-publish: true
 ---
 # Ghost
 *Source: SRD / Basic Rules*  

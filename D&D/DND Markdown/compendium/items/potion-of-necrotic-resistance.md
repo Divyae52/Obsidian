@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Necrotic Resistance
-dg-publish: true
 ---
 # Potion of Necrotic Resistance
 *Potion, minor, uncommon*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Water Elemental Command
-dg-publish: true
 ---
 # Ring of Water Elemental Command
 *Ring, major, legendary (requires attunement)*  

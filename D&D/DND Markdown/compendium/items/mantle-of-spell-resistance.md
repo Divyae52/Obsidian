@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Mantle of Spell Resistance
-dg-publish: true
 ---
 # Mantle of Spell Resistance
 *Wondrous Item, major, rare (requires attunement)*  

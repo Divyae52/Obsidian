@@ -8,7 +8,6 @@ tags:
   - monster/type/aberration
 aliases:
   - Otyugh
-dg-publish: true
 ---
 # Otyugh
 *Source: SRD / Basic Rules*  

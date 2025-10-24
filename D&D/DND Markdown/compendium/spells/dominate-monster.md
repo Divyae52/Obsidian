@@ -11,7 +11,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Dominate Monster
-dg-publish: true
 ---
 # Dominate Monster
 *8th-level, Enchantment*  

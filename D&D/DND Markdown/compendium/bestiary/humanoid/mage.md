@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Mage
-dg-publish: true
 ---
 # Mage
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Create Food and Water
-dg-publish: true
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

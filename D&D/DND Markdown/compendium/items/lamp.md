@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Lamp
-dg-publish: true
 ---
 # Lamp
 *Adventuring Gear*  

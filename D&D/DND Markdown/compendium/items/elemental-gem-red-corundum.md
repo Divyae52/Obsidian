@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Elemental Gem, Red Corundum
-dg-publish: true
 ---
 # Elemental Gem, Red Corundum
 *Wondrous Item, minor, uncommon*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/beast
 aliases:
   - Octopus
-dg-publish: true
 ---
 # Octopus
 *Source: SRD / Basic Rules*  

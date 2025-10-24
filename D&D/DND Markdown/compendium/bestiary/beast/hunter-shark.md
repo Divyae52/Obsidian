@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Hunter Shark
-dg-publish: true
 ---
 # Hunter Shark
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Pearl of Power
-dg-publish: true
 ---
 # Pearl of Power
 *Wondrous Item, major, uncommon (requires attunement by a spellcaster)*  

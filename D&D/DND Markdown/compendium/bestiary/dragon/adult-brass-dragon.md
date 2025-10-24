@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Brass Dragon
-dg-publish: true
 ---
 # Adult Brass Dragon
 *Source: SRD / Basic Rules*  

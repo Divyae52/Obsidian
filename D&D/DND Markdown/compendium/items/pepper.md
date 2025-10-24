@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Pepper
-dg-publish: true
 ---
 # Pepper
 *Trade Good*  

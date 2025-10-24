@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Green Dragon
-dg-publish: true
 ---
 # Adult Green Dragon
 *Source: SRD / Basic Rules*  

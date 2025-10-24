@@ -9,7 +9,6 @@ tags:
   - domain/trickery
 aliases:
   - Set
-dg-publish: true
 ---
 # Set
 *Source: SRD / Basic Rules* 

@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - College of Lore
-dg-publish: true
 ---
 # College of Lore
 *[Bard](bard.md): Bard College*  

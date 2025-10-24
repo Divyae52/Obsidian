@@ -7,7 +7,6 @@ tags:
   - domain/light
 aliases:
   - Aphrodite
-dg-publish: true
 ---
 # Aphrodite
 *Source: SRD / Basic Rules* 

@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Assassin
-dg-publish: true
 ---
 # Assassin
 *Source: SRD / Basic Rules*  

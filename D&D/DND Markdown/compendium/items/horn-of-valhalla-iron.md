@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Horn of Valhalla, Iron
-dg-publish: true
 ---
 # Horn of Valhalla, Iron
 *Wondrous Item, major, legendary*  

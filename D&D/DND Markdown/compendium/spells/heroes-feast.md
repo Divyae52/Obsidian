@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Heroes' Feast
-dg-publish: true
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  

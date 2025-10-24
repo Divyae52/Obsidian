@@ -1,3 +1,6 @@
+---
+{}
+---
 # Xentis DND Beyond Character Sheets JSON Puller
 **Obisidian Plugins Required**: [**Dataview**](https://github.com/blacksmithgu/obsidian-dataview)
 **Website**: [**DND Beyond**](http://www.dndbeyond.com/)

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Decanter of Endless Water
-dg-publish: true
 ---
 # Decanter of Endless Water
 *Wondrous Item, minor, uncommon*  

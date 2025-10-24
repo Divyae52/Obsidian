@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Caltrop
-dg-publish: true
 ---
 # Caltrop
 *Adventuring Gear*  

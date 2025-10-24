@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Cockatrice
-dg-publish: true
 ---
 # Cockatrice
 *Source: SRD / Basic Rules*  

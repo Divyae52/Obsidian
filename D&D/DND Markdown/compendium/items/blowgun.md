@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Blowgun
-dg-publish: true
 ---
 # Blowgun
 *Ranged Weapon*  

@@ -8,7 +8,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Arcane Lock
-dg-publish: true
 ---
 # Arcane Lock
 *2nd-level, Abjuration*  

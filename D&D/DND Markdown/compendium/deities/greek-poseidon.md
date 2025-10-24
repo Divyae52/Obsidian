@@ -7,7 +7,6 @@ tags:
   - domain/tempest
 aliases:
   - Poseidon
-dg-publish: true
 ---
 # Poseidon
 *Source: SRD / Basic Rules* 

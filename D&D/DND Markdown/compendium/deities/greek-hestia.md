@@ -7,7 +7,6 @@ tags:
   - domain/life
 aliases:
   - Hestia
-dg-publish: true
 ---
 # Hestia
 *Source: SRD / Basic Rules* 

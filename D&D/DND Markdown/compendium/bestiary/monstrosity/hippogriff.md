@@ -10,7 +10,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Hippogriff
-dg-publish: true
 ---
 # Hippogriff
 *Source: SRD / Basic Rules*  

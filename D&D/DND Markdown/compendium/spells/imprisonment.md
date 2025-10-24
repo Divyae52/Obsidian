@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Imprisonment
-dg-publish: true
 ---
 # Imprisonment
 *9th-level, Abjuration*  

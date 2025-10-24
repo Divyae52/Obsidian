@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Bowl of Commanding Water Elementals
-dg-publish: true
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous Item, major, rare*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/mount
 aliases:
   - Mastiff
-dg-publish: true
 ---
 # Mastiff
 *Mount*  

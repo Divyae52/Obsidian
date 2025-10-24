@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Wall of Force
-dg-publish: true
 ---
 # Wall of Force
 *5th-level, Evocation*  

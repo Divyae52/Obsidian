@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Ox
-dg-publish: true
 ---
 # Ox
 *Trade Good*  

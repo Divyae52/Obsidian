@@ -13,7 +13,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Pseudodragon
-dg-publish: true
 ---
 # Pseudodragon
 *Source: SRD / Basic Rules*  

@@ -6,7 +6,6 @@ tags:
   - item/weapon/ammunition
 aliases:
   - Crossbow Bolt
-dg-publish: true
 ---
 # Crossbow Bolt
 *Ammunition*  

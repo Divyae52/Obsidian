@@ -7,7 +7,6 @@ tags:
   - monster/type/undead
 aliases:
   - Lich
-dg-publish: true
 ---
 # Lich
 *Source: SRD / Basic Rules*  

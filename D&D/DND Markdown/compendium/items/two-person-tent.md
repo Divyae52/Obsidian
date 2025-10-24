@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Two-Person Tent
-dg-publish: true
 ---
 # Two-Person Tent
 *Adventuring Gear*  

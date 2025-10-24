@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Oil of Slipperiness
-dg-publish: true
 ---
 # Oil of Slipperiness
 *Potion, minor, uncommon*  

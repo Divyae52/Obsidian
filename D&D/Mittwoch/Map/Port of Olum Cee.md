@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 - A ramshackle settlement where newcomers to the island are dropped off by a mysterious ship. 
 - Habitants “welcome” newcomers, but only if they prove themselves useful for the survival of the town. 

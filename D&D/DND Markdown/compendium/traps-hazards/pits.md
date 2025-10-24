@@ -6,7 +6,6 @@ tags:
   - hazard/mech
 aliases:
   - Pits
-dg-publish: true
 ---
 # Pits
 *Mechanical Trap*  

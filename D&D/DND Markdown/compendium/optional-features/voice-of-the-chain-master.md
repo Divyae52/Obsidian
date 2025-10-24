@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Voice of the Chain Master
-dg-publish: true
 ---
 # Voice of the Chain Master
 *Source: SRD / Basic Rules* 

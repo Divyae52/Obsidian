@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Glass Bottle
-dg-publish: true
 ---
 # Glass Bottle
 *Adventuring Gear*  

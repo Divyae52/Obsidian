@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Lightning Resistance
-dg-publish: true
 ---
 # Potion of Lightning Resistance
 *Potion, minor, uncommon*  

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 
 Pure meat eater, also raw meat

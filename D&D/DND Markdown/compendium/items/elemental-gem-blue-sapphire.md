@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Elemental Gem, Blue Sapphire
-dg-publish: true
 ---
 # Elemental Gem, Blue Sapphire
 *Wondrous Item, minor, uncommon*  

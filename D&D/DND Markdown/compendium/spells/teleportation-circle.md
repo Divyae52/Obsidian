@@ -10,7 +10,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Teleportation Circle
-dg-publish: true
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

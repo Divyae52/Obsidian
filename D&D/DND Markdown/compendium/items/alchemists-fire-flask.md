@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Alchemist's Fire (flask)
-dg-publish: true
 ---
 # Alchemist's Fire (flask)
 *Adventuring Gear*  

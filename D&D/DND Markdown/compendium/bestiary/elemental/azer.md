@@ -7,7 +7,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Azer
-dg-publish: true
 ---
 # Azer
 *Source: SRD / Basic Rules*  

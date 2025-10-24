@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Jeweler's Tools
-dg-publish: true
 ---
 # Jeweler's Tools
 *Artisan's Tools*  

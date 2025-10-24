@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Bard
-dg-publish: true
 ---
 # Bard
 *Source: SRD / Basic Rules*  

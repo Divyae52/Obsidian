@@ -6,7 +6,6 @@ tags:
   - item/gear/food-and-drink
 aliases:
   - Common Wine (Pitcher)
-dg-publish: true
 ---
 # Common Wine (Pitcher)
 *Food and Drink*  

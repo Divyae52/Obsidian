@@ -8,7 +8,6 @@ tags:
   - monster/type/undead
 aliases:
   - Minotaur Skeleton
-dg-publish: true
 ---
 # Minotaur Skeleton
 *Source: SRD / Basic Rules*  

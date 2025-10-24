@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Lightning Resistance
-dg-publish: true
 ---
 # Ring of Lightning Resistance
 *Ring, major, rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Antipathy/Sympathy
-dg-publish: true
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  

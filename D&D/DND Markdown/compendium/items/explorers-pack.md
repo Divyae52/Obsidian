@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Explorer's Pack
-dg-publish: true
 ---
 # Explorer's Pack
 *Adventuring Gear*  

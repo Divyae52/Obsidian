@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Oil of Sharpness
-dg-publish: true
 ---
 # Oil of Sharpness
 *Potion, minor, very rare*  

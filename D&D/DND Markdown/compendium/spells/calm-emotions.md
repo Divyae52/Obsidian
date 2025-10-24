@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Calm Emotions
-dg-publish: true
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  

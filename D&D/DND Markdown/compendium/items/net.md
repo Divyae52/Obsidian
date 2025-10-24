@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Net
-dg-publish: true
 ---
 # Net
 *Ranged Weapon*  

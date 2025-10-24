@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Mess Kit
-dg-publish: true
 ---
 # Mess Kit
 *Adventuring Gear*  

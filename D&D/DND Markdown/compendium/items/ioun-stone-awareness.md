@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Awareness
-dg-publish: true
 ---
 # Ioun Stone, Awareness
 *Wondrous Item, major, rare (requires attunement)*  

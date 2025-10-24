@@ -8,7 +8,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Beacon of Hope
-dg-publish: true
 ---
 # Beacon of Hope
 *3rd-level, Abjuration*  

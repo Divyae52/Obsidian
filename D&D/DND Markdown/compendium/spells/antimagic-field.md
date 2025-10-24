@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Antimagic Field
-dg-publish: true
 ---
 # Antimagic Field
 *8th-level, Abjuration*  

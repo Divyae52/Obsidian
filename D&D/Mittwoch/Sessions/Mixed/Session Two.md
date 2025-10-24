@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 [[{}Avany × Acamenos aka Aseral (They Them)]] and [[{}Ethan × Henka]] go south, [[Joshua × Pentious]] follows
 [[Kaos × Shriek]] will eventually end up south

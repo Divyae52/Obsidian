@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Conjure Fey
-dg-publish: true
 ---
 # Conjure Fey
 *6th-level, Conjuration*  

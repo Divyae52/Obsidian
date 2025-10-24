@@ -10,7 +10,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Fly
-dg-publish: true
 ---
 # Fly
 *3rd-level, Transmutation*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient White Dragon
-dg-publish: true
 ---
 # Ancient White Dragon
 *Source: SRD / Basic Rules*  

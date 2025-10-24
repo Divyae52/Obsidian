@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Evard's Black Tentacles
-dg-publish: true
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

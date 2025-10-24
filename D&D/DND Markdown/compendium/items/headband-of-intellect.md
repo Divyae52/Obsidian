@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Headband of Intellect
-dg-publish: true
 ---
 # Headband of Intellect
 *Wondrous Item, major, uncommon (requires attunement)*  

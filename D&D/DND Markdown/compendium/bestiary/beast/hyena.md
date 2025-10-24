@@ -11,7 +11,6 @@ tags:
   - monster/type/beast
 aliases:
   - Hyena
-dg-publish: true
 ---
 # Hyena
 *Source: SRD / Basic Rules*  

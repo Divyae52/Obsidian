@@ -8,7 +8,6 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll (3rd Level)
-dg-publish: true
 ---
 # Spell Scroll (3rd Level)
 *Scroll, minor, uncommon*  

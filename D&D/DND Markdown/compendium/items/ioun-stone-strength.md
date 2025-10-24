@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Strength
-dg-publish: true
 ---
 # Ioun Stone, Strength
 *Wondrous Item, major, very rare (requires attunement)*  

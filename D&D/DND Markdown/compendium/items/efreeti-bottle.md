@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Efreeti Bottle
-dg-publish: true
 ---
 # Efreeti Bottle
 *Wondrous Item, major, very rare*  

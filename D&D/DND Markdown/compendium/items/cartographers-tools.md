@@ -6,7 +6,6 @@ tags:
   - item/gear/artisans-tools
 aliases:
   - Cartographer's Tools
-dg-publish: true
 ---
 # Cartographer's Tools
 *Artisan's Tools*  

@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Regeneration
-dg-publish: true
 ---
 # Ioun Stone, Regeneration
 *Wondrous Item, major, legendary (requires attunement)*  

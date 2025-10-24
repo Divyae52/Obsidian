@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Feather Falling
-dg-publish: true
 ---
 # Ring of Feather Falling
 *Ring, major, rare (requires attunement)*  

@@ -7,7 +7,6 @@ tags:
   - item/weapon/simple/ranged
 aliases:
   - Sling
-dg-publish: true
 ---
 # Sling
 *Ranged Weapon*  

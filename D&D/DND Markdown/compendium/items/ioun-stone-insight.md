@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Insight
-dg-publish: true
 ---
 # Ioun Stone, Insight
 *Wondrous Item, major, very rare (requires attunement)*  

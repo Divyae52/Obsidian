@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Basilisk
-dg-publish: true
 ---
 # Basilisk
 *Source: SRD / Basic Rules*  

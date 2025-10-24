@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Divine Favor
-dg-publish: true
 ---
 # Divine Favor
 *1st-level, Evocation*  

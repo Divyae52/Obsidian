@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Lantern of Revealing
-dg-publish: true
 ---
 # Lantern of Revealing
 *Wondrous Item, minor, uncommon*  

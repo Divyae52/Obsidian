@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Cloak of Displacement
-dg-publish: true
 ---
 # Cloak of Displacement
 *Wondrous Item, major, rare (requires attunement)*  

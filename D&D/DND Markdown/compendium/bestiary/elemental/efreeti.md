@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Efreeti
-dg-publish: true
 ---
 # Efreeti
 *Source: SRD / Basic Rules*  

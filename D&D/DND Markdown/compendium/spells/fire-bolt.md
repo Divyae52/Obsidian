@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Fire Bolt
-dg-publish: true
 ---
 # Fire Bolt
 *cantrip, Evocation*  

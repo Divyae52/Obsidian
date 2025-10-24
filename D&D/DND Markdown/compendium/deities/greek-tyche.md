@@ -7,7 +7,6 @@ tags:
   - domain/trickery
 aliases:
   - Tyche
-dg-publish: true
 ---
 # Tyche
 *Source: SRD / Basic Rules* 

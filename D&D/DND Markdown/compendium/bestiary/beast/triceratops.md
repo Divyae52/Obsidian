@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Triceratops
-dg-publish: true
 ---
 # Triceratops
 *Source: SRD / Basic Rules*  

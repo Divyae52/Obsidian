@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/demon
 aliases:
   - Glabrezu
-dg-publish: true
 ---
 # Glabrezu
 *Source: SRD / Basic Rules*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Tyrannosaurus Rex
-dg-publish: true
 ---
 # Tyrannosaurus Rex
 *Source: SRD / Basic Rules*  

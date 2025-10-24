@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Ioun Stone, Absorption
-dg-publish: true
 ---
 # Ioun Stone, Absorption
 *Wondrous Item, major, very rare (requires attunement)*  

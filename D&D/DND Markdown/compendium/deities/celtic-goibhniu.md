@@ -9,7 +9,6 @@ tags:
   - domain/life
 aliases:
   - Goibhniu
-dg-publish: true
 ---
 # Goibhniu
 *Source: SRD / Basic Rules* 

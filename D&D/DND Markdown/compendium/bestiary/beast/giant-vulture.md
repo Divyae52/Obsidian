@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Vulture
-dg-publish: true
 ---
 # Giant Vulture
 *Source: SRD / Basic Rules*  

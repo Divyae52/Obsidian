@@ -8,7 +8,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Clone
-dg-publish: true
 ---
 # Clone
 *8th-level, Necromancy*  

@@ -9,7 +9,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Greataxe
-dg-publish: true
 ---
 # Greataxe
 *Melee Weapon*  

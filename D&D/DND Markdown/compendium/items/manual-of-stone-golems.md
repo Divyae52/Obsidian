@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Manual of Stone Golems
-dg-publish: true
 ---
 # Manual of Stone Golems
 *Wondrous Item, major, very rare*  

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 | Species                  | Class     | Alignment       | Experience Points |
 | ------------------------ | --------- | --------------- | ----------------- |

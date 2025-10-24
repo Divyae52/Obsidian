@@ -10,7 +10,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Symbol
-dg-publish: true
 ---
 # Symbol
 *7th-level, Abjuration*  

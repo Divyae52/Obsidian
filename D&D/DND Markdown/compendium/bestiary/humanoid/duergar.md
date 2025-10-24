@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/dwarf
 aliases:
   - Duergar
-dg-publish: true
 ---
 # Duergar
 *Source: SRD / Basic Rules*  

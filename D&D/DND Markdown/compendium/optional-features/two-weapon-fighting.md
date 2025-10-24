@@ -8,7 +8,6 @@ tags:
   - optional-feature/fs-r
 aliases:
   - Two-Weapon Fighting
-dg-publish: true
 ---
 # Two-Weapon Fighting
 *Source: SRD / Basic Rules* 

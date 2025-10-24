@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Moonbeam
-dg-publish: true
 ---
 # Moonbeam
 *2nd-level, Evocation*  

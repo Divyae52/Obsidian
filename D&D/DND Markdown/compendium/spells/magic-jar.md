@@ -8,7 +8,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Magic Jar
-dg-publish: true
 ---
 # Magic Jar
 *6th-level, Necromancy*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Resistance
-dg-publish: true
 ---
 # Resistance
 *cantrip, Abjuration*  

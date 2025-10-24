@@ -10,7 +10,6 @@ tags:
   - monster/type/undead
 aliases:
   - Will-o'-Wisp
-dg-publish: true
 ---
 # Will-o'-Wisp
 *Source: SRD / Basic Rules*  

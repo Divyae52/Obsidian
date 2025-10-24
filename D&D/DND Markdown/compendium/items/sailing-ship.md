@@ -6,7 +6,6 @@ tags:
   - item/vehicle/ship
 aliases:
   - Sailing Ship
-dg-publish: true
 ---
 # Sailing Ship
 *Ship, Vehicle (water)*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Fireball
-dg-publish: true
 ---
 # Fireball
 *3rd-level, Evocation*  

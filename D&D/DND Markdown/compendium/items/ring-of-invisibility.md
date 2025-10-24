@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Invisibility
-dg-publish: true
 ---
 # Ring of Invisibility
 *Ring, major, legendary (requires attunement)*  

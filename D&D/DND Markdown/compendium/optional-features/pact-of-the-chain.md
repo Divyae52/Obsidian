@@ -6,7 +6,6 @@ tags:
   - optional-feature/pb
 aliases:
   - Pact of the Chain
-dg-publish: true
 ---
 # Pact of the Chain
 *Source: SRD / Basic Rules* 

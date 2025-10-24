@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Melf's Acid Arrow
-dg-publish: true
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

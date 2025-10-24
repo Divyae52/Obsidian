@@ -8,7 +8,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Mordenkainen's Private Sanctum
-dg-publish: true
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  

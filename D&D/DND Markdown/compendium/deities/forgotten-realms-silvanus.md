@@ -7,7 +7,6 @@ tags:
   - domain/nature
 aliases:
   - Silvanus
-dg-publish: true
 ---
 # Silvanus
 *Source: SRD / Basic Rules* 

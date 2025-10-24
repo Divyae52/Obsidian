@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Blue Dragon
-dg-publish: true
 ---
 # Ancient Blue Dragon
 *Source: SRD / Basic Rules*  

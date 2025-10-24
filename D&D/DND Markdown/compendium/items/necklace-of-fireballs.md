@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Necklace of Fireballs
-dg-publish: true
 ---
 # Necklace of Fireballs
 *Wondrous Item, minor, rare*  

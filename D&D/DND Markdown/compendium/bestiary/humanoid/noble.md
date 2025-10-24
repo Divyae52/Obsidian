@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Noble
-dg-publish: true
 ---
 # Noble
 *Source: SRD / Basic Rules*  

@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Animal Shapes
-dg-publish: true
 ---
 # Animal Shapes
 *8th-level, Transmutation*  

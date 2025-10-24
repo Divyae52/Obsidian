@@ -12,7 +12,6 @@ tags:
   - spell/school/divination
 aliases:
   - True Seeing
-dg-publish: true
 ---
 # True Seeing
 *6th-level, Divination*  

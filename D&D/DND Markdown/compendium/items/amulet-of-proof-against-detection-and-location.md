@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Amulet of Proof against Detection and Location
-dg-publish: true
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous Item, major, uncommon (requires attunement)*  

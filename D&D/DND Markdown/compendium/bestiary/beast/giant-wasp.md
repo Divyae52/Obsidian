@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Wasp
-dg-publish: true
 ---
 # Giant Wasp
 *Source: SRD / Basic Rules*  

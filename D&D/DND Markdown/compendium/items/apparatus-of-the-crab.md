@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Apparatus of the Crab
-dg-publish: true
 ---
 # Apparatus of the Crab
 *Wondrous Item, major, legendary*  

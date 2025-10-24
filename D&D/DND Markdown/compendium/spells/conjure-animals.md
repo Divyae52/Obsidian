@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Conjure Animals
-dg-publish: true
 ---
 # Conjure Animals
 *3rd-level, Conjuration*  

@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Panther
-dg-publish: true
 ---
 # Panther
 *Source: SRD / Basic Rules*  

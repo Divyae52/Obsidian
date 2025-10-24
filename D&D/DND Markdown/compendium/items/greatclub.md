@@ -7,7 +7,6 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Greatclub
-dg-publish: true
 ---
 # Greatclub
 *Melee Weapon*  

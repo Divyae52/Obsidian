@@ -6,7 +6,6 @@ tags:
   - race/elf
 aliases:
   - Elf
-dg-publish: true
 ---
 # Elf
 *Source: SRD / Basic Rules*  

@@ -10,7 +10,6 @@ tags:
   - monster/type/humanoid/goblinoid
 aliases:
   - Bugbear
-dg-publish: true
 ---
 # Bugbear
 *Source: SRD / Basic Rules*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Flying
-dg-publish: true
 ---
 # Potion of Flying
 *Potion, minor, very rare*  

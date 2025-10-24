@@ -9,7 +9,6 @@ tags:
   - monster/type/giant
 aliases:
   - Fire Giant
-dg-publish: true
 ---
 # Fire Giant
 *Source: SRD / Basic Rules*  

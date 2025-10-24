@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Hat of Disguise
-dg-publish: true
 ---
 # Hat of Disguise
 *Wondrous Item, major, uncommon (requires attunement)*  

@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Iron Bands of Binding
-dg-publish: true
 ---
 # Iron Bands of Binding
 *Wondrous Item, major, rare*  

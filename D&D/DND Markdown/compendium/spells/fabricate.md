@@ -8,7 +8,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Fabricate
-dg-publish: true
 ---
 # Fabricate
 *4th-level, Transmutation*  

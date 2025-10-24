@@ -6,7 +6,6 @@ tags:
   - optional-feature/mm
 aliases:
   - Subtle Spell
-dg-publish: true
 ---
 # Subtle Spell
 *Source: SRD / Basic Rules* 

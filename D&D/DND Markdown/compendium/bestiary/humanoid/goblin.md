@@ -11,7 +11,6 @@ tags:
   - monster/type/humanoid/goblinoid
 aliases:
   - Goblin
-dg-publish: true
 ---
 # Goblin
 *Source: SRD / Basic Rules*  

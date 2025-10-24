@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Clairvoyance
-dg-publish: true
 ---
 # Potion of Clairvoyance
 *Potion, minor, rare*  

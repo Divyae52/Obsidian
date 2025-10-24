@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 You’ve always heard of whispers of a mysterious island shrouded in mystery and danger; where the worst criminals and other rejects are exiled with no hope for return. It was the stuff of stories, a place where parents threatened their children they would go if they misbehaved; a place that is told around the campfire for a cheap fright. A place that was not supposed to be real.
 

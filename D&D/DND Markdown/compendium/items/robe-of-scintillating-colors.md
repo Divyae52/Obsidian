@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Robe of Scintillating Colors
-dg-publish: true
 ---
 # Robe of Scintillating Colors
 *Wondrous Item, major, very rare (requires attunement)*  

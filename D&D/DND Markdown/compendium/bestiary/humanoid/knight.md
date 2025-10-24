@@ -8,7 +8,6 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Knight
-dg-publish: true
 ---
 # Knight
 *Source: SRD / Basic Rules*  

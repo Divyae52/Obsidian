@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Winter Wolf
-dg-publish: true
 ---
 # Winter Wolf
 *Source: SRD / Basic Rules*  

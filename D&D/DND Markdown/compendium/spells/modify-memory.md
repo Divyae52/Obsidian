@@ -9,7 +9,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Modify Memory
-dg-publish: true
 ---
 # Modify Memory
 *5th-level, Enchantment*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Create or Destroy Water
-dg-publish: true
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  

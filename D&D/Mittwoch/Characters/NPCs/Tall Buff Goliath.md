@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 Lives in [[Port of Olum Cee]]
 Goliath

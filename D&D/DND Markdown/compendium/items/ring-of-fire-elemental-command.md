@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Fire Elemental Command
-dg-publish: true
 ---
 # Ring of Fire Elemental Command
 *Ring, major, legendary (requires attunement)*  

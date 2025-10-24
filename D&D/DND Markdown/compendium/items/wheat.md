@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Wheat
-dg-publish: true
 ---
 # Wheat
 *Trade Good*  

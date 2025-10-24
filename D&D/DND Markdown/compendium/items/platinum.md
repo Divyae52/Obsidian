@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Platinum
-dg-publish: true
 ---
 # Platinum
 *Trade Good*  

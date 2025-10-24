@@ -8,7 +8,6 @@ tags:
   - item/tier/major
 aliases:
   - Glamoured Studded Leather
-dg-publish: true
 ---
 # Glamoured Studded Leather
 *Light Armor, major, rare*  

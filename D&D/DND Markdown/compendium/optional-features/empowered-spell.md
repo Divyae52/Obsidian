@@ -6,7 +6,6 @@ tags:
   - optional-feature/mm
 aliases:
   - Empowered Spell
-dg-publish: true
 ---
 # Empowered Spell
 *Source: SRD / Basic Rules* 

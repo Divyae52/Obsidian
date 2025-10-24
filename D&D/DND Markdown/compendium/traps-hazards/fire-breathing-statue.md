@@ -6,7 +6,6 @@ tags:
   - hazard/mag
 aliases:
   - Fire-Breathing Statue
-dg-publish: true
 ---
 # Fire-Breathing Statue
 *Magical Trap*  

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 [[Kaos × Shriek]]
 [[{}Ethan × Henka]]

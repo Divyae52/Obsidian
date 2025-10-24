@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Web
-dg-publish: true
 ---
 # Web
 *2nd-level, Conjuration*  

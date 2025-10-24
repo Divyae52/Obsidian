@@ -6,7 +6,6 @@ tags:
   - class/artificer/artillerist
 aliases:
   - Artillerist
-dg-publish: true
 ---
 # Artillerist
 *[Artificer: Artificer Specialist]([[artificer]])*  

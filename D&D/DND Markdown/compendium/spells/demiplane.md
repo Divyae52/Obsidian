@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Demiplane
-dg-publish: true
 ---
 # Demiplane
 *8th-level, Conjuration*  

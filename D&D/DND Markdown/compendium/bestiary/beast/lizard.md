@@ -7,7 +7,6 @@ tags:
   - monster/type/beast
 aliases:
   - Lizard
-dg-publish: true
 ---
 # Lizard
 *Source: SRD / Basic Rules*  

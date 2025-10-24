@@ -6,7 +6,6 @@ tags:
   - item/gear/food-and-drink
 aliases:
   - Chunk of Meat
-dg-publish: true
 ---
 # Chunk of Meat
 *Food and Drink*  

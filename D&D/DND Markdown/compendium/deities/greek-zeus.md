@@ -7,7 +7,6 @@ tags:
   - domain/tempest
 aliases:
   - Zeus
-dg-publish: true
 ---
 # Zeus
 *Source: SRD / Basic Rules* 

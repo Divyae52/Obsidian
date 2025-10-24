@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Fighting Style, Fighter
-dg-publish: true
 ---
 # Fighting Style, Fighter
 *Source: SRD / Basic Rules* 

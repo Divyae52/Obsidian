@@ -10,7 +10,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Sleep
-dg-publish: true
 ---
 # Sleep
 *1st-level, Enchantment*  

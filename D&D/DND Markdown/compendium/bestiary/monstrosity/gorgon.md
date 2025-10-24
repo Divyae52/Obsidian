@@ -10,7 +10,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Gorgon
-dg-publish: true
 ---
 # Gorgon
 *Source: SRD / Basic Rules*  

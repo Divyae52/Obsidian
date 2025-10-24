@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Guardian of Faith
-dg-publish: true
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

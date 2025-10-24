@@ -6,7 +6,6 @@ tags:
   - item/gear/tack-and-harness
 aliases:
   - Stabling (per day)
-dg-publish: true
 ---
 # Stabling (per day)
 *Tack and Harness*  

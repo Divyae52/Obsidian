@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Telekinesis
-dg-publish: true
 ---
 # Ring of Telekinesis
 *Ring, major, very rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
   - monster/type/undead
 aliases:
   - Specter
-dg-publish: true
 ---
 # Specter
 *Source: SRD / Basic Rules*  

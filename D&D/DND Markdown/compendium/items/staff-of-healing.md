@@ -10,7 +10,6 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Healing
-dg-publish: true
 ---
 # Staff of Healing
 *Staff, major, rare (requires attunement by a bard, cleric, or druid)*  

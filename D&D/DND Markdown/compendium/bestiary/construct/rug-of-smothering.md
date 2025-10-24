@@ -7,7 +7,6 @@ tags:
   - monster/type/construct
 aliases:
   - Rug of Smothering
-dg-publish: true
 ---
 # Rug of Smothering
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Adult Blue Dragon
-dg-publish: true
 ---
 # Adult Blue Dragon
 *Source: SRD / Basic Rules*  

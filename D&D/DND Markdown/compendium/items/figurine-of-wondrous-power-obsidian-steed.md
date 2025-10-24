@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Obsidian Steed
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Obsidian Steed
 *Wondrous Item, major, very rare*  

@@ -7,7 +7,6 @@ tags:
   - domain/nature
 aliases:
   - Pan
-dg-publish: true
 ---
 # Pan
 *Source: SRD / Basic Rules* 

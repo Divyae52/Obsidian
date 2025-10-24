@@ -9,7 +9,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Young Silver Dragon
-dg-publish: true
 ---
 # Young Silver Dragon
 *Source: SRD / Basic Rules*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/elemental
 aliases:
   - Dust Mephit
-dg-publish: true
 ---
 # Dust Mephit
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Mind Blank
-dg-publish: true
 ---
 # Mind Blank
 *8th-level, Abjuration*  

@@ -12,7 +12,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Geas
-dg-publish: true
 ---
 # Geas
 *5th-level, Enchantment*  

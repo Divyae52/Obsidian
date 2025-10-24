@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Storm Giant Strength
-dg-publish: true
 ---
 # Potion of Storm Giant Strength
 *Potion, minor, legendary*  

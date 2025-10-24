@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Haste
-dg-publish: true
 ---
 # Haste
 *3rd-level, Transmutation*  

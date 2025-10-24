@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity/titan
 aliases:
   - Tarrasque
-dg-publish: true
 ---
 # Tarrasque
 *Source: SRD / Basic Rules*  

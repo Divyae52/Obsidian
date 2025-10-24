@@ -10,7 +10,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Dream
-dg-publish: true
 ---
 # Dream
 *5th-level, Illusion*  

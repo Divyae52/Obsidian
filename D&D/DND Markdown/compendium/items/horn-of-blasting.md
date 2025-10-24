@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Horn of Blasting
-dg-publish: true
 ---
 # Horn of Blasting
 *Wondrous Item, major, rare*  

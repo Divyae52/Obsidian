@@ -8,7 +8,6 @@ tags:
   - monster/type/undead
 aliases:
   - Wraith
-dg-publish: true
 ---
 # Wraith
 *Source: SRD / Basic Rules*  

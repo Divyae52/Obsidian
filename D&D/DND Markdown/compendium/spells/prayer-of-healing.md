@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Prayer of Healing
-dg-publish: true
 ---
 # Prayer of Healing
 *2nd-level, Evocation*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/fiend/shapechanger
 aliases:
   - Incubus
-dg-publish: true
 ---
 # Incubus
 *Source: SRD / Basic Rules*  

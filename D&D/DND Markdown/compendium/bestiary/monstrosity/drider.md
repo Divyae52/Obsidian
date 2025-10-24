@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Drider
-dg-publish: true
 ---
 # Drider
 *Source: SRD / Basic Rules*  

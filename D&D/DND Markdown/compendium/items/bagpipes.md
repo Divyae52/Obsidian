@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Bagpipes
-dg-publish: true
 ---
 # Bagpipes
 *Instrument*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/undead/shapechanger
 aliases:
   - Vampire
-dg-publish: true
 ---
 # Vampire
 *Source: SRD / Basic Rules*  

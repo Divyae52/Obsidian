@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Circlet of Blasting
-dg-publish: true
 ---
 # Circlet of Blasting
 *Wondrous Item, major, uncommon*  

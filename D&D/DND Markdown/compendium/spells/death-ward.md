@@ -9,7 +9,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Death Ward
-dg-publish: true
 ---
 # Death Ward
 *4th-level, Abjuration*  

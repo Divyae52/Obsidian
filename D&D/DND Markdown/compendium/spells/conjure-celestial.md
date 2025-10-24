@@ -8,7 +8,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Conjure Celestial
-dg-publish: true
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  

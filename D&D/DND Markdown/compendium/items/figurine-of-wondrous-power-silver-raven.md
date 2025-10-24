@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Figurine of Wondrous Power, Silver Raven
-dg-publish: true
 ---
 # Figurine of Wondrous Power, Silver Raven
 *Wondrous Item, major, uncommon*  

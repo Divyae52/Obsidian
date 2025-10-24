@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Crossbow Bolt Case
-dg-publish: true
 ---
 # Crossbow Bolt Case
 *Adventuring Gear*  

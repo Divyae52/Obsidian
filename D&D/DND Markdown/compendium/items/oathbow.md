@@ -13,7 +13,6 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Oathbow
-dg-publish: true
 ---
 # Oathbow
 *Ranged Weapon, major, very rare (requires attunement)*  

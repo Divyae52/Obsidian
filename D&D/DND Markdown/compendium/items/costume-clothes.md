@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Costume Clothes
-dg-publish: true
 ---
 # Costume Clothes
 *Adventuring Gear*  

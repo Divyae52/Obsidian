@@ -1,3 +1,6 @@
+---
+{}
+---
 # ViX's Item Template
 
 **Plugin Dependencies**: 

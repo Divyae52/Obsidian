@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Boar
-dg-publish: true
 ---
 # Boar
 *Source: SRD / Basic Rules*  

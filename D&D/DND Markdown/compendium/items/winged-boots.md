@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Winged Boots
-dg-publish: true
 ---
 # Winged Boots
 *Wondrous Item, major, uncommon (requires attunement)*  

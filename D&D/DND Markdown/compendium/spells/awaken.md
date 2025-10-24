@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Awaken
-dg-publish: true
 ---
 # Awaken
 *5th-level, Transmutation*  

@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Actions
-dg-publish: true
 ---
 # Actions
 

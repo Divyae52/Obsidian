@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Bigby's Hand
-dg-publish: true
 ---
 # Bigby's Hand
 *5th-level, Evocation*  

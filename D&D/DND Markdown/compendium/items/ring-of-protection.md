@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Protection
-dg-publish: true
 ---
 # Ring of Protection
 *Ring, major, rare (requires attunement)*  

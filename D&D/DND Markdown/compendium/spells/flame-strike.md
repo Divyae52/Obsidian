@@ -8,7 +8,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Flame Strike
-dg-publish: true
 ---
 # Flame Strike
 *5th-level, Evocation*  

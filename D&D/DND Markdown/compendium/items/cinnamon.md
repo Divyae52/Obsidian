@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Cinnamon
-dg-publish: true
 ---
 # Cinnamon
 *Trade Good*  

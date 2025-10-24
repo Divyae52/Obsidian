@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Rope of Entanglement
-dg-publish: true
 ---
 # Rope of Entanglement
 *Wondrous Item, major, rare*  

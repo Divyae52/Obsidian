@@ -9,7 +9,6 @@ tags:
   - item/tier/major
 aliases:
   - Spellguard Shield
-dg-publish: true
 ---
 # Spellguard Shield
 *Shield, major, very rare (requires attunement)*  

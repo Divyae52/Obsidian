@@ -9,7 +9,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Find Familiar
-dg-publish: true
 ---
 # Find Familiar
 *1st-level, Conjuration (ritual)*  

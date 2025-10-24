@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Travel Pace
-dg-publish: true
 ---
 # Travel Pace
 *Source: SRD / Basic Rules* 

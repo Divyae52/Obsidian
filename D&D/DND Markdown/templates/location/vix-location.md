@@ -1,3 +1,6 @@
+---
+{}
+---
 # Vix's Location Template
 
 **Plugin Dependencies**:

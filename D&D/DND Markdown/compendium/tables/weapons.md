@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Weapons
-dg-publish: true
 ---
 # Weapons
 *Source: SRD / Basic Rules* 

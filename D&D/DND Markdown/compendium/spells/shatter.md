@@ -11,7 +11,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Shatter
-dg-publish: true
 ---
 # Shatter
 *2nd-level, Evocation*  

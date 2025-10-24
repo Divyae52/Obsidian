@@ -9,7 +9,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Bat
-dg-publish: true
 ---
 # Giant Bat
 *Source: SRD / Basic Rules*  

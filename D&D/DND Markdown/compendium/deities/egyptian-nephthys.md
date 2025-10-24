@@ -7,7 +7,6 @@ tags:
   - domain/death
 aliases:
   - Nephthys
-dg-publish: true
 ---
 # Nephthys
 *Source: SRD / Basic Rules* 

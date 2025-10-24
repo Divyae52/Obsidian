@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Mordenkainen's Sword
-dg-publish: true
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

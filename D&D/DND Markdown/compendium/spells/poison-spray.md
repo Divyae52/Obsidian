@@ -11,7 +11,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Poison Spray
-dg-publish: true
 ---
 # Poison Spray
 *cantrip, Conjuration*  

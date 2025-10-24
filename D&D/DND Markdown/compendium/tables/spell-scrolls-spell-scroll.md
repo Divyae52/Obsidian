@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/dmg
 aliases:
   - Spell Scrolls; Spell Scroll
-dg-publish: true
 ---
 # Spell Scrolls; Spell Scroll
 *Source: SRD / Basic Rules* 

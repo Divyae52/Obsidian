@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Perfume (vial)
-dg-publish: true
 ---
 # Perfume (vial)
 *Adventuring Gear*  

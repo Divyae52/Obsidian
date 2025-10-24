@@ -12,7 +12,6 @@ tags:
   - spell/school/divination
 aliases:
   - Tongues
-dg-publish: true
 ---
 # Tongues
 *3rd-level, Divination*  

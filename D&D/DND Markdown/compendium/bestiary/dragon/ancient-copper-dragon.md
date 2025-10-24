@@ -8,7 +8,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Ancient Copper Dragon
-dg-publish: true
 ---
 # Ancient Copper Dragon
 *Source: SRD / Basic Rules*  

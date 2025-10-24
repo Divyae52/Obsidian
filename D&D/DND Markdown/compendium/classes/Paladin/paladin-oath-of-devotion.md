@@ -6,7 +6,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - Oath of Devotion
-dg-publish: true
 ---
 # Oath of Devotion
 *[Paladin](paladin.md): Sacred Oath*  

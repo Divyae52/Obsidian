@@ -10,7 +10,6 @@ tags:
   - monster/type/beast
 aliases:
   - Mastiff
-dg-publish: true
 ---
 # Mastiff
 *Source: SRD / Basic Rules*  

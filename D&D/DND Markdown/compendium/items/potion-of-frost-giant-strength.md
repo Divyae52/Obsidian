@@ -8,7 +8,6 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Frost Giant Strength
-dg-publish: true
 ---
 # Potion of Frost Giant Strength
 *Potion, minor, rare*  

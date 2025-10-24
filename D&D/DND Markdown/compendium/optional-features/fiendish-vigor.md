@@ -6,7 +6,6 @@ tags:
   - optional-feature/ei
 aliases:
   - Fiendish Vigor
-dg-publish: true
 ---
 # Fiendish Vigor
 *Source: SRD / Basic Rules* 

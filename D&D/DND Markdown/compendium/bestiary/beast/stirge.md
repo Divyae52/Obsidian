@@ -16,7 +16,6 @@ tags:
   - monster/type/beast
 aliases:
   - Stirge
-dg-publish: true
 ---
 # Stirge
 *Source: SRD / Basic Rules*  

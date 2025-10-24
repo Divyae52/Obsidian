@@ -9,7 +9,6 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Spell Storing
-dg-publish: true
 ---
 # Ring of Spell Storing
 *Ring, major, rare (requires attunement)*  

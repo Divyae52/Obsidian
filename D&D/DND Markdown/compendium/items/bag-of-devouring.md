@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Bag of Devouring
-dg-publish: true
 ---
 # Bag of Devouring
 *Wondrous Item, minor, very rare*  

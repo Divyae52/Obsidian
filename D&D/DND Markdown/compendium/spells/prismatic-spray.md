@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Prismatic Spray
-dg-publish: true
 ---
 # Prismatic Spray
 *7th-level, Evocation*  

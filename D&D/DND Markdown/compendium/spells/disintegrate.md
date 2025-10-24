@@ -9,7 +9,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Disintegrate
-dg-publish: true
 ---
 # Disintegrate
 *6th-level, Transmutation*  

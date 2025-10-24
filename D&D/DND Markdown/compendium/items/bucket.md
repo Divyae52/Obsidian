@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Bucket
-dg-publish: true
 ---
 # Bucket
 *Adventuring Gear*  

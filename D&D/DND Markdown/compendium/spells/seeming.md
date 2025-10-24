@@ -10,7 +10,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Seeming
-dg-publish: true
 ---
 # Seeming
 *5th-level, Illusion*  

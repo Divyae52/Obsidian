@@ -10,7 +10,6 @@ tags:
   - spell/school/conjuration
 aliases:
   - Sleet Storm
-dg-publish: true
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

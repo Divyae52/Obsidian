@@ -6,7 +6,6 @@ tags:
   - item/gear
 aliases:
   - Holy Water (flask)
-dg-publish: true
 ---
 # Holy Water (flask)
 *Adventuring Gear*  

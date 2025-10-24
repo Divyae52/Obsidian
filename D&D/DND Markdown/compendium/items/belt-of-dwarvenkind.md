@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Belt of Dwarvenkind
-dg-publish: true
 ---
 # Belt of Dwarvenkind
 *Wondrous Item, major, rare (requires attunement)*  

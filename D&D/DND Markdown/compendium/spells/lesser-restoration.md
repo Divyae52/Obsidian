@@ -12,7 +12,6 @@ tags:
   - spell/school/abjuration
 aliases:
   - Lesser Restoration
-dg-publish: true
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  

@@ -6,7 +6,6 @@ tags:
   - item/gear/trade-good
 aliases:
   - Canvas (1 sq. yd.)
-dg-publish: true
 ---
 # Canvas (1 sq. yd.)
 *Trade Good*  

@@ -6,7 +6,6 @@ tags:
   - hazard/mech
 aliases:
   - Poison Darts
-dg-publish: true
 ---
 # Poison Darts
 *Mechanical Trap*  

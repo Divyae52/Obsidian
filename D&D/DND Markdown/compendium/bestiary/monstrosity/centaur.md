@@ -9,7 +9,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Centaur
-dg-publish: true
 ---
 # Centaur
 *Source: SRD / Basic Rules*  

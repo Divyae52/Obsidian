@@ -11,7 +11,6 @@ tags:
   - spell/school/illusion
 aliases:
   - Silence
-dg-publish: true
 ---
 # Silence
 *2nd-level, Illusion (ritual)*  

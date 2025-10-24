@@ -6,7 +6,6 @@ tags:
   - item/gear/instrument
 aliases:
   - Pan Flute
-dg-publish: true
 ---
 # Pan Flute
 *Instrument*  

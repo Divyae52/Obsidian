@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Necklace of Prayer Beads
-dg-publish: true
 ---
 # Necklace of Prayer Beads
 *Wondrous Item, major, rare (requires attunement by a cleric, druid, or paladin)*  

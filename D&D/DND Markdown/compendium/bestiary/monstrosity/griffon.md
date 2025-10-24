@@ -12,7 +12,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Griffon
-dg-publish: true
 ---
 # Griffon
 *Source: SRD / Basic Rules*  

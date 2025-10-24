@@ -6,7 +6,6 @@ tags:
   - item/gear/spellcasting-focus
 aliases:
   - Amulet
-dg-publish: true
 ---
 # Amulet
 *Spellcasting Focus*  

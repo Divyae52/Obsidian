@@ -7,7 +7,6 @@ tags:
   - item/property/poison
 aliases:
   - Burnt Othur Fumes
-dg-publish: true
 ---
 # Burnt Othur Fumes
 *Adventuring Gear, poison*  

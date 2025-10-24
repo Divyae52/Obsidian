@@ -5,7 +5,6 @@ tags:
   - compendium/src/5e/phb
 aliases:
   - The Norse Pantheon; Norse Deities
-dg-publish: true
 ---
 # The Norse Pantheon; Norse Deities
 *Source: SRD / Basic Rules* 

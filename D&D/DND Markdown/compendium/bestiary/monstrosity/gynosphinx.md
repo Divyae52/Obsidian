@@ -8,7 +8,6 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Gynosphinx
-dg-publish: true
 ---
 # Gynosphinx
 *Source: SRD / Basic Rules*  

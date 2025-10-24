@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Feather Token, Fan
-dg-publish: true
 ---
 # Feather Token, Fan
 *Wondrous Item, minor, rare*  

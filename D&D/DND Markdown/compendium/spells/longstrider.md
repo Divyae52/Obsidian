@@ -11,7 +11,6 @@ tags:
   - spell/school/transmutation
 aliases:
   - Longstrider
-dg-publish: true
 ---
 # Longstrider
 *1st-level, Transmutation*  

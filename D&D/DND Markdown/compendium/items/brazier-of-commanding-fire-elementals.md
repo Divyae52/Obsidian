@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Brazier of Commanding Fire Elementals
-dg-publish: true
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous Item, major, rare*  

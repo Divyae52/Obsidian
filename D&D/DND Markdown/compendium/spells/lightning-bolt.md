@@ -9,7 +9,6 @@ tags:
   - spell/school/evocation
 aliases:
   - Lightning Bolt
-dg-publish: true
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  

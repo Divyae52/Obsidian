@@ -7,7 +7,6 @@ tags:
   - monster/type/dragon
 aliases:
   - Black Dragon Wyrmling
-dg-publish: true
 ---
 # Black Dragon Wyrmling
 *Source: SRD / Basic Rules*  

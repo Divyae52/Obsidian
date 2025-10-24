@@ -7,7 +7,6 @@ tags:
   - monster/type/celestial
 aliases:
   - Deva
-dg-publish: true
 ---
 # Deva
 *Source: SRD / Basic Rules*  

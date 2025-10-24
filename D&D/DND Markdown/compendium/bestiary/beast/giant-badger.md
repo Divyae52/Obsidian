@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Badger
-dg-publish: true
 ---
 # Giant Badger
 *Source: SRD / Basic Rules*  

@@ -9,7 +9,6 @@ tags:
   - spell/school/necromancy
 aliases:
   - Vampiric Touch
-dg-publish: true
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  

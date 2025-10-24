@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Deck of Many Things
-dg-publish: true
 ---
 # Deck of Many Things
 *Wondrous Item, major, legendary*  

@@ -8,7 +8,6 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Shark
-dg-publish: true
 ---
 # Giant Shark
 *Source: SRD / Basic Rules*  

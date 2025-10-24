@@ -8,7 +8,6 @@ tags:
   - item/wondrous
 aliases:
   - Carpet of Flying, 3 ft. × 5 ft.
-dg-publish: true
 ---
 # Carpet of Flying, 3 ft. × 5 ft.
 *Wondrous Item, major, very rare*  

@@ -7,7 +7,6 @@ tags:
   - monster/type/fiend/demon
 aliases:
   - Quasit
-dg-publish: true
 ---
 # Quasit
 *Source: SRD / Basic Rules*  

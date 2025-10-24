@@ -3,7 +3,6 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 aliases:
   - Bonds
-dg-publish: true
 ---
 # Bonds
 

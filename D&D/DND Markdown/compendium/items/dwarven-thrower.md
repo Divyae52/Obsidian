@@ -12,7 +12,6 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Dwarven Thrower
-dg-publish: true
 ---
 # Dwarven Thrower
 *Melee Weapon, major, very rare (requires attunement by a dwarf)*  

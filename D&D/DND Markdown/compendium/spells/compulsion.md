@@ -8,7 +8,6 @@ tags:
   - spell/school/enchantment
 aliases:
   - Compulsion
-dg-publish: true
 ---
 # Compulsion
 *4th-level, Enchantment*  

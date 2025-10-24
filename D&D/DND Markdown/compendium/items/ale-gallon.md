@@ -6,7 +6,6 @@ tags:
   - item/gear/food-and-drink
 aliases:
   - Ale (Gallon)
-dg-publish: true
 ---
 # Ale (Gallon)
 *Food and Drink*  

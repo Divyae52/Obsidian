@@ -9,7 +9,6 @@ tags:
   - item/wondrous
 aliases:
   - Robe of Eyes
-dg-publish: true
 ---
 # Robe of Eyes
 *Wondrous Item, major, rare (requires attunement)*  

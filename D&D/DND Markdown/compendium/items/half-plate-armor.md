@@ -6,7 +6,6 @@ tags:
   - item/armor/medium
 aliases:
   - Half Plate Armor
-dg-publish: true
 ---
 # Half Plate Armor
 *Medium Armor*  
