@@ -1,0 +1,11 @@
+{
+  "githubRepo": "ObsidFlowerShow",
+  "githubToken": "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",
+  "githubUserName": "Divyae52",
+  "branch": "main",
+  "autoMergePullRequests": true,
+  "mergeCommitMessage": "Merge content updates",
+  "excludePatterns": [
+    ".excalidraw(.(md|excalidraw))?$"
+  ]
+}

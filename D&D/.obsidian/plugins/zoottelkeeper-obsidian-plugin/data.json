@@ -1,6 +1,6 @@
 {
   "indexPrefix": "index.",
-  "indexItemStyle": "pureLink",
+  "indexItemStyle": "list",
   "indexTagValue": "MOC",
   "indexTagBoolean": true,
   "indexTagSeparator": ", ",
@@ -14,6 +14,6 @@
   "sortOrder": "asc",
   "addSquareBrackets": true,
   "embedSubIndex": false,
-  "templateFile": "",
+  "templateFile": "DND Markdown/templates/Zoottelkeeper/Zoottelkeeper Template.md",
   "frontMatterSeparator": "---"
 }
