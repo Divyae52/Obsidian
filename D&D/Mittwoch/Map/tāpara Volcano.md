@@ -5,5 +5,4 @@
 - Said to be active
 - At least one dragon has been sighted around the area. 
 
-![[Map.canvas|Map]]
 ![[Map.png]]
