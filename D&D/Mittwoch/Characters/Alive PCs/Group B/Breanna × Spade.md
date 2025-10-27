@@ -3,9 +3,9 @@
 ---
 https://www.dndbeyond.com/characters/152679320
 
-| Species    | Class                                                    | Alignment    | Experience Points |
-| ---------- | ------------------------------------------------------- | ------------ | ----------------- |
-| Changeling [[sorcerer\|Sorcerer]] [[wild-magic-tce\|Wild Magic]] 3 ]  | True Neutral | Milestone (3)     |
+| Species                                                            | Class        | Alignment     | Experience Points |
+| ------------------------------------------------------------------ | ------------ | ------------- | ----------------- |
+| Changeling [[sorcerer\|Sorcerer]] [[wild-magic-tce\|Wild Magic]] 3 | True Neutral | Milestone (3) |                   |
 ## Appearance
 ![[Spade Drawing.png]]
 Currently:

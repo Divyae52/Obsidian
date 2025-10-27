@@ -5,7 +5,7 @@
 [[{}Ethan × Henka]]
 [[{}Ash (Vittoria) × Asher]]
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]]
-[[Breanne × Spade]]
+[[Breanna × Spade]]
 [[Rylynne × Zara]]
 [[Braylon × Braylon]]
 
@@ -26,7 +26,7 @@ Perception:
 [[{}Ethan × Henka]]: 22
 [[{}Ash (Vittoria) × Asher]] 8
 [[Kaos × Shriek]] 12
-[[Breanne × Spade]] 11
+[[Breanna × Spade]] 11
 
 [[{}Ethan × Henka]] hears people talking, possibly arguing, cannot hear exactly what theyre saying
 
@@ -69,7 +69,7 @@ Init:
 [[{}Ethan × Henka]]20
 [[{}Ash (Vittoria) × Asher]]:21
 [[Kaos × Shriek]]:13
-[[Breanne × Spade]]:3
+[[Breanna × Spade]]:3
 [[Rylynne × Zara]]:13
 [[Braylon × Braylon]]: 18
 

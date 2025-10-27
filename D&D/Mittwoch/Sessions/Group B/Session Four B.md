@@ -6,7 +6,7 @@ Histoire:
 	[[{}Ethan × Henka]]20
 	[[{}Ash (Vittoria) × Asher]]:21
 	[[Kaos × Shriek]]:13
-	[[Breanne × Spade]]:3
+	[[Breanna × Spade]]:3
 	[[Rylynne × Zara]]:13
 	[[Braylon × Braylon]]: 18
 	.
@@ -37,7 +37,7 @@ leaf leaf
 
 [[Kaos × Shriek]] with what
 
-[[Breanne × Spade]] charcoal?
+[[Breanna × Spade]] charcoal?
 
 [[Kaos × Shriek]] takes a debris piece, starts using talons+blood to write with, copy west side of map.
 
@@ -53,7 +53,7 @@ leaf leaf
 
 [[{}Ethan × Henka]] get firewood
 
-[[Kaos × Shriek]] and [[Breanne × Spade]] roll to find some, 9+4
+[[Kaos × Shriek]] and [[Breanna × Spade]] roll to find some, 9+4
 
 [[Rylynne × Zara]] i dont think i know your names im zara
 
@@ -61,7 +61,7 @@ leaf leaf
 
 [[Kaos × Shriek]] Shriek
 
-[[Breanne × Spade]] Spade *british*
+[[Breanna × Spade]] Spade *british*
 
 [[{}Ethan × Henka]] i dont even what to know your name
 
@@ -85,7 +85,7 @@ Init:
 [[Braylon × Braylon]] 22
 [[Zachary]] 9
 [[Rhys]] 20
-[[Breanne × Spade]] 7
+[[Breanna × Spade]] 7
 [[Rylynne × Zara]] 13
 
 [[Rhys]] gets not hit, dodges

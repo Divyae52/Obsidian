@@ -4,18 +4,18 @@
 [[{}Avany × Acamenos aka Aseral (They Them)]] and [[{}Ethan × Henka]] go south, [[Joshua × Pentious]] follows
 [[Kaos × Shriek]] will eventually end up south
 [[Aidan × Desith]] goes south
-[[Breanne × Spade]] goes north
+[[Breanna × Spade]] goes north
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] goes south
 [[{}Gwenith × Ignatious Orchid (He Him)]] goes south
 [[{}Ash (Vittoria) × Asher]] goes south
 [[Madison × Zephyr (They Them)]] chooses to go south
 
-[[Kaos × Shriek]] notices [[Breanne × Spade]] with a 8+4
+[[Kaos × Shriek]] notices [[Breanna × Spade]] with a 8+4
 [[Kaos × Shriek]]: "Hoy!! Who?" High pitched, low pitched
-[[Breanne × Spade]]: "Spade."
+[[Breanna × Spade]]: "Spade."
 [[Kaos × Shriek]]: "Yo." (Medium pitch)
 *[[Kaos × Shriek]] boomarangs back around the town*
-[[Breanne × Spade]] continues north
+[[Breanna × Spade]] continues north
 
 [[{}Ethan × Henka]] gives [[{}Avany × Acamenos aka Aseral (They Them)]] a water skin
 
@@ -41,7 +41,7 @@
 
 
 North
-[[Breanne × Spade]]
+[[Breanna × Spade]]
 
 South
 [[{}Ethan × Henka]]

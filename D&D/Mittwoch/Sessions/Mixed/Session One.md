@@ -2,7 +2,7 @@
 {}
 ---
 We start on an unmanned boat, magically pushed off the boat once we reach the shore, and the boat leaves at [[Port of Olum Cee]]
-[[{}Ethan × Henka]] and [[Breanne × Spade]] transform into generic human
+[[{}Ethan × Henka]] and [[Breanna × Spade]] transform into generic human
 Short old [[Short Wispy Dwarf Lady]] w/ cane, [[Tall Buff Goliath]] w/ [[plate-armor|Plate Armor]] comes
 [[Short Wispy Dwarf Lady]] has wispy beard ([[dwarf|Dwarf]]) looks at all of us
 [[Short Wispy Dwarf Lady]] says "Welcome criminals, I don't know what you guys did but you're here with us now. Welcome to [[Port of Olum Cee]]."

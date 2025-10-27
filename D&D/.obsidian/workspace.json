@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Map/tāpara Volcano.md",
+                "file": "Mittwoch/Characters/Alive PCs/Group B/Breanna × Spade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tāpara Volcano"
+              "title": "Breanna × Spade"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/Map/tāpara Volcano.md",
+                "file": "Mittwoch/Characters/Alive PCs/Group B/Breanna × Spade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tāpara Volcano"
+              "title": "Backlinks for Breanna × Spade"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "9a62960fae1624d3",
   "lastOpenFiles": [
-    "Mittwoch/Map/Map.canvas",
     "Mittwoch/Map/tāpara Volcano.md",
+    "Mittwoch/Map/Map.canvas",
     "Mittwoch/Map/Sekitsui Mountains.md",
     "Mittwoch/Map/Seeblick.md",
     "Mittwoch/Map/Port of Olum Cee.png",
