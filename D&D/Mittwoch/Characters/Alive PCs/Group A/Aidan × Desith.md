@@ -11,6 +11,7 @@ https://www.dndbeyond.com/characters/152334031
 | Dragonborn | [[cleric\|Cleric]] [[cleric-life-domain\|Life Domain]] | Neutral Good | Milestone (3)     |
 ## Appearance
 
+![[Desith Drawing.png]]
 6'6"
 Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith Dark Blue.png]], [[Desith Light Blue.png]])
 [[plate-armor|Plate Armor]] being worn

@@ -3,3 +3,5 @@
 ---
 - A small settlement further inland, north of Hitam Lake
 - Considered an outpost of Port of Olum Cee. 
+
+![[Map.png]]

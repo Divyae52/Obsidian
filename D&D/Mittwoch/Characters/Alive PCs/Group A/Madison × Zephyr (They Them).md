@@ -12,7 +12,7 @@ Half elf drow
 shortish blue hair
 blue grey skin
 5'11"
-![[Pasted image 20250924144832.png]]
+![[Zephyr 3D Model.png]]
 ## Characteristics
 [[ability-scores-and-modifiers|Ability Scores and Modifiers]]
 

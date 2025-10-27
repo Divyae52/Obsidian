@@ -14,7 +14,7 @@ scraves
 imposing yellow eyes
 very imposing
 [[studded-leather-armor|Studded Leather Armor]]
-![[Pasted image 20250924145350.png]]
+![[Shriek Drawing.png]]
 
 Resembling a great horned owl, has brown and black colored horns, feathers/plummage are varying colors of brown, white, and black with striking yellow eyes, black beak and sharp black talons.
 ## Characteristics

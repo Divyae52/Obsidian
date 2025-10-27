@@ -8,8 +8,8 @@ https://www.dndbeyond.com/characters/xxx
 | [[Elf]] | [[bard\|Bard]] | True Neutral | Milestone (3)     |
 ## Appearance
 
-![[Merdh Drawing.png]]
-![[Pasted image 20250924145022.png]]
+![[Merdh Drawing A.png]]
+![[Merdh Drawing B.png]]
 Elf
 
 
