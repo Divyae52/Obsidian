@@ -163,4 +163,6 @@ info passes down the line like broken telephone
 
 we keep walking
 
-[[Madison × Zephyr (They Them)]] brandished dagger, 
+[[Madison × Zephyr (They Them)]] brandished dagger, perception by the end of the tunnel, sees a big wall slamming right infront, passes by
+
+[[Madison × Zephyr (They Them)]] theres just a wall thats gonna crush us if we go in so.. just like be careful about that...
