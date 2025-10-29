@@ -51,8 +51,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "Map"
             }
+          },
+          {
+            "id": "4996d3476df6e969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mittwoch/index.Mittwoch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index.Mittwoch"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/Sessions/Group A/Session Five A.md",
+                "file": "Mittwoch/index.Mittwoch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session Five A"
+              "title": "Backlinks for index.Mittwoch"
             }
           },
           {
@@ -212,10 +227,11 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "e86ea5a351ade352",
+  "active": "4996d3476df6e969",
   "lastOpenFiles": [
-    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+    "index.D&D.md",
     "Mittwoch/Sessions/Group A/Session Five A.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
     "Mittwoch/Map/Map.canvas",
     "Mittwoch/Sessions/Mixed/Session One+Two Isle.png",
     "DND Markdown/compendium/spells/prayer-of-healing.md",
