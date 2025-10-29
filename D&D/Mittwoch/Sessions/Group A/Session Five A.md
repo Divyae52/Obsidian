@@ -126,3 +126,19 @@ we makes food, eat
 
 [[{}Avany × Acamenos aka Aseral (They Them)]] backflips to the ruins, mostly cool
 
+
+
+We enter the ruins one by one, narrow entryway
+
+cannot enter by flight
+
+Order:
+[[Madison × Zephyr (They Them)]]
+[[{}Gwenith × Ignatious Orchid (He Him)]]
+[[{}Avany × Acamenos aka Aseral (They Them)]]
+[[Joshua × Pentious]]
+[[Dominic × Zoannirth]]
+[[Aidan × Desith]]
+[[Afifa × Sapphire]]
+[[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] *(still playing wonderwall)*
+
