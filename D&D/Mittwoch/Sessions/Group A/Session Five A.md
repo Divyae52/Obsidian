@@ -143,3 +143,23 @@ Order:
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] *(still playing wonderwall)*
 
 walking through ruins
+
+long tunnel, dark, smells gross and damp
+
+end of hallway has light, coming into a room
+
+[[Madison × Zephyr (They Them)]] *in TC* Oh theres a light, what do you think it is?
+[[{}Avany × Acamenos aka Aseral (They Them)]] *TC* just be careful.
+
+End of tunnel is probs a room
+
+[[Aidan × Desith]] and [[Dominic × Zoannirth]] and [[{}Gwenith × Ignatious Orchid (He Him)]] hear gears/mech.
+
+[[{}Gwenith × Ignatious Orchid (He Him)]] sees something move quickly across the tunnel's end
+
+[[{}Gwenith × Ignatious Orchid (He Him)]] and [[Madison × Zephyr (They Them)]] talks quietly
+
+info passes down the line like broken telephone
+
+we keep walking
+
