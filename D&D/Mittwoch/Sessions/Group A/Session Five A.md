@@ -96,6 +96,33 @@ Long Rest Ends
 
 [[Dominic × Zoannirth]] yes we are.
 
-[[Aidan × Desith]] should we prep. some food?
+[[Afifa × Sapphire]] I just vote we go east. I have bee naway from town for too many days, I just think we should just get a packages
 
-[[Afifa × Sapphire]] I just vote we go east. I have bee naway from town for too many days, I just think we 
+[[Aidan × Desith]] should we prep. some food first?
+
+[[Dominic × Zoannirth]] Yes.
+
+we make a fire
+
+we makes food, eat
+
+[[Aidan × Desith]] lets go to the east ruins because theres also water there.
+
+[[Joshua × Pentious]] knows there are less snake(like creature)s than before
+
+[[Madison × Zephyr (They Them)]] wants to backflip, [[{}Gwenith × Ignatious Orchid (He Him)]] and [[{}Avany × Acamenos aka Aseral (They Them)]] stop
+
+[[Madison × Zephyr (They Them)]] tries to front flip, is super uncool
+
+[[Joshua × Pentious]] mentions less 
+
+[[Madison × Zephyr (They Them)]] backflips cooly in celebration
+
+[[{}Gwenith × Ignatious Orchid (He Him)]] says dont do it again
+
+[[Madison × Zephyr (They Them)]] feels bad
+
+[[{}Avany × Acamenos aka Aseral (They Them)]] tries convincing to do it again
+
+[[{}Avany × Acamenos aka Aseral (They Them)]] backflips to the ruins
+
