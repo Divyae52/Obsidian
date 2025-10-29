@@ -26,7 +26,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 
 | Derived Stat          | Value   |
 | --------------------- | ------- |
-| Hit Points            | 22 / 27 |
+| Hit Points            | 27 / 27 |
 | Temp HP               | 0       |
 | Hit Dice              | 3d8     |
 | Proficiency Bonus     | 2       |
@@ -93,7 +93,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 * [[travelers-clothes|Traveler's Clothes]]
 * [[plate-armor|Plate Armor]]
 * [[trident|Trident]]
-* [[alchemists-supplies|Alchemist's Supplies]] or [[herbalism-kit|Herbalism Kit]]
+* [[herbalism-kit|Herbalism Kit]]
 
 ## Languages and Proficiencies
 
