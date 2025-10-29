@@ -66,8 +66,7 @@
               "title": "index.Mittwoch"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/index.Mittwoch.md",
+                "file": "Mittwoch/Sessions/Group A/Session Five A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index.Mittwoch"
+              "title": "Backlinks for Session Five A"
             }
           },
           {
@@ -227,8 +226,9 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "4996d3476df6e969",
+  "active": "e86ea5a351ade352",
   "lastOpenFiles": [
+    "Mittwoch/index.Mittwoch.md",
     "index.D&D.md",
     "Mittwoch/Sessions/Group A/Session Five A.md",
     "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
@@ -258,7 +258,6 @@
     "Mittwoch/Map/Map.png",
     "Mittwoch/Map/World View/Ryhan.md",
     "Mittwoch/Map/World View/Purgua.md",
-    "Mittwoch/Map/World View/Mykan.md",
     "Mittwoch/Map/World View/World Map.png",
     "Mittwoch/Characters/Alive PCs/Images/Merdh Drawing A.png",
     "Mittwoch/Characters/Alive PCs/Images/Merdh Drawing B.png",
