@@ -124,5 +124,5 @@ we makes food, eat
 
 [[{}Avany × Acamenos aka Aseral (They Them)]] tries convincing to do it again
 
-[[{}Avany × Acamenos aka Aseral (They Them)]] backflips to the ruins
+[[{}Avany × Acamenos aka Aseral (They Them)]] backflips to the ruins, mostly cool
 
