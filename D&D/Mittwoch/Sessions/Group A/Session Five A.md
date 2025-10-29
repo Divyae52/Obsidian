@@ -142,3 +142,4 @@ Order:
 [[Afifa × Sapphire]]
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] *(still playing wonderwall)*
 
+walking through ruins
