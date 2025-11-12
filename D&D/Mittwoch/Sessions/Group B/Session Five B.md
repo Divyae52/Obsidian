@@ -63,4 +63,25 @@ crab
 
 [[{}Ash (Vittoria) × Asher]] fails longbow
 
-[[{}Ethan × Henka]]
+[[{}Ethan × Henka]] self casts [[false-life]], 4hp
+
+[[Kaos × Shriek]]
+
+crab1 attacks [[Rhys × Windell]], misses
+
+[[Rhys × Windell]] uses [[poison-spray|Poison Spray]] on crab3, 10+4, misses
+
+[[Kaos × Shriek]] faints (left for bus)
+
+[[{}Audrey × Jinx Arbor]] pushes [[{}Ethan × Henka]] out of crab 3 way, uses dagger on crab3, 17+4, deals 6 dmg
+
+[[Rylynne × Zara]] attacks crab3 with dagger across neck, 18 to hit, deals 6 dmg, kills
+
+[[{}Ash (Vittoria) × Asher]] attacks crab1 with longbow, 3+6 / 1+6, misses
+
+[[{}Ethan × Henka]] attacks crab1 with fire bolt, 15 to hit, deals 3 dmg
+
+[[Rhys × Windell]] attacks crab1 with xx, 8/5, misses
+
+[[{}Audrey × Jinx Arbor]] retrives dagger, runs away, shoots longbow from behind crab, 16+6, deals 3 dmg
+
