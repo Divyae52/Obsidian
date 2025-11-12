@@ -60,3 +60,7 @@ crab
 crab
 
 [[Rylynne × Zara]] attacks crab3 with darts, 16+4, deals 4 dmg
+
+[[{}Ash (Vittoria) × Asher]] fails longbow
+
+[[{}Ethan × Henka]]
