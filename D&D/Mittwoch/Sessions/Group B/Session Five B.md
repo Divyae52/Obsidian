@@ -85,3 +85,8 @@ crab1 attacks [[Rhys × Windell]], misses
 
 [[{}Audrey × Jinx Arbor]] retrives dagger, runs away, shoots longbow from behind crab, 16+6, deals 3 dmg
 
+[[Rylynne × Zara]] goes near, gets sad on sight, does not attack or smth?
+
+[[{}Ash (Vittoria) × Asher]] attacks crab1 with dagger, misses
+
+[[{}Ethan × Henka]] uses [[green-flame-blade]], dirty 20, deals 8 dmg
