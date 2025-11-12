@@ -77,17 +77,17 @@ leaf leaf
 
 [[Braylon × Braylon]] put it in the ocean, see who much it can store
 
-[[Rhys ×]] and [[Zachary ×]] come running, 3 giant crabs behind them, at least 6'3"
+[[Rhys × Windell]] and [[Zachary ×]] come running, 3 giant crabs behind them, at least 6'3"
 
 Init:
 [[Kaos × Shriek]] 23
 [[{}Ethan × Henka]] 18
 [[Braylon × Braylon]] 22
 [[Zachary ×]] 9
-[[Rhys ×]] 20
+[[Rhys × Windell]] 20
 [[Breanna × Spade]] 7
 [[Rylynne × Zara]] 13
 
-[[Rhys ×]] gets not hit, dodges
+[[Rhys × Windell]] gets not hit, dodges
 [[{}Ethan × Henka]] takes 11 DMG, now 5 HP, is grappled by CRAB2
 [[Rylynne × Zara]] takes 14 DMG, now at 9 HP
