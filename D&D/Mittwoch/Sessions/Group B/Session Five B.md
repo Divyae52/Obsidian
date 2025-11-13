@@ -13,7 +13,7 @@
 [[Rylynne × Zara]] takes 14 DMG, now at 9 HP
 Absentees passed out due to panic
 
-![[giant-crab]]
+[[giant-crab]]
 
 Initiative:
 [[Kaos × Shriek]]
