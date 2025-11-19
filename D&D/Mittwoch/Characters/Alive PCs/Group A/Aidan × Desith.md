@@ -124,7 +124,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 ### First Level
 
 * [x] Spell Slot 1
-* [ ] Spell Slot 2
+* [x] Spell Slot 2
 * [ ] Spell Slot 3
 * [ ] Spell Slot 4
 * [[bless|Bless]] (**U**) - Up to **three creatures gain a bonus d4 to attack rolls and saving throws** for the duration.
