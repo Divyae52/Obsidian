@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9415616627cd2bd",
+            "id": "6a5059451181ee20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Session Six A"
-            }
-          },
-          {
-            "id": "6a5059451181ee20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aidan × Desith"
             }
           }
         ]
@@ -195,16 +181,19 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "e9415616627cd2bd",
+  "active": "6a5059451181ee20",
   "lastOpenFiles": [
-    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+    "Nicole x Hiro (He/index.Nicole x Hiro (He.md",
+    "Nicole x Hiro (He/They).md",
     "Mittwoch/Sessions/Group A/Session Six A.md",
+    "Nicole x Hiro (He",
+    "Mittwoch/Sessions/Group B/Session Five B.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
     "Mittwoch/Characters/Alive PCs/Group A/{}Avany × Acamenos aka Aseral (They Them).md",
     "Mittwoch/Sessions/Group A/Session Five A.md",
     "Mittwoch/Sessions/Group A/Session Five - Six Dungeon.png",
     "Mittwoch/Characters/Alive PCs/Group A/Edward × MerdhsaewndÎr (Merdh) (He ~ It).md",
     "Mittwoch/Sessions/Group B/Session Four B.md",
-    "Mittwoch/Sessions/Group B/Session Five B.md",
     "DND Markdown/compendium/bestiary/beast/giant-crab.md",
     "DND Markdown/compendium/spells/fire-bolt.md",
     "DND Markdown/compendium/spells/chill-touch.md",
@@ -224,7 +213,6 @@
     "Mittwoch/Sessions/Group A/Session Three A (East).md",
     "Mittwoch/Characters/Alive PCs/Group A/Dominic × Zoannirth.md",
     "Mittwoch/Characters/Alive PCs/Group B/Zachary ×.md",
-    "Mittwoch/Characters/Alive PCs/Group B/Breanna × Spade.md",
     "Mittwoch/Map/Port of Olum Cee.png",
     "Mittwoch/Map/Map.png",
     "Mittwoch/Map/World View/World Map.png",
@@ -242,7 +230,6 @@
     "Mittwoch/Sessions/Mixed/Session One Isle.png~",
     "Mittwoch/Sessions/Mixed/Session One Isle.png-autosave.kra",
     "Untitled.base",
-    "Mittwoch/Sessions/Mixed/Session One.canvas",
-    "Ink/Drawing"
+    "Mittwoch/Sessions/Mixed/Session One.canvas"
   ]
 }

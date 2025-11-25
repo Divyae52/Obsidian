@@ -43,3 +43,4 @@ rumbling behind us, door seems to have closed
 
 they konw eachother *very* well
 
+[[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] is pushed in pit, block 52, takes 9 dmg
