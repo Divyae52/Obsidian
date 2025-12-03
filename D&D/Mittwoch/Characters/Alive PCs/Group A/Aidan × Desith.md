@@ -135,8 +135,8 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 
 ### Second Level
 
-* [ ] Spell Slot 1
-* [ ] Spell Slot 2
+* [x] Spell Slot 1
+* [x] Spell Slot 2
 * [[aid|Aid]] (**U**) - Bolsters up to three creatures, **increasing their hit point maximum and current HP** for 8 hours.
 * [[enhance-ability|Enhance Ability]] (**U**) - Grants a creature **advantage on ability checks** tied to one chosen ability score.
 * [[find-traps|Find Traps]] - **Reveals the presence of traps** within range but **not their exact location**.
