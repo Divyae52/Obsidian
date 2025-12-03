@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Sessions/Group A/Session Six A.md",
+                "file": "Mittwoch/Sessions/Group A/Session Seven A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Six A"
+              "title": "Session Seven A"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/Sessions/Group A/Session Six A.md",
+                "file": "Mittwoch/Sessions/Group A/Session Seven A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session Six A"
+              "title": "Backlinks for Session Seven A"
             }
           },
           {
@@ -183,12 +183,15 @@
   },
   "active": "6a5059451181ee20",
   "lastOpenFiles": [
+    "Mittwoch/Sessions/Group A/Session Six A.md",
+    "Mittwoch/Sessions/Group A/Session Seven A.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+    "DND Markdown/compendium/spells/spiritual-weapon.md",
+    "DND Markdown/compendium/spells/shield-of-faith.md",
     "Nicole x Hiro (He/index.Nicole x Hiro (He.md",
     "Nicole x Hiro (He/They).md",
-    "Mittwoch/Sessions/Group A/Session Six A.md",
     "Nicole x Hiro (He",
     "Mittwoch/Sessions/Group B/Session Five B.md",
-    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
     "Mittwoch/Characters/Alive PCs/Group A/{}Avany × Acamenos aka Aseral (They Them).md",
     "Mittwoch/Sessions/Group A/Session Five A.md",
     "Mittwoch/Sessions/Group A/Session Five - Six Dungeon.png",
@@ -210,9 +213,6 @@
     "DND Markdown/compendium/spells/prayer-of-healing.md",
     "Mittwoch/Sessions/Mixed/Session One.md",
     "Mittwoch/Sessions/Group A/Session Four A.md",
-    "Mittwoch/Sessions/Group A/Session Three A (East).md",
-    "Mittwoch/Characters/Alive PCs/Group A/Dominic × Zoannirth.md",
-    "Mittwoch/Characters/Alive PCs/Group B/Zachary ×.md",
     "Mittwoch/Map/Port of Olum Cee.png",
     "Mittwoch/Map/Map.png",
     "Mittwoch/Map/World View/World Map.png",
