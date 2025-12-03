@@ -30,3 +30,4 @@ We have 4 items that can jam the gears
 
 *insert crunching of bones sound effect*
 
+[[{}Avany × Acamenos aka Aseral (They Them)]] is unconsious, tail is crushed, 1 death save
