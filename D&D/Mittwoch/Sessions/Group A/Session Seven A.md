@@ -26,4 +26,7 @@ We have 4 items that can jam the gears
 
 [[{}Gwenith × Ignatious Orchid (He Him)]] tries to get unstuck, 7 fails, gets unstuck via 17, tries to climb (STR), 14, not stuck, dont get out, rolls 5(d6) and takes 5 dmg
 
-[[{}Avany × Acamenos aka Aseral (They Them)]]
+[[{}Avany × Acamenos aka Aseral (They Them)]] tries to unstuck, rolls Athletics 10+2, fails, 2 * 2d6 dmg, takes 12dmg
+
+*insert crunching of bones sound effect*
+
