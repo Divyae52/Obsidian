@@ -1,7 +1,7 @@
 Locations (And Turn Order):
 [[Madison × Zephyr (They Them)]] - 63 (Bottom)
 [[{}Gwenith × Ignatious Orchid (He Him)]] - 43 (Gears)
-[[{}Avany × Acamenos aka Aseral (They Them)]] - 43 (Gears)
+[[{}Avany × Acamenos aka Aseral (They Them)]] - 44 (Gears)
 [[Joshua × Pentious]] - 45 (Gears)
 [[Dominic × Zoannirth]] - 73 (Air)
 [[Aidan × Desith]] - Hallway (Front)
@@ -24,4 +24,6 @@ We have 4 items that can jam the gears
 
 [[Madison × Zephyr (They Them)]] rolls to jump from 53run63 to 93, 4+7, falls in gears **73**, rolls 19+7 to get stuck, not stuck, takes 2dmg
 
-[[{}Gwenith × Ignatious Orchid (He Him)]] tries to get unstuck, rolls 
+[[{}Gwenith × Ignatious Orchid (He Him)]] tries to get unstuck, 7 fails, gets unstuck via 17, tries to climb (STR), 14, not stuck, dont get out, rolls 5(d6) and takes 5 dmg
+
+[[{}Avany × Acamenos aka Aseral (They Them)]]
