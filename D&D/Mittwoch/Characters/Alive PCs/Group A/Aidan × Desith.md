@@ -124,7 +124,7 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 ### First Level
 
 * [x] Spell Slot 1
-* [x] Spell Slot 2
+* [ ] Spell Slot 2
 * [ ] Spell Slot 3
 * [ ] Spell Slot 4
 * [[bless|Bless]] (**U**) - Up to **three creatures gain a bonus d4 to attack rolls and saving throws** for the duration.
@@ -143,6 +143,9 @@ Dark blue scales, reflect some light, scales get lighter towards tail ([[Desith 
 * [[lesser-restoration|Lesser Restoration]] - **Cures a creature** of a disease, condition, or poison.
 * [[prayer-of-healing|Prayer of Healing]] (**U**) - After 10 minutes, **up to six creatures regain a significant amount of hit points**.
 * [[spiritual-weapon|Spiritual Weapon]] (**U**) - **Summons a floating weapon** that makes bonus action attacks for force damage.
+
+1, 2, 4, 8, 16, 32, 64, 128
+1, 2, 3, 4, 05, 06
 
 ## Background
 

@@ -30,4 +30,6 @@ We have 4 items that can jam the gears
 
 *insert crunching of bones sound effect*
 
-[[{}Avany × Acamenos aka Aseral (They Them)]] is unconsious, tail is crushed, 1 death save
+[[{}Avany × Acamenos aka Aseral (They Them)]] is unconscious, tail is crushed, 1 death save
+
+[[Joshua × Pentious]] rolls 12, still stuck, takes 10 dmg, 1hp left, breaks his left arms *insert crunching of bones sound effect*

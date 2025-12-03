@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Session Seven A"
             }
+          },
+          {
+            "id": "ebfa9ed531326fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aidan × Desith"
+            }
           }
         ]
       }
@@ -183,9 +197,9 @@
   },
   "active": "6a5059451181ee20",
   "lastOpenFiles": [
-    "Mittwoch/Sessions/Group A/Session Six A.md",
-    "Mittwoch/Sessions/Group A/Session Seven A.md",
     "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+    "Mittwoch/Sessions/Group A/Session Seven A.md",
+    "Mittwoch/Sessions/Group A/Session Six A.md",
     "DND Markdown/compendium/spells/spiritual-weapon.md",
     "DND Markdown/compendium/spells/shield-of-faith.md",
     "Nicole x Hiro (He/index.Nicole x Hiro (He.md",
