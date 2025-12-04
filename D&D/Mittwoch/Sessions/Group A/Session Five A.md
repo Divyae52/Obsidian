@@ -2,7 +2,7 @@
 [[Madison × Zephyr (They Them)]]
 [[Joshua × Pentious]]
 [[{}Avany × Acamenos aka Aseral (They Them)]]
-[[Dominic × Zoannirth]]
+[[Dominic × Zenith (Zoannirth)]]
 [[{}Gwenith × Ignatious Orchid (He Him)]]
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]]
 [[Afifa × Sapphire]]
@@ -27,12 +27,12 @@ skin snake
 
 we get pounds of snake meat
 
-[[Dominic × Zoannirth]] gets some snake skin
+[[Dominic × Zenith (Zoannirth)]] gets some snake skin
 
 [[Aidan × Desith]]: Who's keeping watch?
 [[Aidan × Desith]] starts casting [[prayer-of-healing|Prayer of Healing]]
 
-[[Dominic × Zoannirth]] offers first watch
+[[Dominic × Zenith (Zoannirth)]] offers first watch
 [[Madison × Zephyr (They Them)]] offers last watch
 
 [[Aidan × Desith]]: I'm Desith. What's yalls names
@@ -43,15 +43,15 @@ we get pounds of snake meat
 
 [[Joshua × Pentious]] I'm Pentious, and thanks for the help back there, Desith
 
-[[Aidan × Desith]] looks generally towards [[Dominic × Zoannirth]]
+[[Aidan × Desith]] looks generally towards [[Dominic × Zenith (Zoannirth)]]
 
-[[Dominic × Zoannirth]] My name is Zoannirth, but you can call be Zenith
+[[Dominic × Zenith (Zoannirth)]] My name is Zoannirth, but you can call be Zenith
 
 [[Madison × Zephyr (They Them)]] starts meditation
 
 [[Aidan × Desith]] looks for caves, rock formations
 
-[[Dominic × Zoannirth]] says we should decide where we go next
+[[Dominic × Zenith (Zoannirth)]] says we should decide where we go next
 
 [[Aidan × Desith]] I'm just heading to sleep.
 [[Aidan × Desith]] goes to lie down
@@ -64,11 +64,11 @@ Long Rest Ends
 
 [[{}Gwenith × Ignatious Orchid (He Him)]] looks over avany from behind at the map
 
-[[Dominic × Zoannirth]] we should go to the ruins
+[[Dominic × Zenith (Zoannirth)]] we should go to the ruins
 
 [[Aidan × Desith]] which ones
 
-[[Dominic × Zoannirth]] the ones directly east
+[[Dominic × Zenith (Zoannirth)]] the ones directly east
 
 [[Aidan × Desith]] how about the notrth ones/
 
@@ -84,7 +84,7 @@ Long Rest Ends
 
 [[Joshua × Pentious]] i agree. We should go to the north ruins
 
-[[Dominic × Zoannirth]] [[Madison × Zephyr (They Them)]]we should go east. we've already fought them
+[[Dominic × Zenith (Zoannirth)]] [[Madison × Zephyr (They Them)]]we should go east. we've already fought them
 
 [[Aidan × Desith]] There's likely more. We barely survived 2. 
 
@@ -94,13 +94,13 @@ Long Rest Ends
 
 [[Aidan × Desith]]: Do that mean you're from the port of olum cee town
 
-[[Dominic × Zoannirth]] yes we are.
+[[Dominic × Zenith (Zoannirth)]] yes we are.
 
 [[Afifa × Sapphire]] I just vote we go east. I have bee naway from town for too many days, I just think we should just get a packages
 
 [[Aidan × Desith]] should we prep. some food first?
 
-[[Dominic × Zoannirth]] Yes.
+[[Dominic × Zenith (Zoannirth)]] Yes.
 
 we make a fire
 
@@ -137,7 +137,7 @@ Order:
 [[{}Gwenith × Ignatious Orchid (He Him)]]
 [[{}Avany × Acamenos aka Aseral (They Them)]]
 [[Joshua × Pentious]]
-[[Dominic × Zoannirth]]
+[[Dominic × Zenith (Zoannirth)]]
 [[Aidan × Desith]]
 [[Afifa × Sapphire]]
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] *(still playing wonderwall)*
@@ -153,7 +153,7 @@ end of hallway has light, coming into a room
 
 End of tunnel is probs a room
 
-[[Aidan × Desith]] and [[Dominic × Zoannirth]] and [[{}Gwenith × Ignatious Orchid (He Him)]] hear gears/mech.
+[[Aidan × Desith]] and [[Dominic × Zenith (Zoannirth)]] and [[{}Gwenith × Ignatious Orchid (He Him)]] hear gears/mech.
 
 [[{}Gwenith × Ignatious Orchid (He Him)]] sees something move quickly across the tunnel's end
 

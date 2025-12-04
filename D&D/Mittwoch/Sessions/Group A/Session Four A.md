@@ -5,7 +5,7 @@
 [[Madison × Zephyr (They Them)]]: 14/29
 [[Joshua × Pentious]]: 22/22
 [[{}Avany × Acamenos aka Aseral (They Them)]]: 16/16
-[[Dominic × Zoannirth]] 24/24
+[[Dominic × Zenith (Zoannirth)]] 24/24
 SNAKE3
 [[{}Gwenith × Ignatious Orchid (He Him)]]: 13/15
 SNAKE2
@@ -20,7 +20,7 @@ Josh rolls 5, needed 7, notices nothing
 No one notices anything
 Snake 4&1 leave
 Snake 1 releases [[Aidan × Desith]]
-[[Afifa × Sapphire]] and [[Dominic × Zoannirth]] start running here
+[[Afifa × Sapphire]] and [[Dominic × Zenith (Zoannirth)]] start running here
 
 
 [[Aidan × Desith]] casts cure wounds on self, heals 12 HP
@@ -42,9 +42,9 @@ SNAKE2 bites 13 DMG to [[Aidan × Desith]], tries to constrict [[Joshua × Penti
 
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] casts [[cure-wounds|Cure Wounds]], heals 8 HP
 
-[[Afifa × Sapphire]] and [[Dominic × Zoannirth]] join in
+[[Afifa × Sapphire]] and [[Dominic × Zenith (Zoannirth)]] join in
 
-[[Dominic × Zoannirth]] attacks snake2 with a [[shortbow]], hits, deals 6 DMG
+[[Dominic × Zenith (Zoannirth)]] attacks snake2 with a [[shortbow]], hits, deals 6 DMG
 
 [[Afifa × Sapphire]] attacks snake2 with a lance, deals 4 DMG
 
@@ -57,8 +57,8 @@ SNAKE2 bites 13 DMG to [[Aidan × Desith]], tries to constrict [[Joshua × Penti
 
 [[{}Avany × Acamenos aka Aseral (They Them)]] rolls 14 to hit, with rapier, deals 8 DMG
 
-[[Dominic × Zoannirth]] deals 10 DMG to SNAKE2, SNAKE2 is ded
-[[Dominic × Zoannirth]] heals [[Aidan × Desith]] for 6 with [[healing-word|Healing Word]]
+[[Dominic × Zenith (Zoannirth)]] deals 10 DMG to SNAKE2, SNAKE2 is ded
+[[Dominic × Zenith (Zoannirth)]] heals [[Aidan × Desith]] for 6 with [[healing-word|Healing Word]]
 
 SNAK3 is dddistraught at the death of its brother, does not attack
 

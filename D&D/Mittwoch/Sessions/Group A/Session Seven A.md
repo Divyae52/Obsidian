@@ -3,7 +3,7 @@ Locations (And Turn Order):
 [[{}Gwenith × Ignatious Orchid (He Him)]] - 43 (Gears)
 [[{}Avany × Acamenos aka Aseral (They Them)]] - 44 (Gears)
 [[Joshua × Pentious]] - 45 (Gears)
-[[Dominic × Zoannirth]] - 73 (Air)
+[[Dominic × Zenith (Zoannirth)]] - 73 (Air)
 [[Aidan × Desith]] - Hallway (Front)
 [[Afifa × Sapphire]] - Hallway
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] - 52 (Gears)
@@ -34,7 +34,7 @@ We have 4 items that can jam the gears
 
 [[Joshua × Pentious]] rolls 12, still stuck, takes 10 dmg, 1hp left, breaks his left arms *insert crunching of bones sound effect*
 
-[[Dominic × Zoannirth]] rolls investigation (w/ adv.) to locate disablement, rolls 4/**14**, locates lever/gear on 92, might stop gears+walls, shoots [[fire-bolt]] at it, rolls 14 to hit, hits/deals 0 dmg, uses [[healing-word]], heals [[{}Avany × Acamenos aka Aseral (They Them)]] 4 hp, [[{}Avany × Acamenos aka Aseral (They Them)]] is consious and knows is stuck and tail is crushed
+[[Dominic × Zenith (Zoannirth)]] rolls investigation (w/ adv.) to locate disablement, rolls 4/**14**, locates lever/gear on 92, might stop gears+walls, shoots [[fire-bolt]] at it, rolls 14 to hit, hits/deals 0 dmg, uses [[healing-word]], heals [[{}Avany × Acamenos aka Aseral (They Them)]] 4 hp, [[{}Avany × Acamenos aka Aseral (They Them)]] is consious and knows is stuck and tail is crushed
 
 [[Aidan × Desith]] casts [[aid]] on [[{}Avany × Acamenos aka Aseral (They Them)]], [[Joshua × Pentious]], and [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] and [[shield-of-faith|Shield of Faith]] on [[Joshua × Pentious]], swaps location with [[Afifa × Sapphire]]
 
@@ -52,9 +52,9 @@ We have 4 items that can jam the gears
 
 [[Joshua × Pentious]] rolls 16 to get out, unstuck, 18, gets out, throws javelin from 53 to lever, 11+2, misses, javelin in gears
 
-[[Dominic × Zoannirth]] gets 22 to notice weak spots, finds, aims for it, rols w/ adv, gets 20+5, deals 8dmg
+[[Dominic × Zenith (Zoannirth)]] gets 22 to notice weak spots, finds, aims for it, rols w/ adv, gets 20+5, deals 8dmg
 
-***GEARS SLOW DOWN AND STOP (TEMPORARILY (UNTIL [[Dominic × Zoannirth]]'S NEXT TURN))***
+***GEARS SLOW DOWN AND STOP (TEMPORARILY (UNTIL [[Dominic × Zenith (Zoannirth)]]'S NEXT TURN))***
 
 [[Aidan × Desith]] jumps to center
 

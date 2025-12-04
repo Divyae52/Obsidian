@@ -3,7 +3,7 @@ Order:
 [[{}Gwenith × Ignatious Orchid (He Him)]]
 [[{}Avany × Acamenos aka Aseral (They Them)]]
 [[Joshua × Pentious]]
-[[Dominic × Zoannirth]]
+[[Dominic × Zenith (Zoannirth)]]
 [[Aidan × Desith]]
 [[Afifa × Sapphire]]
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] *(still playing wonderwall)*
@@ -29,7 +29,7 @@ rumbling behind us, door seems to have closed
 
 [[Madison × Zephyr (They Them)]] You can probably stop the gears or jam them
 
-[[Dominic × Zoannirth]] flys to wall top, on block 73 on rod above wall
+[[Dominic × Zenith (Zoannirth)]] flys to wall top, on block 73 on rod above wall
 
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] moves to line front, heals [[{}Avany × Acamenos aka Aseral (They Them)]] 5 hp, jumps successfuly
 
