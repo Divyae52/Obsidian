@@ -56,3 +56,6 @@ We have 4 items that can jam the gears
 
 ***GEARS SLOW DOWN AND STOP (TEMPORARILY (UNTIL [[Dominic × Zoannirth]]'S NEXT TURN))***
 
+[[Aidan × Desith]] jumps to center
+
+[[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] does get out
