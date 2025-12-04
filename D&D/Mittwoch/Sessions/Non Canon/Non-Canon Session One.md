@@ -1,0 +1,1 @@
+In a small arena, 9 adventures get into two separate teams to fight to the death.

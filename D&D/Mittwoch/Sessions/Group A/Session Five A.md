@@ -166,3 +166,10 @@ we keep walking
 [[Madison × Zephyr (They Them)]] brandished dagger, perception by the end of the tunnel, sees a big wall slamming right infront, passes by
 
 [[Madison × Zephyr (They Them)]] theres just a wall thats gonna crush us if we go in so.. just like be careful about that...
+
+
+
+Next: [[Session Six A]]
+Previous: [[Session Four A]]
+Index: [[index.Mixed]] or [[Mittwoch/Sessions/Group A/index.Group A|index.Group A]]
+Start: [[Session One]] or [[Session Three A (East)]]

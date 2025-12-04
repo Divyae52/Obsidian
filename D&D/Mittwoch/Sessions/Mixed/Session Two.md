@@ -67,3 +67,13 @@ discuss setting village on fire
 
 [[{}Avany × Acamenos aka Aseral (They Them)]] asks [[Aidan × Desith]] about the plan
 [[Aidan × Desith]] just smiles
+
+
+
+Follow Group A (East): [[Session Three A (East)]]
+
+Follow Group B (Everyone Else ig): [[Session Three B]]
+
+Previous: [[Session One]]
+Index: [[index.Mixed]]
+Start: [[Session One]]

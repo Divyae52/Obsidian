@@ -79,3 +79,10 @@ Snake2 fails bite [[Aidan × Desith]], fails grapple [[Joshua × Pentious]]
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] casts distant whispers, rolls 8, plays weirdly, no effect
 
 Snake4 deals [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] damage, 5/18 HP
+
+
+
+Next: [[Session Four A]]
+Previous: [[Session Two]]
+Index: [[index.Mixed]] or [[Mittwoch/Sessions/Group A/index.Group A|index.Group A]]
+Start: [[Session One]] or [[Session Three A (East)]]

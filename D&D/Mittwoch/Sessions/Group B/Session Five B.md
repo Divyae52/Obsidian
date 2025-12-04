@@ -90,3 +90,10 @@ crab1 attacks [[Rhys × Windell]], misses
 [[{}Ash (Vittoria) × Asher]] attacks crab1 with dagger, misses
 
 [[{}Ethan × Henka]] uses [[green-flame-blade]], dirty 20, deals 8 dmg
+
+
+
+Next: [[Session Six B]]
+Previous: [[Session Four B]]
+Index: [[index.Mixed]] or [[Mittwoch/Sessions/Group A/index.Group A|index.Group B]]
+Start: [[Session One]] or [[Session Three B]]

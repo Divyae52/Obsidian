@@ -78,3 +78,10 @@ Init:
 [[{}Ethan × Henka]] deals 4 damage to [[Braylon × Braylon]] by throwing [[{}Ash (Vittoria) × Asher]]
 
 [[Braylon × Braylon]] deals , hides
+
+
+
+Next: [[Session Four B]]
+Previous: [[Session Two]]
+Index: [[index.Mixed]] or [[Mittwoch/Sessions/Group A/index.Group A|index.Group B]]
+Start: [[Session One]] or [[Session Three B]]

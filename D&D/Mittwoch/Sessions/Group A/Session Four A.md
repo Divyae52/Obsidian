@@ -65,3 +65,10 @@ SNAK3 is dddistraught at the death of its brother, does not attack
 [[{}Gwenith × Ignatious Orchid (He Him)]] deals 6 DMG to SNAKE3 with a light hammer
 
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] kills it.
+
+
+
+Next: [[Session Five A]]
+Previous: [[Session Three A (East)]]
+Index: [[index.Mixed]] or [[Mittwoch/Sessions/Group A/index.Group A|index.Group A]]
+Start: [[Session One]] or [[Session Three A (East)]]

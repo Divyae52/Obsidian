@@ -44,3 +44,10 @@ rumbling behind us, door seems to have closed
 they konw eachother *very* well
 
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] is pushed in pit, block 52, takes 9 dmg
+
+
+
+Next: [[Session Seven A]]
+Previous: [[Session Five A]]
+Index: [[index.Mixed]] or [[Mittwoch/Sessions/Group A/index.Group A|index.Group A]]
+Start: [[Session One]] or [[Session Three A (East)]]

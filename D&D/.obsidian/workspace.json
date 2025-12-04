@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4895614f6962e1d4",
+        "id": "954e72e85f626641",
         "type": "tabs",
         "children": [
           {
-            "id": "ebfa9ed531326fef",
+            "id": "96942854a268de97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+                "file": "Mittwoch/Sessions/Mixed/Session One.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aidan × Desith"
+              "title": "Session One"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+                "file": "Mittwoch/Sessions/Mixed/Session One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aidan × Desith"
+              "title": "Backlinks for Session One"
             }
           },
           {
@@ -181,16 +181,28 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "ebfa9ed531326fef",
+  "active": "96942854a268de97",
   "lastOpenFiles": [
-    "Mittwoch/Characters/Alive PCs/Group A/Dominic × Zenith (Zoannirth).md",
-    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
-    "Mittwoch/Sessions/Group A/Session Five - 6+1 Dungeon.png",
+    "Mittwoch/Sessions/Mixed/Session Two.md",
+    "Mittwoch/Sessions/Mixed/Session One.md",
+    "Mittwoch/Sessions/Non Canon/Non-Canon Session One.md",
+    "Mittwoch/Sessions/Non Canon/index.Non Canon.md",
+    "Mittwoch/Sessions/Group B/Session Six B.md",
+    "Mittwoch/Sessions/Non Canon",
+    "Mittwoch/Sessions/Group B/Session Four B.md",
+    "Mittwoch/Sessions/Group B/Session Five B.md",
+    "Mittwoch/Sessions/Group B/Session Three B.md",
     "Mittwoch/Sessions/Group A/Session Seven A.md",
+    "Mittwoch/Sessions/Group A/Session Six A.md",
+    "Mittwoch/Sessions/Group A/Session Five A.md",
+    "Mittwoch/Sessions/Group A/Session Four A.md",
+    "Mittwoch/Sessions/Group A/Session Three A (East).md",
+    "Mittwoch/Characters/Alive PCs/Group A/Aidan × Desith.md",
+    "Mittwoch/Characters/Alive PCs/Group A/Dominic × Zenith (Zoannirth).md",
+    "Mittwoch/Sessions/Group A/Session Five - 6+1 Dungeon.png",
     "DND Markdown/compendium/spells/aid.md",
     "Mittwoch/Characters/Alive PCs/Group A/Joshua × Pentious.md",
     "Mittwoch/Characters/Alive PCs/Images/Desith Light Blue.png",
-    "Mittwoch/Sessions/Group A/Session Six A.md",
     "Mittwoch/Characters/Alive PCs/Images/Desith Dark Blue.png",
     "DND Markdown/compendium/spells/healing-word.md",
     "DND Markdown/compendium/spells/spiritual-weapon.md",
@@ -198,22 +210,11 @@
     "Nicole x Hiro (He/index.Nicole x Hiro (He.md",
     "Nicole x Hiro (He/They).md",
     "Nicole x Hiro (He",
-    "Mittwoch/Sessions/Group B/Session Five B.md",
     "Mittwoch/Characters/Alive PCs/Group A/{}Avany × Acamenos aka Aseral (They Them).md",
-    "Mittwoch/Sessions/Group A/Session Five A.md",
     "Mittwoch/Characters/Alive PCs/Group A/Edward × MerdhsaewndÎr (Merdh) (He ~ It).md",
-    "Mittwoch/Sessions/Group B/Session Four B.md",
     "DND Markdown/compendium/bestiary/beast/giant-crab.md",
     "DND Markdown/compendium/spells/fire-bolt.md",
-    "DND Markdown/compendium/spells/chill-touch.md",
-    "Mittwoch/Characters/Alive PCs/Group B/{}Audrey × Jinx Arbor.md",
-    "Mittwoch/Characters/Alive PCs/Group B/{}Ethan × Henka.md",
-    "DND Markdown/compendium/items/dagger.md",
-    "Mittwoch/Characters/Alive PCs/Group B/Rhys × Windell.md",
-    "Mittwoch/Sessions/Group B/Session Three B.md",
-    "Mittwoch/Characters/Alive PCs/Group A/Afifa × Sapphire.md",
     "Mittwoch/Map/Map.canvas",
-    "Mittwoch/index.Mittwoch.md",
     "Mittwoch/Sessions/Mixed/Session One+Two Isle.png",
     "Mittwoch/Map/Port of Olum Cee.png",
     "Mittwoch/Map/Map.png",
@@ -229,7 +230,6 @@
     "Mittwoch/Map/World View",
     "Mittwoch/Sessions/Mixed/Session One Isle.png~",
     "Mittwoch/Sessions/Mixed/Session One Isle.png-autosave.kra",
-    "Untitled.base",
     "Mittwoch/Sessions/Mixed/Session One.canvas"
   ]
 }

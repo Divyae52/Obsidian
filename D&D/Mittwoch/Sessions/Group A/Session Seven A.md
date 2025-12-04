@@ -59,3 +59,10 @@ We have 4 items that can jam the gears
 [[Aidan × Desith]] jumps to center
 
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] does get out
+
+
+
+Next: [[index.Sessions]]
+Previous: [[Session Six A]]
+Index: [[index.Mixed]] or [[Mittwoch/Sessions/Group A/index.Group A|index.Group A]]
+Start: [[Session One]] or [[Session Three A (East)]]

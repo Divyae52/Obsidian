@@ -91,3 +91,10 @@ Init:
 [[Rhys × Windell]] gets not hit, dodges
 [[{}Ethan × Henka]] takes 11 DMG, now 5 HP, is grappled by CRAB2
 [[Rylynne × Zara]] takes 14 DMG, now at 9 HP
+
+
+
+Next: [[Session Five B]]
+Previous: [[Session Three B]]
+Index: [[index.Mixed]] or [[Mittwoch/Sessions/Group A/index.Group A|index.Group B]]
+Start: [[Session One]] or [[Session Three B]]
