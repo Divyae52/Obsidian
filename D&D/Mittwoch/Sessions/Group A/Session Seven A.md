@@ -9,7 +9,7 @@ Locations (And Turn Order):
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] - 52 (Gears)
 [[Nicole x Hiro (He/They)]] - 63 (On top of [[Madison × Zephyr (They Them)]])
 
-![[Session Five - Six Dungeon.png]]
+![[Session Five - 6+1 Dungeon.png]]
 
 green on map is pit > gears far below, 8 ft
 black is moving wall

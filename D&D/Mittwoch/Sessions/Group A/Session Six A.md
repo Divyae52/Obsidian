@@ -8,7 +8,7 @@ Order:
 [[Afifa × Sapphire]]
 [[Edward × MerdhsaewndÎr (Merdh) (He ~ It)]] *(still playing wonderwall)*
 
-![[Session Five - Six Dungeon.png]]
+![[Session Five - 6+1 Dungeon.png]]
 
 green on map is pit > gears far below ([[Madison × Zephyr (They Them)]] sees), 8 ft
 black is moving wall
