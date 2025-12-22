@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mittwoch/Sessions/Mixed/Session One.md",
+                "file": "Mittwoch/Characters/Alive PCs/Group B/Breanna × Spade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session One"
+              "title": "Breanna × Spade"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mittwoch/Sessions/Mixed/Session One.md",
+                "file": "Mittwoch/Characters/Alive PCs/Group B/Breanna × Spade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session One"
+              "title": "Backlinks for Breanna × Spade"
             }
           },
           {
@@ -183,8 +183,8 @@
   },
   "active": "96942854a268de97",
   "lastOpenFiles": [
-    "Mittwoch/Sessions/Mixed/Session Two.md",
     "Mittwoch/Sessions/Mixed/Session One.md",
+    "Mittwoch/Sessions/Mixed/Session Two.md",
     "Mittwoch/Sessions/Non Canon/Non-Canon Session One.md",
     "Mittwoch/Sessions/Non Canon/index.Non Canon.md",
     "Mittwoch/Sessions/Group B/Session Six B.md",

@@ -6,7 +6,7 @@ We start on an unmanned boat, magically pushed off the boat once we reach the sh
 Short old [[Short Wispy Dwarf Lady]] w/ cane, [[Tall Buff Goliath]] w/ [[plate-armor|Plate Armor]] comes
 [[Short Wispy Dwarf Lady]] has wispy beard ([[dwarf|Dwarf]]) looks at all of us
 [[Short Wispy Dwarf Lady]] says "Welcome criminals, I don't know what you guys did but you're here with us now. Welcome to [[Port of Olum Cee]]."
-"I don't care what you do, but to stay with us, you must prove yourselves."
+			"I don't care what you do, but to stay with us, you must prove yourselves."
 [[Tall Buff Goliath]] throws a heavy backpack in center of us.
 [[Short Wispy Dwarf Lady]]: "Before you stay, you've gotta prove yourself, as we only take in survivors and people who will help us."
 "Here is our welcome gift to you guys, don't come back till your useful. Any questions?"
