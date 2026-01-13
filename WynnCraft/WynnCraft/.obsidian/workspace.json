@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "73b191e5d0e6d116",
+    "type": "split",
+    "children": [
+      {
+        "id": "2901aa6863b2c593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07e9bebae24b3202",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "22f7004cf205d00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "map"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d501515bf86e49d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd1ca0ba2d320d3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b4c9f58d6a83e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d48fe179cb86b6a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b1bc95fe9d17728",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91b2e1b487b42dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9bc3aaa053f4d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "288deb8acffd4bc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quests/King's Recruit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for King's Recruit"
+            }
+          },
+          {
+            "id": "86257c66b2e280da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quests/King's Recruit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from King's Recruit"
+            }
+          },
+          {
+            "id": "d394c9f038d861d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c790adf203273d40",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fcacc241c59fce16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quests/King's Recruit.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of King's Recruit"
+            }
+          },
+          {
+            "id": "253acd62ca9c1a32",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "22f7004cf205d00f",
+  "lastOpenFiles": [
+    "Weapons/Level 1-10/Reliks/Oak Wood Relik.md",
+    "Note.md",
+    "map.md",
+    "Wynncraft most recent map.png",
+    "Wynncraft most recent map.png.crdownload",
+    "Quests/King's Recruit.md",
+    "Weapons/Level 1-10/Bows/Oak Wood Bow.md",
+    "Weapons/Level 1-10/Reliks",
+    "Weapons/Level 1-10/Daggers/Oak Wood Dagger.md",
+    "Weapons/Level 1-10/Bows",
+    "Weapons/Level 1-10/Wands/Oak Wood Wand.md",
+    "Weapons/Level 1-10/Daggers",
+    "Weapons/Level 1-10/Spears/Oak Wood Spear.md",
+    "Weapons/Level 1-10/Wands",
+    "Weapons/Template Weapon (Spear).md",
+    "Weapons/Level 1-10",
+    "Weapons",
+    "Weapons/Level 1-10/Spears",
+    "Items/Loot Chests",
+    "Enemies",
+    "Ragni Outskirts.md"
+  ]
+}
