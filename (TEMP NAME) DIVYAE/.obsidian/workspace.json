@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "Deities"
             }
-          },
-          {
-            "id": "d52e150dfc356ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Worldbuilding/Locations/Continent A/Country A/Sattins Island/Sattins Island.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sattins Island"
-            }
-          },
-          {
-            "id": "59605b1e9e306c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Worldbuilding/Deities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deities"
-            }
-          },
-          {
-            "id": "41a6c83cbb8ebd78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Worldbuilding/Stories of True Names.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stories of True Names"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,29 +185,30 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "59605b1e9e306c1b",
+  "active": "59c9aa50b8df2b52",
   "lastOpenFiles": [
+    "World/Worldbuilding/True Name.md",
+    "World/Worldbuilding/Stories of True Names.md",
+    "World/Worldbuilding/Naming.md",
     "World/Worldbuilding/Locations/Continent B/Emit/Emit.md",
-    "World/Worldbuilding/Classes.md",
+    "World/Worldbuilding/Locations/Continent B/Emit/Time Valley.md",
     "World/Worldbuilding/Locations/Continent A/Country A/Sattins Island/Sattins Island.md",
+    "World/Worldbuilding/Deities.md",
+    "World/Worldbuilding/Classes.md",
     "World/Worldbuilding/Locations/Continent B",
-    "Country B",
+    "World/Worldbuilding/Locations/Continent A/Country B",
     "World/Worldbuilding/Locations/Continent A/Country A/Mainland",
     "World/Worldbuilding/Locations/Continent B/Emit",
     "World/Worldbuilding/Locations/Continent A/Country A/Sattins Island",
-    "World/Worldbuilding/Stories of True Names.md",
-    "World/Worldbuilding/Deities.md",
     "DND Markdown/compendium/deities/celtic-arawn.md",
     "DND Markdown/compendium/deities/celtic-dunatis.md",
     "DND Markdown/compendium/deities/celtic-manannan-mac-lir.md",
     "DND Markdown/compendium/deities/greek-hecate.md",
-    "World/Worldbuilding/Naming.md",
     "New Text Document.txt",
     "World/Worldbuilding/Locations/Continent A",
     "World/Worldbuilding/Locations/Country/Continent.md",
     "World/Worldbuilding/Locations/Continent A/Country A",
     "World/Worldbuilding/Locations",
-    "World/Worldbuilding/True Name.md",
     "DND Markdown/compendium/deities/original deities.md",
     "DND Markdown/tools/xentis-dnd-beyond-character-sheets-json-puller.md",
     "Untitled.base",

@@ -7,4 +7,4 @@ At a time long ago, no true names were known. When humans began to connect with 
 
 The deity refused to give their true name when asked.
 
-Before this quote, people would use their true name as their name in everyday conversation. However, not too long after hearing this, they found out they could use others names as sources of power. Multiple people rose to power, making people slaves, and many died. (See [[Stories of True Names]]for more information on how names can be used) 80% of the population died, 
+Before this quote, people would use their true name as their name in everyday conversation. However, not too long after hearing this, they found out they could use others names as sources of power. Multiple people rose to power, making people slaves, and many died. (See [[Stories of True Names]] for more information on how names can be used) 80% of the population died, 
