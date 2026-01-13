@@ -7,4 +7,8 @@ One day, a lone handsome stranger from the distant Archipelago arrives on the is
 
 Birt and Blackbeard arrive at Underhill's home. There, Blackbeard confronts Underhill, culminating in a battle in which the two magicians shapeshift into different animals and natural forces. After Underhill transforms into a massive dragon, Blackbeard reveals that he knows Underhill's true name, Yevaud, and that speaking the name will lock Underhill into his true form. This proves effective, but not as Blackbeard expected; Underhill explains that he is in fact the dragon who stole the treasure of Blackbeard's ancestors, and so his true form is indeed that of a dragon. Blackbeard, caught out, is swiftly dispatched by Yevaud, before he can use his true name once more. Meanwhile, Birt flees the island, taking his love Palani with him. As he does so, Yevaud, embracing his predatory dragon nature, prepares to devour the villagers of Sattins Island.
 
-## Story
+*Source: Birt, as associated with "The Rule of Names", as associated with "The Wizard of Earthsea".* 
+	While The Wizard of Earthsea is at minimum partly fiction, Birt does appear to have been a real person. While it is unknown the truthfulness in his story, or if he even originated of Sattins Island, the Island did appear to have been ravaged by a dragon.
+
+## Story 2
+

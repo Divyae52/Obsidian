@@ -1,0 +1,1 @@
+Emit is an unoccupied territory, on in 
